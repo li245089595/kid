@@ -18,7 +18,9 @@
     }
   ],
   "sites": [
-        {
+       
+	  {"key":"csp_xBPQ酷奇MV","name":"酷奇MV〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/酷奇MV.json"},
+	  {
 			"key": "api_百度采集",
 			"name": "🍝┃百度┃采集",
 			"type": 1,
