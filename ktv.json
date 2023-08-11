@@ -20,7 +20,8 @@
   "sites": [
        
 	  {"key":"酷奇MV","name":"🌈┃酷奇┃MV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/酷奇MV.json"},
-	   {
+	   {"key": "演唱会","name": "演唱会","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E6%BC%94%E5%94%B1%E4%BC%9A.json"},
+	  {
       "key": "MV_vod",
       "name": "🎹┃MTV┃合集",
       "type": 1,
