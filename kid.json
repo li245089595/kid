@@ -23,7 +23,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "http://111.67.196.181/xpath/酷奇视频.json"
-    },
+        },
 	{
       "key": "MV_vod",
       "name": "🌈┃MTV┃合集",
@@ -32,7 +32,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
+          },
 	  {
 			"key": "api_新浪采集",
 			"name": "🌈┃新浪┃采集",
