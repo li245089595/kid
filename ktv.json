@@ -14,17 +14,9 @@
     }
   ],
   "sites": [
-
-	  {
-      "key": "酷奇MV",
-      "name": "🌈┃酷奇┃MV",
-      "type": 1,
-      "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": ""
-    },
+           
+	   {"key":"MV_vod","name":"🎸明星MV","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"酷奇MV","name":"🎤酷奇MV","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":{"主页url":"https://www.kuqimv.com","直接播放":"1","短视频":"1","分类":"华语高清$1#日韩精选$2#欧美MV$3#高清现场$4#影视MV$5#夜店视频$6#车模视频$7#热舞视频$8#美女写真$9#美女打碟$10","分类url":"https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z","数组":"<li>&&</li>","标题":"title=\"&&\"","副标题":"target=\"play\">&&<","搜索模式":"1","搜索url":"https://www.kuqimv.com/search.php?key={wd}"}},
 	  {
       "key": "MV_vod",
       "name": "🌈┃明星┃MV",
