@@ -14,9 +14,28 @@
     }
   ],
   "sites": [
-        {
+         {
+      "key": "酷奇MV",
+      "name": "🌈┃酷奇┃MV",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://111.67.196.181/xpath/酷奇视频.json"
+    },
+	{
+      "key": "MV_vod",
+      "name": "🌈┃MTV┃合集",
+      "type": 1,
+      "api": "https://mv.wogg.link/mv/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	  {
 			"key": "api_新浪采集",
-			"name": "🍝┃新浪┃采集",
+			"name": "🌈┃新浪┃采集",
 			"type": 1,
 			"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
 			"playUrl": "",
@@ -48,7 +67,7 @@
 		},
 		{
 			"key": "api_光速采集",
-			"name": "🍝┃光速┃采集",
+			"name": "🌈┃光速┃采集",
 			"type": 1,
 			"api": "https://api.guangsuapi.com/api.php/provide/vod/",
 			"playUrl": "",
@@ -81,7 +100,7 @@
 		},
 		{
 			"key": "api_虎牙采集",
-			"name": "🍝┃虎牙┃采集",
+			"name": "🌈┃虎牙┃采集",
 			"type": 1,
 			"api": "https://www.huyaapi.com/api.php/provide/vod/",
 			"playUrl": "",
@@ -115,7 +134,7 @@
 		},
 		{
 			"key": "api_金鹰采集",
-			"name": "🍝┃金鹰┃采集",
+			"name": "🌈┃金鹰┃采集",
 			"type": 1,
 			"api": "https://jyzyapi.com/provide/vod/",
 			"playUrl": "",
@@ -150,7 +169,7 @@
 		},
 		{
 			"key": "api_红牛采集",
-			"name": "🍝┃红牛┃采集",
+			"name": "🌈┃红牛┃采集",
 			"type": 1,
 			"api": "https://www.hongniuzy2.com/api.php/provide/vod/",
 			"playUrl": "",
@@ -179,7 +198,7 @@
 		},
 		{
 			"key": "api_量子采集",
-			"name": "🍝┃量子┃采集",
+			"name": "🌈┃量子┃采集",
 			"type": 1,
 			"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
 			"playUrl": "json:http://bfq.fuqizhishi.com:99/cjlzff.php?url=",
@@ -216,7 +235,7 @@
 		},
 		{
 			"key": "api_非凡采集",
-			"name": "🍝┃非凡┃采集",
+			"name": "🌈┃非凡┃采集",
 			"type": 1,
 			"api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
 			"playUrl": "json:http://bfq.fuqizhishi.com:99/cjlzff.php?url=",
@@ -256,7 +275,7 @@
 		},
 		{
 			"key": "api_飞速采集",
-			"name": "🍝┃飞速┃采集",
+			"name": "🌈┃飞速┃采集",
 			"type": 1,
 			"api": "https://www.feisuzyapi.com/api.php/provide/vod/",
 			"playUrl": "",
