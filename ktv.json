@@ -15,10 +15,10 @@
   ],
   "sites": [
         {
-			"key": "api_快车采集",
-			"name": "🍝┃快车┃采集",
+			"key": "api_百度采集",
+			"name": "🍝┃百度┃采集",
 			"type": 1,
-			"api": "https://caiji.kczyapi.com/api.php/provide/vod/?ac=list",
+			"api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
 			"playUrl": "",
 			"playerType": 1,
 			"searchable": 1,
