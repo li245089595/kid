@@ -20,6 +20,15 @@
   "sites": [
        
 	  {"key":"酷奇MV","name":"🌈┃酷奇┃MV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/酷奇MV.json"},
+	   {
+      "key": "MV_vod",
+      "name": "🎹┃MTV┃合集",
+      "type": 1,
+      "api": "https://mv.wogg.link/mv/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 	  {
 			"key": "api_百度采集",
 			"name": "🌈┃百度┃采集",
