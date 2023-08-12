@@ -1,64 +1,58 @@
 {"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302","lives":[{"group":"redirect","channels":[{"name":"live","urls":
 
-["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo5OC9obHd0dg=="]}]}],"sites":[{"key":"csp_Bili","name":"🌈哔哩┃合
+["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo5OC9obHd0dg=="]}]}],"sites":[{"key":"MV_vod","name":"??明星┃MV
 
-集","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"http://饭太
+","type":1,"api":"https://mv.wogg.link/mv/vod","style":{"type":"oval"},"searchable":1,"quickSearch":0,"changeable":0},{"key":"酷奇js","name":"??酷奇┃MV
 
-硬.top/tv/bilibili.json"},{"key":"csp_Biliych","name":"🌈哔哩┃MV","type":3,"api":"csp_Bili","style":
+","type":3,"api":"http://xhww.fun:63/js/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/酷奇MV.js","style":
 
-{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"http://饭太硬.top/tv/biliych.json"},{"key":"MV_vod","name":"🌈明星
+{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0},{"key":"api_新浪采集","name":"??┃新浪┃采集
 
-┃MV","type":1,"api":"https://mv.wogg.link/mv/vod","style":{"type":"oval"},"searchable":1,"quickSearch":0,"changeable":0},{"key":"酷奇js","name":"🌈酷奇
-
-┃MV","type":3,"api":"http://xhww.fun:63/js/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/酷奇MV.js","style":
-
-{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0},{"key":"api_新浪采集","name":"🌈┃新浪┃采
-
-集","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"catego
+","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"catego
 
 ries":["大陆剧","港澳剧","台湾剧","欧美剧","日剧","韩剧","泰剧","纪录片","动作片","喜剧片","爱情片","科幻片","恐怖片","伦理片","剧情片","战争片","动漫","综艺
 
-","体育"]},{"key":"api_光速采集","name":"🌈┃光速┃采
+","体育"]},{"key":"api_光速采集","name":"??┃光速┃采集
 
-集","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl":"","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"categories":
+","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl":"","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"categories":
 
 ["大陆剧","港澳剧","台湾剧","欧美剧","日剧","韩剧","泰剧","记录片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","伦理片","动漫电影","综
 
-艺","动漫","体育赛事"]},{"key":"api_虎牙采集","name":"🌈┃虎牙┃采
+艺","动漫","体育赛事"]},{"key":"api_虎牙采集","name":"??┃虎牙┃采集
 
-集","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/","playUrl":"","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"categories":["内
+","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/","playUrl":"","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"categories":["内
 
 地剧","香港剧","台湾剧","欧美剧","日剧","韩剧","马泰剧","记录片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","伦理片","中国动漫","日本动漫
 
-","欧美动漫","综艺","体育赛事"]},{"key":"api_金鹰采集","name":"🌈┃金鹰┃采
+","欧美动漫","综艺","体育赛事"]},{"key":"api_金鹰采集","name":"??┃金鹰┃采集
 
-集","type":1,"api":"https://jyzyapi.com/provide/vod/","playUrl":"","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"categories":["内地剧","香港
+","type":1,"api":"https://jyzyapi.com/provide/vod/","playUrl":"","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"categories":["内地剧","香港
 
 剧","台湾剧","欧美剧","日剧","韩剧","马泰剧","记录片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","伦理片","动画片","中国动漫","日本动
 
-漫","欧美动漫","综艺","体育赛事"]},{"key":"api_红牛采集","name":"🌈┃红牛┃采
+漫","欧美动漫","综艺","体育赛事"]},{"key":"api_红牛采集","name":"??┃红牛┃采集
 
-集","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","playUrl":"","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"categories":
+","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","playUrl":"","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"categories":
 
-["国产剧","港澳剧","欧美剧","台湾剧","日剧","韩剧","泰剧","纪录片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","伦理片","战争片"]},{"key":"api_量子
+["国产剧","港澳剧","欧美剧","台湾剧","日剧","韩剧","泰剧","纪录片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","伦理片","战争片"]},{"key":"api_量子采集
 
-采集","name":"🌈┃量子┃采集","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?
+","name":"??┃量子┃采集","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?
 
 ac=list","playUrl":"json:http://bfq.fuqizhishi.com:99/cjlzff.php?url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","
 
 香港剧","台湾剧","欧美剧","日本剧","韩国剧","泰国剧","海外剧","记录片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","伦理片","大陆综艺","港
 
-台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫"]},{"key":"api_非凡采集","name":"🌈┃非凡┃采
+台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫"]},{"key":"api_非凡采集","name":"??┃非凡┃采集
 
-集","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/","playUrl":"json:http://bfq.fuqizhishi.com:99/cjlzff.php?
+","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/","playUrl":"json:http://bfq.fuqizhishi.com:99/cjlzff.php?
 
 url=","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","香港剧","台湾剧","欧美剧","日本剧","韩国剧","泰国剧","海外剧","记
 
 录片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","伦理片","动漫片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","港台动漫","日
 
-韩动漫","欧美动漫","海外动漫"]},{"key":"api_飞速采集","name":"🌈┃飞速┃采
+韩动漫","欧美动漫","海外动漫"]},{"key":"api_飞速采集","name":"??┃飞速┃采集
 
-集","type":1,"api":"https://www.feisuzyapi.com/api.php/provide/vod/","playUrl":"","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"categories":
+","type":1,"api":"https://www.feisuzyapi.com/api.php/provide/vod/","playUrl":"","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"categories":
 
 ["国产剧","香港剧","台湾剧","欧美剧","日本剧","韩国剧","泰国剧","其他剧","纪录片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","伦理片","战争片","大
 
