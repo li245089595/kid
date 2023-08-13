@@ -14,7 +14,47 @@
     }
   ],
   "sites": [
-        {
+           {
+      "key": "csp_Bili",
+      "name": "🅱哔哔┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://饭太硬.top/tv/bilibili.json"
+    },
+    {
+      "key": "csp_Biliych",
+      "name": "🅱哔哔┃演唱会",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://饭太硬.top/tv/biliych.json"
+    },
+    {
+      "key": "MV_vod",
+      "name": "🎸明星┃MV",
+      "type": 1,
+      "api": "https://mv.wogg.link/mv/vod",
+      "style": {
+        "type": "oval"
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
+    },   
+	  { 
 			"key": "api_新浪采集",
 			"name": "🍝┃新浪┃采集",
 			"type": 1,
