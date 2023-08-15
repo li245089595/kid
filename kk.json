@@ -360,10 +360,10 @@
 			]
 		},
 		{
-			"key": "api_樱花采集",
-			"name": "??┃樱花┃采集",
+			"key": "api_百度采集",
+			"name": "??┃百度┃采集",
 			"type": 1,
-			"api": "https://www.jipo.tv/api.php/provide/vod",
+			"api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
 			"playUrl": "",
 			"playerType": 1,
 			"searchable": 1,
