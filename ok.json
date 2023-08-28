@@ -36,19 +36,7 @@
       "filterable": 1
     },
    
-   {"key":"哔哩哔哩","name":"🅱️哔哩大全","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/Bili.json"},
-{"key":"相声小品","name":"🏮相声小品","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/Blixs.json"},
-{"key": "戏 曲" ,"name": "🎈国粹戏曲","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/Blixq.json"},
-
-{"key":"演唱会","name":"🎸演唱会","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/yanchanghui.txt"},
-{"key":"csp_XBPQ_短视频","name":"☘️短视频","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":"./sub/duanshipin.json"},
-{"key":"88看球","name":"⚽88看球","type":3,"api":"./js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./js/88kanqiu.js"},
-{"key":"JRKAN直播","name":"⚽JRKAN直播","type":3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./sub/jrkan.json"},
-{"key":"虎牙直播","name":"🐯虎牙直播","type":3,"api":"./js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./js/huyazhibo.js"},
-{"key":"斗鱼直播","name":"🐟斗鱼直播","type":3,"api":"./js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./js/douyu.js"},{"key":"csp_Yj1211","name":"📽️在线直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"哔哩直播","name":"🅱️哔哩直播","type":3,"api":"./js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./js/blzb.js"},
-{ "key": "MV_vod", "name": "🎸明星┃MV", "type": 1, "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{"key":"csp_xpath_kuqimv","name":"🎤酷奇MV","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/kuqimv.json"},
+   
    
     {
 			"key": "api_新浪采集",
