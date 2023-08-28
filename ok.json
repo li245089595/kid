@@ -14,6 +14,42 @@
     }
   ],
   "sites": [
+       
+        {
+      "key": "js_B站精简",
+      "name": "???┃哔哩┃合集",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/xduo/json/raw/master/B站精简.js"
+    },
+    
+    {
+      "key": "MV_vod",
+      "name": "??┃MTV┃合集",
+      "type": 1,
+      "api": "https://mv.wogg.link/mv/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   
+   
+    
+    {
+      "key": "js_baby",
+      "name": "??┃宝宝┃合集",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/baby.js"
+    
+    },               
+       
         {
 			"key": "api_新浪采集",
 			"name": "🍝┃新浪┃采集",
@@ -282,54 +318,11 @@
 				"日本动漫",
 				"欧美动漫"
 			]
-		},          
- {"key":"Bili","name":"??┃哔哩┃演唱会(SP)","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "http://饭.eu.org/x/json/biliych.json"},
-{"key":"MV_vod","name":"??┃明星┃MTV(CJ)","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"quickSearch":0,"changeable":0},
- {
-      "key": "csp_Bili",
-      "name": "???┃哔哩┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "jar": "https://jihulab.com/duomv/duox/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
-      "ext": "https://bitbucket.org/xduo/json/raw/master/bili.json"
-    },
-    {
-      "key": "js_B站精简",
-      "name": "???┃哔哩┃精简",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/B站精简.js"
-    },
-    
-    {
-      "key": "MV_vod",
-      "name": "??┃MTV┃合集",
-      "type": 1,
-      "api": "https://mv.wogg.link/mv/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+		}        
+ 
+
    
-   
-    
-    {
-      "key": "js_baby",
-      "name": "??┃宝宝┃合集",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/baby.js"
-    
-		}                
+
   ],
 
 "parses":[
