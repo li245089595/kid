@@ -28,8 +28,8 @@
       "api": "csp_XPath",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/kuqimv.json"
+      "filterable": 1,
+      "ext": "http://home.jundie.top:81/TVBox/MaooXB/mtv.json"
     },
     {
       "key": "MV_vod",
