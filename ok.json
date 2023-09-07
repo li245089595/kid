@@ -3,7 +3,7 @@
     
    {
       "key": "csp_Bili",
-      "name": "🔷哔哩┃合集",
+      "name": "💠哔哩┃合集",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -13,7 +13,7 @@
     },
     {
       "key": "csp_Biliych",
-      "name": "🔷哔哩┃MTV",
+      "name": "💠哔哩┃MTV",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -21,10 +21,10 @@
       "filterable": 1,
       "ext": "https://agit.ai/kankan314/cattv/raw/branch/master/biliych.json"
     },
-    {"key":"酷奇┃MV","name":"🔷酷奇┃MTV","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":{"主页url":"https://www.kuqimv.com","直接播放":"1","短视频":"1","分类":"华语高清$1#日韩精选$2#欧美MV$3#高清现场$4#影视MV$5#夜店视频$6#车模视频$7#热舞视频$8#美女写真$9#美女打碟$10","分类url":"https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z","数组":"<li>&&</li>","标题":"title=\"&&\"","副标题":"target=\"play\">&&<","搜索模式":"1","搜索url":"https://www.kuqimv.com/search.php?key={wd}"}},
+    {"key":"酷奇┃MV","name":"💠酷奇┃MTV","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0，"filterable":1,"ext":{"主页url":"https://www.kuqimv.com","直接播放":"1","短视频":"1","分类":"华语高清$1#日韩精选$2#欧美MV$3#高清现场$4#影视MV$5#夜店视频$6#车模视频$7#热舞视频$8#美女写真$9#美女打碟$10","分类url":"https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z","数组":"<li>&&</li>","标题":"title=\"&&\"","副标题":"target=\"play\">&&<","搜索模式":"1","搜索url":"https://www.kuqimv.com/search.php?key={wd}"}},
     {
       "key": "MV_vod",
-      "name": "🔷明星┃MTV",
+      "name": "💠明星┃MTV",
       "type": 1,
       "api": "https://mv.wogg.link/mv/vod",
       "searchable": 1,
@@ -34,7 +34,7 @@
     
     {
       "key": "相声小品",
-      "name": "🔷相声┃小品",
+      "name": "💠相声┃小品",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -44,7 +44,7 @@
     },
     {
       "key": "戏 曲",
-      "name": "🔷老年┃戏曲",
+      "name": "💠老年┃戏曲",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -54,7 +54,7 @@
     },
     {
       "key": "美食",
-      "name": "🔷美食┃烹饪",
+      "name": "💠美食┃烹饪",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -64,7 +64,7 @@
     },
     {
       "key": "球类",
-      "name": "🔷体育┃球类",
+      "name": "💠体育┃球类",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -74,7 +74,7 @@
     },
     {
       "key": "幼儿乐园",
-      "name": "🔷儿童┃乐园",
+      "name": "💠儿童┃乐园",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -84,7 +84,7 @@
     },
     {
       "key": "少儿教育",
-      "name": "🔷少儿┃教育",
+      "name": "💠少儿┃教育",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -94,7 +94,7 @@
     },
     {
       "key": "小学课堂",
-      "name": "🔷小学┃学习",
+      "name": "💠小学┃学习",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -104,7 +104,7 @@
     },
     {
       "key": "初中课堂",
-      "name": "🔷初中┃学习",
+      "name": "💠初中┃学习",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -114,7 +114,7 @@
     },
     {
       "key": "高中教育",
-      "name": "🔷高中┃学习",
+      "name": "💠高中┃学习",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -124,7 +124,7 @@
     },
     {
       "key": "软件",
-      "name": "🔷软件┃教程",
+      "name": "💠软件┃教程",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
