@@ -6,8 +6,8 @@
       "name": "KiD电视",
       "type": 0,
       "url": "https://raw.kgithub.com/li245089595/ditv/main/tv.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
+      "logo": "http://epg.51zmt.top:8000/{logo}"
     }
     ],
   "sites": [
