@@ -40,16 +40,6 @@
       "ext": "https://agit.ai/kankan314/cattv/raw/branch/master/Blixs.json"
     },
     {
-      "key": "美食",
-      "name": "💠美食┃烹饪",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://agit.ai/kankan314/TVboxo3/raw/branch/main/Bili/美食合集.json"
-    },
-    {
       "key": "戏 曲",
       "name": "💠老年┃戏曲",
       "type": 3,
@@ -60,8 +50,18 @@
       "ext": "https://agit.ai/kankan314/cattv/raw/branch/master/Blixq.json"
     },
     {
+      "key": "美食",
+      "name": "💠美食┃烹饪",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/kankan314/TVboxo3/raw/branch/main/Bili/美食合集.json"
+    },
+    {
       "key": "csp_Yj1211",
-      "name": "📽️直播合集",
+      "name": "💠主播┃平台",
       "type": 3,
       "api": "csp_Yj1211",
       "searchable": 1,
