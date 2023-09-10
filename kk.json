@@ -174,7 +174,7 @@
     },
     {
 			"key": "api_量子采集",
-			"name": "??┃量子┃采集",
+			"name": "💠┃量子┃采集",
 			"type": 0,
 			"api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
 			"searchable":1,
@@ -207,7 +207,7 @@
 		},
 		{
 			"key": "api_非凡采集",
-			"name": "??┃非凡┃采集",
+			"name": "💠┃非凡┃采集",
 			"type": 0,
 			"api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
 			"searchable":1,
@@ -243,7 +243,7 @@
 		},
 	   {
 			"key": "api_暴风采集",
-			"name": "??┃暴风┃采集",
+			"name": "💠┃暴风┃采集",
 			"type":0 ,
 			"api": "https://bfzyapi.com/api.php/provide/vod/at/xml/",
 			"searchable":1,
