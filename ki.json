@@ -123,7 +123,7 @@
 			"key": "api_红牛采集",
 			"name": "??┃红牛┃采集",
 			"type": 0,
-			"api": "https://www.hongniuzy2.com/api.php/provide/vod/at/xml/",
+			"api": "https://www.hongniuzy2.com/api.php/provide/vod/",
 			"searchable":1,
             "changeable":1,
 			"categories": [
