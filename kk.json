@@ -2,7 +2,7 @@
 
 "wallpaper":"https://jianbian.chuqiuyu.tk/",
 
-"lives":[{"name":"live","type":0,"url":"aHR0cHM6Ly9yYXcua2dpdGh1Yi5jb20vbGkyNDUwODk1OTUvZGl0di9tYWluL3R2LnR4dA==","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+"lives":[{"name":"live","type":0,"url":"https://raw.kgithub.com/li245089595/ditv/main/tv.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
     
       "sites": [
     {
