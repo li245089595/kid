@@ -798,7 +798,643 @@ TVBS亞洲台,http://sc2022.stream-link.org/tv2306.php?id=t16
 三立都會,http://sc2022.stream-link.org/tv2306.php?id=t24
 天才衝衝衝,http://sc2022.stream-link.org/tv2306.php?id=t25
 東森yoyo,http://sc2022.stream-link.org/tv2306.php?id=t26
-
+IN: STAR MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/979.ts
+IN: STAR MOVIES SELECT HD,http://humiptv.live:8080/live/5675678/5675678/218.ts
+IN: SONY PIX HD,http://humiptv.live:8080/live/5675678/5675678/147.ts
+IN: MN PLUS,http://humiptv.live:8080/live/5675678/5675678/178.ts
+IN: MNX HD,http://humiptv.live:8080/live/5675678/5675678/191.ts
+IN: & PRIVE HD,http://humiptv.live:8080/live/5675678/5675678/201.ts
+IN: & FLIX HD,http://humiptv.live:8080/live/5675678/5675678/253.ts
+IN: HBO 2 HD,http://humiptv.live:8080/live/5675678/5675678/185.ts
+IN: COLORS INFINITY HD,http://humiptv.live:8080/live/5675678/5675678/187.ts
+IN: ZEECAFE HD,http://humiptv.live:8080/live/5675678/5675678/196.ts
+IN: FYI TV18 HD,http://humiptv.live:8080/live/5675678/5675678/152.ts
+IN: FOX LIFE,http://humiptv.live:8080/live/5675678/5675678/2115.ts
+IN: & PRIVE (FHD),http://humiptv.live:8080/live/5675678/5675678/9379.ts
+IN: SONY PIX (FHD),http://humiptv.live:8080/live/5675678/5675678/9381.ts
+IN: MN+ (FHD),http://humiptv.live:8080/live/5675678/5675678/9383.ts
+IN: STAR MOVIES (FHD),http://humiptv.live:8080/live/5675678/5675678/9384.ts
+IN: FOX Life (FHD),http://humiptv.live:8080/live/5675678/5675678/9387.ts
+IN: TLC (FHD),http://humiptv.live:8080/live/5675678/5675678/9388.ts
+IN: ZEE Cafe (FHD),http://humiptv.live:8080/live/5675678/5675678/9389.ts
+IN: Colors INFINITY (FHD),http://humiptv.live:8080/live/5675678/5675678/9390.ts
+IN: STAR MOVIES SELECT (FHD),http://humiptv.live:8080/live/5675678/5675678/23270.ts
+IN: MNX (FHD),http://humiptv.live:8080/live/5675678/5675678/23428.ts
+IN: ROMEDY NOW HD,http://humiptv.live:8080/live/5675678/5675678/179.ts
+IN: COMEDY-CENTRAL (FHD),http://humiptv.live:8080/live/5675678/5675678/23429.ts
+IN: COMEDY CENTRAL HD,http://humiptv.live:8080/live/5675678/5675678/186.ts
+IN: Cinema World HD,http://humiptv.live:8080/live/5675678/5675678/152369.ts
+IN: Rock Entertainment HD,http://humiptv.live:8080/live/5675678/5675678/152370.ts
+IN: CINEMAX HD,http://humiptv.live:8080/live/5675678/5675678/152371.ts
+IN: HBO Hits HD,http://humiptv.live:8080/live/5675678/5675678/152372.ts
+IN: HBO HD,http://humiptv.live:8080/live/5675678/5675678/152373.ts
+IN: Movies Now (FHD),http://humiptv.live:8080/live/5675678/5675678/152387.ts
+IN: Movies Now SD,http://humiptv.live:8080/live/5675678/5675678/152388.ts
+ENGLISH Movies 24/7
+ENGLISH-MOVIES 1 HD,http://humiptv.live:8080/live/5675678/5675678/135784.ts
+ENGLISH-MOVIES 2 HD,http://humiptv.live:8080/live/5675678/5675678/135785.ts
+ENGLISH-MOVIES 3 HD,http://humiptv.live:8080/live/5675678/5675678/135786.ts
+ENGLISH-MOVIES 4 HD,http://humiptv.live:8080/live/5675678/5675678/135787.ts
+ENGLISH-MOVIES 5 HD,http://humiptv.live:8080/live/5675678/5675678/135788.ts
+ENGLISH-MOVIES 6 HD,http://humiptv.live:8080/live/5675678/5675678/135789.ts
+ENGLISH-MOVIES 7 HD,http://humiptv.live:8080/live/5675678/5675678/135790.ts
+ENGLISH-MOVIES 8 HD,http://humiptv.live:8080/live/5675678/5675678/135791.ts
+ENGLISH-MOVIES 9 HD,http://humiptv.live:8080/live/5675678/5675678/135792.ts
+ENGLISH-MOVIES 10 HD,http://humiptv.live:8080/live/5675678/5675678/135793.ts
+ENGLISH-MOVIES 11 HD,http://humiptv.live:8080/live/5675678/5675678/135794.ts
+ENGLISH-MOVIES 12 HD,http://humiptv.live:8080/live/5675678/5675678/135795.ts
+ENGLISH-MOVIES 13 HD,http://humiptv.live:8080/live/5675678/5675678/135796.ts
+ENGLISH-MOVIES 14 HD,http://humiptv.live:8080/live/5675678/5675678/135797.ts
+ENGLISH-MOVIES 15 HD,http://humiptv.live:8080/live/5675678/5675678/135798.ts
+ENGLISH-MOVIES 16 HD,http://humiptv.live:8080/live/5675678/5675678/135799.ts
+ENGLISH-MOVIES 17 HD,http://humiptv.live:8080/live/5675678/5675678/135800.ts
+ENGLISH-MOVIES 18 HD,http://humiptv.live:8080/live/5675678/5675678/135801.ts
+ENGLISH-MOVIES 19 HD,http://humiptv.live:8080/live/5675678/5675678/135802.ts
+ENGLISH-MOVIES 20 HD,http://humiptv.live:8080/live/5675678/5675678/135803.ts
+ENGLISH-HOLLYWOOD MOVIES HD 21,http://humiptv.live:8080/live/5675678/5675678/135804.ts
+ENGLISH-MOVIES 22 HD,http://humiptv.live:8080/live/5675678/5675678/135805.ts
+ENGLISH-MOVIES 23 HD,http://humiptv.live:8080/live/5675678/5675678/135806.ts
+ENGLISH-MOVIES 24 HD,http://humiptv.live:8080/live/5675678/5675678/135807.ts
+ENGLISH-MOVIES 25 HD,http://humiptv.live:8080/live/5675678/5675678/135808.ts
+ENGLISH-MOVIES 26 HD,http://humiptv.live:8080/live/5675678/5675678/135809.ts
+ENGLISH-MOVIES 27 HD,http://humiptv.live:8080/live/5675678/5675678/135810.ts
+ENGLISH-HOLLYWOOD MOVIES HD 28,http://humiptv.live:8080/live/5675678/5675678/135811.ts
+ENGLISH-MOVIES 29 HD,http://humiptv.live:8080/live/5675678/5675678/135812.ts
+ENGLISH-MOVIES 30 HD,http://humiptv.live:8080/live/5675678/5675678/135813.ts
+ENGLISH-HOLLYWOOD MOVIES HD 31,http://humiptv.live:8080/live/5675678/5675678/135814.ts
+ENGLISH-HOLLYWOOD MOVIES HD 32,http://humiptv.live:8080/live/5675678/5675678/135815.ts
+ENGLISH-HOLLYWOOD MOVIES HD 33,http://humiptv.live:8080/live/5675678/5675678/135816.ts
+ENGLISH-HOLLYWOOD MOVIES HD 34,http://humiptv.live:8080/live/5675678/5675678/135817.ts
+ENGLISH-HOLLYWOOD MOVIES HD 35,http://humiptv.live:8080/live/5675678/5675678/135818.ts
+ENGLISH-HOLLYWOOD MOVIES HD 36,http://humiptv.live:8080/live/5675678/5675678/135819.ts
+ENGLISH-HOLLYWOOD MOVIES HD 37,http://humiptv.live:8080/live/5675678/5675678/135820.ts
+ENGLISH-HOLLYWOOD MOVIES HD 38,http://humiptv.live:8080/live/5675678/5675678/135821.ts
+ENGLISH-HOLLYWOOD MOVIES HD 39,http://humiptv.live:8080/live/5675678/5675678/135822.ts
+ENGLISH-HOLLYWOOD MOVIES HD 40,http://humiptv.live:8080/live/5675678/5675678/135823.ts
+HBOMAX-MOVIES 1 HD,http://humiptv.live:8080/live/5675678/5675678/135824.ts
+HBOMAX-MOVIES 2 HD,http://humiptv.live:8080/live/5675678/5675678/135825.ts
+HBOMAX-MOVIES 3 HD,http://humiptv.live:8080/live/5675678/5675678/135826.ts
+HBOMAX-MOVIES 4 HD,http://humiptv.live:8080/live/5675678/5675678/135827.ts
+HBOMAX-ANIMATED MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135828.ts
+HBOMAX-COMEDY MOVIES 2 HD,http://humiptv.live:8080/live/5675678/5675678/135829.ts
+HBOMAX-CRIME MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135830.ts
+HBOMAX-DOCUMENTARY MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135831.ts
+HBOMAX-DRAMA MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135832.ts
+HBOMAX-ADVENTURE MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135833.ts
+HBOMAX-GENRE FAMILY MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135834.ts
+HBOMAX-FANTASY MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135835.ts
+HBOMAX-BIOGRAPHY MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135836.ts
+HBOMAX-HORROR MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135837.ts
+HBOMAX-MYSTERY MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135838.ts
+HBOMAX-ROMANCE MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135839.ts
+HBOMAX-SPORTS MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135840.ts
+HBOMAX-SCI-FI MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135841.ts
+HBOMAX-THRILLER MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135842.ts
+HBOMAX-ACTION MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135843.ts
+HBOMAX-COMEDY MOVIES 1 HD,http://humiptv.live:8080/live/5675678/5675678/135844.ts
+HBOMAX-COMEDY MOVIES 3 HD,http://humiptv.live:8080/live/5675678/5675678/135845.ts
+HULU-MOVIES 1 HD,http://humiptv.live:8080/live/5675678/5675678/135846.ts
+HULU-MOVIES 2 HD,http://humiptv.live:8080/live/5675678/5675678/135847.ts
+HULU-MOVIES 3 HD,http://humiptv.live:8080/live/5675678/5675678/135848.ts
+HULU-MOVIES 4 HD,http://humiptv.live:8080/live/5675678/5675678/135849.ts
+HULU-MOVIES 5 HD,http://humiptv.live:8080/live/5675678/5675678/135850.ts
+HULU-CLASSIC MOVIES 1 HD,http://humiptv.live:8080/live/5675678/5675678/135851.ts
+HULU-ACTION MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135852.ts
+HULU-ADVENTURE MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135853.ts
+HULU-ANIMATED MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135854.ts
+HULU-COMEDY MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135855.ts
+HULU-BIOGRAPHY MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135856.ts
+HULU-CRIME MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135857.ts
+HULU-DOCUMENTARY MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135858.ts
+HULU-DRAMA MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135859.ts
+HULU-FAMILY MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135860.ts
+HULU-HORROR MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135861.ts
+HULU-MYSTERY MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135862.ts
+ENGLISH-MARVEL CINEMAATIC UNIVERSE MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135863.ts
+ENGLISH-DESPICABLE  ME MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135864.ts
+ENGLISH-HARRY POTTER MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135865.ts
+ENGLISH-ICE AGE MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135866.ts
+ENGLISH-INDIANA JONES MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135867.ts
+ENGLISH-JAMES BOND MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135868.ts
+ENGLISH-JURASSIC PARK MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135869.ts
+ENGLISH-KUNG FU PANDA MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135870.ts
+ENGLISH-MISSION IMPOSSIBLE MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135871.ts
+ENGLISH-PIRATES OF THE CARIBBEAN MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135872.ts
+ENGLISH-SPIDER MAN MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135873.ts
+ENGLISH-STAR TREK MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135874.ts
+ENGLISH-STAR WAR MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135875.ts
+ENGLISH-THE TERMINATOR MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135876.ts
+ENGLISH-FAST AND FURIOUS MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135877.ts
+ENGLISH-TOY STORY MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135878.ts
+ENGLISH-TRANSFORMERS MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135879.ts
+ENGLISH-X MEN MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135880.ts
+ENGLISH-ALIEN MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135881.ts
+ENGLISH-ALVIN AND THE CHIPMUNKS MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135882.ts
+ENGLISH-THE CONJURING MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135883.ts
+ENGLISH-DIE HARD MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135884.ts
+ENGLISH-DISNEY MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135885.ts
+ENGLISH-FINAL DESTINATION MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135886.ts
+ENGLISH-FINDING NEMO MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135887.ts
+ENGLISH-FRIDAY THE 13TH MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135888.ts
+ENGLISH-FROZEN MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135889.ts
+ENGLISH-HOME ALONE MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135890.ts
+ENGLISH-HOW TO TRAIN YOUR  DRAGON MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135891.ts
+ENGLISH-THE HUNGER GAME MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135892.ts
+ENGLISH-THE INCREDIBLES MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135893.ts
+ENGLISH-JASON BOURNE MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135894.ts
+ENGLISH-JUMANJI MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135895.ts
+ENGLISH-MEN IN BLACK MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135896.ts
+ENGLISH-MONSTERVERSE MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135897.ts
+ENGLISH-NIGHT AT MUSEUM MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135898.ts
+ENGLISH-PARANORMAL ACTIVITY MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135899.ts
+ENGLISH-PIXAR MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135900.ts
+ENGLISH-PLANET OF THE APES MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135901.ts
+ENGLISH-RAMBO MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135902.ts
+ENGLISH-RESIDENT EVIL MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135903.ts
+ENGLISH-ROCKEY MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135904.ts
+ENGLISH-SAW MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135905.ts
+ENGLISH-SCARY MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135906.ts
+ENGLISH-SHREK MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135907.ts
+ENGLISH-SUPERMAN MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135908.ts
+ENGLISH-THE CHRONICLES OF THE NARNIA MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135909.ts
+ENGLISH-THE LAND BEFORE TIME MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135910.ts
+ENGLISH-THE LORD OF THE RING MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135911.ts
+ENGLISH-THE LEGO MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135912.ts
+ENGLISH-THE MARINE MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135913.ts
+ENGLISH-THE MATRIX MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135914.ts
+ENGLISH-THE MUMMY MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135915.ts
+ENGLISH-THE MUPPET MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135916.ts
+ENGLISH-THE SECRET LIFE OF PETS MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135917.ts
+ENGLISH-THE TRANSPORTER MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135918.ts
+ENGLISH-FR THE TWILIGHT SAGA,http://humiptv.live:8080/live/5675678/5675678/135919.ts
+ENGLISH-UNIVERSAL SOLDIER  MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135920.ts
+ENGLISH-WIZARDING WORLD MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135921.ts
+ENGLISH-ACTION THRILLER MOVIES 1 HD,http://humiptv.live:8080/live/5675678/5675678/135922.ts
+ENGLISH-ACTION THRILLER MOVIES 2 HD,http://humiptv.live:8080/live/5675678/5675678/135923.ts
+ENGLISH-ACTION THRILLER MOVIES 4 HD,http://humiptv.live:8080/live/5675678/5675678/135925.ts
+ENGLISH-ACTION THRILLER MOVIES 5 HD,http://humiptv.live:8080/live/5675678/5675678/135926.ts
+ENGLISH-ACTION THRILLER MOVIES 6 HD,http://humiptv.live:8080/live/5675678/5675678/135927.ts
+ENGLISH-ACTION THRILLER MOVIES 7 HD,http://humiptv.live:8080/live/5675678/5675678/135928.ts
+ENGLISH-ACTION THRILLER MOVIES 8 HD,http://humiptv.live:8080/live/5675678/5675678/135929.ts
+ENGLISH-ACTION THRILLER MOVIES 9 HD,http://humiptv.live:8080/live/5675678/5675678/135930.ts
+ENGLISH-ACTION THRILLER MOVIES 10 HD,http://humiptv.live:8080/live/5675678/5675678/135931.ts
+ENGLISH-ACTION THRILLER MOVIES 11 HD,http://humiptv.live:8080/live/5675678/5675678/135932.ts
+ENGLISH-ACTION THRILLER MOVIES 12 HD,http://humiptv.live:8080/live/5675678/5675678/135933.ts
+ENGLISH-MYSTERY MOVIES 1 HD,http://humiptv.live:8080/live/5675678/5675678/135934.ts
+ENGLISH-MYSTERY MOVIES 2 HD,http://humiptv.live:8080/live/5675678/5675678/135935.ts
+ENGLISH-MYSTERY MOVIES 3 HD,http://humiptv.live:8080/live/5675678/5675678/135936.ts
+ENGLISH-MYSTER MOVIES 4 HD,http://humiptv.live:8080/live/5675678/5675678/135937.ts
+ENGLISH-MYSTERY MOVIES 5 HD,http://humiptv.live:8080/live/5675678/5675678/135938.ts
+ENGLISH-HISTORY MOVIES 1 HD,http://humiptv.live:8080/live/5675678/5675678/135939.ts
+ENGLISH-HISTORY MOVIES 2 HD,http://humiptv.live:8080/live/5675678/5675678/135940.ts
+ENGLISH-DOCUMENTARY MOVIES 1 HD,http://humiptv.live:8080/live/5675678/5675678/135941.ts
+ENGLISH-DOCUMENTARY MOVIES 2 HD,http://humiptv.live:8080/live/5675678/5675678/135942.ts
+ENGLISH-COMEDY MOVIES 1 HD,http://humiptv.live:8080/live/5675678/5675678/135943.ts
+ENGLISH-COMEDY MOVIES 2 HD,http://humiptv.live:8080/live/5675678/5675678/135944.ts
+ENGLISH-COMEDY MOVIES 3 HD,http://humiptv.live:8080/live/5675678/5675678/135945.ts
+ENGLISH-COMEDY MOVIES 4 HD,http://humiptv.live:8080/live/5675678/5675678/135946.ts
+ENGLISH-COMEDY MOVIES 5 HD,http://humiptv.live:8080/live/5675678/5675678/135947.ts
+ENGLISH-COMEDY MOVIES 7 HD,http://humiptv.live:8080/live/5675678/5675678/135948.ts
+ENGLISH-COMEDY MOVIES 8 HD,http://humiptv.live:8080/live/5675678/5675678/135949.ts
+ENGLISH-COMEDY MOVIE 9 HD,http://humiptv.live:8080/live/5675678/5675678/135950.ts
+ENGLISH-SCI-FI HORROR MOVIES 1 HD,http://humiptv.live:8080/live/5675678/5675678/135951.ts
+ENGLISH-SCI-FI HORROR MOVIES 2 HD,http://humiptv.live:8080/live/5675678/5675678/135952.ts
+ENGLISH-SCI-FI HORROR MOVIES 3 HD,http://humiptv.live:8080/live/5675678/5675678/135953.ts
+ENGLISH-DRAMA ROMANCE MOVIES 1 HD,http://humiptv.live:8080/live/5675678/5675678/135954.ts
+ENGLISH-DRAMA ROMANCE MOVIES 2 HD,http://humiptv.live:8080/live/5675678/5675678/135955.ts
+ENGLISH-DRAMA ROMANCE MOVIES 3 HD,http://humiptv.live:8080/live/5675678/5675678/135956.ts
+ENGLISH-DRAMA ROMANCE MOVIES 4 HD,http://humiptv.live:8080/live/5675678/5675678/135957.ts
+ENGLISH-GENRE DRAMA ROMANCE MOVIES 5 HD,http://humiptv.live:8080/live/5675678/5675678/135958.ts
+ENGLISH-GENRE DRAMA ROMANCE MOVIES 6 HD,http://humiptv.live:8080/live/5675678/5675678/135959.ts
+ENGLISH-GENRE DRAMA ROMANCE MOVIES 8 HD,http://humiptv.live:8080/live/5675678/5675678/135961.ts
+ENGLISH-GENRE DRAMA ROMANCE MOVIES 9 HD,http://humiptv.live:8080/live/5675678/5675678/135962.ts
+ENGLISH-GENRE DRAMA ROMANCE 10 HD,http://humiptv.live:8080/live/5675678/5675678/135963.ts
+ENGLISH-GENRE DRAMA ROMANCE MOVIES 1 HD,http://humiptv.live:8080/live/5675678/5675678/135964.ts
+ENGLISH-GENRE DRAMA ROMANCE MOVIES 14 HD,http://humiptv.live:8080/live/5675678/5675678/135965.ts
+ENGLISH-GENRE DRAMA ROMANCE 15 HD,http://humiptv.live:8080/live/5675678/5675678/135966.ts
+ENGLISH-DRAMA ROMANCE MOVIES 16 HD,http://humiptv.live:8080/live/5675678/5675678/135967.ts
+ENGLISH-WAR MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135968.ts
+ENGLISH-ADVENTURE MOVIES 1 HD,http://humiptv.live:8080/live/5675678/5675678/135969.ts
+ENGLISH-ADVENTURE MOVIES 2 HD,http://humiptv.live:8080/live/5675678/5675678/135970.ts
+ENGLISH-FANTASY MOVIES 1 HD,http://humiptv.live:8080/live/5675678/5675678/135971.ts
+ENGLISH-FANTASY MOVIES 2 HD,http://humiptv.live:8080/live/5675678/5675678/135972.ts
+ENGLISH-FANTASY MOVIES 3 HD,http://humiptv.live:8080/live/5675678/5675678/135973.ts
+ENGLISH-BIOGRAPHY MOVIES 1 HD,http://humiptv.live:8080/live/5675678/5675678/135974.ts
+ENGLISH-BIOGRAPHY MOVIES 2 HD,http://humiptv.live:8080/live/5675678/5675678/135975.ts
+ENGLISH-BIOGRAPHY MOVIES 3 HD,http://humiptv.live:8080/live/5675678/5675678/135976.ts
+ENGLISH-CRIME MOVIES 1 HD,http://humiptv.live:8080/live/5675678/5675678/135977.ts
+ENGLISH-CRIME MOVIES 2 HD,http://humiptv.live:8080/live/5675678/5675678/135978.ts
+ENGLISH-CRIME MOVIES 3 HD,http://humiptv.live:8080/live/5675678/5675678/135979.ts
+ENGLISH-CRIME MOVIES 4 HD,http://humiptv.live:8080/live/5675678/5675678/135980.ts
+ENGLISH-CRIME MOVIES 5 HD,http://humiptv.live:8080/live/5675678/5675678/135981.ts
+ENGLISH-ADVENTURE FANTASY MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/135982.ts
+ENGLISH-BLOCKBUSTER MOVIES 1 HD,http://humiptv.live:8080/live/5675678/5675678/135983.ts
+ENGLISH-BLOCKBUSTER MOVIES 2 HD,http://humiptv.live:8080/live/5675678/5675678/135984.ts
+ENGLISH-BLOCKBUSTER MOVIES 3 HD,http://humiptv.live:8080/live/5675678/5675678/135985.ts
+ENGLISH-BLOCKBUSTER MOVIES 4 HD,http://humiptv.live:8080/live/5675678/5675678/135986.ts
+ENGLISH-BLOCKBUSTER MOVIES 5 HD,http://humiptv.live:8080/live/5675678/5675678/135987.ts
+ENGLISH-AVERAGE MOVIES 1 HD,http://humiptv.live:8080/live/5675678/5675678/135988.ts
+ENGLISH-AVERAGE MOVIES 2 HD,http://humiptv.live:8080/live/5675678/5675678/135989.ts
+ENGLISH-AVERAGE MOVIES 3 HD,http://humiptv.live:8080/live/5675678/5675678/135990.ts
+ENGLISH-AVERAGE MOVIES 4,http://humiptv.live:8080/live/5675678/5675678/135991.ts
+ENGLISH-AVERAGE MOVIES 6 HD,http://humiptv.live:8080/live/5675678/5675678/135992.ts
+ENGLISH-AVERAGE MOVIES 5 HD,http://humiptv.live:8080/live/5675678/5675678/135993.ts
+ENGLISH-AVERAGE MOVIES 7 HD,http://humiptv.live:8080/live/5675678/5675678/135994.ts
+ENGLISH-HIT MOVIES 1 HD,http://humiptv.live:8080/live/5675678/5675678/135995.ts
+ENGLISH-HIT MOVIES 2 HD,http://humiptv.live:8080/live/5675678/5675678/135996.ts
+ENGLISH-HIT MOVIES 3 HD,http://humiptv.live:8080/live/5675678/5675678/135997.ts
+ENGLISH-HIT MOVIES 4 HD,http://humiptv.live:8080/live/5675678/5675678/135998.ts
+ENGLISH-HIT MOVIES 5 HD,http://humiptv.live:8080/live/5675678/5675678/135999.ts
+ENGLISH-HIT MOVIES 6 HD,http://humiptv.live:8080/live/5675678/5675678/136000.ts
+ENGLISH-HIT MOVIES 7 HD,http://humiptv.live:8080/live/5675678/5675678/136001.ts
+ENGLISH-HIT MOVIES 8 HD,http://humiptv.live:8080/live/5675678/5675678/136002.ts
+ENGLISH-HIT MOVIES 9 HD,http://humiptv.live:8080/live/5675678/5675678/136003.ts
+ENGLISH-HIT MOVIES 10 HD,http://humiptv.live:8080/live/5675678/5675678/136004.ts
+ENGLISH-SUPER HIT MOVIES 1 HD,http://humiptv.live:8080/live/5675678/5675678/136005.ts
+ENGLISH-SUPER HIT MOVIES 2 HD,http://humiptv.live:8080/live/5675678/5675678/136006.ts
+ENGLISH-SUPER HIT MOVIES 3 HD,http://humiptv.live:8080/live/5675678/5675678/136007.ts
+ENGLISH-SUPER HIT MOVIES 4 HD,http://humiptv.live:8080/live/5675678/5675678/136008.ts
+ENGLISH-SUPER HIT MOVIES 5 HD,http://humiptv.live:8080/live/5675678/5675678/136009.ts
+ENGLISH-SUPER HIT MOVIES 6 HD,http://humiptv.live:8080/live/5675678/5675678/136010.ts
+ENGLISH-WEBSERIES 24,http://humiptv.live:8080/live/5675678/5675678/136011.ts
+ENGLISH-WEBSERIES AVATAR THE LAST AIRBENDER,http://humiptv.live:8080/live/5675678/5675678/136013.ts
+ENGLISH-WEBSERIES BREAKOUT KINGS,http://humiptv.live:8080/live/5675678/5675678/136015.ts
+ENGLISH-WEBSERIES CALIFORNICATION,http://humiptv.live:8080/live/5675678/5675678/136016.ts
+ENGLISH-WEBSERIES DEXTER,http://humiptv.live:8080/live/5675678/5675678/136017.ts
+ENGLISH-WEBSERIES GRAVITY FALLLS,http://humiptv.live:8080/live/5675678/5675678/136021.ts
+ENGLISH-WEBSERIES FLEABAG,http://humiptv.live:8080/live/5675678/5675678/136022.ts
+ENGLISH-WEBSERIES FRINGE,http://humiptv.live:8080/live/5675678/5675678/136023.ts
+ENGLISH-WEBSERIES HAPPY,http://humiptv.live:8080/live/5675678/5675678/136024.ts
+ENGLISH-WEBSERIES HOMELAND,http://humiptv.live:8080/live/5675678/5675678/136025.ts
+ENGLISH-WEBSERIES HOUSE M.D,http://humiptv.live:8080/live/5675678/5675678/136026.ts
+ENGLISH-WEBSERIES HUMAN PLANET,http://humiptv.live:8080/live/5675678/5675678/136027.ts
+ENGLISH-WEBSERIES ARRESTED DEVELOPMENT,http://humiptv.live:8080/live/5675678/5675678/136034.ts
+ENGLISH-WEBSERIES ASH VS EVIL DEAD,http://humiptv.live:8080/live/5675678/5675678/136035.ts
+ENGLISH-WEBSERIES ATLANTA,http://humiptv.live:8080/live/5675678/5675678/136036.ts
+ENGLISH-WEBSERIES ATYPICAL,http://humiptv.live:8080/live/5675678/5675678/136037.ts
+ENGLISH-WEBSERIES BROOKLYN NINE-NINE,http://humiptv.live:8080/live/5675678/5675678/136043.ts
+ENGLISH-WEBSERIES CHEFS TABLE,http://humiptv.live:8080/live/5675678/5675678/136044.ts
+ENGLISH-WEBSERIES DARK,http://humiptv.live:8080/live/5675678/5675678/136045.ts
+ENGLISH-WEBSERIES FIRE FLY,http://humiptv.live:8080/live/5675678/5675678/136047.ts
+ENGLISH-WEBSERIES FRIENDS,http://humiptv.live:8080/live/5675678/5675678/136048.ts
+ENGLISH-WEBSERIES HANNNIBAL,http://humiptv.live:8080/live/5675678/5675678/136049.ts
+ENGLISH-WEBSERIES HOUSE OF CARD,http://humiptv.live:8080/live/5675678/5675678/136050.ts
+ENGLISH-WEBSERIES JOHN ADAMS,http://humiptv.live:8080/live/5675678/5675678/136051.ts
+ENGLISH-WEBSERIES BAND OF BROTHER,http://humiptv.live:8080/live/5675678/5675678/136057.ts
+FR: beIN Sports 1,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/144
+FR: beIN Sports 2,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/145
+FR: beIN Sports 3,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/146
+FR: beIN Sports 1,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/144
+FR: beIN Sports 2,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/145
+FR: beIN Sports 3,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/146
+France
+FR: beIN Sports Max 4,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/3599
+FR: beIN Sports Max 5,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/6083
+FR: beIN Sports Max 10,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/6088
+FR: beIN Sports Max 4,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/3599
+FR: beIN Sports Max 5,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/6083
+FR: beIN Sports Max 10,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/6088
+France 鉃?Sports
+FR: beIN Sports Max 6,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/4368
+FR: beIN Sports Max 7,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/4369
+FR: beIN Sports Max 8,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/4370
+FR: beIN Sports Max 9,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/4371
+FR: beIN Sports Max 6,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/4368
+FR: beIN Sports Max 7,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/4369
+FR: beIN Sports Max 8,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/4370
+FR: beIN Sports Max 9,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/4371
+Malaysia
+MY: beIN Sports,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/157561
+MY: beIN Sports,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/157561
+MY: beIN Sports,http://faucontv.live:8080/@messie12/b5HS41z/34907
+USA 鉃?Sports
+US: beIN Sports,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/284530
+US: beIN Sports 2,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/151022
+US: beIN Sports 3,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/151025
+US: beIN Sports 4,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/151024
+US: beIN Sports 5,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/151026
+US: beIN Sports 6,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/151030
+US: beIN Sports 7,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/151028
+US: beIN Sports 8,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/151032
+US: beIN Sports n,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/296690
+US: beIN Sports USA,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/296691
+US: beIN Sports,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/284530
+US: beIN Sports 2,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/151022
+US: beIN Sports 3,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/151025
+US: beIN Sports 4,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/151024
+US: beIN Sports 5,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/151026
+US: beIN Sports 6,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/151030
+US: beIN Sports 7,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/151028
+US: beIN Sports 8,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/151032
+US: beIN Sports n,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/296690
+US: beIN Sports USA,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/296691
+Canada 鉃?Football
+CA: beIN Sports,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/13239
+CA: beIN Sports,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/13239
+Turkey 鉃?Movie
+TR: beIN Box Office 1,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/536
+TR: beIN Box Office 2,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/281863
+TR: beIN Box Office 3,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/538
+TR: beIN Box Office Turk,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/539
+TR: beIN Movies Action,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/1761
+TR: beIN Movies Action 2,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/278527
+TR: beIN Movies Family,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/1763
+TR: beIN Movies Premiere,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/1764
+TR: beIN Movies Premiere 2,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/1765
+TR: beIN Movies Stars,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/1766
+TR: beIN Movies Turk,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/1767
+TR: beIN Series 1,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/298429
+TR: beIN Series 2,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/298427
+TR: beIN Series 3,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/298428
+TR: beIN Series 4,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/298430
+TR: beIN Box Office 1,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/536
+TR: beIN Box Office 2,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/281863
+TR: beIN Box Office 3,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/538
+TR: beIN Box Office Turk,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/539
+TR: beIN Movies Action,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/1761
+TR: beIN Movies Action 2,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/278527
+TR: beIN Movies Family,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/1763
+TR: beIN Movies Premiere,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/1764
+TR: beIN Movies Premiere 2,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/1765
+TR: beIN Movies Stars,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/1766
+TR: beIN Movies Turk,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/1767
+TR: beIN Series 1,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/298429
+TR: beIN Series 2,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/298427
+TR: beIN Series 3,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/298428
+TR: beIN Series 4,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/298430
+Turkey 鉃?Food
+TR: beIN Gurme,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/1807
+TR: beIN Gurme,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/1807
+Turkey 鉃?LifeStyle
+TR: beIN Iz,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/1806
+TR: beIN Iz,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/1806
+Turkey 鉃?Sports
+TR: beIN Sports 1,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/1735
+TR: beIN Sports 2,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/1737
+TR: beIN Sports 3,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/1739
+TR: beIN Sports 4,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/7450
+TR: beIN Sports Haber,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/7448
+TR: beIN Sports Max 1,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8224
+TR: beIN Sports Max 2,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/16878
+TR: beIN Sports 1,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/1735
+TR: beIN Sports 2,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/1737
+TR: beIN Sports 3,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/1739
+TR: beIN Sports 4,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/7450
+TR: beIN Sports Haber,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/7448
+TR: beIN Sports Max 1,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/8224
+TR: beIN Sports Max 2,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/16878
+Spain 鉃?Football
+ES: beIN Sports Xtra en Espanol,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/281493
+ES: beIN Sports Xtra en Espanol,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/281493
+Brazil
+BR: BET Being Mary Jane,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286070
+Australia
+AU: beIN Sports,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/281451
+AU: beIN Sports 1,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/35347
+AU: beIN Sports 2,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/35338
+AU: beIN Sports 3,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/35340
+AU: beIN Sports,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/281451
+AU: beIN Sports 1,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/35347
+AU: beIN Sports 2,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/35338
+AU: beIN Sports 3,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/35340
+AU: beIN Sports 3,http://faucontv.live:8080/@messie12/b5HS41z/35144
+AU: beIN Sports 2,http://faucontv.live:8080/@messie12/b5HS41z/35143
+AU: beIN Sports 1,http://faucontv.live:8080/@messie12/b5HS41z/35142
+Philippines
+PH: beIN Sports 1,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/282772
+PH: beIN Sports 2,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/282773
+PH: beIN Sports 3,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/266844
+PH: beIN Sports 1,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/282772
+PH: beIN Sports 3,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/266844
+PH: beIN Sports 3,http://faucontv.live:8080/@messie12/b5HS41z/35294
+PH: beIN Sports 2,http://faucontv.live:8080/@messie12/b5HS41z/35293
+Indonesia
+ID: beIN Sports 1,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/165105
+ID: beIN Sports 3,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/298506
+ID: beIN Sports 1,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/165105
+ID: beIN Sports 3,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/298506
+Qatar 鉃?Movie
+QA: beIN Box Office 1,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/225322
+QA: beIN Box Office 2,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/225321
+QA: beIN Drama 1,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/2835
+QA: beIN Movies Action 2,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/1270
+QA: beIN Movies Drama 3,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/3735
+QA: beIN Movies Family 4,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/1268
+QA: beIN Movies Premiere 1,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/267063
+QA: beIN Movies Premiere 2,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/1267
+QA: beIN Series 1,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/2833
+QA: beIN Series 2,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/7619
+QA: beIN Box Office 1,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/225322
+QA: beIN Box Office 2,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/225321
+QA: beIN Drama 1,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/2835
+QA: beIN Movies Action 2,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/1270
+QA: beIN Movies Drama 3,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/3735
+QA: beIN Movies Premiere 1,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/267063
+QA: beIN Movies Premiere 2,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/1267
+QA: beIN Series 1,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/2833
+QA: beIN Series 2,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/7619
+Qatar 鉃?LifeStyle
+QA: beIN Gourmet,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/2840
+QA: beIN Gourmet,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/2840
+Qatar 鉃?Sports
+QA: beIN Sports 1,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/100
+QA: beIN Sports 2,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/101
+QA: beIN Sports 3,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/102
+QA: beIN Sports 4,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/103
+QA: beIN Sports 5,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/104
+QA: beIN Sports 6,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/105
+QA: beIN Sports 7,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/106
+QA: beIN Sports English 1,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/110
+QA: beIN Sports English 2,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/111
+QA: beIN Sports English 3,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/267769
+QA: beIN Sports Max 1,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/296991
+QA: beIN Sports Max 2,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/199001
+QA: beIN Sports Max 3,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/296992
+QA: beIN Sports Max 4,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/13813
+QA: beIN Sports Max 9,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/13816
+QA: beIN Sports NBA,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/15962
+QA: beIN Sports News,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/1266
+QA: beIN Sports Premium 1,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/109
+QA: beIN Sports Premium 2,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/280145
+QA: beIN Sports Premium 3,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/280249
+QA: beIN Sports Xtra 1,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/290037
+QA: beIN Sports Xtra 2,http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/283294
+QA: beIN Sports 1,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/100
+QA: beIN Sports 2,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/101
+QA: beIN Sports 3,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/102
+QA: beIN Sports 4,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/103
+QA: beIN Sports 5,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/104
+QA: beIN Sports 6,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/105
+QA: beIN Sports 7,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/106
+QA: beIN Sports English 1,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/110
+QA: beIN Sports English 2,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/111
+QA: beIN Sports English 3,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/267769
+QA: beIN Sports Max 1,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/296991
+QA: beIN Sports Max 2,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/199001
+QA: beIN Sports Max 3,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/296992
+QA: beIN Sports Max 4,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/13813
+QA: beIN Sports Max 9,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/13816
+QA: beIN Sports NBA,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/15962
+QA: beIN Sports News,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/1266
+QA: beIN Sports Premium 1,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/109
+QA: beIN Sports Premium 2,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/280145
+QA: beIN Sports Premium 3,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/280249
+QA: beIN Sports Xtra 1,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/290037
+QA: beIN Sports Xtra 2,http://kuchini.site:8080/9ba1ba9e/c9c903ce23/283294
+Us: bein
+US: beIN Sports,http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/284530
+US: beIN Sports 2,http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/151022
+US: beIN Sports 3,http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/151025
+US: beIN Sports 4,http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/151024
+US: beIN Sports 5,http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/151026
+US: beIN Sports 6,http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/151030
+US: beIN Sports 7,http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/151028
+US: beIN Sports 8,http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/151032
+US: beIN Sports n,http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/296690
+US: beIN Sports USA,http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/296691
+Arabe FHD
+AR: BEIN SPORTS NEWS  FHD,http://faucontv.live:8080/@messie12/b5HS41z/33137
+BEIN ENTERTAIMENT
+beIN AMC HD,http://faucontv.live:8080/@messie12/b5HS41z/3551
+beIN Animal Planet HD,http://faucontv.live:8080/@messie12/b5HS41z/3559
+beIN Baraem HD,http://faucontv.live:8080/@messie12/b5HS41z/3548
+beIN BBC Earth HD,http://faucontv.live:8080/@messie12/b5HS41z/3555
+beIN Cartoon Network HD,http://faucontv.live:8080/@messie12/b5HS41z/3542
+Bein Drama HD,http://faucontv.live:8080/@messie12/b5HS41z/3533
+beIN Fatafeat HD,http://faucontv.live:8080/@messie12/b5HS41z/3553
+beIN Food Network HD,http://faucontv.live:8080/@messie12/b5HS41z/3554
+beIN Fox Action Movies HD,http://faucontv.live:8080/@messie12/b5HS41z/3549
+Bein Fox Crime HD,http://faucontv.live:8080/@messie12/b5HS41z/3547
+Bein Fox Life HD,http://faucontv.live:8080/@messie12/b5HS41z/3546
+beIN Gourmet HD,http://faucontv.live:8080/@messie12/b5HS41z/3552
+Bein Groummet HD,http://faucontv.live:8080/@messie12/b5HS41z/3534
+beIN History HD,http://faucontv.live:8080/@messie12/b5HS41z/3557
+Bein Jeem HD,http://faucontv.live:8080/@messie12/b5HS41z/3535
+beIN Movies Action 2 HD,http://faucontv.live:8080/@messie12/b5HS41z/3538
+Bein Movies Drama 3 HD,http://faucontv.live:8080/@messie12/b5HS41z/3537
+Bein Movies Family 4 HD,http://faucontv.live:8080/@messie12/b5HS41z/3536
+beIN Movies Premiere 1 HD,http://faucontv.live:8080/@messie12/b5HS41z/3539
+beIN National Geographic HD,http://faucontv.live:8080/@messie12/b5HS41z/3558
+beIN Outdoor,http://faucontv.live:8080/@messie12/b5HS41z/3545
+Bein Series HD 1,http://faucontv.live:8080/@messie12/b5HS41z/3541
+Bein Series HD 2,http://faucontv.live:8080/@messie12/b5HS41z/3540
+beIN Star World HD,http://faucontv.live:8080/@messie12/b5HS41z/3550
+beIN Travel HD,http://faucontv.live:8080/@messie12/b5HS41z/3556
+Canada
+CA: beIN Sports,http://faucontv.live:8080/@messie12/b5HS41z/15072
+CA: BEIN SPORTS,http://faucontv.live:8080/@messie12/b5HS41z/15142
+France FHD
+FR| BEIN SPORTS 1 FHD,http://faucontv.live:8080/@messie12/b5HS41z/13666
+FR| BEIN SPORTS 2 FHD,http://faucontv.live:8080/@messie12/b5HS41z/13667
+FR| BEIN SPORTS 3 FHD,http://faucontv.live:8080/@messie12/b5HS41z/13668
+FR| BEIN SPORTS MAX10 FHD (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13675
+FR| BEIN SPORTS MAX4 FHD (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13669
+FR| BEIN SPORTS MAX5 FHD (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13670
+FR| BEIN SPORTS MAX6 FHD (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13671
+FR| BEIN SPORTS MAX7 FHD (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13672
+FR| BEIN SPORTS MAX8 FHD (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13673
+FR| BEIN SPORTS MAX9 FHD (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13674
+France HD
+FR| BEIN SPORTS 1 HD,http://faucontv.live:8080/@messie12/b5HS41z/13579
+FR| BEIN SPORTS 2 HD,http://faucontv.live:8080/@messie12/b5HS41z/13580
+FR| BEIN SPORTS 3 HD,http://faucontv.live:8080/@messie12/b5HS41z/13581
+FR| BEIN SPORTS MAX10 HD (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13588
+FR| BEIN SPORTS MAX4 HD (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13582
+FR| BEIN SPORTS MAX5 HD (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13583
+FR| BEIN SPORTS MAX6 HD (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13584
+FR| BEIN SPORTS MAX7 HD (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13585
+FR| BEIN SPORTS MAX8 HD (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13586
+FR| BEIN SPORTS MAX9 HD (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13587
+France Hevc
+FR| BEIN SPORTS 1 HEVC,http://faucontv.live:8080/@messie12/b5HS41z/13724
+FR| BEIN SPORTS 2 HEVC,http://faucontv.live:8080/@messie12/b5HS41z/13725
+FR| BEIN SPORTS 3 HEVC,http://faucontv.live:8080/@messie12/b5HS41z/13726
+FR| BEIN SPORTS MAX10 HEVC (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13733
+FR| BEIN SPORTS MAX4 HEVC (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13727
+FR| BEIN SPORTS MAX5 HEVC (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13728
+FR| BEIN SPORTS MAX6 HEVC (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13729
+FR| BEIN SPORTS MAX7 HEVC (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13730
+FR| BEIN SPORTS MAX8 HEVC (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13731
+FR| BEIN SPORTS MAX9 HEVC (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13732
+France SD
+FR| BEIN SPORTS 1 SD,http://faucontv.live:8080/@messie12/b5HS41z/13778
+FR| BEIN SPORTS 2 SD,http://faucontv.live:8080/@messie12/b5HS41z/13779
+FR| BEIN SPORTS 3 SD,http://faucontv.live:8080/@messie12/b5HS41z/13780
+FR| BEIN SPORTS MAX10 SD (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13787
+FR| BEIN SPORTS MAX4 SD (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13781
+FR| BEIN SPORTS MAX5 SD (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13782
+FR| BEIN SPORTS MAX6 SD (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13783
+FR| BEIN SPORTS MAX7 SD (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13784
+FR| BEIN SPORTS MAX8 SD (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13785
+FR| BEIN SPORTS MAX9 SD (EVENT ONLY),http://faucontv.live:8080/@messie12/b5HS41z/13786
+Turk
+TR : beIN  Box Office 1 HD,http://faucontv.live:8080/@messie12/b5HS41z/9514
+TR : beIN  Box Office 2 HD,http://faucontv.live:8080/@messie12/b5HS41z/9515
+TR : beIN  Box Office 3 HD,http://faucontv.live:8080/@messie12/b5HS41z/9516
+TR : beIN  Sports 1 FullHD,http://faucontv.live:8080/@messie12/b5HS41z/9308
+TR : beIN  Sports 1 HD,http://faucontv.live:8080/@messie12/b5HS41z/9315
+TR : beIN  Sports 2 FullHD,http://faucontv.live:8080/@messie12/b5HS41z/9309
+TR : beIN  Sports 2 HD,http://faucontv.live:8080/@messie12/b5HS41z/9316
+TR : beIN  Sports 3 FullHD,http://faucontv.live:8080/@messie12/b5HS41z/9310
+TR : beIN  Sports 4 FullHD,http://faucontv.live:8080/@messie12/b5HS41z/9311
+TR : beIN  Sports 4 HD,http://faucontv.live:8080/@messie12/b5HS41z/9318
+TR : beIN  Sports Haber FullHD,http://faucontv.live:8080/@messie12/b5HS41z/9307
+TR : beIN  Sports Haber HD,http://faucontv.live:8080/@messie12/b5HS41z/9314
+TR : beIN  Sports Max 1 FullHD,http://faucontv.live:8080/@messie12/b5HS41z/9312
+TR : beIN  Sports Max 1 HD,http://faucontv.live:8080/@messie12/b5HS41z/9319
+TR : beIN Sports Max 2 FullHD,http://faucontv.live:8080/@messie12/b5HS41z/9313
+TR : beIN  Sports Max 2 HD,http://faucontv.live:8080/@messie12/b5HS41z/9320
+TR : beiN Gurme HD,http://faucontv.live:8080/@messie12/b5HS41z/9524
+TR : beIN IZ TV HD,http://faucontv.live:8080/@messie12/b5HS41z/9375
+TR : beIN Movies Action 2 HD,http://faucontv.live:8080/@messie12/b5HS41z/9512
+TR : beIN Movies Action HD,http://faucontv.live:8080/@messie12/b5HS41z/9511
+TR : beIN Movies Family HD,http://faucontv.live:8080/@messie12/b5HS41z/9518
+TR : beiN Movies Premiere,http://faucontv.live:8080/@messie12/b5HS41z/9507
+TR : beiN Movies Premiere 2,http://faucontv.live:8080/@messie12/b5HS41z/9508
+TR : beIN MOVIES PREMIERE 2 HD,http://faucontv.live:8080/@messie12/b5HS41z/9510
+TR : beIN MOVIES PREMIERE HD,http://faucontv.live:8080/@messie12/b5HS41z/9509
+TR : beIN Movies Stars,http://faucontv.live:8080/@messie12/b5HS41z/9517
+TR : beIN Movies T眉rk,http://faucontv.live:8080/@messie12/b5HS41z/9513
+TR : beiN Movies T眉rk HD,http://faucontv.live:8080/@messie12/b5HS41z/9506
+TR : beIN Series Comedy,http://faucontv.live:8080/@messie12/b5HS41z/9519
+TR : beIN Series Drama,http://faucontv.live:8080/@messie12/b5HS41z/9520
+TR : beIN Series Sci-Fi,http://faucontv.live:8080/@messie12/b5HS41z/9522
+TR : beIN Series Vice,http://faucontv.live:8080/@messie12/b5HS41z/9521
+TR : beIN Sports 1 SD 480p,http://faucontv.live:8080/@messie12/b5HS41z/9321
+VIP ALL Sport
+FR:* Bein Sports 1 FHD,http://faucontv.live:8080/@messie12/b5HS41z/114475
+FR: Bein Sports 1 FHD2,http://faucontv.live:8080/@messie12/b5HS41z/114476
+FR: Bein Sports 1 HD,http://faucontv.live:8080/@messie12/b5HS41z/114477
+FR:* Bein Sports 2 FHD,http://faucontv.live:8080/@messie12/b5HS41z/114478
+FR: Bein Sports 2 HD,http://faucontv.live:8080/@messie12/b5HS41z/114479
+FR: Bein Sports 2,http://faucontv.live:8080/@messie12/b5HS41z/114480
+FR:* Bein Sports 3 FHD,http://faucontv.live:8080/@messie12/b5HS41z/114481
+FR: Bein Sports 3 HD,http://faucontv.live:8080/@messie12/b5HS41z/114482
+FR: Bein Sports 3,http://faucontv.live:8080/@messie12/b5HS41z/114483
+FR: Bein Sports Max 4 HD,http://faucontv.live:8080/@messie12/b5HS41z/114521
+FR: Bein Sports Max 5 HD,http://faucontv.live:8080/@messie12/b5HS41z/114522
+FR: Bein Sports Max 6 HD,http://faucontv.live:8080/@messie12/b5HS41z/114523
+FR: Bein Sports Max 7 HD,http://faucontv.live:8080/@messie12/b5HS41z/114524
+FR: Bein Sports Max 8 HD,http://faucontv.live:8080/@messie12/b5HS41z/114525
+FR: Bein Sports Max 9 HD,http://faucontv.live:8080/@messie12/b5HS41z/114526
+TR: beIN Sports Haber HD,http://faucontv.live:8080/@messie12/b5HS41z/114918
+TR: beIN Sports 1 FHD,http://faucontv.live:8080/@messie12/b5HS41z/114919
+TR: beIN Sports 1 HD,http://faucontv.live:8080/@messie12/b5HS41z/114920
+TR: Bein Sports 1,http://faucontv.live:8080/@messie12/b5HS41z/114921
+TR: beIN Sports 2 FHD,http://faucontv.live:8080/@messie12/b5HS41z/114924
+TR: beIN Sports 2 HD,http://faucontv.live:8080/@messie12/b5HS41z/114925
+TR: Bein Sports 2,http://faucontv.live:8080/@messie12/b5HS41z/114926
+TR: beIN Sports 3 FHD,http://faucontv.live:8080/@messie12/b5HS41z/114927
+TR: beIN Sports 3 HD,http://faucontv.live:8080/@messie12/b5HS41z/114928
+TR: Bein Sports 3,http://faucontv.live:8080/@messie12/b5HS41z/114929
+TR: beIN Sports 4 FHD,http://faucontv.live:8080/@messie12/b5HS41z/114930
+TR: beIN Sports 4 HD,http://faucontv.live:8080/@messie12/b5HS41z/114931
+TR: Bein Sports 4,http://faucontv.live:8080/@messie12/b5HS41z/114932
+TR: beIN Sports Max 1 HD,http://faucontv.live:8080/@messie12/b5HS41z/114933
+US: beIN Sports FHD,http://faucontv.live:8080/@messie12/b5HS41z/115010
+US: beIN Sports Espagnol HD,http://faucontv.live:8080/@messie12/b5HS41z/115011
+US: beIN Sports 5 HD,http://faucontv.live:8080/@messie12/b5HS41z/115087
+AU: Bein Sports 2 FHD,http://faucontv.live:8080/@messie12/b5HS41z/115891
 彩虹_666,#genre#
 潘朵拉預告 ,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
 俄罗斯成人5台,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
