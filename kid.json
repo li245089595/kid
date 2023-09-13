@@ -229,7 +229,7 @@
 			"type": 0,
 			"api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
 			"searchable":1,
-            "changeable":1,
+                        "changeable":1,
 			"categories": [
 				"国产剧",
 				"香港剧",
@@ -263,7 +263,7 @@
 			"type": 0,
 			"api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
 			"searchable":1,
-            "changeable":1,
+                        "changeable":1,
 			"categories": [
 				"国产剧",
 				"香港剧",
@@ -322,7 +322,7 @@
                                   "伦理片",
                                   "纪录片",
                                   "国产动漫",
-    	                          "日韩动漫",
+    	                          "日本动漫",
     	                          "欧美动漫",
     	                          "大陆综艺",
     	                          "港台综艺",
