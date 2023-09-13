@@ -294,15 +294,15 @@
 				"海外动漫"
 			]
 		},
-	           {        "key": "api_暴风资源",
-			  "name": "💠┃暴风┃采集",
+	           {        "key": "api_快车资源",
+			  "name": "💠┃快车┃采集",
 			  "type": 1,
-			  "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+			  "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
 			  "playUrl": "",
 			  "playerType": 1,
 			  "searchable": 1,
 			  "quickSearch": 1,
-			  "filterable": 1,
+			  "filterable": 0,
 			  "categories": [
 	   	                  "国产剧",
     	                          "香港剧",
