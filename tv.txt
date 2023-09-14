@@ -190,23 +190,75 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 
 
 港澳,#genre#
-凤凰资讯,http://ali.hlspull.yximgs.com/live/fa7cdfad1a5aaf8370ebed8867410057.flv
-凤凰中文,http://ali.hlspull.yximgs.com/live/fa7cdfad1a5aaf8370eb7887844fh.flv
-凤凰香港,http://ali.hlspull.yximgs.com/live/fa7cdfad1a5aaf8370ebed00567455.flv
-凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
-凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
-凤凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
-18台,mitv://generationnexxxt.com:19806/3fb4bcf94b124e15961f49dcde926da9
-now财经台,mitv://generationnexxxt.com:19806/c1e14a395ecb44a29b579f1539773408
-美亚电影台(粤语),mitv://generationnexxxt.com:19806/d090012a4b8346c9a10dcebb48bded81
-Hands Up,mitv://generationnexxxt.com:19806/e78b4e2900154414a93f2ccd57a18d04
-粤语片台,mitv://generationnexxxt.com:19806/887df0bf0d8d492d95b9c2fdf6cc9694
+凤凰中文,p9p://108.181.32.169:19906/6410229e000655dd98612e41401e3e7d
+凤凰资讯,p9p://108.181.32.169:19906/641022be000e5cc69861ad4f5a025336
+凤凰香港台,p9p://108.181.32.169:19906/641022da0005d3069862188000a64525
+凤凰资讯,http://111.20.40.166:80/PLTV/88888893/224/3221226546/index.m3u8
+凤凰中文,http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8
+凤凰资讯,http://113.117.74.20:8081/hls/36/index.m3u8
+凤凰中文,http://113.117.74.20:8081/hls/37/index.m3u8
+凤凰香港,http://113.117.74.20:8081/hls/38/index.m3u8
+TVB翡翠台,p9p://108.181.32.169:19906/641009ee000871369800bf4762e35621
+TVB翡翠台(b),p9p://108.181.32.169:19906/6410094a000234c597fe3d0e63905877
+TVB翡翠台MY,p9p://108.181.32.169:19906/64100a0b000cbbda980131a946a90bc0
+TVB明珠台Pearl,p9p://108.181.32.169:19906/64100a2a0003a57f9801a86d6b050a59
+TVB星河粤语,p9p://108.181.32.169:19906/641021c50003c5af985dddf037af353c
+TVB星河国语,p9p://108.181.32.169:19906/641021e900026b0f985e6a374d7d56bb
+TVB功夫台,p9p://108.181.32.169:19906/6411291b0004b01b9c62861646d00929
+TVB娱乐新闻台,p9p://108.181.32.169:19906/64102219000c6f74985f28485a5a5799
+TVB J2,p9p://108.181.32.169:19906/641021800006a527985cd1244315142d
+TVB经典台,p9p://108.181.32.169:19906/6410219e0000704b985d44bd2a501d47
+TVB爆谷台(不稳定),p9p://108.181.32.169:19906/641af90c000328bac2b691f11db2274a
+TVB星影台(不稳定),p9p://108.181.32.169:19906/641af926000cc2b9c2b6f9f75c8d2b97
+電影一台,p9p://108.181.32.169:19906/6410224e00097a01985ff68e53d22e70
+VIU TV,p9p://108.181.32.169:19906/641021400008eb86985bd7b90b510a5b
+VIU six,p9p://108.181.32.169:19906/6410215d000ad4ca985c497e192b3552
+RHK 31,p9p://108.181.32.169:19906/64101f330006ab429853d45f7940453b
+RHK 32,p9p://108.181.32.169:19906/641020b00001b8599859a360613572d7
+HOY咨询台有线新闻台,p9p://108.181.32.169:19906/64100a4d0003fbac9802313b0c8b4f3f
+HOY咨询台有线新闻台(b),p9p://108.181.32.169:19906/6427e50e0008e093f53042b347a45e2f
+有線體育台,p9p://108.181.32.169:19906/64100a6b000527e19802a6b80be147fa
+有線耀才财经,p9p://108.181.32.169:19906/64102268000ecb1f98605d7b0a602bf4	
+有線603跑马,p9p://108.181.32.169:19906/64100253000d483097e30b0629d25344
+有線18台跑马,p9p://108.181.32.169:19906/641002ab000aa8ea97e4621a4f8c0b83
+CH288跑马,p9p://108.181.32.169:19906/641002df0003eab597e52b80616d018d
+CH289跑马,p9p://108.181.32.169:19906/641002f7000a790097e58aee1e6e4196
+無線新聞台,p9p://108.181.32.169:19906/64100a940006c6399803474b6281105f
+無線新聞台(b),p9p://108.181.32.169:19906/641010d400018818981bafed68b74c1b
+無線財經台,p9p://108.181.32.169:19906/64100aec000c7bc59804a081537730cb
+NOW财经台,p9p://108.181.32.169:19906/641020d00004bf91985a212731011c3c
+NOW直播台,p9p://108.181.32.169:19906/6417e77b0007feb1b6b9f4ca25bc6e04
+NOW新闻台,p9p://108.181.32.169:19906/6410254c0006df63986ba60f292a7500
+NOW体育台,p9p://108.181.32.169:19906/6410211d00048968985b4de16d6e5b6a
+Now体育1 Sports 1,p9p://108.181.32.169:19906/643361f20007b9a9220fabfc3001244e
+Now体育2 Sports 2,p9p://108.181.32.169:19906/643362090006b031221005903b883d07
+Now体育3 Sports 3,p9p://108.181.32.169:19906/6433621d000d9c3522105573223958e1
+Now体育4 Sports 4,p9p://108.181.32.169:19906/6437999f00025f983289265f38ef3722
+Now体育5 Sports 5,p9p://108.181.32.169:19906/643799aa000e7bac3289547135e05a80
+Now体育6 Sports 6,p9p://108.181.32.169:19906/643799bb00044f193289943e2e5f6ac1
+Now体育7 Sports 7,p9p://108.181.32.169:19906/643799ca000a29a43289d0542d57262c
+星空卫视,p9p://108.181.32.169:19906/64102283000b474e9860c60d1e264899
+爆谷台(c),p9p://108.181.32.169:19906/641022f9000772dd9862920216c85f6a
+HBO,p9p://108.181.32.169:19906/64137f0b0006a17fa58238155813216c
+HBO家庭,p9p://108.181.32.169:19906/64137f3c000d4a86a582f93235111bc5
+HBO强档,p9p://108.181.32.169:19906/64137f700008f329a583c3344ddf5dfc
+HBO原创,p9p://108.181.32.169:19906/64137f970005246ea5845a9326ce6233
+凤凰资讯test,p9p://108.181.32.169:19906/641fd7b400080236d5bc536f5d82159c
+Kix HD,p9p://108.181.32.169:19906/6413854d000785b1a59aaa2924fa1aa7
+Discovery Channel,p9p://108.181.32.169:19906/641383f300048101a59561c464b07293
+TVB黃金翡翠台,p9p://108.181.32.169:19906/64206c63000c3a90d801201c5fe2483a
+TVB 粤语片台,p9p://108.181.32.169:19906/641022340009a273985f91092cb6113d
+TVB粵語片台,p9p://108.181.32.169:19906/643361c7000d4bee220f05703b541d41
+TVB華語劇台,p9p://108.181.32.169:19906/643361e10003610a220f68773c0b4c78
+TVB戲曲台,p9p://108.181.32.169:19906/64336236000b18a12210b67722665e99
 18台,mitv://135.148.104.228:19806/3fb4bcf94b124e15961f49dcde926da9
 Hands Up,mitv://135.148.104.228:19806/e78b4e2900154414a93f2ccd57a18d04 
 粤语片台,mitv://135.148.104.228:19806/887df0bf0d8d492d95b9c2fdf6cc9694 
 亚洲剧台,mitv://135.148.104.228:19806/ddd1f7ef6ccc486eb861a1215115d7d2 
 功夫台,mitv://135.148.104.228:19806/4c3f27dd7eb44be289557ccfb7c410b3 
-
+龙华电影台,https://pull-l3-activity.ixigua.com/live/stream-7c4301f3ec1b9c970db0af9d1c07e66f.m3u8
+美亚电影香港,https://pull-l3-activity.ixigua.com/live/stream-b16e0049bdda5f54e62d3c9b694d81ff.m3u8
+美亚电影台湾,https://pull-l3-activity.ixigua.com/live/stream-4b7a860a41c30245fdec6983a633d264.m3u8
 
 台湾,#genre#
 民视,p9p://108.181.32.169:19906/64251dd200003544ea55fe1c5eb00e42
@@ -426,6 +478,7 @@ TVBS亚洲,mitv://generationnexxxt.com:19806/3ee34cdd82744fb39ef758059e7d2704
 NBA,mitv://generationnexxxt.com:19806/6fcac440f84e4d6b8a6ebeed5d393dba
 beINSports2,mitv://generationnexxxt.com:19806/0d857c6ac77d4cd58f0153c47a6804d5
 
+
 日本,#genre#
 NHK-G综合,mitv://generationnexxxt.com:19806/810050ee3b224cffbff84c07e53c499a
 NHK-E教育,mitv://generationnexxxt.com:19806/797e091247a14ad2a918c9cb2e95cca3
@@ -465,7 +518,6 @@ MusicJapanTV,mitv://generationnexxxt.com:19806/7bbfd7a0233d4861943f8488dc21e075
 ナショナルジオグラフィック,mitv://generationnexxxt.com:19806/415d6f2939a74d34b80a151a959b1733
 日テレNEWS24,mitv://generationnexxxt.com:19806/c7154b60dd934b43a1e42a0fc1b38734
 旅チャンネル,mitv://generationnexxxt.com:19806/bab71e3fb519479ea64543d006b8089f
-
 韩国,#genre#
 Arirang,mitv://generationnexxxt.com:19806/853704c2f9a442e7a1532038f14d8d00
 KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
@@ -487,7 +539,6 @@ MBN,mitv://generationnexxxt.com:19806/09dbf5da37f9450c9bca9c7dabadf2bd
 Tooniverse,mitv://generationnexxxt.com:19806/3c1da427c435451fa526abe4d1c5d446
 SPOTV,mitv://generationnexxxt.com:19806/d270398d5c9d4358a1fab94773d6b8d1
 JTBCGOLF,mitv://generationnexxxt.com:19806/7c397fb18c154c5f91e41a48fd3ab95c
-
 泰国,#genre#
 Channel5,mitv://generationnexxxt.com:19806/68798aed16c6475180d6239acdecd888
 NBT,mitv://generationnexxxt.com:19806/4977f52edbae4d41b28fa28fb4bb8eb7
@@ -539,7 +590,6 @@ CP24,mitv://generationnexxxt.com:19806/6186394bd1ff4b8b9757d542a9ca2e4b
 TheWeatherNetwork,mitv://generationnexxxt.com:19806/c556ed82dcc2453dabd398273651d952
 TheWeatherChannel,mitv://generationnexxxt.com:19806/499917ffa94444328d65744d929c1eb3
 KOMO4TV,mitv://generationnexxxt.com:19806/d09839dc0ae84712bb24938c634626fe
-
 巴西,#genre#
 TV Globo,http://45.58.126.146:14008
 TV Globo,http://45.58.126.146:14011
@@ -657,20 +707,12 @@ SkynetSports6,mitv://generationnexxxt.com:19806/c93ca4c1b3894bc8b28d1d6f8e2516a6
 FightSports,mitv://generationnexxxt.com:19806/7375a5f151c047b294a8e8c6ddad178d
 ESPN,mitv://generationnexxxt.com:19806/2436baa9e481444fa785298d5931bdba
 HKC18,mitv://generationnexxxt.com:19806/140377dc9e0848678d614d451d69af9e
-爱尔达体育1台(备),mitv://generationnexxxt.com:19806/fa59b91487ea4f42967c790281aa78a8
-爱尔达体育2台,mitv://generationnexxxt.com:19806/178bfd2a7d8c4957be40f6dfae8166fd
-TRACESportStars,mitv://generationnexxxt.com:19806/a77bb56208fb4ec196fdac96d5951ae6
-博斯高球,mitv://generationnexxxt.com:19806/2feb1bf447874dd791e226e6d5a662a8
-博斯高球二台,mitv://generationnexxxt.com:19806/7054eaf6653040fc835c9db23ce8a086
-博斯网球台,mitv://generationnexxxt.com:19806/d1cf1df177174953a88364f6c24ba324
-博斯魅力网,mitv://generationnexxxt.com:19806/ada821feefa0400fa1bfe419ff7111ee
-博斯无限台,mitv://generationnexxxt.com:19806/aa2cc409abbe4130a4e0698e57b232cb
-博斯无限二台,mitv://generationnexxxt.com:19806/264fe420f39940bc9c88501f0f54e317
-SPOTV,mitv://generationnexxxt.com:19806/60ad67b765414b32882a24ce6c63808a
-博斯运动,mitv://generationnexxxt.com:19806/90595e8292f8449daa700b91adcf442e
-ELEVEN体育2台,mitv://generationnexxxt.com:19806/71a6b555e26d4e5981fca9d4e0d85b8a
-智林体育台,mitv://generationnexxxt.com:19806/8e66aaaf5e2e4830a7a51b2a004fd3f9
-博斯运动二台,mitv://generationnexxxt.com:19806/16b3fea0e9ff459a81c39e1cec3a0434
+愛爾達體育1台,https://pull-l3-activity.ixigua.com/live/YesLiveTV-32451cc5-e331-40cb-abf8-bad0d9533b94.m3u8
+愛爾達體育2台,https://pull-l3-activity.ixigua.com/live/YesLiveTV-73303d13-6aa7-45b1-93fd-a65e66402a23.m3u8
+愛爾達體育3台,https://pull-l3-activity.ixigua.com/live/YesLiveTV-09e5859b-86cb-4cb3-a4ee-101442b41c95.m3u8
+緯來體育台,https://pull-l3-activity.ixigua.com/live/YesLiveTV-38b8dd89-92c0-4957-817d-e6eb30ce26ed.m3u8
+ELEVEN體育1台,https://pull-l3-activity.ixigua.com/live/YesLiveTV-27093d7b-dc61-447f-8f5b-5e554fc02c16.m3u8
+ELEVEN體育2台,https://pull-l3-activity.ixigua.com/live/YesLiveTV-919c570c-7e11-455e-a270-d17b6c5c07e6.m3u8
 beINSports,mitv://generationnexxxt.com:19806/eefa5931a750470d8a3267932e36c644
 EurosportHD,mitv://generationnexxxt.com:19806/e76ddd61163e48bf8eda214d7d7ee91c
 AstroSuperSport5,mitv://generationnexxxt.com:19806/d41f257d25e54a0aa09227bde87eccf5
@@ -684,7 +726,6 @@ SkySportsMainEvent,mitv://generationnexxxt.com:19806/d80cfc5272f14b4bb675b1c8644
 SkySportsCricket,mitv://generationnexxxt.com:19806/d342ec6589c24499b5f806408bea4ae8
 SkySportsAction,mitv://generationnexxxt.com:19806/d627b2c21c264a13afa935d214060989
 GolfChannel,mitv://generationnexxxt.com:19806/64c9fed20006029d16e0744a41d351cd
-
 知识,#genre#
 CCTV9,mitv://generationnexxxt.com:19806/285ffc4f61df4970a30856868692a805
 国家地理频道,mitv://generationnexxxt.com:19806/229d40efa0c54fdc98f5ba46141ef079
@@ -711,6 +752,7 @@ LoveNature,mitv://generationnexxxt.com:19806/1138e7f99188489d80fe4b12516581a4
 亚洲美食频道,mitv://generationnexxxt.com:19806/b4289d1b42684f90942c57e82c03d6b2
 亚洲旅游台,mitv://generationnexxxt.com:19806/a068d4f14c5e487aa0582feec88d4d45
 EYETV旅游台,mitv://generationnexxxt.com:19806/d4459f83cffa4a798fcd1d0a0a6bbf52
+
 
 少儿,#genre#
 CCTV14,mitv://generationnexxxt.com:19806/b35180f2513844d6931ddd63f9a4da74
