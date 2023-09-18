@@ -276,7 +276,7 @@ CHC高清电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m
 
 
 
-NEW,#genre#
+剧场,#genre#
 明星大片,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000004000019008&livemode=1&stbId=2&channel-id=ystenlive
 超级体育,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000009601&livemode=1&stbId=2&channel-id=ystenlive
 超级电影,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000012884&livemode=1&stbId=2&channel-id=ystenlive
@@ -305,7 +305,7 @@ NEW,#genre#
 黑莓电竞,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000006906&livemode=1&stbId=2&channel-id=ystenlive
 
 
-HOT,#genre#
+剧场,#genre#
 ﻿IHOT爱谍战,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
 IHOT爱动漫,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 IHOT爱都市,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
