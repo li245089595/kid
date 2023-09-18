@@ -35,10 +35,6 @@ CCTV央视精品文化,http://111.20.105.60:6060/yinhe/2/ch00000090990000002535/
 CCTV电视指南,http://111.20.105.60:6060/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 中央新影发现之旅,http://111.20.105.60:6060/yinhe/2/ch00000090990000001314/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 中央新影老故事,http://111.20.105.60:6060/yinhe/2/ch00000090990000001315/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CETV1,http://txycetvbl.centv.cn/cetv1/ypd.m3u8
-CETV2,http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
-CETV3,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
-CETV4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 CGTN-西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN-法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN-俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
