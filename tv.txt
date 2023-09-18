@@ -280,7 +280,7 @@ CHC高清电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m
 
 
 
-new,#genre#
+NEW,#genre#
 明星大片,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000004000019008&livemode=1&stbId=2&channel-id=ystenlive
 超级体育,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000009601&livemode=1&stbId=2&channel-id=ystenlive
 超级电影,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000012884&livemode=1&stbId=2&channel-id=ystenlive
