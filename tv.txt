@@ -962,13 +962,12 @@ NickJr.,mitv://generationnexxxt.com:19806/0c5a3d3568e84a6ba24c50fdf29e8b4f
 HandsUp,mitv://generationnexxxt.com:19806/e78b4e2900154414a93f2ccd57a18d04
 
 彩虹_666,#genre#
-HAPPY,mitv://generationnexxxt.com:19806/3d1df484dbe649a3b509dbe60dca4bfa
-K,mitv://generationnexxxt.com:19806/5e51b7ff2fa34cb6a667e3d3c217da88
+
 Playboy,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/527/index.m3u8
 Bazzers TV Europe,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/910/index.m3u8
 Blue Hustler,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/1064/index.m3u8
 Barely legal,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/871/index.m3u8
-SCT,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/876/index.m3u8
+
 Dorcel TV FHD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/878/index.m3u8
 Redlight HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/242/index.m3u8
 Private TV,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/243/index.m3u8
@@ -1009,7 +1008,7 @@ Playboy,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/527/index.m3u8
 Bazzers TV Europe,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/910/index.m3u8
 Blue Hustler,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/1064/index.m3u8
 Barely legal,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/871/index.m3u8
-SCT,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/876/index.m3u8
+
 Dorcel TV FHD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/878/index.m3u8
 Redlight HD,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/242/index.m3u8
 Private TV,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/243/index.m3u8
