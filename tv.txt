@@ -164,7 +164,6 @@ CGTN-阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 CHC动作电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC电影,http://223.100.63.144:880/dx101.m3u8
 求索纪录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
 求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
@@ -269,7 +268,6 @@ IHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600003
 电影_星爷,http://8.210.232.168/php/huya.php?id=11342412
 电影_星爷2,http://8.210.232.168/php/huya.php?id=11336587
 电影_英叔,http://8.210.232.168/php/huya.php?id=11342421
-电影_英叔2,http://8.210.232.168/php/huya.php?id=25256065
 电影_发哥,http://8.210.232.168/php/huya.php?id=11342387
 电影_洪金宝,http://8.210.232.168/php/huya.php?id=11279251
 电影_梁家辉,http://8.210.232.168/php/huya.php?id=11342429
