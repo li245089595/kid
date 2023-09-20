@@ -905,7 +905,7 @@ Movies Now (FHD),http://humiptv.live:8080/live/5675678/5675678/152387.ts
 Movies Now SD,http://humiptv.live:8080/live/5675678/5675678/152388.ts
 
 
-彩虹_666,#genre#
+彩虹_231,#genre#
 Playboy,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/527/index.m3u8
 Bazzers TV Europe,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/910/index.m3u8
 Blue Hustler,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/1064/index.m3u8
