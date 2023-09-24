@@ -870,41 +870,6 @@ BBB,http://45.58.126.146:14710
 Futebol ,http://45.58.126.146:14714
 
 
-海外,#genre#
-STAR MOVIES HD,http://humiptv.live:8080/live/5675678/5675678/979.ts
-STAR MOVIES SELECT HD,http://humiptv.live:8080/live/5675678/5675678/218.ts
-SONY PIX HD,http://humiptv.live:8080/live/5675678/5675678/147.ts
-MN PLUS,http://humiptv.live:8080/live/5675678/5675678/178.ts
-MNX HD,http://humiptv.live:8080/live/5675678/5675678/191.ts
-PRIVE HD,http://humiptv.live:8080/live/5675678/5675678/201.ts
-FLIX HD,http://humiptv.live:8080/live/5675678/5675678/253.ts
-HBO 2 HD,http://humiptv.live:8080/live/5675678/5675678/185.ts
-COLORS INFINITY HD,http://humiptv.live:8080/live/5675678/5675678/187.ts
-ZEECAFE HD,http://humiptv.live:8080/live/5675678/5675678/196.ts
-FYI TV18 HD,http://humiptv.live:8080/live/5675678/5675678/152.ts
-FOX LIFE,http://humiptv.live:8080/live/5675678/5675678/2115.ts
-PRIVE (FHD),http://humiptv.live:8080/live/5675678/5675678/9379.ts
-SONY PIX (FHD),http://humiptv.live:8080/live/5675678/5675678/9381.ts
-MN+ (FHD),http://humiptv.live:8080/live/5675678/5675678/9383.ts
-STAR MOVIES (FHD),http://humiptv.live:8080/live/5675678/5675678/9384.ts
-FOX Life (FHD),http://humiptv.live:8080/live/5675678/5675678/9387.ts
-TLC (FHD),http://humiptv.live:8080/live/5675678/5675678/9388.ts
-ZEE Cafe (FHD),http://humiptv.live:8080/live/5675678/5675678/9389.ts
-Colors INFINITY (FHD),http://humiptv.live:8080/live/5675678/5675678/9390.ts
-STAR MOVIES SELECT (FHD),http://humiptv.live:8080/live/5675678/5675678/23270.ts
-MNX (FHD),http://humiptv.live:8080/live/5675678/5675678/23428.ts
-ROMEDY NOW HD,http://humiptv.live:8080/live/5675678/5675678/179.ts
-COMEDY-CENTRAL (FHD),http://humiptv.live:8080/live/5675678/5675678/23429.ts
-COMEDY CENTRAL HD,http://humiptv.live:8080/live/5675678/5675678/186.ts
-Cinema World HD,http://humiptv.live:8080/live/5675678/5675678/152369.ts
-Rock Entertainment HD,http://humiptv.live:8080/live/5675678/5675678/152370.ts
-CINEMAX HD,http://humiptv.live:8080/live/5675678/5675678/152371.ts
-HBO Hits HD,http://humiptv.live:8080/live/5675678/5675678/152372.ts
-HBO HD,http://humiptv.live:8080/live/5675678/5675678/152373.ts
-Movies Now (FHD),http://humiptv.live:8080/live/5675678/5675678/152387.ts
-Movies Now SD,http://humiptv.live:8080/live/5675678/5675678/152388.ts
-
-
 彩虹_231,#genre#
 Playboy,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/527/index.m3u8
 Bazzers TV Europe,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/910/index.m3u8
