@@ -156,7 +156,7 @@
 			"playerType": 1,
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
+			"filterable": 0,
 			"categories": [
 				"内地剧",
 				"香港剧",
