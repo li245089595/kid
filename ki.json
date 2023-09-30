@@ -151,7 +151,7 @@
 			"key": "api_火狐资源",
 			"name": "💠┃火狐┃采集",
 			"type": 1,
-			"api": "https://hhzyapi.com/api.php/provide/vod",
+			"api": "https://hhzyapi.com/api.php/provide/vod/at/json",
 			"playUrl": "",
 			"playerType": 1,
 			"searchable": 1,
