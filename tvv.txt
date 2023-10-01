@@ -338,41 +338,27 @@ IHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600003
 电影_怪兽系列,http://8.210.232.168/php/huya.php?id=21059554
 
 港澳,#genre#
-港台電視31,mitv://generationnexxxt.com:19806/12b5eea072e34abbaf7adfd950404b67
-港台电视32,mitv://generationnexxxt.com:19806/8ab3331324eb460789c1dfb4ccd904eb
-HOY TV,mitv://generationnexxxt.com:19806/fa4b14cab6fc46babb93f8a07499f9fa
-﻿翡翠台(备),mitv://generationnexxxt.com:19806/a2dc5d7f049c49e7bccc56ec1b7dd5cd
-J2,mitv://generationnexxxt.com:19806/fd81ce98b0c042d3a02e02915f067009
-无线新闻台(备),mitv://generationnexxxt.com:19806/0a28185ffdf44e17b3e42be27c114d3f
-无线新闻台,mitv://generationnexxxt.com:19806/269bee3aed04481aaadee12881860733
-无线财经体育资讯台,mitv://generationnexxxt.com:19806/a2a378dcf0c14f3c9640b58f1c237ecb
-ViuTVsix,mitv://generationnexxxt.com:19806/d03a7bc7192b438d819cccb87e57c241
-ViuTV,mitv://generationnexxxt.com:19806/de010e8c970248058b86f475476cf6cd
-凤凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f	
-凤凰资讯台,mitv://generationnexxxt.com:19806/09e4cacca57e465e8bdd47481f842b83
-凤凰香港台,mitv://generationnexxxt.com:19806/1229628cd9d1442ca81ee8e3148dbbf6
-TVB星河(粤),mitv://generationnexxxt.com:19806/8c81917b79d247f3a60857411973d9a5
-澳门-MACAU,mitv://generationnexxxt.com:19806/499492b27bc2498a866bdf625c54a84b
-澳门莲花,mitv://generationnexxxt.com:19806/d2fd5d20e9574d008a6d863deeb82c25
-now新闻台,mitv://generationnexxxt.com:19806/4aec31272c864003a04259d4bd405f20
-HKC 18,mitv://generationnexxxt.com:19806/140377dc9e0848678d614d451d69af9e
-戏曲台,mitv://generationnexxxt.com:19806/64e1e6030000081f743f926825ac558c
-TVB娱乐新闻台,mitv://generationnexxxt.com:19806/86fe6741d7da4c59919680e5d9857450
-翡翠台,mitv://generationnexxxt.com:19806/1b03d72fd3854026b21904e939b8446a
-千禧经典台,mitv://generationnexxxt.com:19806/82237250e487405d87030dd69457ddd8
-Thrill,mitv://generationnexxxt.com:19806/7570e39d31c84a1ba9472fa57c762358
-明珠台,mitv://generationnexxxt.com:19806/49f04baa4ea94bf6a60e7c2062c175e4
-香港国际财经台,mitv://generationnexxxt.com:19806/2051591a639c49eab0cb32f0e559c4e9
-18台,mitv://generationnexxxt.com:19806/3fb4bcf94b124e15961f49dcde926da9
-now财经台,mitv://generationnexxxt.com:19806/fb6cb4940d924709aaeac5ecb71e8b76
-美亚电影台(粤语),mitv://generationnexxxt.com:19806/858627003b014ecdade101446a5b0972
-Hands Up,mitv://generationnexxxt.com:19806/e78b4e2900154414a93f2ccd57a18d04
-粤语片台,mitv://generationnexxxt.com:19806/887df0bf0d8d492d95b9c2fdf6cc9694
-18台,mitv://135.148.104.228:19806/3fb4bcf94b124e15961f49dcde926da9
-Hands Up,mitv://135.148.104.228:19806/e78b4e2900154414a93f2ccd57a18d04 
-粤语片台,mitv://135.148.104.228:19806/887df0bf0d8d492d95b9c2fdf6cc9694 
-亚洲剧台,mitv://135.148.104.228:19806/ddd1f7ef6ccc486eb861a1215115d7d2 
-功夫台,mitv://135.148.104.228:19806/4c3f27dd7eb44be289557ccfb7c410b3 
+J2,https://pull-f5-spe.ixigua.com/live/YesLiveTV-49d07bbf-7352-4a1e-9ded-9b91e96ec441.flv?by=yeslivetv_com
+翡翠台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-29486908-d4a6-407e-b02c-58532359ae33.flv?by=yeslivetv.com
+明珠台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-828c8012-d399-44b6-81bb-7d47bb37cc1a.flv?by=yeslivetv_com
+無綫新聞,https://pull-f5-spe.ixigua.com/live/YesLiveTV-37935e09-d5dd-4c26-dfc2-ce8de2275212.flv?by=yeslivetv.com
+無綫財經,https://pull-f5-spe.ixigua.com/live/YesLiveTV-8446f0d8-3c55-2448-5042-b8477c683a1f.flv?by=yeslivetv.com
+Hoy资讯,https://pull-f5-spe.ixigua.com/live/YesLiveTV-65c3bac4-5e0f-4a48-99d1-a2d21eefb61f.flv?by=yeslivetv.com
+HoyTV,https://pull-f5-spe.ixigua.com/live/YesLiveTV-21c17c48-dec2-451d-9350-6aa510ff6207.flv?by=yeslivetv.com
+香港国际财经,https://pull-f5-spe.ixigua.com/live/YesLiveTV-619ff898-81e2-4050-8a0f-ac917b7df41a.flv?by=yeslivetv.com
+ViuTV,https://pull-f5-spe.ixigua.com/live/YesLiveTV-669bba1e-5e46-4903-86f3-e7f269507193.flv?by=yeslivetv.com
+港台31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
+港台32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+港台33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+港台34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+港台35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+TVBS新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-420f0c81-6b9f-43fd-95af-6b3d352fafd0.flv?by=yeslivetv.com
+东森新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-99e04f4f-93d6-4e46-bfc2-52e9101c155e.flv?by=yeslivetv.com
+年代新聞,https://pull-f5-spe.ixigua.com/live/YesLiveTV-738e0ad5-96a9-460b-b163-c4c4c8346a29.flv?by=yeslivetv_com
+衛視中文,https://pull-f5-spe.ixigua.com/live/YesLiveTV-27a0b421-ffd6-496f-a58f-ea6e562fa6c0.flv?by=yeslivetv.com
+东森新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-54dbfee5-5841-4fa4-940b-732890350393.flv?by=yeslivetv_com
+年代新聞,https://pull-f5-spe.ixigua.com/live/YesLiveTV-738e0ad5-96a9-460b-b163-c4c4c8346a29.flv?by=yeslivetv_com
+衛視中文,https://pull-f5-spe.ixigua.com/live/YesLiveTV-27a0b421-ffd6-496f-a58f-ea6e562fa6c0.flv?by=yeslivetv.com
 
 
 台湾,#genre#
