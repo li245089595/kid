@@ -151,7 +151,7 @@
 			"key": "api_火狐采集",
 			"name": "💠┃火狐┃采集",
 			"type": 0,
-			"api": "https://hhzyapi.com/api.php/provide/vod/at/xml",
+			"api": "https://bfzyapi.com/api.php/provide/vod/at/xml",
 			"searchable":1,
                         "changeable":1,
 			"categories": [
