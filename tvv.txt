@@ -339,50 +339,43 @@ IHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600003
 电影_怪兽系列,http://8.210.232.168/php/huya.php?id=21059554
 
 港澳,#genre#
-明珠台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-828c8012-d399-44b6-81bb-7d47bb37cc1a.flv?by=yeslivetv_com
-無綫新聞,https://pull-f5-spe.ixigua.com/live/YesLiveTV-37935e09-d5dd-4c26-dfc2-ce8de2275212.flv?by=yeslivetv.com
-無綫財經,https://pull-f5-spe.ixigua.com/live/YesLiveTV-8446f0d8-3c55-2448-5042-b8477c683a1f.flv?by=yeslivetv.com
-Hoy资讯,https://pull-f5-spe.ixigua.com/live/YesLiveTV-65c3bac4-5e0f-4a48-99d1-a2d21eefb61f.flv?by=yeslivetv.com
-HoyTV,https://pull-f5-spe.ixigua.com/live/YesLiveTV-21c17c48-dec2-451d-9350-6aa510ff6207.flv?by=yeslivetv.com
-港台31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
-港台32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
-港台33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-港台34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-港台35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-港台電視31,mitv://generationnexxxt.com:19806/095526b67885436c885c55e8a856fb96
-港台电视32,mitv://generationnexxxt.com:19806/7344cd9c65bf49119c50f47b79ce3a78
-HOY TV,mitv://generationnexxxt.com:19806/2c29d23d96ac4531a56785adadedeab3
-翡翠台(备),mitv://generationnexxxt.com:19806/0f7323d193d04a3fbb731e76c74df3df
 J2,mitv://generationnexxxt.com:19806/94f5b35380ea4b12b8bd9c6af8ef90a8
+翡翠台,mitv://generationnexxxt.com:19806/1e872ba83c4242098a5074c34ca37fee
+翡翠台(备),mitv://generationnexxxt.com:19806/0f7323d193d04a3fbb731e76c74df3df
+明珠台,mitv://generationnexxxt.com:19806/bd749fc60166459cb188ccc5c1d77d1c
+TVB星河(粤),mitv://generationnexxxt.com:19806/d3eb302836af436baef656d5c201f1a3
+TVB娱乐新闻台,mitv://generationnexxxt.com:19806/38b5b6844291493b987f3de5afa2b373
 无线新闻台(备),mitv://generationnexxxt.com:19806/3daaac60026c439fb22d4b0e0017fe04
+千禧经典台,mitv://generationnexxxt.com:19806/8695a8b7d5e24fb5b31d3bf1ea8a264d
 无线新闻台,mitv://generationnexxxt.com:19806/47b096167d6a421cb0e74070831c3a30
 无线财经体育资讯台,mitv://generationnexxxt.com:19806/9c0b83eea6244a839849d2c27462387d
+HOY TV,mitv://generationnexxxt.com:19806/2c29d23d96ac4531a56785adadedeab3
+HOY资讯台,mitv://generationnexxxt.com:19806/32dcfcb99e6a4669a0683d2ca8148f78
+香港国际财经台,mitv://generationnexxxt.com:19806/820a88d36a224385860744cd2d65eeef
+HKC 18,mitv://generationnexxxt.com:19806/140377dc9e0848678d614d451d69af9e
+18台,mitv://generationnexxxt.com:19806/8143a3d9d5f24ecd845a4dd236879549
 ViuTVsix,mitv://generationnexxxt.com:19806/5af22f9574db457eb1a3a426b41c719f
 ViuTV,mitv://generationnexxxt.com:19806/374ef7b7e26244b78fef56b03d3acc4d
-凤凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f	
-凤凰资讯台,mitv://generationnexxxt.com:19806/f1be3950960d423a9f70c8144718c7cf
-凤凰香港台,mitv://generationnexxxt.com:19806/4c2233f1428e4425946cbdc304eb5a20
-TVB星河(粤),mitv://generationnexxxt.com:19806/d3eb302836af436baef656d5c201f1a3
-澳门-MACAU,mitv://generationnexxxt.com:19806/924aa2a1e2494d70af3ebdc896538f65
-澳门莲花,mitv://generationnexxxt.com:19806/5de63d8973684841b31d12ca6ec8d143
+港台電視31,mitv://generationnexxxt.com:19806/095526b67885436c885c55e8a856fb96
+港台電視32,mitv://generationnexxxt.com:19806/7344cd9c65bf49119c50f47b79ce3a78
+港台電視33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+港台電視34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+港台電視35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 now新闻台,mitv://generationnexxxt.com:19806/c5b4f7e05dbb4d4387d04d81d34a03c4
-HKC 18,mitv://generationnexxxt.com:19806/140377dc9e0848678d614d451d69af9e
-戏曲台,mitv://generationnexxxt.com:19806/871860cf869e471e918797abd540fe56
-TVB娱乐新闻台,mitv://generationnexxxt.com:19806/38b5b6844291493b987f3de5afa2b373
-翡翠台,mitv://generationnexxxt.com:19806/1e872ba83c4242098a5074c34ca37fee
-千禧经典台,mitv://generationnexxxt.com:19806/8695a8b7d5e24fb5b31d3bf1ea8a264d
-Thrill,mitv://generationnexxxt.com:19806/05eb2528a43c4b86848b5d4eff38856b
-明珠台,mitv://generationnexxxt.com:19806/bd749fc60166459cb188ccc5c1d77d1c
-香港国际财经台,mitv://generationnexxxt.com:19806/820a88d36a224385860744cd2d65eeef
-18台,mitv://generationnexxxt.com:19806/8143a3d9d5f24ecd845a4dd236879549
 now财经台,mitv://generationnexxxt.com:19806/aa389847c0d74369bf156d9646e8e463
 美亚电影台(粤语),mitv://generationnexxxt.com:19806/122c0b94c76d4b4db507dd420b889787
+戏曲台,mitv://generationnexxxt.com:19806/871860cf869e471e918797abd540fe56
+Thrill,mitv://generationnexxxt.com:19806/05eb2528a43c4b86848b5d4eff38856b
 Hands Up,mitv://generationnexxxt.com:19806/411d19c74016481eb0ab743c22523102
 粤语片台,mitv://generationnexxxt.com:19806/1ae08c9e3c34408fb083445ab693b9b6
 亚洲剧台,mitv://generationnexxxt.com:19806/59e213eaf3b4421fa9bfa35706311450
 功夫台,mitv://generationnexxxt.com:19806/13d08d7212504d1a8b8b9d6e6706147a
-HOY资讯台,mitv://generationnexxxt.com:19806/32dcfcb99e6a4669a0683d2ca8148f78
 黄金翡翠台,mitv://generationnexxxt.com:19806/1aec68e2170f4bc7a42e108b1e2584cf
+凤凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f	
+凤凰资讯台,mitv://generationnexxxt.com:19806/f1be3950960d423a9f70c8144718c7cf
+凤凰香港台,mitv://generationnexxxt.com:19806/4c2233f1428e4425946cbdc304eb5a20
+澳门-MACAU,mitv://generationnexxxt.com:19806/924aa2a1e2494d70af3ebdc896538f65
+澳门莲花,mitv://generationnexxxt.com:19806/5de63d8973684841b31d12ca6ec8d143
 
 
 台湾,#genre#
