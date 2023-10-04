@@ -1,4 +1,4 @@
-🔶央视,#genre#
+🔸央视,#genre#
 CCTV-1高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV-2高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV-2高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
@@ -40,7 +40,7 @@ CGTN-法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN-俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN-阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
-🔶卫视,#genre#
+🔸卫视,#genre#
 浙江卫视高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
 四川卫视高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
 重庆卫视高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
@@ -86,7 +86,7 @@ CGTN-阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 内蒙古卫视高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
 康巴卫视高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
 
-🔶湖北,#genre#
+🔸湖北,#genre#
 湖北经视,http://dd.ikhs.cn:8880/udp/239.69.1.41:9886
 湖北综合,http://dd.ikhs.cn:8880/udp/239.69.1.42:9892
 湖北公共新闻,http://dd.ikhs.cn:8880/udp/239.69.1.40:9880
@@ -157,7 +157,7 @@ CGTN-阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 麻城综合,http://119.36.30.199:8888/mctv1.m3u8
 郧阳综合,http://58.19.198.159:2021/hls1.m3u8?zhubd
 
-🔶数位,#genre#
+🔸数位,#genre#
 黑莓电影,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=8785669936177902664&livemode=1&stbId=2&channel-id=ystenlive
 黑莓动画,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=6497762188035533951&livemode=1&stbId=2&channel-id=ystenlive
 黑莓电竞,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000006906&livemode=1&stbId=2&channel-id=ystenlive
@@ -205,7 +205,7 @@ CHC高清电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m
 天元围棋,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226341/1/index.m3u8?fmt=ts2hls
 环球奇观,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225681/1/index.m3u8?fmt=ts2hls
 
-🔶剧场,#genre#
+🔸剧场,#genre#
 NEW明星大片,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000004000019008&livemode=1&stbId=2&channel-id=ystenlive
 NEW超级体育,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000009601&livemode=1&stbId=2&channel-id=ystenlive
 NEW超级电影,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000012884&livemode=1&stbId=2&channel-id=ystenlive
@@ -262,7 +262,7 @@ IHOT爱幼教,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600018
 IHOT爱娱乐,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
 IHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
-🔶电影,#genre#
+🔸电影,#genre#
 电影_成龙,http://8.210.232.168/php/huya.php?id=11342386
 电影_李连杰,http://8.210.232.168/php/huya.php?id=11342390
 电影_星爷,http://8.210.232.168/php/huya.php?id=11342412
