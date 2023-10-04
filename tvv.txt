@@ -339,15 +339,11 @@ IHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600003
 电影_怪兽系列,http://8.210.232.168/php/huya.php?id=21059554
 
 港澳,#genre#
-J2,https://pull-f5-spe.ixigua.com/live/YesLiveTV-49d07bbf-7352-4a1e-9ded-9b91e96ec441.flv?by=yeslivetv_com
-翡翠台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-29486908-d4a6-407e-b02c-58532359ae33.flv?by=yeslivetv.com
 明珠台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-828c8012-d399-44b6-81bb-7d47bb37cc1a.flv?by=yeslivetv_com
 無綫新聞,https://pull-f5-spe.ixigua.com/live/YesLiveTV-37935e09-d5dd-4c26-dfc2-ce8de2275212.flv?by=yeslivetv.com
 無綫財經,https://pull-f5-spe.ixigua.com/live/YesLiveTV-8446f0d8-3c55-2448-5042-b8477c683a1f.flv?by=yeslivetv.com
 Hoy资讯,https://pull-f5-spe.ixigua.com/live/YesLiveTV-65c3bac4-5e0f-4a48-99d1-a2d21eefb61f.flv?by=yeslivetv.com
 HoyTV,https://pull-f5-spe.ixigua.com/live/YesLiveTV-21c17c48-dec2-451d-9350-6aa510ff6207.flv?by=yeslivetv.com
-香港国际财经,https://pull-f5-spe.ixigua.com/live/YesLiveTV-619ff898-81e2-4050-8a0f-ac917b7df41a.flv?by=yeslivetv.com
-ViuTV,https://pull-f5-spe.ixigua.com/live/YesLiveTV-669bba1e-5e46-4903-86f3-e7f269507193.flv?by=yeslivetv.com
 港台31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
 港台32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 港台33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
