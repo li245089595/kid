@@ -1,4 +1,4 @@
-央视,#genre#
+💠央视,#genre#
 CCTV-1高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV-2高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV-2高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
@@ -40,7 +40,7 @@ CGTN-法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN-俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN-阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
-卫视,#genre#
+💠卫视,#genre#
 浙江卫视高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
 四川卫视高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
 重庆卫视高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
@@ -86,7 +86,7 @@ CGTN-阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 内蒙古卫视高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
 康巴卫视高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
 
-湖北,#genre#
+💠湖北,#genre#
 湖北经视,http://dd.ikhs.cn:8880/udp/239.69.1.41:9886
 湖北综合,http://dd.ikhs.cn:8880/udp/239.69.1.42:9892
 湖北公共新闻,http://dd.ikhs.cn:8880/udp/239.69.1.40:9880
@@ -157,7 +157,7 @@ CGTN-阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 麻城综合,http://119.36.30.199:8888/mctv1.m3u8
 郧阳综合,http://58.19.198.159:2021/hls1.m3u8?zhubd
 
-数位,#genre#
+💠数位,#genre#
 黑莓电影,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=8785669936177902664&livemode=1&stbId=2&channel-id=ystenlive
 黑莓动画,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=6497762188035533951&livemode=1&stbId=2&channel-id=ystenlive
 黑莓电竞,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000006906&livemode=1&stbId=2&channel-id=ystenlive
@@ -205,7 +205,7 @@ CHC高清电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m
 天元围棋,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226341/1/index.m3u8?fmt=ts2hls
 环球奇观,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225681/1/index.m3u8?fmt=ts2hls
 
-剧场,#genre#
+💠剧场,#genre#
 NEW明星大片,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000004000019008&livemode=1&stbId=2&channel-id=ystenlive
 NEW超级体育,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000009601&livemode=1&stbId=2&channel-id=ystenlive
 NEW超级电影,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000012884&livemode=1&stbId=2&channel-id=ystenlive
@@ -262,7 +262,7 @@ IHOT爱幼教,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600018
 IHOT爱娱乐,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
 IHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
-电影,#genre#
+💠电影,#genre#
 电影_成龙,http://8.210.232.168/php/huya.php?id=11342386
 电影_李连杰,http://8.210.232.168/php/huya.php?id=11342390
 电影_星爷,http://8.210.232.168/php/huya.php?id=11342412
@@ -338,7 +338,7 @@ IHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600003
 电影_变形金刚,http://8.210.232.168/php/huya.php?id=21059596
 电影_怪兽系列,http://8.210.232.168/php/huya.php?id=21059554
 
-港澳,#genre#
+💠港澳,#genre#
 J2,mitv://generationnexxxt.com:19806/94f5b35380ea4b12b8bd9c6af8ef90a8
 翡翠台,mitv://generationnexxxt.com:19806/1e872ba83c4242098a5074c34ca37fee
 翡翠台(备),mitv://generationnexxxt.com:19806/0f7323d193d04a3fbb731e76c74df3df
@@ -378,7 +378,7 @@ Hands Up,mitv://generationnexxxt.com:19806/411d19c74016481eb0ab743c22523102
 澳门莲花,mitv://generationnexxxt.com:19806/5de63d8973684841b31d12ca6ec8d143
 
 
-台湾,#genre#
+💠台湾,#genre#
 民视,mitv://generationnexxxt.com:19806/67614555f2e0493aa68a4912bbc3ca32
 台视,mitv://generationnexxxt.com:19806/7e96091d946f478fbd7b2d04d35253ce
 大爱,mitv://generationnexxxt.com:19806/040bf47fdbea454b8b1dc1aae5bd8bd0
@@ -552,7 +552,7 @@ EYE TV戏剧台,mitv://generationnexxxt.com:19806/5f7410fd0f99496a8927227aa74d0a
 MTV,mitv://generationnexxxt.com:19806/4a8cd2677f48405cb158a6f3a2accaea
 
 
-马来,#genre#
+💠马来,#genre#
 TV1,mitv://generationnexxxt.com:19806/9e0eceaf93854a4eb3d9ae2dcf60141c
 TV2,mitv://generationnexxxt.com:19806/a3f71a80564c4deda0a57a4ba6ed2175
 TV3,mitv://generationnexxxt.com:19806/71eab7f7f53d4d86aad166f9abfb07aa
@@ -620,7 +620,7 @@ Fox News,mitv://generationnexxxt.com:19806/e9305a82b75c42f5901c0594e063e999
 东森亚洲卫视,mitv://generationnexxxt.com:19806/8a43d9cb067b47aaa8fd5f550930be0c
 NBA,mitv://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
  
-新加,#genre#
+💠新加,#genre#
 天映频道,mitv://generationnexxxt.com:19806/4b5e8ec28cf24208baa663599d6cc1f5
 中天亚洲台,mitv://generationnexxxt.com:19806/0ca9f16b087d4fe8bd97852c47a222b7
 TVB星河(粤),mitv://generationnexxxt.com:19806/8c81917b79d247f3a60857411973d9a5
@@ -652,7 +652,7 @@ TVBS亚洲,mitv://generationnexxxt.com:19806/3ee34cdd82744fb39ef758059e7d2704
 NBA,mitv://generationnexxxt.com:19806/6fcac440f84e4d6b8a6ebeed5d393dba
 beINSports2,mitv://generationnexxxt.com:19806/0d857c6ac77d4cd58f0153c47a6804d5
  
-日本,#genre#
+💠日本,#genre#
 NHK-G综合,mitv://generationnexxxt.com:19806/810050ee3b224cffbff84c07e53c499a
 NHK-E教育,mitv://generationnexxxt.com:19806/797e091247a14ad2a918c9cb2e95cca3
 日本テレビ,mitv://generationnexxxt.com:19806/e83c93ef5c914ed3826fe7856b81acf0
@@ -692,7 +692,7 @@ Music Japan TV,mitv://generationnexxxt.com:19806/7bbfd7a0233d4861943f8488dc21e07
 日テレNEWS 24,mitv://generationnexxxt.com:19806/c7154b60dd934b43a1e42a0fc1b38734
 旅チャンネル,mitv://generationnexxxt.com:19806/bab71e3fb519479ea64543d006b8089f
  
-韩国,#genre#
+💠韩国,#genre#
 Arirang,mitv://generationnexxxt.com:19806/853704c2f9a442e7a1532038f14d8d00
 KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
 KBS2,mitv://generationnexxxt.com:19806/fa378d3829f643d2a87c4c754bbae507
@@ -728,7 +728,7 @@ ONE,mitv://generationnexxxt.com:19806/bbed53ec33024bafae4696ba4d589e2c
 Thairath TV,mitv://generationnexxxt.com:19806/c1db5ee1e01048bc9f7319cda9a530c6
 Channel 3,mitv://generationnexxxt.com:19806/9f2ed619044e4208b64ba52f7a8c0a80
  
-泰国,#genre#
+💠泰国,#genre#
 Channel5,mitv://generationnexxxt.com:19806/68798aed16c6475180d6239acdecd888
 NBT,mitv://generationnexxxt.com:19806/4977f52edbae4d41b28fa28fb4bb8eb7
 TNN16,mitv://generationnexxxt.com:19806/5fa63eddc30543879c96b0a0a08ea60d
@@ -756,7 +756,7 @@ TVBThai,mitv://generationnexxxt.com:19806/7cf6f4e9806f4b6389d3a89af43cc256
 Bluesky,mitv://generationnexxxt.com:19806/c6490fe262bd4cf9a6bb3a3b82870495
 TopNews,mitv://generationnexxxt.com:19806/8a46eec67bfa42f6abd4032f91d304bf
  
-北美,#genre#
+💠北美,#genre#
 Amarin TV,mitv://generationnexxxt.com:19806/74f013c77d3b43bf875702f7177dba68
 Channel 7,mitv://generationnexxxt.com:19806/377bbd391f744a86a07d3d46e28db730
 PPTV,mitv://generationnexxxt.com:19806/46ff90c62cbb4bdfbccd3033a9268dcb
@@ -800,7 +800,7 @@ Sky Sports Main Event,mitv://generationnexxxt.com:19806/d80cfc5272f14b4bb675b1c8
 Sky Sports Cricket,mitv://generationnexxxt.com:19806/d342ec6589c24499b5f806408bea4ae8
 Sky Sports Action,mitv://generationnexxxt.com:19806/d627b2c21c264a13afa935d214060989
 
-巴西,#genre#
+💠巴西,#genre#
 TV Globo,http://45.58.126.146:14008
 TV Globo,http://45.58.126.146:14011
 TV Globo,http://45.58.126.146:14014
@@ -888,7 +888,7 @@ BBB,http://45.58.126.146:14710
 Futebol ,http://45.58.126.146:14714
 
 
-彩虹_231,#genre#
+🔞彩虹_231,#genre#
 Playboy,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/527/index.m3u8
 Bazzers TV Europe,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/910/index.m3u8
 Blue Hustler,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/1064/index.m3u8
