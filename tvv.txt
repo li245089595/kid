@@ -353,6 +353,7 @@ now新闻台,http://sc2022.stream-link.org/tv2306.php?id=h08
 ViuTV,http://sc2022.stream-link.org/tv2306.php?id=h09
 港台电视32,http://sc2022.stream-link.org/tv2306.php?id=h12
 港台电视33,http://sc2022.stream-link.org/tv2306.php?id=h13
+私人影院,mitv://generationnexxxt.com:19806/70da0d32acc542c48e992a2dd380fd2f
 澳门-MACAU,http://sc2022.stream-link.org/tv2306.php?id=h10
 
 🔸台湾,#genre#
