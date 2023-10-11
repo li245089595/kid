@@ -353,8 +353,18 @@ now新闻台,http://sc2022.stream-link.org/tv2306.php?id=h08
 ViuTV,http://sc2022.stream-link.org/tv2306.php?id=h09
 港台电视32,http://sc2022.stream-link.org/tv2306.php?id=h12
 港台电视33,http://sc2022.stream-link.org/tv2306.php?id=h13
-私人影院,mitv://generationnexxxt.com:19806/70da0d32acc542c48e992a2dd380fd2f
 澳门-MACAU,http://sc2022.stream-link.org/tv2306.php?id=h10
+私人影院,mitv://generationnexxxt.com:19806/70da0d32acc542c48e992a2dd380fd2f
+戏曲台,mitv://generationnexxxt.com:19806/871860cf869e471e918797abd540fe56
+TVB娱乐新闻台,mitv://generationnexxxt.com:19806/38b5b6844291493b987f3de5afa2b373
+18台,mitv://generationnexxxt.com:19806/8143a3d9d5f24ecd845a4dd236879549
+千禧经典台,mitv://generationnexxxt.com:19806/8695a8b7d5e24fb5b31d3bf1ea8a264d
+Hands Up,mitv://generationnexxxt.com:19806/411d19c74016481eb0ab743c22523102
+粤语片台,mitv://generationnexxxt.com:19806/1ae08c9e3c34408fb083445ab693b9b6
+亚洲剧台,mitv://generationnexxxt.com:19806/59e213eaf3b4421fa9bfa35706311450
+功夫台,mitv://generationnexxxt.com:19806/13d08d7212504d1a8b8b9d6e6706147a
+
+
 
 🔸台湾,#genre#
 民视,mitv://generationnexxxt.com:19806/4ebcbee607c24d24aac3b723d1476797
