@@ -380,7 +380,7 @@ Hands Up,mitv://generationnexxxt.com:19806/411d19c74016481eb0ab743c22523102
 台视,mitv://generationnexxxt.com:19806/6bb225a21dea4701a4e289a07295cb51
 大爱,mitv://generationnexxxt.com:19806/ea3a913331314037ac4d5fbe0d4e7d29
 中视,mitv://generationnexxxt.com:19806/27edc14467794170b61d34c97099b44a
-台湾台,mitv://generationnexxxt.com:19806/a347c8f48f9448ac921d478a85c85c4b
+霹雳台湾台,mitv://generationnexxxt.com:19806/a347c8f48f9448ac921d478a85c85c4b
 华视,mitv://generationnexxxt.com:19806/0ba0460e78b1404c91140818a8300a58
 公视,mitv://generationnexxxt.com:19806/db7993da46f2429b83c996eff78dd333
 好消息,mitv://generationnexxxt.com:19806/438bdf08d1224b9a8833f35911c34743
@@ -535,7 +535,7 @@ EYE TV戏剧台,mitv://generationnexxxt.com:19806/4a7318033b43483a98944015987d2e
 纬来日本,mitv://generationnexxxt.com:19806/c0b6d42a62e5458ab6b47b78538548c5
 爱尔达影剧台,mitv://generationnexxxt.com:19806/a899bef5b1664589b58f40596f52647d
 民视(备),mitv://generationnexxxt.com:19806/27081f7a9f754bf3af37436ce3580d25
-三立台(备),mitv://generationnexxxt.com:19806/ea71149df4e04c38bc539d46f6060de6
+三立台湾台(备),mitv://generationnexxxt.com:19806/ea71149df4e04c38bc539d46f6060de6
 影迷数位电影台,mitv://generationnexxxt.com:19806/cae49944edf84fecbd1891b1afad8a4b
 卫视中文台,mitv://generationnexxxt.com:19806/ae283604fb0142ff8e1e52cc0bfdce6d
 爱尔达体育1台,mitv://generationnexxxt.com:19806/7045df7c07b048d29ce27c93dc106caa
