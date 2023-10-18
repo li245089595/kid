@@ -339,41 +339,30 @@ IHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600003
 电影_怪兽系列,http://8.210.232.168/php/huya.php?id=21059554
 
 🔸港澳,#genre#
-J2,mitv://generationnexxxt.com:19806/f588b4c6e8dd42fb8e65637391456e10
-﻿翡翠台,mitv://generationnexxxt.com:19806/171596a185224df783c5b43b1ba9e6d8
-翡翠台(备),mitv://generationnexxxt.com:19806/f03e328285a047ab96caedfbf977277d
-黄金翡翠台,mitv://generationnexxxt.com:19806/1db08503cca04a7f922227d5a73105ee
-TVB星河(粤),mitv://generationnexxxt.com:19806/d3eb302836af436baef656d5c201f1a3
-明珠台,mitv://generationnexxxt.com:19806/8d7e208bf7e64890a024ef645daa4ec3
-TVB娱乐新闻台,mitv://generationnexxxt.com:19806/38b5b6844291493b987f3de5afa2b373
-千禧经典台,mitv://generationnexxxt.com:19806/8695a8b7d5e24fb5b31d3bf1ea8a264d
-HOY TV,mitv://generationnexxxt.com:19806/376ba10ed47d4cc1afeeab9769f64d11
-HOY资讯台,mitv://generationnexxxt.com:19806/b2dac2ff30a34ae7bf566925fbb9ead1
-HKC 18,mitv://generationnexxxt.com:19806/140377dc9e0848678d614d451d69af9e
-18台,mitv://generationnexxxt.com:19806/8143a3d9d5f24ecd845a4dd236879549
-无线新闻台(备),mitv://generationnexxxt.com:19806/6466e253a0f249079b165f48b83315ce
-无线新闻台,mitv://generationnexxxt.com:19806/5040e457197b4ac791e199f0e406f48f
-无线财经体育资讯台,mitv://generationnexxxt.com:19806/885390129d55481c952002073c76c1c2
-ViuTVsix,mitv://generationnexxxt.com:19806/b684ab96544440eeb14212b870ab452f
-ViuTV,mitv://generationnexxxt.com:19806/df2dc050c3fd48688cfafc4d5efdbba6
-港台電視31,mitv://generationnexxxt.com:19806/8fb77534b44543019eb5180f0e05c3ff
-港台电视32,mitv://generationnexxxt.com:19806/1ae25c22d5ae480faf8aea96abe42b52
-now新闻台,mitv://generationnexxxt.com:19806/23dfac1814c14149991969e2c843bf4b
-now财经台,mitv://generationnexxxt.com:19806/b2587d05ab164d44973db240c6792ff7
-香港国际财经台,mitv://generationnexxxt.com:19806/329a30457f2d40b8b00297126619f53c
-美亚电影台(粤语),mitv://generationnexxxt.com:19806/dae6c2838c354d04a3192b15a1915f55
-戏曲台,mitv://generationnexxxt.com:19806/871860cf869e471e918797abd540fe56
+J2,http://sc2022.stream-link.org/tv2306.php?id=h03
+翡翠台,http://sc2022.stream-link.org/tv2306.php?id=h01
+翡翠台,http://sc2022.stream-link.org/tv2306.php?id=h02
+HOY TV,http://sc2022.stream-link.org/tv2306.php?id=h16
+HOY资讯台,http://sc2022.stream-link.org/tv2306.php?id=h17
+香港国际财经台,http://sc2022.stream-link.org/tv2306.php?id=h15
+无线新闻台,http://sc2022.stream-link.org/tv2306.php?id=h04
+无线财经体育资讯台,http://sc2022.stream-link.org/tv2306.php?id=h05
+无线新闻台,http://sc2022.stream-link.org/tv2306.php?id=h06
+无线财经体育资讯台,http://sc2022.stream-link.org/tv2306.php?id=h07
+now新闻台,http://sc2022.stream-link.org/tv2306.php?id=h08
+ViuTV,http://sc2022.stream-link.org/tv2306.php?id=h09
+港台电视32,http://sc2022.stream-link.org/tv2306.php?id=h12
+港台电视33,http://sc2022.stream-link.org/tv2306.php?id=h13
+澳门-MACAU,http://sc2022.stream-link.org/tv2306.php?id=h10
 私人影院,mitv://generationnexxxt.com:19806/70da0d32acc542c48e992a2dd380fd2f
-Thrill,mitv://generationnexxxt.com:19806/b055a821f2c446adbbeb8454de44f05d
+戏曲台,mitv://generationnexxxt.com:19806/871860cf869e471e918797abd540fe56
+TVB娱乐新闻台,mitv://generationnexxxt.com:19806/38b5b6844291493b987f3de5afa2b373
+18台,mitv://generationnexxxt.com:19806/8143a3d9d5f24ecd845a4dd236879549
+千禧经典台,mitv://generationnexxxt.com:19806/8695a8b7d5e24fb5b31d3bf1ea8a264d
 Hands Up,mitv://generationnexxxt.com:19806/411d19c74016481eb0ab743c22523102
 粤语片台,mitv://generationnexxxt.com:19806/1ae08c9e3c34408fb083445ab693b9b6
 亚洲剧台,mitv://generationnexxxt.com:19806/59e213eaf3b4421fa9bfa35706311450
 功夫台,mitv://generationnexxxt.com:19806/13d08d7212504d1a8b8b9d6e6706147a
-澳门-MACAU,mitv://generationnexxxt.com:19806/c95fd7bd98594961928eb9cf4dad6282
-澳门莲花,mitv://generationnexxxt.com:19806/64e4e1b9ee1c460d9f577487e862e485
-凤凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
-凤凰资讯台,mitv://generationnexxxt.com:19806/8e71fc13a75a4c919257a48a7f4ca1fc
-凤凰香港台,mitv://generationnexxxt.com:19806/3df59ef3568d4632a47f5bd3f13234f3
 
 🔸台湾,#genre#
 民视,mitv://generationnexxxt.com:19806/7acb3706e5fd41e79e0e9da4e0a755ad
