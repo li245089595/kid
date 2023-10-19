@@ -340,7 +340,6 @@ IHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600003
 J2,mitv://generationnexxxt.com:19806/55bbe5490100499ca9fa506544120552
 翡翠台,mitv://generationnexxxt.com:19806/e65a3dd8c87f405690edbf042e2e5124
 翡翠台(备),mitv://generationnexxxt.com:19806/01b6a0f49d104e7298e5c09df6c0995f
-黄金翡翠台,mitv://generationnexxxt.com:19806/4826cff8b49f4c57a73b10720dba4563
 明珠台,mitv://generationnexxxt.com:19806/da70c921e8b74c039ebc8f97d07908f2
 TVB星河(粤),mitv://generationnexxxt.com:19806/d3eb302836af436baef656d5c201f1a3
 TVB娱乐新闻台,mitv://generationnexxxt.com:19806/38b5b6844291493b987f3de5afa2b373
@@ -364,16 +363,16 @@ ViuTV,mitv://generationnexxxt.com:19806/96423d4e32d84ad281f27570916f87be
 Thrill,mitv://generationnexxxt.com:19806/0859ea56d7774a4b926e982027a40a60
 亚洲剧台,mitv://generationnexxxt.com:19806/59e213eaf3b4421fa9bfa35706311450
 戏曲台,mitv://generationnexxxt.com:19806/871860cf869e471e918797abd540fe56
-Hands Up,mitv://generationnexxxt.com:19806/411d19c74016481eb0ab743c22523102
 粤语片台,mitv://generationnexxxt.com:19806/1ae08c9e3c34408fb083445ab693b9b6
 功夫台,mitv://generationnexxxt.com:19806/13d08d7212504d1a8b8b9d6e6706147a
+Hands Up,mitv://generationnexxxt.com:19806/411d19c74016481eb0ab743c22523102
+黄金翡翠台,mitv://generationnexxxt.com:19806/4826cff8b49f4c57a73b10720dba4563
 澳门-MACAU,mitv://generationnexxxt.com:19806/7ea950c26f72417cb8ed2ee8ca361027
 澳门莲花,mitv://generationnexxxt.com:19806/83370b3edc4f440b9b548be0de0eff11
 凤凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
 凤凰资讯台,mitv://generationnexxxt.com:19806/3e1c8f6fcca04780a949b175dbc1624a
 凤凰香港台,mitv://generationnexxxt.com:19806/468747add8d14dc8b486c27a927cf53a
 星空卫视,mitv://generationnexxxt.com:19806/0974b234503d4ff68a50865bd7d18d2a
-
 
 
 🔸台湾,#genre#
