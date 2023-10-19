@@ -336,11 +336,11 @@ IHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600003
 电影_怪兽系列,http://8.210.232.168/php/huya.php?id=21059554
 
 🔸港澳,#genre#
-J2,mitv://generationnexxxt.com:19806/55bbe5490100499ca9fa506544120552
 翡翠台,mitv://generationnexxxt.com:19806/e65a3dd8c87f405690edbf042e2e5124
 翡翠台(备),mitv://generationnexxxt.com:19806/01b6a0f49d104e7298e5c09df6c0995f
 明珠台,mitv://generationnexxxt.com:19806/da70c921e8b74c039ebc8f97d07908f2
-TVB星河(粤),mitv://generationnexxxt.com:19806/d3eb302836af436baef656d5c201f1a3
+星河台(粤),mitv://generationnexxxt.com:19806/d3eb302836af436baef656d5c201f1a3
+J2,mitv://generationnexxxt.com:19806/55bbe5490100499ca9fa506544120552
 TVB娱乐新闻台,mitv://generationnexxxt.com:19806/38b5b6844291493b987f3de5afa2b373
 千禧经典台,mitv://generationnexxxt.com:19806/8695a8b7d5e24fb5b31d3bf1ea8a264d
 HOY TV,mitv://generationnexxxt.com:19806/80758a80d8e8486a80a1be9f2ca592cd
