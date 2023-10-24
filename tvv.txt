@@ -45,10 +45,9 @@ CGTN-俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN-阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 🔸卫视,#genre#
-凤凰中文高清,http://111.20.105.60:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-凤凰资讯高清,http://111.20.105.60:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+凤凰中文高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+凤凰资讯高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰香港高清,http://113.117.74.28:8081/hls/38/index.m3u8
-星空卫视高清,http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 香港卫视高清,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 湖北卫视高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
 湖南卫视高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
@@ -760,94 +759,28 @@ TopNews,mitv://generationnexxxt.com:19806/8a46eec67bfa42f6abd4032f91d304bf
  
 
 🔸北美,#genre#
-Fish TV 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/91
-History 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/139
-Fish TV HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/92
-History HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/140
-Food Network 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/93
-ID 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/141
-Food Network HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/94
-ID HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/142
-FOX Sports 2 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/95
-Ideal TV HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/143
-FOX Sports 2 HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/96
-France 24 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/97
-Inter TV Cabugi,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/145
-France 24 HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/98
-JP News 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/146
-Furacão 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/99
-JP News HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/147
-Futura 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/100
-Lifetime 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/148
-Futura HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/101
-Lifetime HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/149
-FX 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/102
-Like 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/150
-FX HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/103
-Like HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/151
-Gazeta 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/104
-Markket 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/152
-Gazeta HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/105
-Markket HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/153
-Globo Brasília HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/106
-Megapix 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/154
-Globo SP 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/107
-Megapix HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/155
-SporTV Acessível HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/340
-Modo Viagem HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/156
-Globo HD Minas,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/109
-MTV 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/157
-Globo HD RJ,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/110
-MTV HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/158
-Globo HD SP,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/111
-MTV LIVE HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/159
-Globo Nordeste HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/112
-MTV&amp;amp;amp;amp;amp;amp;apos;s 00 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/160
-Globo SANTOS 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/113
-MTV&amp;amp;amp;amp;amp;amp;apos;s 00 HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/161
-Globo SANTOS HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/114
-Multishow HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/162
-GloboNews HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/115
-Music Box Brazil 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/163
-Gloob 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/116
-Music Box Brazil HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/164
-Gloob HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/117
-National Geographic 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/165
-Gloobinho 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/118
-National Geographic HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/166
-Gloobinho HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/119
-NHK,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/167
-GNT HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/120
-Nick Jr. 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/168
-HBO Family 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/121
-Nick Jr. HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/169
-HBO Family HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/122
-Nickelodeon 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/170
-HBO 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/123
-Nickelodeon HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/171
-HBO HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/124
-OFF HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/172
-HBO MUNDI HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/125
-Pai Eterno 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/173
-HBO POP 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/126
-Pai Eterno HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/174
-HBO POP HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/127
-Paramount Network 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/175
-HBO Signature 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/128
-Paramount Network HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/176
-HBO Signature HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/129
-A FAZENDA 5 HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/7057
-HBO XTREME HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/130
-A FAZENDA1 HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/7053
-HBO+ 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/131
-Premiere 2 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/179
-HBO+ HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/132
-HBO2 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/133
-HBO2 HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/134
-HGTV 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/135
-HGTV HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/136
-History 2 HD,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/137
-History 2 4K,http://162.19.170.138:80/z92QZ3M7Nnc5/HzC5YdX22vcm/138
+CNBC,P2p://generationnexxxt.com:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
+BloombergTV,P2p://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
+ESPN,P2p://generationnexxxt.com:19806/2436baa9e481444fa785298d5931bdba
+600TV,P2p://generationnexxxt.com:19806/2bcb98e751c14c1d8c8850d47958830e
+CBSN,P2p://generationnexxxt.com:19806/697a642115f74499aafe783d34690381
+FoxNews,P2p://generationnexxxt.com:19806/e9305a82b75c42f5901c0594e063e999
+NBA,P2p://generationnexxxt.com:19806/6fcac440f84e4d6b8a6ebeed5d393dba
+新时代1(西部),P2p://generationnexxxt.com:19806/a3d06a9ecf30410582ad64ed15cdf6fd
+新时代2,P2p://generationnexxxt.com:19806/9bec2c434de742be96f4dcaeb6eb7c8f
+新时代1(东部),P2p://generationnexxxt.com:19806/28d014f7982c4041ab7197218b9c1284
+城市电视,P2p://generationnexxxt.com:19806/a18fbea7eddd4079b3e2e684d19df5c4
+FoxNews,P2p://generationnexxxt.com:19806/5cdbb62f542843da8d140520a0a966bc
+BBCWorldNews,P2p://generationnexxxt.com:19806/416eca57b45148398865fc4dabf40b72
+CNNUSA,P2p://generationnexxxt.com:19806/e26f49dc14b34b1abe3e1fea84e1e5f4
+CBCNews,P2p://generationnexxxt.com:19806/7fbe49af6e5a4041ad124362351e4b20
+MSNBC,P2p://generationnexxxt.com:19806/27c4d56058c44a4e9c41a98a99a7bc13
+CTVNews,P2p://generationnexxxt.com:19806/c48d5139ac954dbaa49a8b0e23af6e16
+BusinessNewsNetwork,P2p://generationnexxxt.com:19806/dc5be6cec9ba4284900e5670cbcae0bb
+CP24,P2p://generationnexxxt.com:19806/6186394bd1ff4b8b9757d542a9ca2e4b
+TheWeatherNetwork,P2p://generationnexxxt.com:19806/c556ed82dcc2453dabd398273651d952
+TheWeatherChannel,P2p://generationnexxxt.com:19806/499917ffa94444328d65744d929c1eb3
+KOMO4TV,P2p://generationnexxxt.com:19806/d09839dc0ae84712bb24938c634626fe
 
 
 🔸巴西,#genre#
