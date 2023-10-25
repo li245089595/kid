@@ -264,80 +264,117 @@ IHOT爱娱乐,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600013
 IHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
 🔸电影,#genre#
-电影_成龙,http://8.210.232.168/php/huya.php?id=11342386
-电影_李连杰,http://8.210.232.168/php/huya.php?id=11342390
-电影_星爷,http://8.210.232.168/php/huya.php?id=11342412
-电影_星爷2,http://8.210.232.168/php/huya.php?id=11336587
-电影_英叔,http://8.210.232.168/php/huya.php?id=11342421
-电影_英叔2,http://8.210.232.168/php/huya.php?id=25256065
-电影_发哥,http://8.210.232.168/php/huya.php?id=11342387
-电影_洪金宝,http://8.210.232.168/php/huya.php?id=11279251
-电影_梁家辉,http://8.210.232.168/php/huya.php?id=11342429
-电影_许冠英,http://8.210.232.168/php/huya.php?id=11601972
-电影_刘德华,http://8.210.232.168/php/huya.php?id=11342424
-电影_甄子丹,http://8.210.232.168/php/huya.php?id=11352935
-电影_王晶,http://8.210.232.168/php/huya.php?id=11602058
-电影_沈腾,http://8.210.232.168/php/huya.php?id=11601968
-电影_黄渤,http://8.210.232.168/php/huya.php?id=11352876
-电影_强森,http://8.210.232.168/php/huya.php?id=21059581
-电影_斯坦森,http://8.210.232.168/php/huya.php?id=21059588
-电影_漫威,http://8.210.232.168/php/huya.php?id=11602034
-电影_宇宙,http://8.210.232.168/php/huya.php?id=11342428
-电影_怪兽,http://8.210.232.168/php/huya.php?id=21059577
-电影_武侠,http://8.210.232.168/php/huya.php?id=11342427
-电影_警匪,http://8.210.232.168/php/huya.php?id=11352886
-电影_犯罪,http://8.210.232.168/php/huya.php?id=11352962
-电影_枪战,http://8.210.232.168/php/huya.php?id=21059579
-电影_海盗,http://8.210.232.168/php/huya.php?id=21059595
-电影_赛车,http://8.210.232.168/php/huya.php?id=11279247
-电影_推荐,http://8.210.232.168/php/huya.php?id=11602041
-电影_救援,http://8.210.232.168/php/huya.php?id=21059594
-电影_热血,http://8.210.232.168/php/huya.php?id=11352934
-电影_盗墓,http://8.210.232.168/php/huya.php?id=21059552
-电影_贺岁,http://8.210.232.168/php/huya.php?id=11601971
-电影_玄幻,http://8.210.232.168/php/huya.php?id=11342414
-电影_谍战,http://8.210.232.168/php/huya.php?id=21059585
-电影_战争,http://8.210.232.168/php/huya.php?id=21059592
-电影_喜剧,http://8.210.232.168/php/huya.php?id=11352877
-电影_徐峥,http://8.210.232.168/php/huya.php?id=11602043
-电影_国产,http://8.210.232.168/php/huya.php?id=11352973
-电影_赌片,http://8.210.232.168/php/huya.php?id=618917
-电影_小鬼头,http://8.210.232.168/php/huya.php?id=11352963
-电影_八点档,http://8.210.232.168/php/huya.php?id=880261
-电影_蜘蛛侠,http://8.210.232.168/php/huya.php?id=21059599
-电影_贺岁片,http://8.210.232.168/php/huya.php?id=11601986
-电影_功夫片,http://8.210.232.168/php/huya.php?id=11352941
-电影_黑帮片,http://8.210.232.168/php/huya.php?id=11336719
-电影_丧尸片,http://8.210.232.168/php/huya.php?id=21059578
-电影_灾难片,http://8.210.232.168/php/huya.php?id=11602075
-电影_谍战片,http://8.210.232.168/php/huya.php?id=21059587
-电影_战争片,http://8.210.232.168/php/huya.php?id=21059574
-电影_犯罪片,http://8.210.232.168/php/huya.php?id=11352974
-电影_古装片,http://8.210.232.168/php/huya.php?id=11336590
-电影_高分动作,http://8.210.232.168/php/huya.php?id=11352884
-电影_动作电影,http://8.210.232.168/php/huya.php?id=11602077
-电影_搞笑喜剧,http://8.210.232.168/php/huya.php?id=11342423
-电影_喜剧专场,http://8.210.232.168/php/huya.php?id=11602044
-电影_欢笑影院,http://8.210.232.168/php/huya.php?id=11352894
-电影_不挤影院,http://8.210.232.168/php/huya.php?id=11352897
-电影_国产悬疑,http://8.210.232.168/php/huya.php?id=11342395
-电影_快意江湖,http://8.210.232.168/php/huya.php?id=11342435
-电影_经典动作,http://8.210.232.168/php/huya.php?id=26182091
-电影_黑帮斗争,http://8.210.232.168/php/huya.php?id=11342419
-电影_古墓系列,http://8.210.232.168/php/huya.php?id=11352913
-电影_嫣然影厅,http://8.210.232.168/php/huya.php?id=11601977
-电影_女神系列,http://8.210.232.168/php/huya.php?id=11336571
-电影_经典女神,http://8.210.232.168/php/huya.php?id=11352909
-电影_许氏三杰,http://8.210.232.168/php/huya.php?id=11602033
-电影_经典港片,http://8.210.232.168/php/huya.php?id=11352965
-电影_镖行天下,http://8.210.232.168/php/huya.php?id=11352969
-电影_高能反转,http://8.210.232.168/php/huya.php?id=11352887
-电影_喜乐影院,http://8.210.232.168/php/huya.php?id=21059580
-电影_蘑菇影厅,http://8.210.232.168/php/huya.php?id=11601981
-电影_搞笑恐怖,http://8.210.232.168/php/huya.php?id=11601960
-电影_死神来了,http://8.210.232.168/php/huya.php?id=11352903
-电影_变形金刚,http://8.210.232.168/php/huya.php?id=21059596
-电影_怪兽系列,http://8.210.232.168/php/huya.php?id=21059554
+虎牙-周星星,https://live.metshop.top/huya/11342412
+虎牙-周星星粤语,https://live.metshop.top/huya/11336587
+虎牙-吴孟达,https://live.metshop.top/huya/11336592
+虎牙-林正英,https://live.metshop.top/huya/11342421
+虎牙-沈腾,https://live.metshop.top/huya/11601968
+虎牙-甄子丹,https://live.metshop.top/huya/11352935
+虎牙-成龙,https://live.metshop.top/huya/11342386
+虎牙-李连杰,https://live.metshop.top/huya/11342390
+虎牙-释小龙,https://live.metshop.top/huya/28044208
+虎牙-周润发,https://live.metshop.top/huya/11342387
+虎牙-刘德华,https://live.metshop.top/huya/11342424
+虎牙-洪金宝,https://live.metshop.top/huya/11279251
+虎牙-梁家辉,https://live.metshop.top/huya/11342429
+虎牙-徐峥,https://live.metshop.top/huya/11352876
+虎牙-王晶导演,https://live.metshop.top/huya/11602058
+虎牙-许冠英,https://live.metshop.top/huya/11601972
+虎牙-五福星,https://live.metshop.top/huya/11282233
+虎牙-许氏三杰,https://live.metshop.top/huya/11602033
+虎牙-巨石强森,https://live.metshop.top/huya/21059581
+虎牙-杰森斯坦森,https://live.metshop.top/huya/21059588
+虎牙-放映厅,https://live.metshop.top/huya/11602077
+虎牙-八点档,https://live.metshop.top/huya/880261
+虎牙-经典影院,https://live.metshop.top/huya/11601968
+虎牙-经典港剧,https://live.metshop.top/huya/11352965
+虎牙-香港贺岁,https://live.metshop.top/huya/11601971
+虎牙-高分动作,https://live.metshop.top/huya/11352884
+虎牙-国产悬疑,https://live.metshop.top/huya/11342395
+虎牙-悲情古装,https://live.metshop.top/huya/11336590
+虎牙-玄幻剧场,https://live.metshop.top/huya/11342414
+虎牙-经典女神,https://live.metshop.top/huya/11352909
+虎牙-女神系列,https://live.metshop.top/huya/11336571
+虎牙-黑帮大片,https://live.metshop.top/huya/11342419
+虎牙-极限飙车,https://live.metshop.top/huya/11679247
+虎牙-古惑仔,https://live.metshop.top/huya/11336719
+虎牙-007,https://live.metshop.top/huya/21059585
+虎牙-漫威宇宙,https://live.metshop.top/huya/11602034
+虎牙-蜘蛛侠,https://live.metshop.top/huya/21059599
+虎牙-变形金刚,https://live.metshop.top/huya/21059596
+虎牙-加勒比海盗,https://live.metshop.top/huya/21059595
+虎牙-死神来了,https://live.metshop.top/huya/11352903
+虎牙-异形系列,https://live.metshop.top/huya/21059577
+虎牙-怪兽系列,https://live.metshop.top/huya/21059554
+虎牙-特种部队,https://live.metshop.top/huya/21059592
+虎牙-古墓系列,https://live.metshop.top/huya/11352913
+虎牙-经典盗墓,https://live.metshop.top/huya/21059552
+虎牙-搞笑恐怖,https://live.metshop.top/huya/11601960
+虎牙-搞笑喜剧,https://live.metshop.top/huya/11342423
+虎牙-枪战大片,https://live.metshop.top/huya/21059579
+虎牙-高智商犯罪,https://live.metshop.top/huya/11352962
+虎牙-电影轮播,https://live.metshop.top/huya/16923449
+虎牙-生化危机,https://live.metshop.top/huya/28236442
+虎牙-速度与激情,https://live.metshop.top/huya/27386138
+虎牙-开心鬼系列,https://live.metshop.top/huya/393731
+虎牙-一人之下,https://live.metshop.top/huya/11602065
+虎牙-海贼王,https://live.metshop.top/huya/16913382
+虎牙-成龙历险记,https://live.metshop.top/huya/11352946
+虎牙-猫和老鼠,https://live.metshop.top/huya/11352879
+虎牙-迪迦奥特曼,https://live.metshop.top/huya/11602074
+虎牙-四驱兄弟,https://live.metshop.top/huya/11352922
+虎牙-网球王子,https://live.metshop.top/huya/11352882
+虎牙-中华小当家,https://live.metshop.top/huya/24257300
+虎牙-头文字D,https://live.metshop.top/huya/11352889
+虎牙-龙珠Z,https://live.metshop.top/huya/16755322
+虎牙-龙珠GT,https://live.metshop.top/huya/10279885
+虎牙-火影忍者,https://live.metshop.top/huya/25818873
+虎牙-死神,https://live.metshop.top/huya/17269326
+虎牙-圣斗士星矢,https://live.metshop.top/huya/18632116
+虎牙-动画片,https://live.metshop.top/huya/27175393
+虎牙-搞笑动画,https://live.metshop.top/huya/28213261
+虎牙-沙雕动画,https://live.metshop.top/huya/24512024
+虎牙-熊孩子,https://live.metshop.top/huya/25243852
+虎牙-庆余年,https://live.metshop.top/huya/11352960
+虎牙-金庸武侠,https://live.metshop.top/huya/11342427
+虎牙-神雕侠侣,https://live.metshop.top/huya/23865171
+虎牙-神雕侠侣陈妍希,https://live.metshop.top/huya/11352964
+虎牙-射雕英雄传,https://live.metshop.top/huya/23728674
+虎牙-倚天屠龙记,https://live.metshop.top/huya/11342403
+虎牙-鹿鼎记,https://live.metshop.top/huya/23865080
+虎牙-新三国演义,https://live.metshop.top/huya/11352944
+虎牙-新水浒传,https://live.metshop.top/huya/11342384
+虎牙-三国演义,https://live.metshop.top/huya/11602081
+虎牙-TVB西游记,https://live.metshop.top/huya/23735126
+虎牙-寻秦记,https://live.metshop.top/huya/23864973
+虎牙-天龙八部,https://live.metshop.top/huya/23903123
+虎牙-笑傲江湖,https://live.metshop.top/huya/23865142
+虎牙-新流星蝴蝶剑,https://live.metshop.top/huya/11342420
+虎牙-秦王李世明,https://live.metshop.top/huya/11336572
+虎牙-十大奇冤,https://live.metshop.top/huya/11352899
+虎牙-金装四大才子,https://live.metshop.top/huya/23903183
+虎牙-状王宋世杰,https://live.metshop.top/huya/23734183
+虎牙-布衣神相,https://live.metshop.top/huya/23865036
+虎牙-封神榜,https://live.metshop.top/huya/23749096
+虎牙-宝莲灯,https://live.metshop.top/huya/21059563
+虎牙-秀才遇到兵,https://live.metshop.top/huya/23746486
+虎牙-将夜,https://live.metshop.top/huya/11352885
+虎牙-活佛济公,https://live.metshop.top/huya/11342400
+虎牙-快意江湖,https://live.metshop.top/huya/11342435
+虎牙-镖行天下,https://live.metshop.top/huya/11352969
+虎牙-鬼吹灯,https://live.metshop.top/huya/11352871
+虎牙-大秦帝国,https://live.metshop.top/huya/11352881
+虎牙-楚汉骄雄,https://live.metshop.top/huya/23740156
+虎牙-康熙微服私访记,https://live.metshop.top/huya/11342418
+虎牙-铁齿铜牙纪晓岚,https://live.metshop.top/huya/11342396
+虎牙-神医喜来乐,https://live.metshop.top/huya/11601978
+虎牙-芈月传,https://live.metshop.top/huya/11352975
+虎牙-爱情公寓,https://live.metshop.top/huya/11336726
+虎牙-雍正王朝,https://live.metshop.top/huya/11342439
+虎牙-神探狄仁杰,https://live.metshop.top/huya/11342425
+虎牙-洗冤录,https://live.metshop.top/huya/23903130
+虎牙-医馆笑传,https://live.metshop.top/huya/11352891
+虎牙-第八号当铺,https://live.metshop.top/huya/21059568
 
 
 🔸港澳,#genre#
