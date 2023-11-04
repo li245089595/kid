@@ -649,19 +649,8 @@ ABCAustralia,mitv://generationnexxxt.com:19806/65159e6a0003ce6d3e47fc21533740b0
 CNN,mitv://generationnexxxt.com:19806/64e312b4000a495878d628702a9c2b2e
 东森新闻台(备),mitv://generationnexxxt.com:19806/c19adee6950f4fec88212757581831de
 镜新闻,mitv://generationnexxxt.com:19806/358ede8e5b9b44e6b726ca81176c2b56
-FoxNews,mitv://generationnexxxt.com:19806/5cdbb62f542843da8d140520a0a966bc
-BBCWorldNews,mitv://generationnexxxt.com:19806/416eca57b45148398865fc4dabf40b72
-CNNUSA,mitv://generationnexxxt.com:19806/e26f49dc14b34b1abe3e1fea84e1e5f4
-CBCNews,mitv://generationnexxxt.com:19806/7fbe49af6e5a4041ad124362351e4b20
-MSNBC,mitv://generationnexxxt.com:19806/27c4d56058c44a4e9c41a98a99a7bc13
-CTVNews,mitv://generationnexxxt.com:19806/c48d5139ac954dbaa49a8b0e23af6e16
-BusinessNewsNetwork,mitv://generationnexxxt.com:19806/dc5be6cec9ba4284900e5670cbcae0bb
-CP24,mitv://generationnexxxt.com:19806/6186394bd1ff4b8b9757d542a9ca2e4b
-TheWeatherNetwork,mitv://generationnexxxt.com:19806/c556ed82dcc2453dabd398273651d952
-TheWeatherChannel,mitv://generationnexxxt.com:19806/499917ffa94444328d65744d929c1eb3
 EYETV戏剧台,mitv://generationnexxxt.com:19806/2b2531f648114090aaca890fabbf9028
 爱尔达影剧台,mitv://generationnexxxt.com:19806/0e2b6e6fdede4fe09dfe3c7a6f68537d
-亚洲剧台,mitv://generationnexxxt.com:19806/59e213eaf3b4421fa9bfa35706311450
 EYETV旅游台,mitv://generationnexxxt.com:19806/34173dd0c3714037a80c0152101aece9
 东森购物1台,mitv://generationnexxxt.com:19806/a6e53fc6aae74e48afd58e88729d407e
 东森购物2台,mitv://generationnexxxt.com:19806/1c933cd0128449e79c0880626f3eac4e
@@ -874,6 +863,16 @@ TopNews,mitv://generationnexxxt.com:19806/8a46eec67bfa42f6abd4032f91d304bf
  
 
 🔸北美,#genre#
+FoxNews,mitv://generationnexxxt.com:19806/5cdbb62f542843da8d140520a0a966bc
+BBCWorldNews,mitv://generationnexxxt.com:19806/416eca57b45148398865fc4dabf40b72
+CNNUSA,mitv://generationnexxxt.com:19806/e26f49dc14b34b1abe3e1fea84e1e5f4
+CBCNews,mitv://generationnexxxt.com:19806/7fbe49af6e5a4041ad124362351e4b20
+MSNBC,mitv://generationnexxxt.com:19806/27c4d56058c44a4e9c41a98a99a7bc13
+CTVNews,mitv://generationnexxxt.com:19806/c48d5139ac954dbaa49a8b0e23af6e16
+BusinessNewsNetwork,mitv://generationnexxxt.com:19806/dc5be6cec9ba4284900e5670cbcae0bb
+CP24,mitv://generationnexxxt.com:19806/6186394bd1ff4b8b9757d542a9ca2e4b
+TheWeatherNetwork,mitv://generationnexxxt.com:19806/c556ed82dcc2453dabd398273651d952
+TheWeatherChannel,mitv://generationnexxxt.com:19806/499917ffa94444328d65744d929c1eb3
 CNBC,mitv://generationnexxxt.com:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
 Bloomberg TV,mitv://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
 ESPN,mitv://generationnexxxt.com:19806/2436baa9e481444fa785298d5931bdba
@@ -885,7 +884,6 @@ NBA,mitv://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
 新时代2,mitv://generationnexxxt.com:19806/65013e4c0002afeaeeb07d8a59ff6121
 新时代1(东部),mitv://generationnexxxt.com:19806/28d014f7982c4041ab7197218b9c1284
 城市电视,mitv://generationnexxxt.com:19806/a18fbea7eddd4079b3e2e684d19df5c4
-Fox News,mitv://generationnexxxt.com:19806/5cdbb62f542843da8d140520a0a966bc
 BBC World News,mitv://generationnexxxt.com:19806/416eca57b45148398865fc4dabf40b72
 CNN USA,mitv://generationnexxxt.com:19806/e26f49dc14b34b1abe3e1fea84e1e5f4
 CBC News,mitv://generationnexxxt.com:19806/7fbe49af6e5a4041ad124362351e4b20
