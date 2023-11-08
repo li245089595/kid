@@ -374,36 +374,7 @@ ELEVEN2,rtmp://9sv1.mine.nu:1935/sat/md011
 ELTA體育1,rtmp://9sv1.mine.nu:1935/sat/md031
 ELTA體育4,rtmp://9sv1.mine.nu:1935/sat/md041
 ELTA體育3,rtmp://9sv1.mine.nu:1935/sat/md051
-三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-民視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-台視新聞HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-中視新聞HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-中視HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
-中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
-中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-TVBS NESW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-TAIWAN PLUS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-大愛1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
-大愛2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
-原住民族電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
-幸福空間居家台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
-天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-豬哥會社,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
-新玫瑰瞳鈴眼,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
-東森購物,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-東森購物,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
-MOMO1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-MOMO2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500
-LOVENATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-三立台湾台,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
-三立都会台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
+
 
 
 
