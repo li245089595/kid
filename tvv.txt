@@ -50,7 +50,6 @@ CGTN-阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 凤凰卫视香港,http://113.117.74.29:8081/hls/38/index.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-
 星空卫视,http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
@@ -344,8 +343,6 @@ IHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600003
 电影_怪兽系列,http://8.210.232.168/php/huya.php?id=21059554
 
 🔸港澳,#genre#
-翡翠台,mitv://generationnexxxt.com:19806/f58e93cec03f459bae6482ac9af9cae1
-明珠台,mitv://generationnexxxt.com:19806/d8ba4eb8ab764b8bb63930b2697b9a70
 TVB娱乐新闻台,mitv://generationnexxxt.com:19806/38b5b6844291493b987f3de5afa2b373
 千禧经典台,mitv://generationnexxxt.com:19806/8695a8b7d5e24fb5b31d3bf1ea8a264d
 私人影院,mitv://generationnexxxt.com:19806/70da0d32acc542c48e992a2dd380fd2f
@@ -359,31 +356,52 @@ Hands Up,mitv://generationnexxxt.com:19806/411d19c74016481eb0ab743c22523102
 
 
 🔸台湾,#genre#
-大爱,mitv://generationnexxxt.com:19806/7c103a8a74e14fa8a3520bcf91ccc242
-民视,mitv://generationnexxxt.com:19806/2f066b929805456b9bca22da1389a7cf
-台视,mitv://generationnexxxt.com:19806/47bedd4dd49b4b7ab10f582da5ed68fd
-中视,mitv://generationnexxxt.com:19806/abdc2f45e1ed4b2683aa3d89257ba2ce
-华视,mitv://generationnexxxt.com:19806/b0db01e11c8e4a5faae9c97029c3213d
-公视,mitv://generationnexxxt.com:19806/571b93c0233f4f028ea9123c11cd1d3e
-壹电视新闻台,mitv://generationnexxxt.com:19806/dce6e992452d488b87003cf7f904d417
-年代新闻,mitv://generationnexxxt.com:19806/375c61404d404b698e3596b8e9663c4e
-东森新闻台,mitv://generationnexxxt.com:19806/b64056bac1874555b68df75cf78c1c42
-中天新闻台,mitv://generationnexxxt.com:19806/a1472a61fc55474a851b87c601ec0787
-民视新闻台,mitv://generationnexxxt.com:19806/341c2c8a2dab4b65834683ed1ce7b6bb
-三立新闻台,mitv://generationnexxxt.com:19806/e4229dbebe73401f8cdc3191ed01692c
-TVBS新闻台,mitv://generationnexxxt.com:19806/6ef2f466ab1a4e969ef812f621e7507e
-TVBS,mitv://generationnexxxt.com:19806/6e34604750674689bc88a479e940db7e
-东森财经新闻台,mitv://generationnexxxt.com:19806/142e79cca17d4ba6b118ba4a75b727cf
-非凡新闻台,mitv://generationnexxxt.com:19806/cba1e94940ea49ec93591c8b9843aaa9
-卫视电影台,mitv://generationnexxxt.com:19806/289a25ac90de4095a065d12c2762fbff
-东森电影台,mitv://generationnexxxt.com:19806/36901243cded46e9856d08d51b143d26
-纬来电影台,mitv://generationnexxxt.com:19806/ae6ee1ad6a2146e1bf53406873b8fb01
-龙祥电影,mitv://generationnexxxt.com:19806/e95b968187e7408481ac24fd72393644
-HBO,mitv://generationnexxxt.com:19806/47482100428341c8a560cb909c20e775
-东森洋片台,mitv://generationnexxxt.com:19806/3f22f80ec33841f6a682c47b20994fd4
-AXN,mitv://generationnexxxt.com:19806/9fc0cf4a5a7a4e558346d35639c36ca8
-好莱坞电影台,mitv://generationnexxxt.com:19806/6d383247564345db80de383d0e919d88
-CINEMAX,mitv://generationnexxxt.com:19806/3867ad8129be470ab98baded861c0687
+民視,rtmp://9sv1.mine.nu:1935/sat/tv051
+台視,rtmp://9sv1.mine.nu:1935/sat/tv071
+中視,rtmp://9sv1.mine.nu:1935/sat/tv091
+華視,rtmp://9sv1.mine.nu:1935/sat/tv111
+TVBS新聞,rtmp://9sv1.mine.nu:1935/sat/tv551
+TVBS歡樂,rtmp://9sv1.mine.nu:1935/sat/tv421
+東森財經新聞,rtmp://9sv1.mine.nu:1935/sat/tv571
+緯來育樂,rtmp://9sv1.mine.nu:1935/sat/tv701
+緯來體育,rtmp://9sv1.mine.nu:1935/sat/tv721
+ELEVEN1,rtmp://9sv1.mine.nu:1935/sat/tv731
+ELEVEN2,rtmp://9sv1.mine.nu:1935/sat/tv741
+MOMO綜合,rtmp://9sv1.mine.nu:1935/sat/tv761
+緯來日本,rtmp://9sv1.mine.nu:1935/sat/tv771
+ELEVEN2,rtmp://9sv1.mine.nu:1935/sat/md011
+博斯網球,rtmp://9sv1.mine.nu:1935/sat/md021
+ELTA體育1,rtmp://9sv1.mine.nu:1935/sat/md031
+ELTA體育4,rtmp://9sv1.mine.nu:1935/sat/md041
+ELTA體育3,rtmp://9sv1.mine.nu:1935/sat/md051
+三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+民視新聞台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+台視新聞HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+中視新聞HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+中視HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+TVBS NESW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+TAIWAN PLUS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+大愛1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+大愛2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+原住民族電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+幸福空間居家台HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+豬哥會社,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
+新玫瑰瞳鈴眼,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+東森購物,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+東森購物,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+MOMO1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+MOMO2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500
+LOVENATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 三立台湾台,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
 三立都会台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 
@@ -626,94 +644,6 @@ CP24,mitv://generationnexxxt.com:19806/6186394bd1ff4b8b9757d542a9ca2e4b
 The Weather Network,mitv://generationnexxxt.com:19806/c556ed82dcc2453dabd398273651d952
 The Weather Channel,mitv://generationnexxxt.com:19806/499917ffa94444328d65744d929c1eb3
 KOMO 4 TV,mitv://generationnexxxt.com:19806/fab26bb6a6f942f2bf0b415dd9970c67
-
-
-🔸巴西,#genre#
-TV Globo,http://45.58.126.146:14008
-TV Globo,http://45.58.126.146:14011
-TV Globo,http://45.58.126.146:14014
-TV Globo,http://45.58.126.146:14020
-TV Globo,http://45.58.126.146:14039
-TV Globo,http://45.58.126.146:14044
-TV Globo,http://45.58.126.146:14046
-TV Globo,http://45.58.126.146:14049
-TV Globo,http://45.58.126.146:14053
-TV Globo,http://45.58.126.146:14055
-TV Globo,http://45.58.126.146:14057
-TV Globo,http://45.58.126.146:14066
-TV Globo,http://45.58.126.146:14070
-TV Globo,http://45.58.126.146:14079
-TV Globo,http://45.58.126.146:14085
-TV Globo,http://45.58.126.146:14090
-SBT,http://45.58.126.146:14123
-SBT,http://45.58.126.146:14126
-SBT,http://45.58.126.146:14129
-SBT,http://45.58.126.146:14131
-Formula 1,http://45.58.126.146:14140
-Formula 1,http://45.58.126.146:14144
-Formula 1,http://45.58.126.146:14148
-Record TV,http://45.58.126.146:14153
-TV Globo,http://45.58.126.146:14155
-Record TV,http://45.58.126.146:14158
-Record TV,http://45.58.126.146:14166
-Cartoon Network,http://45.58.126.146:14197
-Cartoonito,http://45.58.126.146:14200
-Discovery Kids,http://45.58.126.146:14203
-Gloob,http://45.58.126.146:14209
-Nick Jr.,http://45.58.126.146:14212
-Nickelodeon,http://45.58.126.146:14215
-BandNews,http://45.58.126.146:14231
-CNN Brasil,http://45.58.126.146:14234
-GloboNews,http://45.58.126.146:14238
-Jovem Pan News,http://45.58.126.146:14241
-Discovery+,http://45.58.126.146:14249
-Discovery Channel,http://45.58.126.146:14252
-Discovery Home & Health,http://45.58.126.146:14255
-Investigation Discovery,http://45.58.126.146:14258
-Discovery Science,http://45.58.126.146:14261
-Discovery HD Theater,http://45.58.126.146:14264
-Discovery Turbo,http://45.58.126.146:14267
-TLC,http://45.58.126.146:14270
-Discovery HD World,http://45.58.126.146:14273
-History,http://45.58.126.146:14281
-H2,http://45.58.126.146:14284
-National Geographic,http://45.58.126.146:14287
-A&E,http://45.58.126.146:14293
-AMC,http://45.58.126.146:14296
-AXN,http://45.58.126.146:14299
-Sony Channel,http://45.58.126.146:14302
-Sony Channel,http://45.58.126.146:14303
-Cinemax,http://45.58.126.146:14305
-Comedy Central,http://45.58.126.146:14308
-FX,http://45.58.126.146:14311
-Lifetime,http://45.58.126.146:14314
-Megpix,http://45.58.126.146:14317
-Paramount Network,http://45.58.126.146:14320
-Space TV,http://45.58.126.146:14323
-n/a,http://45.58.126.146:14326
-Star Channel,http://45.58.126.146:14329
-Studio Universal,http://45.58.126.146:14332
-SYFY,http://45.58.126.146:14335
-TBS,http://45.58.126.146:14338
-TNT Sports,http://45.58.126.146:14341
-TNT Sports,http://45.58.126.146:14342
-TNT Series,http://45.58.126.146:14345
-Universal TV,http://45.58.126.146:14348
-Warner,http://45.58.126.146:14351
-Telecine Action,http://45.58.126.146:14354
-Paramount+,http://45.58.126.146:14510
-HardBlog,http://45.58.126.146:14525
-n/a,http://45.58.126.146:14533
-n/a,http://45.58.126.146:14552
-HardBlog,http://45.58.126.146:14554
-HardBlog,http://45.58.126.146:14555
-HardBlog,http://45.58.126.146:14556
-HardBlog,http://45.58.126.146:14562
-HardBlog,http://45.58.126.146:14598
-n/a,http://45.58.126.146:14600
-Combat! ,http://45.58.126.146:14668
-BBB,http://45.58.126.146:14710
-Futebol ,http://45.58.126.146:14714
 
 
 🔸彩虹_231,#genre#
