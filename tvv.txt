@@ -199,14 +199,6 @@ CHC高清电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m
 纪实人文,http://111.20.105.60:6060/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 纪实科教,http://111.20.105.60:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 金鹰纪实,http://111.20.105.60:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-重庆汽摩,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225736/1/index.m3u8?fmt=ts2hls
-健身,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226160/1/index.m3u8?fmt=ts2hls
-法治天地,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226199/1/index.m3u8?fmt=ts2hls
-生活时尚,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226207/1/index.m3u8?fmt=ts2hls
-新视觉,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226237/1/index.m3u8?fmt=ts2hls
-茶频道,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226240/1/index.m3u8?fmt=ts2hls
-天元围棋,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226341/1/index.m3u8?fmt=ts2hls
-环球奇观,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225681/1/index.m3u8?fmt=ts2hls
 
 
 🔸剧场,#genre#
