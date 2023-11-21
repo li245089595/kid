@@ -48,10 +48,12 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 凤凰卫视中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 凤凰卫视资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰卫视香港,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
-俄罗斯卫视中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+俄罗斯卫视,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-星空卫视,http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
+澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+星空卫视,http://j.cxctu.cf:4000/udp/239.93.0.156:2193
+Channel[V],http://j.cxctu.cf:4000/udp/239.93.0.157:2194
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
 金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
