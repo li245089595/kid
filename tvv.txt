@@ -81,6 +81,8 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
 河北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8
 山西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8
+陕西卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001062/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+康巴卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
 辽宁卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
 黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
 吉林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8
@@ -97,7 +99,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 新疆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225747/index.m3u8
 兵团卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 延边卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
-康巴卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
+
 
 
 🔸湖北,#genre#
