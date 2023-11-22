@@ -540,7 +540,7 @@
       "quickSearch": 1,
       "searchable": 1,
       "type": 3,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/xxx.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xiaomi128/opp/main/xxx.jar"
     },
     {
       "key": "*91麻豆",
@@ -1542,5 +1542,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=5",
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/li245089595/ditv/main/jar/新视觉.jar"
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/li245089595/ditv/main/jar/新视觉.jar"
 }
