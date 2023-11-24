@@ -540,7 +540,7 @@
       "quickSearch": 1,
       "searchable": 1,
       "type": 3,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xiaomi128/opp/main/xxx.jar"
+      "jar": "https://ghps.cc/https://raw.githubusercontent.com/xiaomi128/opp/main/xxx.jar"
     },
     {
       "key": "*91麻豆",
