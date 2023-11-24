@@ -1488,8 +1488,6 @@ ViasatHistory,http://94.156.33.91/ViasatHistory-Romania/index.m3u8
 
 
 🔸彩虹_231,#genre#
-SHOT TV,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/526/index.m3u8
-взрослые
 Playboy,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/527/index.m3u8
 взрослые
 Русская Ночь,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/147/index.m3u8
@@ -1497,6 +1495,8 @@ Playboy,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/527/index.m3u8
 Brazzers TV Europe,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/910/index.m3u8
 взрослые
 Шалун,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/922/index.m3u8
+взрослые
+SHOT TV,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/526/index.m3u8
 взрослые
 Candy,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/923/index.m3u8
 взрослые
