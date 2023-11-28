@@ -87,7 +87,7 @@
       "key": "api_光速采集",
       "name": "💠┃光速┃采集",
       "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "api": "http://api.guangsuapi.com/api.php/provide/vod/",
       "playUrl": "",
       "playerType": 1,
       "searchable": 1,
