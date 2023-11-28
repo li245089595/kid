@@ -174,9 +174,6 @@ CHC高清电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m
 欧洲华文1,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 欧洲华文2,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 欧洲华文6,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
-GRTN健康频道,https://php.17186.eu.org/gdtv/web/health.m3u8
-GRTN文化频道,https://php.17186.eu.org/gdtv/web/wenhua.m3u8
-GRTN生活频道,https://php.17186.eu.org/gdtv/web/life.m3u8
 国学影视,https://jwcdnqx.hebyun.com.cn/live/yspd/1500k/tzwj_video.m3u8
 番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 南宁影视,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
