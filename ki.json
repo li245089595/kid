@@ -120,7 +120,7 @@
       "key": "api_虎牙采集",
       "name": "💠┃虎牙┃采集",
       "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/at/xml/",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
       "playUrl": "",
       "playerType": 1,
       "searchable": 1,
