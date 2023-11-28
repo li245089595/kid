@@ -46,8 +46,6 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 🔸卫视,#genre#
 凤凰中文台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 凤凰资讯台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-三立台湾台,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
-三立都会台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 好消息综合,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
@@ -81,7 +79,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
 北京卡酷,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
-北京体育休闲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
+纪实科教,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
 嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
 河北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8
@@ -164,12 +162,12 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 郧阳综合,http://58.19.198.159:2021/hls1.m3u8?zhubd
 
 🔸数位,#genre#
-黑莓电影,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=8785669936177902664&livemode=1&stbId=2&channel-id=ystenlive
-黑莓动画,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=6497762188035533951&livemode=1&stbId=2&channel-id=ystenlive
-黑莓电竞,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000006906&livemode=1&stbId=2&channel-id=ystenlive
 CHC动作电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+黑莓电影,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=8785669936177902664&livemode=1&stbId=2&channel-id=ystenlive
+黑莓动画,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=6497762188035533951&livemode=1&stbId=2&channel-id=ystenlive
+黑莓电竞,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000006906&livemode=1&stbId=2&channel-id=ystenlive
 求索纪录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
 求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
@@ -824,143 +822,6 @@ WORLD ANIMAL HD,http://49.0.64.96:8007/Animal
 WSCI HD,http://49.0.64.96:8007/WSCI
 Zoomoo HD,http://49.0.64.96:8007/Zoomoo
 
-🔸德国,#genre#
-1-2-3.tv,http://77.22.183.146:9981/stream/channelid/976661775?profile=pass
-280
-7dadcbf4db07e08854101c487f5b8a78
-3sat,http://77.22.183.146:9981/stream/channelid/1412007153?profile=pass
-204
-3958243211fa8643023ab2138c8d33ba
-Al Jazeera Int (eng),http://77.22.183.146:9981/stream/channelid/1477684248?profile=pass
-256
-958149cdb1c3dc9b163c90d045618cde
-ANIXE+,http://77.22.183.146:9981/stream/channelid/1296662933?profile=pass
-199
-992b2a805f74fd2bb019009172f872d5
-ARD alpha,http://77.22.183.146:9981/stream/channelid/1125677458?profile=pass
-19
-7f8539c3f71a8aac72e2afbf231a2931
-arte,http://77.22.183.146:9981/stream/channelid/1127843199?profile=pass
-206
-e8c9e5edb0352c4f9c2c00cd2bd07a14
-BBC News (eng),http://77.22.183.146:9981/stream/channelid/1133606524?profile=pass
-207
-62bd0978210376bfdf15428f575476ec
-Bibel TV,http://77.22.183.146:9981/stream/channelid/1063658757?profile=pass
-153
-56ea36a13a374348aab99d3a99c01389
-BILD,http://77.22.183.146:9981/stream/channelid/557247062?profile=pass
-266
-0f637f03aeaeb57063eb4ca7700320b1
-BR Heimat,http://77.22.183.146:9981/stream/channelid/58680079?profile=pass
-267
-20db24bd0c00f2ca659dd1a93e63a5ac
-CGTN,http://77.22.183.146:9981/stream/channelid/1395473045?profile=pass
-210
-f1da7739bdf28a60961a8510ae49d369
-CGTN Documentary,http://77.22.183.146:9981/stream/channelid/964156145?profile=pass
-296
-fa6505302457a03d90675f18d854372a
-Channel21,http://77.22.183.146:9981/stream/channelid/805660154?profile=pass
-203
-045c32a253f8a04be597409421cce6aa
-CNBC Europe (eng),http://77.22.183.146:9981/stream/channelid/573725700?profile=pass
-60
-e60cbcf5a700ed747970e1be57d46380
-CNN (eng),http://77.22.183.146:9981/stream/channelid/1975258342?profile=pass
-211
-035ae9f2a3c93cbcdeefb3a96e687f15
-Comedy Central,http://77.22.183.146:9981/stream/channelid/1927895555?profile=pass
-282
-65c0b21e4f31a15d80b84d5eec56bd75
-Das Erste,http://77.22.183.146:9981/stream/channelid/836949379?profile=pass
-185
-aaf8fb9f7baaf12bfe60e2d25d00c9d5
-DELUXE MUSIC,http://77.22.183.146:9981/stream/channelid/438296154?profile=pass
-158
-bf654a193ac1ae611e8fcc0f4e460e0f
-Deutsches Musik Fernsehen,http://77.22.183.146:9981/stream/channelid/424306111?profile=pass
-158
-5404d4c37f259abb4fbfc2cd1df07dba
-Deutsches Musik Fernsehen,http://77.22.183.146:9981/stream/channelid/1137968212?profile=pass
-283
-6f903afbfc20a8698575757e50f62aa2
-Disney Channel,http://77.22.183.146:9981/stream/channelid/1868844280?profile=pass
-254
-fa7366c45729e293c57582bd9a349fbd
-DMAX,http://77.22.183.146:9981/stream/channelid/1994758435?profile=pass
-41
-6083c6bb569a9655347a94e0a5193a5c
-euronews,http://77.22.183.146:9981/stream/channelid/1024825649?profile=pass
-27
-31b00a984948945cd955c1a8060e4432
-Eurosport 1,http://77.22.183.146:9981/stream/channelid/403353649?profile=pass
-201
-492f103a679717011eb3591beac0e495
-HOME & GARDEN TV,http://77.22.183.146:9981/stream/channelid/768717109?profile=pass
-298
-36c004e9305c6361826f9dbdd097cb89
-Hope TV,http://77.22.183.146:9981/stream/channelid/1761919030?profile=pass
-285
-378845168504e16a2f4ca794e4c7acd6
-hr-fernsehen,http://77.22.183.146:9981/stream/channelid/373655607?profile=pass
-305
-ae4457f7b76c9119b224ce625aedf7b1
-hr-fernsehen HD,http://77.22.183.146:9981/stream/channelid/2002207918?profile=pass
-189
-067447c561659dbcfce29df381b55f45
-HSE,http://77.22.183.146:9981/stream/channelid/2023515588?profile=pass
-50
-d864cc1fd7cdf4532d37e1ae97e987b7
-HSE EXTRA,http://77.22.183.146:9981/stream/channelid/533488856?profile=pass
-255
-cfefd3aa5b261428c2ea13eb9e98e2ca
-HSE Extra,http://77.22.183.146:9981/stream/channelid/718532559?profile=pass
-299
-eb02aed89f69a400e521a009994559d1
-HSE Trend,http://77.22.183.146:9981/stream/channelid/1487799019?profile=pass
-43
-e59a280f000c4d81a8b7760666fd1b7f
-Juwelo TV,http://77.22.183.146:9981/stream/channelid/618983971?profile=pass
-217
-187875eef811a5697078dd95a2b8cdbf
-K-TV,http://77.22.183.146:9981/stream/channelid/1853192216?profile=pass
-8
-00ae893b5aecfcc52b9f1cedba233df9
-kabel eins,http://77.22.183.146:9981/stream/channelid/998878720?profile=pass
-237
-8e65bf3503df534ad5211035656624dc
-kabel eins Doku,http://77.22.183.146:9981/stream/channelid/901735822?profile=pass
-10
-9dcf4dcc2a6ddca796fcd9d137a5d48f
-MDR S-Anhalt,http://77.22.183.146:9981/stream/channelid/29365621?profile=pass
-191
-80ccc501f58b07d700e571e748ca3960
-MDR Sachsen,http://77.22.183.146:9981/stream/channelid/916505132?profile=pass
-190
-630f6ac4f21dc723c706b2486109c6ba
-MDR Sachsen HD,http://77.22.183.146:9981/stream/channelid/1003035975?profile=pass
-193
-88df372c3d6285a7230480de9851ffeb
-MTV,http://77.22.183.146:9981/stream/channelid/1171805636?profile=pass
-270
-4988b951237bae0f98032e23ec10d4ba
-N24 Doku,http://77.22.183.146:9981/stream/channelid/2094612846?profile=pass
-276
-ae0075f22f451038229510668b3855ff
-NHK WORLD-JAPAN (eng),http://77.22.183.146:9981/stream/channelid/949576871?profile=pass
-221
-c0972fa9566a1105fd56a8fe8772d3c7
-Nickelodeon,http://77.22.183.146:9981/stream/channelid/690984896?profile=pass
-12
-73da65ea509cf23c7f0e40ccf83e4c1b
-NITRO,http://77.22.183.146:9981/stream/channelid/1785059955?profile=pass
-227
-dca409ff3e68e7ab1f9c4b67525625e5
-ntv,http://77.22.183.146:9981/stream/channelid/2131338460?profile=pass
-289
-5e66f628f41830f9fe2c2658d47771b1
-
 🔸荷兰,#genre#
 Antena3 HD,http://94.156.33.91/Antena3-Romania/index.m3u8
 Cinemax,http://94.156.33.91/Cinemax-Romania/index.m3u8
@@ -986,47 +847,26 @@ ViasatHistory,http://94.156.33.91/ViasatHistory-Romania/index.m3u8
 
 🔸彩虹_231,#genre#
 SHOT TV,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/526/index.m3u8
-взрослые
 Playboy,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/527/index.m3u8
-взрослые
 Русская Ночь,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/147/index.m3u8
-взрослые
 Brazzers TV Europe,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/910/index.m3u8
-взрослые
 Blue Hustler,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/1064/index.m3u8
-взрослые
 Barely legal,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/871/index.m3u8
-взрослые
 BRAZZERS TV Europe 2,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/872/index.m3u8
-взрослые
 Passion XXX,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/878/index.m3u8
-взрослые
 Redlight HD,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/242/index.m3u8
-взрослые
 Private TV,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/243/index.m3u8
-взрослые
 Hustler HD Europe,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/244/index.m3u8
-взрослые
 Dorcel TV HD,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/245/index.m3u8
-взрослые
 O-la-la,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/2161/index.m3u8
-взрослые
 Vivid Red HD,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/2162/index.m3u8
-взрослые
 Exxxotica HD,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/2397/index.m3u8
-взрослые
 XXL,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/5009/index.m3u8
-взрослые
 Penthouse Passion,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/5010/index.m3u8
-взрослые
 Penthouse Gold HD,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/5011/index.m3u8
-взрослые
-Penthouse Quickies 1300k,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/5012/index.m3u8
-взрослые
+Penthouse Quickies,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/5012/index.m3u8
 Penthouse Quickies HD,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/5013/index.m3u8
-взрослые
 Extasy 4K,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/5014/index.m3u8
-взрослые
 Eroxxx HD,http://4aa6022a.cbilant.com/iptv/U8TX68AFYA4KVP/5015/index.m3u8
 
 
