@@ -185,7 +185,7 @@
       "key": "api_奇虎采集",
       "name": "💠┃奇虎┃采集",
       "type": 1,
-      "api": "https://caiji.qhzyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://caiji.qhzyapi.com/api.php/provide/vod/",
       "playUrl": "",
       "playerType": 1,
       "searchable": 1,
@@ -334,7 +334,7 @@
 			"key": "api_大漠采集",
 			"name": "💠┃大漠┃采集",
 			"type":0 ,
-			"api": "https://damozy.com/api.php/provide/vod/?ac=list",
+			"api": "https://damozy.com/api.php/provide/vod/",
 			"searchable":1,
             "changeable":1,
 			"categories": [
