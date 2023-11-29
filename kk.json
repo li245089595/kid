@@ -223,7 +223,7 @@
       "key": "api_欧乐采集",
       "name": "💠┃欧乐┃采集",
       "type": 1,
-      "api": "https://olevod1.com/api.php/provide/vod/",
+      "api": "https://suoniapi.com/api.php/provide/vod/",
       "playUrl": "",
       "playerType": 1,
       "searchable": 1,
