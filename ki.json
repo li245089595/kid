@@ -84,10 +84,10 @@
       ]
     },
     {
-      "key": "api_奇虎采集",
-      "name": "💠┃奇虎┃采集",
+      "key": "api_快车采集",
+      "name": "💠┃快车┃采集",
       "type": 1,
-      "api": "https://caiji.qhzyapi.com/api.php/provide/vod/",
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
       "playUrl": "",
       "playerType": 1,
       "searchable": 1,
