@@ -87,7 +87,7 @@
       "key": "api_索尼采集",
       "name": "💠┃索尼┃采集",
       "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "",
       "playerType": 1,
       "searchable": 1,
