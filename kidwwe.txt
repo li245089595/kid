@@ -356,7 +356,7 @@ iHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600003
 港台电视31,P2p://generationnexxxt.com:19806/7b4b5fc2ef2748ea837bdfd45054bbca
 港台电视32,P2p://generationnexxxt.com:19806/b7aee53cae7f4c9ea61d156bb55073b2
 HOY TV,P2p://generationnexxxt.com:19806/03b6be900ff14bb5aea73411491329d2
-?翡翠台(备),P2p://generationnexxxt.com:19806/ab10835428454244a07ebb5ada67d60b
+翡翠台(备),P2p://generationnexxxt.com:19806/ab10835428454244a07ebb5ada67d60b
 J2,P2p://generationnexxxt.com:19806/d625fbf0080b460fb569e90601d1fd96
 无线新闻台(备),P2p://generationnexxxt.com:19806/73ee2f9e047946b1b20337d529d089a7
 无线新闻台,P2p://generationnexxxt.com:19806/51f0a761f0ec425584aa3e5e94f60dbd
