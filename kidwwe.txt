@@ -54,9 +54,6 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
-湖南经视,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43024/index.m3u8
-湖南爱晚,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8
-湖南娱乐,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43027/index.m3u8
 金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
 湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
 河南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225767/index.m3u8
@@ -245,17 +242,7 @@ iHOT爱幼教,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600018
 iHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
 🔸电影,#genre#
-陈翔六点半,https://www.goodiptv.club/huya/11274154
-金庸,https://www.goodiptv.club/huya/11352897
-周星驰,http://123.132.226.194:31028/hls/39/index.m3u8
-刘德华,http://123.132.226.194:31028/hls/40/index.m3u8
-成龙,http://123.132.226.194:31028/hls/41/index.m3u8
-李连杰,http://123.132.226.194:31028/hls/38/index.m3u8
-吴京,http://123.132.226.194:31028/hls/42/index.m3u8
-李小龙,http://123.132.226.194:31028/hls/103/index.m3u8
-甄子丹,http://123.132.226.194:31028/hls/104/index.m3u8
-黄渤,http://123.132.226.194:31028/hls/105/index.m3u8
-王宝强,http://123.132.226.194:31028/hls/106/index.m3u8
+陈翔六点半,https://live.metshop.top/huya/11274154
 电影_星爷,https://live.metshop.top/huya/11342412
 电影_英叔,https://live.metshop.top/huya/11342421
 电影_发哥,https://live.metshop.top/huya/11342387
@@ -326,7 +313,7 @@ iHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600003
 电影_死神来了,https://live.metshop.top/huya/11352903
 电影_变形金刚,https://live.metshop.top/huya/21059596
 电影_怪兽系列,https://live.metshop.top/huya/21059554
-搞笑_陈翔六点半,https://live.metshop.top/huya/11274154
+
 解说_电影狂人,https://live.metshop.top/huya/18715610
 解说_鹿哥电影,https://live.metshop.top/huya/24396360
 解说_斌哥漫说,https://live.metshop.top/huya/18632116
