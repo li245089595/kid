@@ -1,558 +1,274 @@
 {
-  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "lives": [
+"classes": [
     {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo5OC9obHd0dg=="
-          ]
-        }
-      ]
+      "type_name": "单口相声",
+      "type_id": "单口相声"
+    },
+    {
+      "type_name": "群口相声",
+      "type_id": "群口相声"
+    },
+    {
+      "type_name": "德云社",
+      "type_id": "德云社"
+    },
+    {
+      "type_name": "青曲社",
+      "type_id": "青曲社"
+    },
+    {
+      "type_name": "郭德纲",
+      "type_id": "郭德纲"
+    },
+    {
+      "type_name": "岳云鹏",
+      "type_id": "岳云鹏"
+    },
+    {
+      "type_name": "曹云金",
+      "type_id": "曹云金"
+    },
+    {
+      "type_name": "评书",
+      "type_id": "评书"
+    },
+    {
+      "type_name": "相声小品",
+      "type_id": "相声小品"
+    },
+    {
+      "type_name": "小曲",
+      "type_id": "小曲"
+    },
+    {
+      "type_name": "二人转",
+      "type_id": "二人转"
+    },
+    {
+      "type_name": "春晚小品",
+      "type_id": "春晚小品"
+    },
+
+    {
+      "type_name": "赵本山",
+      "type_id": "赵本山"
+    },
+    {
+      "type_name": "陈佩斯",
+      "type_id": "陈佩斯"
+    },
+    {
+      "type_name": "冯巩",
+      "type_id": "冯巩"
+    },
+    {
+      "type_name": "宋小宝",
+      "type_id": "宋小宝"
+    },
+    {
+      "type_name": "赵丽蓉",
+      "type_id": "赵丽蓉"
+    },
+    {
+      "type_name": "郭达",
+      "type_id": "郭达"
+    },
+    {
+      "type_name": "潘长江",
+      "type_id": "潘长江"
+    },
+    {
+      "type_name": "毽球",
+      "type_id": "毽球"
+    },
+    {
+      "type_name": "郭冬临",
+      "type_id": "郭冬临"
+    },
+    {
+      "type_name": "严顺开",
+      "type_id": "严顺开"
+    },
+    {
+      "type_name": "文松",
+      "type_id": "文松"
+    },
+    {
+      "type_name": "毽球",
+      "type_id": "毽球"
+    },
+    {
+      "type_name": "开心麻花",
+      "type_id": "开心麻花"
+    },
+    {
+      "type_name": "喜剧综艺",
+      "type_id": "喜剧综艺"
     }
   ],
-  "sites": [
-        {
-			"key": "api_新浪采集",
-			"name": "🍝┃新浪┃采集",
-			"type": 1,
-			"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-			"playUrl": "",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": [
-				"大陆剧",
-				"港澳剧",
-				"台湾剧",
-				"欧美剧",
-				"日剧",
-				"韩剧",
-				"泰剧",
-				"纪录片",
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"动漫",
-				"综艺",
-				"体育"
-			]
-		},
-		{
-			"key": "api_光速采集",
-			"name": "🍝┃光速┃采集",
-			"type": 1,
-			"api": "https://api.guangsuapi.com/api.php/provide/vod/",
-			"playUrl": "",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": [
-				"大陆剧",
-				"港澳剧",
-				"台湾剧",
-				"欧美剧",
-				"日剧",
-				"韩剧",
-				"泰剧",
-				"记录片",
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"动漫电影",
-				"综艺",
-				"动漫",
-				"体育赛事"
-			]
-		},
-		{
-			"key": "api_虎牙采集",
-			"name": "🍝┃虎牙┃采集",
-			"type": 1,
-			"api": "https://www.huyaapi.com/api.php/provide/vod/",
-			"playUrl": "",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": [
-				"内地剧",
-				"香港剧",
-				"台湾剧",
-				"欧美剧",
-				"日剧",
-				"韩剧",
-				"马泰剧",
-				"记录片",
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"中国动漫",
-				"日本动漫",
-				"欧美动漫",
-				"综艺",
-				"体育赛事"
-			]
-		},
-		{
-			"key": "api_金鹰采集",
-			"name": "🍝┃金鹰┃采集",
-			"type": 1,
-			"api": "https://jyzyapi.com/provide/vod/",
-			"playUrl": "",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": [
-				"内地剧",
-				"香港剧",
-				"台湾剧",
-				"欧美剧",
-				"日剧",
-				"韩剧",
-				"马泰剧",
-				"记录片",
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"动画片",
-				"中国动漫",
-				"日本动漫",
-				"欧美动漫",
-				"综艺",
-				"体育赛事"
-			]
-		},
-		{
-			"key": "api_红牛采集",
-			"name": "🍝┃红牛┃采集",
-			"type": 1,
-			"api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-			"playUrl": "",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": [
-				"国产剧",
-				"港澳剧",
-				"欧美剧",
-				"台湾剧",
-				"日剧",
-				"韩剧",
-				"泰剧",
-				"纪录片",
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片"
-			]
-		},
-		{
-			"key": "api_量子采集",
-			"name": "🍝┃量子┃采集",
-			"type": 1,
-			"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
-			"playUrl": "json:http://bfq.fuqizhishi.com:99/cjlzff.php?url=",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": [
-				"国产剧",
-				"香港剧",
-				"台湾剧",
-				"欧美剧",
-				"日本剧",
-				"韩国剧",
-				"泰国剧",
-				"海外剧",
-				"记录片",
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"大陆综艺",
-				"港台综艺",
-				"日韩综艺",
-				"欧美综艺",
-				"国产动漫",
-				"日韩动漫",
-				"欧美动漫"
-			]
-		},
-		{
-			"key": "api_非凡采集",
-			"name": "🍝┃非凡┃采集",
-			"type": 1,
-			"api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
-			"playUrl": "json:http://bfq.fuqizhishi.com:99/cjlzff.php?url=",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": [
-				"国产剧",
-				"香港剧",
-				"台湾剧",
-				"欧美剧",
-				"日本剧",
-				"韩国剧",
-				"泰国剧",
-				"海外剧",
-				"记录片",
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"动漫片",
-				"大陆综艺",
-				"港台综艺",
-				"日韩综艺",
-				"欧美综艺",
-				"国产动漫",
-				"港台动漫",
-				"日韩动漫",
-				"欧美动漫",
-				"海外动漫"
-			]
-		},
-		{
-			"key": "api_飞速采集",
-			"name": "🍝┃飞速┃采集",
-			"type": 1,
-			"api": "https://www.feisuzyapi.com/api.php/provide/vod/",
-			"playUrl": "",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": [
-				"国产剧",
-				"香港剧",
-				"台湾剧",
-				"欧美剧",
-				"日本剧",
-				"韩国剧",
-				"泰国剧",
-				"其他剧",
-				"纪录片",
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"大陆综艺",
-				"港台综艺",
-				"韩国综艺",
-				"欧美综艺",
-				"国产动漫",
-				"日本动漫",
-				"欧美动漫"
-			]
-		}                
-  ],
-  "parses": [
-    {
-      "name": "解析聚合",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "Json并发",
-      "type": 2,
-      "url": "Parallel"
-    },
-    {
-      "name": "Json轮询",
-      "type": 2,
-      "url": "Sequence"
-    },
-    {
-      "name": "FreeOk官解",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
-    },
-    {
-      "name": "777解析",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
-    }
-  ],
-  "flags": [
-    "youku",
-    "qq",
-    "iqiyi",
-    "qiyi",
-    "pptv",
-    "imgo",
-    "mgtv",
-    "leshi",
-    "levp",
-    "huanxi",
-    "huashu",
-    "sohu",
-    "m1905",
-    "xigua",
-    "腾讯",
-    "爱奇艺",
-    "奇艺",
-    "优酷",
-    "芒果",
-    "哔哩哔哩",
-    "哔哩"
-  ],
-  "ijk": [
-    {
-      "group": "软解码",
-      "options": [
-        {
-          "category": 4,
-          "name": "opensles",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "overlay-format",
-          "value": "842225234"
-        },
-        {
-          "category": 4,
-          "name": "framedrop",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "soundtouch",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "start-on-prepared",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "http-detect-range-support",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "fflags",
-          "value": "fastseek"
-        },
-        {
-          "category": 2,
-          "name": "skip_loop_filter",
-          "value": "48"
-        },
-        {
-          "category": 4,
-          "name": "reconnect",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "enable-accurate-seek",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-auto-rotate",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-handle-resolution-change",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-hevc",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "dns_cache_timeout",
-          "value": "600000000"
-        }
-      ]
-    },
-    {
-      "group": "硬解码",
-      "options": [
-        {
-          "category": 4,
-          "name": "opensles",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "overlay-format",
-          "value": "842225234"
-        },
-        {
-          "category": 4,
-          "name": "framedrop",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "soundtouch",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "start-on-prepared",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "http-detect-range-support",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "fflags",
-          "value": "fastseek"
-        },
-        {
-          "category": 2,
-          "name": "skip_loop_filter",
-          "value": "48"
-        },
-        {
-          "category": 4,
-          "name": "reconnect",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "enable-accurate-seek",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-auto-rotate",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-handle-resolution-change",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-hevc",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "dns_cache_timeout",
-          "value": "600000000"
-        }
-      ]
-    }
-  ],
-  "ads": [
-    "mimg.0c1q0l.cn",
-    "www.googletagmanager.com",
-    "www.google-analytics.com",
-    "mc.usihnbcq.cn",
-    "mg.g1mm3d.cn",
-    "mscs.svaeuzh.cn",
-    "cnzz.hhttm.top",
-    "tp.vinuxhome.com",
-    "cnzz.mmstat.com",
-    "www.baihuillq.com",
-    "s23.cnzz.com",
-    "z3.cnzz.com",
-    "c.cnzz.com",
-    "stj.v1vo.top",
-    "z12.cnzz.com",
-    "img.mosflower.cn",
-    "tips.gamevvip.com",
-    "ehwe.yhdtns.com",
-    "xdn.cqqc3.com",
-    "www.jixunkyy.cn",
-    "sp.chemacid.cn",
-    "hm.baidu.com",
-    "s9.cnzz.com",
-    "z6.cnzz.com",
-    "um.cavuc.com",
-    "mav.mavuz.com",
-    "wofwk.aoidf3.com",
-    "z5.cnzz.com",
-    "xc.hubeijieshikj.cn",
-    "tj.tianwenhu.com",
-    "xg.gars57.cn",
-    "k.jinxiuzhilv.com",
-    "cdn.bootcss.com",
-    "ppl.xunzhuo123.com",
-    "xomk.jiangjunmh.top",
-    "img.xunzhuo123.com",
-    "z1.cnzz.com",
-    "s13.cnzz.com",
-    "xg.huataisangao.cn",
-    "z7.cnzz.com",
-    "xg.huataisangao.cn",
-    "z2.cnzz.com",
-    "s96.cnzz.com",
-    "q11.cnzz.com",
-    "thy.dacedsfa.cn",
-    "xg.whsbpw.cn",
-    "s19.cnzz.com",
-    "z8.cnzz.com",
-    "s4.cnzz.com",
-    "f5w.as12df.top",
-    "ae01.alicdn.com",
-    "www.92424.cn",
-    "k.wudejia.com",
-    "vivovip.mmszxc.top",
-    "qiu.xixiqiu.com",
-    "cdnjs.hnfenxun.com",
-    "cms.qdwght.com"
-  ]
+   "cookie": "innersign=0;buvid3=2E536ADC-CD6D-46AB-A9FF-904395151EE369713infoc;b_nut=1669016569;i-wanna-go-back=-1;b_ut=7;_uuid=761F7F106-C575-884D-6C10A-92BC10A10D10FBC68934infoc;buvid4=5B25B999-AE15-E09A-A0CC-3661981B71BF70255-122112115-JOyWSaNZfI2kZmT1KYmcQA%3D%3D;fingerprint=6d9ef93c89a567d22b6a9c4104e6cc50;buvid_fp_plain=undefined;buvid_fp=6d9ef93c89a567d22b6a9c4104e6cc50;SESSDATA=2d6f63c8%2C1684568607%2C19eb6%2Ab1;bili_jct=21d538b01566c26afc81ff68c2ac7dca;DedeUserID=3493083203242585;DedeUserID__ckMd5=7b86f3894ed7f8c0;sid=ng0uyvaz;b_lsid=97FB69A2_1869DE8E2C5;bg_view_44176=720227",
+  "filter": {
+    "小品": [
+      {
+        "key": "duration",
+        "name": "时长",
+        "value": [
+          {
+            "n": "全部",
+            "v": "0"
+          },
+          {
+            "n": "60分钟以上",
+            "v": "4"
+          },
+          {
+            "n": "30~60分钟",
+            "v": "3"
+          },
+          {
+            "n": "10~30分钟",
+            "v": "2"
+          },
+          {
+            "n": "10分钟以下",
+            "v": "1"
+          }
+        ]
+      }
+    ],
+     "相声小品": [
+      {
+        "key": "tid",
+        "name": "分类",
+        "value": [
+          {
+            "n": "全部",
+            "v": "相声小品"
+          },
+          {
+            "n": "单口相声",
+            "v": "单口相声"
+          },
+          {
+            "n": "群口相声",
+            "v": "群口相声"
+          },
+          {
+            "n": "德云社",
+            "v": "德云社"
+          },
+          {
+            "n": "青曲社",
+            "v": "青曲社"
+          },
+          {
+            "n": "郭德纲",
+            "v": "郭德纲"
+          },
+          {
+            "n": "岳云鹏",
+            "v": "岳云鹏"
+          },
+          {
+            "n": "曹云金",
+            "v": "曹云金"
+          },
+          {
+            "n": "评书",
+            "v": "评书"
+          },
+          {
+            "n": "小曲",
+            "v": "小曲"
+          },
+          {
+            "n": "二人转",
+            "v": "二人转"
+          },
+          {
+            "n": "春晚小品",
+            "v": "春晚小品"
+          },
+          {
+            "n": "赵本山",
+            "v": "赵本山"
+          },
+          {
+            "n": "陈佩斯",
+            "v": "陈佩斯"
+          },
+          {
+            "n": "冯巩",
+            "v": "冯巩"
+          },
+          {
+            "n": "宋小宝",
+            "v": "宋小宝"
+          },
+          {
+            "n": "赵丽蓉",
+            "v": "赵丽蓉"
+          },
+          {
+            "n": "郭达",
+            "v": "郭达"
+          },
+          {
+            "n": "潘长江",
+            "v": "潘长江"
+          },
+          {
+            "n": "郭冬临",
+            "v": "郭冬临"
+          },
+          {
+            "n": "严顺开",
+            "v": "严顺开"
+          },
+          {
+            "n": "文松",
+            "v": "文松"
+          },
+          {
+            "n": "开心麻花",
+            "v": "开心麻花"
+          },
+          {
+            "n": "屌丝男士",
+            "v": "屌丝男士"
+          },
+          {
+            "n": "喜剧综艺",
+            "v": "喜剧综艺"
+          }
+        ]
+      },
+      {
+        "key": "duration",
+        "name": "时长",
+        "value": [
+          {
+            "n": "全部",
+            "v": "0"
+          },
+          {
+            "n": "60分钟以上",
+            "v": "4"
+          },
+          {
+            "n": "30~60分钟",
+            "v": "3"
+          },
+          {
+            "n": "10~30分钟",
+            "v": "2"
+          },
+          {
+            "n": "10分钟以下",
+            "v": "1"
+          }
+        ]
+      }
+    ]
+  }
 }
