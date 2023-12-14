@@ -8,7 +8,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://agit.ai/kankan314/cattv/raw/branch/master/bilibili.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kidwwe/main/jar/bilibili.json"
     },
     {
       "key": "csp_Biliych",
@@ -18,7 +18,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://agit.ai/kankan314/cattv/raw/branch/master/biliych.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kidwwe/main/jar/biliych.json"
     },
     {
       "key": "MV_vod",
@@ -37,7 +37,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://agit.ai/kankan314/cattv/raw/branch/master/Blixs.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kidwwe/main/jar/Blixs.json"
     },
     {
       "key": "戏 曲",
@@ -47,7 +47,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://agit.ai/kankan314/cattv/raw/branch/master/Blixq.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kidwwe/main/jar/Blixq.json"
     },
     {
       "key": "美食",
@@ -57,7 +57,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://agit.ai/kankan314/TVboxo3/raw/branch/main/Bili/美食合集.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kidwwe/main/jar/Blims.json"
     },
     {
       "key": "csp_Yj1211",
@@ -767,5 +767,5 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/ditv/main/jar/fan.jar"
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kidwwe/main/jar/fan.jar"
 }
