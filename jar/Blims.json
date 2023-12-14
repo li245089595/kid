@@ -1,558 +1,664 @@
 {
-  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "lives": [
+  "classes": [
     {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo5OC9obHd0dg=="
-          ]
-        }
-      ]
+      "type_name": "美食",
+      "type_id": "美食"
+    },
+    {
+      "type_name": "披萨",
+      "type_id": "披萨"
+    },
+    {
+      "type_name": "火锅",
+      "type_id": "火锅"
+    },
+    {
+      "type_name": "烧烤",
+      "type_id": "烧烤"
+    },
+    {
+      "type_name": "烤鱼",
+      "type_id": "烤鱼"
+    },
+    {
+      "type_name": "海鲜",
+      "type_id": "海鲜"
+    },
+    {
+      "type_name": "津菜",
+      "type_id": "津菜"
+    },
+    {
+      "type_name": "川菜",
+      "type_id": "川菜"
+    },
+    {
+      "type_name": "湘菜",
+      "type_id": "湘菜"
+    },
+    {
+      "type_name": "鲁菜",
+      "type_id": "鲁菜"
+    },
+    {
+      "type_name": "苏菜",
+      "type_id": "苏菜"
+    },
+    {
+      "type_name": "闽菜",
+      "type_id": "闽菜"
+    },
+    {
+      "type_name": "粤菜",
+      "type_id": "粤菜"
+    },
+    {
+      "type_name": "东北菜",
+      "type_id": "东北菜"
+    },
+    {
+      "type_name": "冀菜",
+      "type_id": "冀菜"
+    },
+    {
+      "type_name": "豫菜",
+      "type_id": "豫菜"
+    },
+    {
+      "type_name": "鄂菜",
+      "type_id": "鄂菜"
+    },
+    {
+      "type_name": "本帮菜",
+      "type_id": "本帮菜"
+    },
+    {
+      "type_name": "客家菜",
+      "type_id": "客家菜"
+    },
+    {
+      "type_name": "赣菜",
+      "type_id": "赣菜"
+    },
+    {
+      "type_name": "京菜",
+      "type_id": "京菜"
+    },
+    {
+      "type_name": "浙菜",
+      "type_id": "浙菜"
+    },
+    {
+      "type_name": "徽菜",
+      "type_id": "徽菜"
+    },
+    {
+      "type_name": "湘菜",
+      "type_id": "湘菜"
+    },
+    {
+      "type_name": "凉菜",
+      "type_id": "凉菜"
+    },
+    {
+      "type_name": "蒸菜",
+      "type_id": "蒸菜"
+    },
+    {
+      "type_name": "日料",
+      "type_id": "日料"
+    },
+    {
+      "type_name": "点心",
+      "type_id": "点心"
+    },
+    {
+      "type_name": "面食",
+      "type_id": "面食"
+    },
+    {
+      "type_name": "汉堡",
+      "type_id": "汉堡"
+    },
+    {
+      "type_name": "小吃",
+      "type_id": "小吃"
+    },
+    {
+      "type_name": "素食",
+      "type_id": "素食"
+    },
+    {
+      "type_name": "韩国菜",
+      "type_id": "韩国菜"
+    },
+    {
+      "type_name": "泰国菜",
+      "type_id": "泰国菜"
+    },
+    {
+      "type_name": "穆斯林菜",
+      "type_id": "穆斯林菜"
+    },
+    {
+      "type_name": "土耳其菜系",
+      "type_id": "土耳其菜系"
+    },
+    {
+      "type_name": "法国菜",
+      "type_id": "法国菜"
+    },
+    {
+      "type_name": "意大利菜",
+      "type_id": "意大利菜"
+    },
+    {
+      "type_name": "希腊菜",
+      "type_id": "希腊菜"
+    },
+    {
+      "type_name": "德国菜",
+      "type_id": "德国菜"
+    },
+    {
+      "type_name": "西班牙菜",
+      "type_id": "西班牙菜"
+    },
+    {
+      "type_name": "阿拉伯菜",
+      "type_id": "阿拉伯菜"
+    },
+    {
+      "type_name": "伊朗菜",
+      "type_id": "伊朗菜"
+    },
+    {
+      "type_name": "中亚菜",
+      "type_id": "中亚菜"
+    },
+    {
+      "type_name": "糖尿病菜",
+      "type_id": "糖尿病菜"
+    },
+    {
+      "type_name": "早餐",
+      "type_id": "早餐"
     }
   ],
-  "sites": [
-        {
-			"key": "api_新浪采集",
-			"name": "🍝┃新浪┃采集",
-			"type": 1,
-			"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-			"playUrl": "",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": [
-				"大陆剧",
-				"港澳剧",
-				"台湾剧",
-				"欧美剧",
-				"日剧",
-				"韩剧",
-				"泰剧",
-				"纪录片",
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"动漫",
-				"综艺",
-				"体育"
-			]
-		},
-		{
-			"key": "api_光速采集",
-			"name": "🍝┃光速┃采集",
-			"type": 1,
-			"api": "https://api.guangsuapi.com/api.php/provide/vod/",
-			"playUrl": "",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": [
-				"大陆剧",
-				"港澳剧",
-				"台湾剧",
-				"欧美剧",
-				"日剧",
-				"韩剧",
-				"泰剧",
-				"记录片",
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"动漫电影",
-				"综艺",
-				"动漫",
-				"体育赛事"
-			]
-		},
-		{
-			"key": "api_虎牙采集",
-			"name": "🍝┃虎牙┃采集",
-			"type": 1,
-			"api": "https://www.huyaapi.com/api.php/provide/vod/",
-			"playUrl": "",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": [
-				"内地剧",
-				"香港剧",
-				"台湾剧",
-				"欧美剧",
-				"日剧",
-				"韩剧",
-				"马泰剧",
-				"记录片",
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"中国动漫",
-				"日本动漫",
-				"欧美动漫",
-				"综艺",
-				"体育赛事"
-			]
-		},
-		{
-			"key": "api_金鹰采集",
-			"name": "🍝┃金鹰┃采集",
-			"type": 1,
-			"api": "https://jyzyapi.com/provide/vod/",
-			"playUrl": "",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": [
-				"内地剧",
-				"香港剧",
-				"台湾剧",
-				"欧美剧",
-				"日剧",
-				"韩剧",
-				"马泰剧",
-				"记录片",
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"动画片",
-				"中国动漫",
-				"日本动漫",
-				"欧美动漫",
-				"综艺",
-				"体育赛事"
-			]
-		},
-		{
-			"key": "api_红牛采集",
-			"name": "🍝┃红牛┃采集",
-			"type": 1,
-			"api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-			"playUrl": "",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": [
-				"国产剧",
-				"港澳剧",
-				"欧美剧",
-				"台湾剧",
-				"日剧",
-				"韩剧",
-				"泰剧",
-				"纪录片",
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片"
-			]
-		},
-		{
-			"key": "api_量子采集",
-			"name": "🍝┃量子┃采集",
-			"type": 1,
-			"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
-			"playUrl": "json:http://bfq.fuqizhishi.com:99/cjlzff.php?url=",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": [
-				"国产剧",
-				"香港剧",
-				"台湾剧",
-				"欧美剧",
-				"日本剧",
-				"韩国剧",
-				"泰国剧",
-				"海外剧",
-				"记录片",
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"大陆综艺",
-				"港台综艺",
-				"日韩综艺",
-				"欧美综艺",
-				"国产动漫",
-				"日韩动漫",
-				"欧美动漫"
-			]
-		},
-		{
-			"key": "api_非凡采集",
-			"name": "🍝┃非凡┃采集",
-			"type": 1,
-			"api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
-			"playUrl": "json:http://bfq.fuqizhishi.com:99/cjlzff.php?url=",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": [
-				"国产剧",
-				"香港剧",
-				"台湾剧",
-				"欧美剧",
-				"日本剧",
-				"韩国剧",
-				"泰国剧",
-				"海外剧",
-				"记录片",
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"动漫片",
-				"大陆综艺",
-				"港台综艺",
-				"日韩综艺",
-				"欧美综艺",
-				"国产动漫",
-				"港台动漫",
-				"日韩动漫",
-				"欧美动漫",
-				"海外动漫"
-			]
-		},
-		{
-			"key": "api_飞速采集",
-			"name": "🍝┃飞速┃采集",
-			"type": 1,
-			"api": "https://www.feisuzyapi.com/api.php/provide/vod/",
-			"playUrl": "",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"categories": [
-				"国产剧",
-				"香港剧",
-				"台湾剧",
-				"欧美剧",
-				"日本剧",
-				"韩国剧",
-				"泰国剧",
-				"其他剧",
-				"纪录片",
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"大陆综艺",
-				"港台综艺",
-				"韩国综艺",
-				"欧美综艺",
-				"国产动漫",
-				"日本动漫",
-				"欧美动漫"
-			]
-		}                
-  ],
-  "parses": [
-    {
-      "name": "解析聚合",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "Json并发",
-      "type": 2,
-      "url": "Parallel"
-    },
-    {
-      "name": "Json轮询",
-      "type": 2,
-      "url": "Sequence"
-    },
-    {
-      "name": "FreeOk官解",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
-    },
-    {
-      "name": "777解析",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
-    }
-  ],
-  "flags": [
-    "youku",
-    "qq",
-    "iqiyi",
-    "qiyi",
-    "pptv",
-    "imgo",
-    "mgtv",
-    "leshi",
-    "levp",
-    "huanxi",
-    "huashu",
-    "sohu",
-    "m1905",
-    "xigua",
-    "腾讯",
-    "爱奇艺",
-    "奇艺",
-    "优酷",
-    "芒果",
-    "哔哩哔哩",
-    "哔哩"
-  ],
-  "ijk": [
-    {
-      "group": "软解码",
-      "options": [
-        {
-          "category": 4,
-          "name": "opensles",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "overlay-format",
-          "value": "842225234"
-        },
-        {
-          "category": 4,
-          "name": "framedrop",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "soundtouch",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "start-on-prepared",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "http-detect-range-support",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "fflags",
-          "value": "fastseek"
-        },
-        {
-          "category": 2,
-          "name": "skip_loop_filter",
-          "value": "48"
-        },
-        {
-          "category": 4,
-          "name": "reconnect",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "enable-accurate-seek",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-auto-rotate",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-handle-resolution-change",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-hevc",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "dns_cache_timeout",
-          "value": "600000000"
-        }
-      ]
-    },
-    {
-      "group": "硬解码",
-      "options": [
-        {
-          "category": 4,
-          "name": "opensles",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "overlay-format",
-          "value": "842225234"
-        },
-        {
-          "category": 4,
-          "name": "framedrop",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "soundtouch",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "start-on-prepared",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "http-detect-range-support",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "fflags",
-          "value": "fastseek"
-        },
-        {
-          "category": 2,
-          "name": "skip_loop_filter",
-          "value": "48"
-        },
-        {
-          "category": 4,
-          "name": "reconnect",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "enable-accurate-seek",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-auto-rotate",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-handle-resolution-change",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-hevc",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "dns_cache_timeout",
-          "value": "600000000"
-        }
-      ]
-    }
-  ],
-  "ads": [
-    "mimg.0c1q0l.cn",
-    "www.googletagmanager.com",
-    "www.google-analytics.com",
-    "mc.usihnbcq.cn",
-    "mg.g1mm3d.cn",
-    "mscs.svaeuzh.cn",
-    "cnzz.hhttm.top",
-    "tp.vinuxhome.com",
-    "cnzz.mmstat.com",
-    "www.baihuillq.com",
-    "s23.cnzz.com",
-    "z3.cnzz.com",
-    "c.cnzz.com",
-    "stj.v1vo.top",
-    "z12.cnzz.com",
-    "img.mosflower.cn",
-    "tips.gamevvip.com",
-    "ehwe.yhdtns.com",
-    "xdn.cqqc3.com",
-    "www.jixunkyy.cn",
-    "sp.chemacid.cn",
-    "hm.baidu.com",
-    "s9.cnzz.com",
-    "z6.cnzz.com",
-    "um.cavuc.com",
-    "mav.mavuz.com",
-    "wofwk.aoidf3.com",
-    "z5.cnzz.com",
-    "xc.hubeijieshikj.cn",
-    "tj.tianwenhu.com",
-    "xg.gars57.cn",
-    "k.jinxiuzhilv.com",
-    "cdn.bootcss.com",
-    "ppl.xunzhuo123.com",
-    "xomk.jiangjunmh.top",
-    "img.xunzhuo123.com",
-    "z1.cnzz.com",
-    "s13.cnzz.com",
-    "xg.huataisangao.cn",
-    "z7.cnzz.com",
-    "xg.huataisangao.cn",
-    "z2.cnzz.com",
-    "s96.cnzz.com",
-    "q11.cnzz.com",
-    "thy.dacedsfa.cn",
-    "xg.whsbpw.cn",
-    "s19.cnzz.com",
-    "z8.cnzz.com",
-    "s4.cnzz.com",
-    "f5w.as12df.top",
-    "ae01.alicdn.com",
-    "www.92424.cn",
-    "k.wudejia.com",
-    "vivovip.mmszxc.top",
-    "qiu.xixiqiu.com",
-    "cdnjs.hnfenxun.com",
-    "cms.qdwght.com"
-  ]
+  "filter": {
+    "美食": [
+      {
+        "key": "order",
+        "name": "排序",
+        "value": [
+          {
+            "n": "综合排序",
+            "v": "0"
+          },
+          {
+            "n": "最多点击",
+            "v": "click"
+          },
+          {
+            "n": "最新发布",
+            "v": "pubdate"
+          },
+          {
+            "n": "最多弹幕",
+            "v": "dm"
+          },
+          {
+            "n": "最多收藏",
+            "v": "stow"
+          }
+        ]
+      },
+      {
+        "key": "duration",
+        "name": "时长",
+        "value": [
+          {
+            "n": "全部时长",
+            "v": "0"
+          },
+          {
+            "n": "60分钟以上",
+            "v": "4"
+          },
+          {
+            "n": "30~60分钟",
+            "v": "3"
+          },
+          {
+            "n": "10~30分钟",
+            "v": "2"
+          },
+          {
+            "n": "10分钟以下",
+            "v": "1"
+          }
+        ]
+      },
+      {
+        "key": "tid",
+        "name": "分类",
+        "value": [
+          {
+            "n": "全部",
+            "v": "美食"
+          },
+          {
+            "n": "火锅",
+            "v": "火锅"
+          },
+          {
+            "n": "面食",
+            "v": "面食"
+          },
+          {
+            "n": "炒菜",
+            "v": "炒菜"
+          },
+          {
+            "n": "点心",
+            "v": "点心"
+          },
+          {
+            "n": "日料",
+            "v": "日料"
+          },
+          {
+            "n": "小吃",
+            "v": "小吃"
+          },
+          {
+            "n": "素食",
+            "v": "素食"
+          },
+          {
+            "n": "川菜",
+            "v": "川菜"
+          },
+          {
+            "n": "湘菜",
+            "v": "湘菜"
+          },
+          {
+            "n": "鲁菜",
+            "v": "鲁菜"
+          },
+          {
+            "n": "浙菜",
+            "v": "浙菜"
+          },
+          {
+            "n": "苏菜",
+            "v": "苏菜"
+          },
+          {
+            "n": "徽菜",
+            "v": "徽菜"
+          },
+          {
+            "n": "闽菜",
+            "v": "闽菜"
+          },
+          {
+            "n": "蒸菜",
+            "v": "蒸菜"
+          },
+          {
+            "n": "凉菜",
+            "v": "凉菜"
+          },
+          {
+            "n": "早餐",
+            "v": "早餐"
+          }
+        ]
+      }
+    ],
+    "火锅": [
+      {
+        "key": "order",
+        "name": "排序",
+        "value": [
+          {
+            "n": "综合排序",
+            "v": "0"
+          },
+          {
+            "n": "最多点击",
+            "v": "click"
+          },
+          {
+            "n": "最新发布",
+            "v": "pubdate"
+          },
+          {
+            "n": "最多弹幕",
+            "v": "dm"
+          },
+          {
+            "n": "最多收藏",
+            "v": "stow"
+          }
+        ]
+      },
+      {
+        "key": "duration",
+        "name": "时长",
+        "value": [
+          {
+            "n": "全部时长",
+            "v": "0"
+          },
+          {
+            "n": "60分钟以上",
+            "v": "4"
+          },
+          {
+            "n": "30~60分钟",
+            "v": "3"
+          },
+          {
+            "n": "10~30分钟",
+            "v": "2"
+          },
+          {
+            "n": "10分钟以下",
+            "v": "1"
+          }
+        ]
+      }
+    ],
+    "披萨": [
+      {
+        "key": "order",
+        "name": "排序",
+        "value": [
+          {
+            "n": "综合排序",
+            "v": "0"
+          },
+          {
+            "n": "最多点击",
+            "v": "click"
+          },
+          {
+            "n": "最新发布",
+            "v": "pubdate"
+          },
+          {
+            "n": "最多弹幕",
+            "v": "dm"
+          },
+          {
+            "n": "最多收藏",
+            "v": "stow"
+          }
+        ]
+      },
+      {
+        "key": "duration",
+        "name": "时长",
+        "value": [
+          {
+            "n": "全部时长",
+            "v": "0"
+          },
+          {
+            "n": "60分钟以上",
+            "v": "4"
+          },
+          {
+            "n": "30~60分钟",
+            "v": "3"
+          },
+          {
+            "n": "10~30分钟",
+            "v": "2"
+          },
+          {
+            "n": "10分钟以下",
+            "v": "1"
+          }
+        ]
+      },
+      {
+        "key": "tid",
+        "name": "分类",
+        "value": [
+          {
+            "n": "全部",
+            "v": "披萨"
+          },
+          {
+            "n": "选材",
+            "v": "披萨选材"
+          },
+          {
+            "n": "制作",
+            "v": "披萨制作"
+          }
+        ]
+      }
+    ],
+    "川菜": [
+      {
+        "key": "order",
+        "name": "排序",
+        "value": [
+          {
+            "n": "综合排序",
+            "v": "0"
+          },
+          {
+            "n": "最多点击",
+            "v": "click"
+          },
+          {
+            "n": "最新发布",
+            "v": "pubdate"
+          },
+          {
+            "n": "最多弹幕",
+            "v": "dm"
+          },
+          {
+            "n": "最多收藏",
+            "v": "stow"
+          }
+        ]
+      },
+      {
+        "key": "duration",
+        "name": "时长",
+        "value": [
+          {
+            "n": "全部时长",
+            "v": "0"
+          },
+          {
+            "n": "60分钟以上",
+            "v": "4"
+          },
+          {
+            "n": "30~60分钟",
+            "v": "3"
+          },
+          {
+            "n": "10~30分钟",
+            "v": "2"
+          },
+          {
+            "n": "10分钟以下",
+            "v": "1"
+          }
+        ]
+      }
+    ],
+    "日料": [
+      {
+        "key": "order",
+        "name": "排序",
+        "value": [
+          {
+            "n": "综合排序",
+            "v": "0"
+          },
+          {
+            "n": "最多点击",
+            "v": "click"
+          },
+          {
+            "n": "最新发布",
+            "v": "pubdate"
+          },
+          {
+            "n": "最多弹幕",
+            "v": "dm"
+          },
+          {
+            "n": "最多收藏",
+            "v": "stow"
+          }
+        ]
+      },
+      {
+        "key": "duration",
+        "name": "时长",
+        "value": [
+          {
+            "n": "全部时长",
+            "v": "0"
+          },
+          {
+            "n": "60分钟以上",
+            "v": "4"
+          },
+          {
+            "n": "30~60分钟",
+            "v": "3"
+          },
+          {
+            "n": "10~30分钟",
+            "v": "2"
+          },
+          {
+            "n": "10分钟以下",
+            "v": "1"
+          }
+        ]
+      }
+    ],
+    "湘菜": [
+      {
+        "key": "order",
+        "name": "排序",
+        "value": [
+          {
+            "n": "综合排序",
+            "v": "0"
+          },
+          {
+            "n": "最多点击",
+            "v": "click"
+          },
+          {
+            "n": "最新发布",
+            "v": "pubdate"
+          },
+          {
+            "n": "最多弹幕",
+            "v": "dm"
+          },
+          {
+            "n": "最多收藏",
+            "v": "stow"
+          }
+        ]
+      },
+      {
+        "key": "duration",
+        "name": "时长",
+        "value": [
+          {
+            "n": "全部时长",
+            "v": "0"
+          },
+          {
+            "n": "60分钟以上",
+            "v": "4"
+          },
+          {
+            "n": "30~60分钟",
+            "v": "3"
+          },
+          {
+            "n": "10~30分钟",
+            "v": "2"
+          },
+          {
+            "n": "10分钟以下",
+            "v": "1"
+          }
+        ]
+      }
+    ],
+    "早餐": [
+      {
+        "key": "order",
+        "name": "排序",
+        "value": [
+          {
+            "n": "综合排序",
+            "v": "0"
+          },
+          {
+            "n": "最多点击",
+            "v": "click"
+          },
+          {
+            "n": "最新发布",
+            "v": "pubdate"
+          },
+          {
+            "n": "最多弹幕",
+            "v": "dm"
+          },
+          {
+            "n": "最多收藏",
+            "v": "stow"
+          }
+        ]
+      },
+      {
+        "key": "duration",
+        "name": "时长",
+        "value": [
+          {
+            "n": "全部时长",
+            "v": "0"
+          },
+          {
+            "n": "60分钟以上",
+            "v": "4"
+          },
+          {
+            "n": "30~60分钟",
+            "v": "3"
+          },
+          {
+            "n": "10~30分钟",
+            "v": "2"
+          },
+          {
+            "n": "10分钟以下",
+            "v": "1"
+          }
+        ]
+      }
+    ]
+  }
 }
