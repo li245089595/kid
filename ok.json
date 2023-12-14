@@ -76,7 +76,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/kan31467/xx/raw/main/qiulei.txt"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kidwwe/main/jar/Bliql.json"
     },
     {
       "key": "幼儿乐园",
@@ -86,7 +86,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/kan31467/xx/raw/main/yely.txt"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kidwwe/main/jar/Bliyer.json"
     },
     {
       "key": "少儿教育",
@@ -96,7 +96,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/kan31467/xx/raw/main/sejy.txt"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kidwwe/main/jar/Bliser.json"
     },
     {
       "key": "小学课堂",
@@ -106,7 +106,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/kan31467/xx/raw/main/xxxx.txt"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kidwwe/main/jar/Blixiao.json"
     },
     {
       "key": "初中课堂",
@@ -116,7 +116,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/kan31467/xx/raw/main/czxx.txt"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kidwwe/main/jar/Blizhon.json"
     },
     {
       "key": "高中教育",
@@ -126,7 +126,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/kan31467/xx/raw/main/gzxx.txt"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kidwwe/main/jar/Bligao.json"
     },
     {
       "key": "软件",
@@ -136,7 +136,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/kan31467/xx/raw/main/软件教程.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kidwwe/main/jar/Blijc.json"
     }
   ],
   "parses": [
