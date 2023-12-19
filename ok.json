@@ -12,7 +12,7 @@
     },
     {
       "key": "csp_Biliych",
-      "name": "💠哔哩┃MTV",
+      "name": "💠音乐┃曲库",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -22,7 +22,7 @@
     },
     {
       "key": "MV_vod",
-      "name": "💠明星┃MTV",
+      "name": "💠歌手┃专辑",
       "type": 1,
       "api": "https://mv.wogg.link/mv/vod",
       "searchable": 1,
