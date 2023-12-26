@@ -139,7 +139,7 @@
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kidwwe/main/jar/Blijc.json"
     }
   ],
-   "parses": [
+  "parses": [
     {
       "name": "聚合",
       "type": 3,
@@ -148,7 +148,7 @@
     {
       "name": "神秘的哥哥们",
       "type": 1,
-      "url": "http://api.888484.xyz/jiexi/米太硬.php?url=",
+      "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
       "ext": {
         "flag": [
           "qq",
@@ -177,33 +177,6 @@
           "qiqi",
           "XALS",
           "YuMi-vip"
-        ]
-      }
-    },
-    {
-      "name": "公众号",
-      "type": 1,
-      "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "iqiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
         ]
       }
     },
@@ -239,8 +212,8 @@
     },
     {
       "name": "稻香🌾",
-      "type": 1,
-      "url": "http: //42.157.128.109: 2323/CH/app/tv.php?url=",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "flag": [
           "mgtv",
@@ -270,9 +243,35 @@
       }
     },
     {
+      "name": "飞云🌾",
+      "type": 1,
+      "url": "https://daina.hk/api/?key=e1e84ecae847b6e4a1a27fd4611f45f5&url=",
+      "ext": {
+        "flag": [
+          "FYNB"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
       "name": "左岸🌾",
       "type": 1,
-      "url": "https: //api.tyun77.cn/api.php/provide/parseDicturl?url=",
+      "url": "http://110.42.2.247:880/analysis/json/?uid=2500&my=cfiknqswABGHJSU058&format=json&url=",
+      "ext": {
+        "flag": [
+          "seven"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "米饭🌾",
+      "type": 1,
+      "url": "https://json.oorl.cn/api/?key=gajpAki7cu8560ro4C&url=",
       "ext": {
         "flag": [
           "爱奇艺",
@@ -294,42 +293,37 @@
           "芒果"
         ],
         "header": {
-          "User-Agent": "okhttp/3.12.0"
+          "User-Agent": "okhttp/4.1.0"
         }
       }
     },
     {
       "name": "YuMi-vip🥭",
-      "type": 1,
-      "url": "https: //api.xn--kcr500a391b.cc/api/jiexi/common?Key=zcGXEL8jGntDoi3vSR&url=",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "flag": [
-          "YuMi-vip"
-        ]
-      }
-    },
-    {
-      "name": "世界🥭",
-      "type": 1,
-      "url": "http: //175.178.183.192: 86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=",
-      "ext": {
-        "flag": [
+          "爱奇艺",
+          "奇艺",
           "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
           "mgtv",
-          "YuMi-vip"
-        ]
-      }
-    },
-    {
-      "name": "比u比u🥭",
-      "type": 1,
-      "url": "",
-      "ext": {
-        "flag": [
-          "qq",
-          "mgtv",
-          "YuMi-vip"
-        ]
+          "芒果",
+          "芒果"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36"
+        }
       }
     }
   ],
@@ -472,13 +466,12 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "live2",
+      "name": "西夏",
       "type": 0,
-      "url": "https://agit.ai/kankan314/kan/raw/branch/master/tv/yydslive1.txt",
-      "playerType": 1,
+      "url": "https://agit.ai/kankan314/kan/raw/branch/master/tv/%e8%a5%bf%e5%a4%8f%e7%9b%b4%e6%92%ad.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    } 
+    }
   ],
   "flags": [
     "优酷视频",
