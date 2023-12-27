@@ -8,7 +8,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kidwwe/main/jar/bilibili.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/bilibili.json"
     },
     {
       "key": "csp_Biliych",
@@ -18,7 +18,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kidwwe/main/jar/biliych.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/biliych.json"
     },
     {
       "key": "MV_vod",
@@ -37,7 +37,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kidwwe/main/jar/Blixs.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/Blixs.json"
     },
     {
       "key": "戏 曲",
@@ -47,7 +47,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kidwwe/main/jar/Blixq.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/Blixq.json"
     },
     {
       "key": "美食",
@@ -57,7 +57,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kidwwe/main/jar/Blims.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/Blims.json"
     },
     {
       "key": "csp_Yj1211",
@@ -76,7 +76,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kidwwe/main/jar/Bliql.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/Bliql.json"
     },
     {
       "key": "幼儿乐园",
@@ -86,7 +86,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kidwwe/main/jar/Bliyer.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/Bliyer.json"
     },
     {
       "key": "少儿教育",
@@ -96,7 +96,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kidwwe/main/jar/Bliser.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/Bliser.json"
     },
     {
       "key": "小学课堂",
@@ -106,7 +106,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kidwwe/main/jar/Blixiao.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/Blixiao.json"
     },
     {
       "key": "初中课堂",
@@ -116,7 +116,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kidwwe/main/jar/Blizhon.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/Blizhon.json"
     },
     {
       "key": "高中教育",
@@ -126,7 +126,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kidwwe/main/jar/Bligao.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/Bligao.json"
     },
     {
       "key": "软件",
@@ -136,7 +136,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kidwwe/main/jar/Blijc.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/Blijc.json"
     }
   ],
   "parses": [
@@ -517,5 +517,5 @@
     "https: //lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "http: //饭太硬.top/深色壁纸/api.php",
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kidwwe/main/jar/fan.jar"
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/fan.jar"
 }
