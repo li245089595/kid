@@ -46,11 +46,11 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 🔸卫视,#genre#
 凤凰中文台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 凤凰资讯台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-好消息综合,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-大立,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 大爱,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
+大立,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
@@ -120,7 +120,6 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 孝感生活,http://xiaogan-live21.cjyun.org/10139/s10139-shpd.m3u8?auth_key=1704038399-0-0-38258db7eb010303cb33988874a75a9f
 孝昌新闻党建,http://xiaochang-live21.cjyun.org/10128/s10128-xcxw.m3u8?auth_key=1704038399-0-0-66730340ff88177724aa0e28999d1aab
 应城新闻党建,https://yingcheng-live21.cjyun.org/10135/s10135-YCZH.m3u8?auth_key=1704038399-0-0-183e4f22e93e62e3d5853726af611aed
-潜江综合,http://hbqjdb.chinashadt.com:2035/live/3.stream/playlist.m3u8
 沙洋综合电视,http://shayang-live21.cjyun.org/10110/s10110-sytv1.m3u8?auth_key=1704038399-0-0-b07aa5a0a6f1c83a3c61bb86c94a8fee
 洪湖新闻,http://honghu-live21.cjyun.org/10087/s10087-0823-HONGHUTV01.m3u8?auth_key=1704038399-0-0-3c36b1de4c1426daf26ac901c7b33436
 嘉鱼新闻综合,http://jiayu-live21.cjyun.org/10131/s10131-jyzh.m3u8?auth_key=1704038399-0-0-d89a910ae4d57b439b4e9a11a56d25d2
@@ -247,106 +246,44 @@ iHOT爱幼教,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600018
 iHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
 🔸电影,#genre#
-陈翔六点半,https://live.metshop.top/huya/11274154
-电影_星爷,https://live.metshop.top/huya/11342412
-电影_英叔,https://live.metshop.top/huya/11342421
-电影_发哥,https://live.metshop.top/huya/11342387
-电影_成龙,https://live.metshop.top/huya/11342386
-电影_王晶,https://live.metshop.top/huya/11602058
-电影_沈腾,https://live.metshop.top/huya/11601968
-电影_黄渤,https://live.metshop.top/huya/11352876
-电影_强森,https://live.metshop.top/huya/21059581
-电影_漫威,https://live.metshop.top/huya/11602034
-电影_宇宙,https://live.metshop.top/huya/11342428
-电影_怪兽,https://live.metshop.top/huya/21059577
-电影_武侠,https://live.metshop.top/huya/11342427
-电影_警匪,https://live.metshop.top/huya/11352886
-电影_罪犯,https://live.metshop.top/huya/11352962
-电影_枪战,https://live.metshop.top/huya/21059579
-电影_海盗,https://live.metshop.top/huya/21059595
-电影_赛车,https://live.metshop.top/huya/11279247
-电影_推荐,https://live.metshop.top/huya/11602041
-电影_救援,https://live.metshop.top/huya/21059594
-电影_热血,https://live.metshop.top/huya/11352934
-电影_盗墓,https://live.metshop.top/huya/21059552
-电影_贺岁,https://live.metshop.top/huya/11601971
-电影_玄幻,https://live.metshop.top/huya/11342414
-电影_谍战,https://live.metshop.top/huya/21059585
-电影_战争,https://live.metshop.top/huya/21059592
-电影_喜剧,https://live.metshop.top/huya/11352877
-电影_港片,https://live.metshop.top/huya/11602043
-电影_国产,https://live.metshop.top/huya/11352973
-电影_周星星,https://live.metshop.top/huya/11336587
-电影_李连杰,https://live.metshop.top/huya/11342390
-电影_洪金宝,https://live.metshop.top/huya/11279251
-电影_梁家辉,https://live.metshop.top/huya/11342429
-电影_许冠英,https://live.metshop.top/huya/11601972
-电影_刘德华,https://live.metshop.top/huya/11342424
-电影_斯坦森,https://live.metshop.top/huya/21059588
-电影_小鬼头,https://live.metshop.top/huya/11352963
-电影_八点档,https://live.metshop.top/huya/880261
-电影_蜘蛛侠,https://live.metshop.top/huya/21059599
-电影_贺岁片,https://live.metshop.top/huya/11601986
-电影_功夫片,https://live.metshop.top/huya/11352941
-电影_黑帮片,https://live.metshop.top/huya/11336719
-电影_丧尸片,https://live.metshop.top/huya/21059578
-电影_灾难片,https://live.metshop.top/huya/11602075
-电影_谍战片,https://live.metshop.top/huya/21059587
-电影_战争片,https://live.metshop.top/huya/21059574
-电影_犯罪片,https://live.metshop.top/huya/11352974
-电影_古装片,https://live.metshop.top/huya/11336590
-电影_高分动作,https://live.metshop.top/huya/11352884
-电影_动作电影,https://live.metshop.top/huya/11602077
-电影_搞笑喜剧,https://live.metshop.top/huya/11342423
-电影_喜剧专场,https://live.metshop.top/huya/11602044
-电影_欢笑影院,https://live.metshop.top/huya/11352894
-电影_不挤影院,https://live.metshop.top/huya/11352897
-电影_国产悬疑,https://live.metshop.top/huya/11342395
-电影_快意江湖,https://live.metshop.top/huya/11342435
-电影_黑帮斗争,https://live.metshop.top/huya/11342419
-电影_古墓系列,https://live.metshop.top/huya/11352913
-电影_嫣然影厅,https://live.metshop.top/huya/11601977
-电影_女神系列,https://live.metshop.top/huya/11336571
-电影_经典女神,https://live.metshop.top/huya/11352909
-电影_许氏三杰,https://live.metshop.top/huya/11602033
-电影_经典港片,https://live.metshop.top/huya/11352965
-电影_镖行天下,https://live.metshop.top/huya/11352969
-电影_高能反转,https://live.metshop.top/huya/11352887
-电影_喜乐影院,https://live.metshop.top/huya/21059580
-电影_蘑菇影厅,https://live.metshop.top/huya/11601981
-电影_搞笑恐怖,https://live.metshop.top/huya/11601960
-电影_死神来了,https://live.metshop.top/huya/11352903
-电影_变形金刚,https://live.metshop.top/huya/21059596
-电影_怪兽系列,https://live.metshop.top/huya/21059554
-解说_电影狂人,https://live.metshop.top/huya/18715610
-解说_鹿哥电影,https://live.metshop.top/huya/24396360
-解说_斌哥漫说,https://live.metshop.top/huya/18632116
-解说_续哥说电影,https://live.metshop.top/huya/24396472
-解说_小川侃电影,https://live.metshop.top/huya/15870999
-解说_阿钙扒瞎,https://live.metshop.top/huya/15978172
-解说_阿良说剧,https://live.metshop.top/huya/20488841
-解说_鱼丸电影,https://live.metshop.top/huya/16615910
-解说_阿斗说电影,https://live.metshop.top/huya/13303478
-解说_扁豆看电影,https://live.metshop.top/huya/16028551
-解说_乌贼说电影,https://live.metshop.top/huya/16604522
-解说_大象放映室,https://live.metshop.top/huya/21277391
-解说_科幻梦工场,https://live.metshop.top/huya/15152155
-解说_亮哥讲电影,https://live.metshop.top/huya/16144175
-解说_越哥说电影,https://live.metshop.top/huya/15894162
-解说_小冉看电影,https://live.metshop.top/huya/17341907
-解说_嫦娥撩电影,https://live.metshop.top/huya/18201106
-解说_阿翔说电影,https://live.metshop.top/huya/16868935
-解说_疯狂解说家,https://live.metshop.top/huya/18366196
-解说_虎妞说电影,https://live.metshop.top/huya/20343144
-解说_顾久撩电影,https://live.metshop.top/huya/16422212
-解说_涵哥评电影,https://live.metshop.top/huya/16865726
-解说_俗哥看电影,https://live.metshop.top/huya/15452736
-解说_老皮讲电影,https://live.metshop.top/huya/16968572
-解说_默爷侃电影,https://live.metshop.top/huya/17204307
-解说_冷君说电影,https://live.metshop.top/huya/16739452
-解说_老炮说电影,https://live.metshop.top/huya/15454716
-解说_刘老师说电影,https://live.metshop.top/huya/20289754
-解说_恐怖电影解说,https://live.metshop.top/huya/16741179
+高分电影,http://epg.112114.xyz/douyu/7254536
+豆瓣高分,http://epg.112114.xyz/douyu/8770422
+漫威影院,http://epg.112114.xyz/douyu/6140589
+特辑电影,http://epg.112114.xyz/douyu/3637778
+粤语电影,http://epg.112114.xyz/douyu/1226741
+喜剧电影,http://epg.112114.xyz/douyu/323876
+动作电影,http://epg.112114.xyz/douyu/6763930
+恐怖电影,http://epg.112114.xyz/douyu/218859
+恐怖鬼怪,http://epg.112114.xyz/douyu/1165374
+童年阴影,http://epg.112114.xyz/douyu/2935323
+惊悚电影,http://epg.112114.xyz/douyu/96577
+粤语电影,http://epg.112114.xyz/douyu/6566671
+华语影视,http://epg.112114.xyz/douyu/3928
+神乐影视,http://epg.112114.xyz/douyu/85894
+冰冰影厅,http://epg.112114.xyz/douyu/74374
+刀刀影院,http://epg.112114.xyz/douyu/747764
+奶虫影院,http://epg.112114.xyz/douyu/263824
+贝爷壹厅,http://epg.112114.xyz/douyu/252802
+贝爷贰厅,http://epg.112114.xyz/douyu/4332
+贝爷叁厅,http://epg.112114.xyz/douyu/36337
+凌儿影院,http://epg.112114.xyz/douyu/1377142
+花卷影院,http://epg.112114.xyz/douyu/52787
+橙記港剧,http://epg.112114.xyz/douyu/4549169
+大宝影视,http://epg.112114.xyz/douyu/805235
+蚂蚱影视,http://epg.112114.xyz/douyu/6079455
+怡寶影视,http://epg.112114.xyz/douyu/434971
+圆子影视,http://epg.112114.xyz/douyu/6566658
+贝贝影视,http://epg.112114.xyz/douyu/431460
+可乐影视,http://epg.112114.xyz/douyu/20415
+下饭神剧,http://epg.112114.xyz/douyu/276200
+古装神剧,http://epg.112114.xyz/douyu/338759
+酒染影视,http://epg.112114.xyz/douyu/7550220
+芊珏影视,http://epg.112114.xyz/douyu/8814650
+热门港剧,http://epg.112114.xyz/douyu/5522351
+国产剧集,http://epg.112114.xyz/douyu/8157860
+国产剧场,http://epg.112114.xyz/douyu/308752
+经典剧集,http://epg.112114.xyz/douyu/2838296
+爱情公寓,http://epg.112114.xyz/douyu/6863367
 
 🔸港澳,#genre#
 港台电视31,mitv://generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242
@@ -557,98 +494,6 @@ EYE TV戏剧台,mitv://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f
 MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 东森购物1台,mitv://generationnexxxt.com:19806/eccc79da1c0a4b54b49a71277e1534a0
 东森购物2台,mitv://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
-
-🔸马来,#genre#
-TV1,P2p://generationnexxxt.com:19806/15cc1f2bbe094c94a9255d8f009ab086
-TV2,P2p://generationnexxxt.com:19806/6bcf07b2968d4222902179c20a2d680e
-TV3,P2p://generationnexxxt.com:19806/a9c93fae0e4c4b91998f78719fb7b940
-NTV7,P2p://generationnexxxt.com:19806/c35abbe7af9443f79e9ec3b52ed8af59
-八度空间,P2p://generationnexxxt.com:19806/12427cc203ab47cf95b9a6272e5d9f39
-TV9,P2p://generationnexxxt.com:19806/fbbf0593e4f447338c20d060a840bc16
-Astro Oasis HD,P2p://generationnexxxt.com:19806/d8f26bf42a3d44738bc73e2e0ba4bc6f
-Al-Hijrah,P2p://generationnexxxt.com:19806/6d71dd9fa4c74462a0a3e1f70fba7d9c
-SUN TV,P2p://generationnexxxt.com:19806/f3cc8029d9304ff689e22df10f1e557d
-爱奇艺,P2p://generationnexxxt.com:19806/8b3e6b9b4c1a4818990be85265e34162
-Astro小太阳,P2p://generationnexxxt.com:19806/aa95115bdb9c4e8baab2b82a3a1f8ddf
-Astro AEC(备),P2p://generationnexxxt.com:19806/80c615b2f9534fb79709ae64557bcced
-天映频道,P2p://generationnexxxt.com:19806/07af14e7597a40c5819053abe20496aa
-翡翠台(华丽台),P2p://generationnexxxt.com:19806/335ab301c1d7404a97dc0f8e51352fbe
-Astro AOD HD 311,P2p://generationnexxxt.com:19806/13a485d2a83040949bd074713b487c9e
-中天亚洲台,P2p://generationnexxxt.com:19806/960193fd22824c42862d8850b6256532
-TVB星河(粤),P2p://generationnexxxt.com:19806/fce43ece3f4e496f99ef8cdf6520396b
-天映经典,P2p://generationnexxxt.com:19806/c8a749e96f2040c0b91aeaec18544b04
-Astro欢喜台,P2p://generationnexxxt.com:19806/64e3d0166eb04ef0bdd71c9bc8fc0f1f
-KBS World,P2p://generationnexxxt.com:19806/2e12012647f240dabab38401f407fa21
-TVS,P2p://generationnexxxt.com:19806/f5ef1b8b9e55452286372a793e23359b
-tvN Movies HD,P2p://generationnexxxt.com:19806/ce13d42a9e4042a2b00da3a8a014df2a
-Astro Awani,P2p://generationnexxxt.com:19806/3794fd3843d04d8594c05f1e5ea875db
-CGTN,P2p://generationnexxxt.com:19806/41166780a80b40c9a489e8719b3f7e8c
-BBC World News,P2p://generationnexxxt.com:19806/04a0d2de2804483cbe2f79a73f366b99
-CNBC,P2p://generationnexxxt.com:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
-Bloomberg TV,P2p://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
-Astro Ceria,P2p://generationnexxxt.com:19806/b3f53402401e49ff886522b1ca81179d
-Boomerang,P2p://generationnexxxt.com:19806/65619d3500003c6967236ef726ef1633
-KIX,P2p://generationnexxxt.com:19806/3f7be3ad31504c9fa358e3fe583fac0a
-HITS,P2p://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
-Astro Arena,P2p://generationnexxxt.com:19806/c046c74b43184a9bac5b0e402944aca5
-Astro SuperSport,P2p://generationnexxxt.com:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
-Astro SuperSport 2,P2p://generationnexxxt.com:19806/650d4fca00064e791dd4dbcd16fd08c0
-Astro SuperSport 3,P2p://generationnexxxt.com:19806/5b9b9986c20244908be60c3f18a3e435
-Astro SuperSport 4,P2p://generationnexxxt.com:19806/c7f1be20958243f68c943016c446501e
-beIN Sports 3,P2p://generationnexxxt.com:19806/83bd4463c62048dea6aafba5e1a81b23
-WWE,P2p://generationnexxxt.com:19806/32e0838eeab84b3a96297dcceca27f5a
-Sky News,P2p://generationnexxxt.com:19806/870727a467c54e0cabe61919471eda59
-八度空间(备),P2p://generationnexxxt.com:19806/1b5f5f6746e04a3da99bf75b5beabc98
-tvN,P2p://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
-Berita RTM,P2p://generationnexxxt.com:19806/f6f9ffe13ef54477b1ebd14a9caea3aa
-France24,P2p://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694
-SPOTV,P2p://generationnexxxt.com:19806/60ad67b765414b32882a24ce6c63808a
-beIN Sports,P2p://generationnexxxt.com:19806/eefa5931a750470d8a3267932e36c644
-TVB娱乐新闻台,P2p://generationnexxxt.com:19806/12475c7784e2472fad92b41d21d4c469
-Astro AEC,P2p://generationnexxxt.com:19806/5115cc770f0e434ebafffab99f29638f
-Awesome TV,P2p://generationnexxxt.com:19806/9d0cde22470d47ba8b3720a30ee9e4e2
-BOO,P2p://generationnexxxt.com:19806/fc4f8ec096f44b909af8849e503c39c1
-千禧经典台,P2p://generationnexxxt.com:19806/c89653658280484ea18fb3ab384de9ef
-ABC Australia,P2p://generationnexxxt.com:19806/65159e6a0003ce6d3e47fc21533740b0
-Eurosport HD,P2p://generationnexxxt.com:19806/65159769000b9a153e2ca23c14c042d2
-Astro SuperSport 5,P2p://generationnexxxt.com:19806/d41f257d25e54a0aa09227bde87eccf5
-Star Vijay,P2p://generationnexxxt.com:19806/7981a7e7258345bab7701933300c7c87
-Zee Tamil,P2p://generationnexxxt.com:19806/289039bf3e9a41088eb85329d603dc17
-TVBS亚洲,P2p://generationnexxxt.com:19806/41518cee54204e5092a8f534eae2c55c
-HITS Movies,P2p://generationnexxxt.com:19806/b6908965f67c4fe3b434ab426a12abc4
-beIN Sports 2,P2p://generationnexxxt.com:19806/65619d35000372e967236fc35ab64b39
-Golf Channel,P2p://generationnexxxt.com:19806/65619e930003f0fc6728c71226a25f2d
-
-🔸新加,#genre#
-天映频道,P2p://generationnexxxt.com:19806/07af14e7597a40c5819053abe20496aa
-中天亚洲台,P2p://generationnexxxt.com:19806/960193fd22824c42862d8850b6256532
-TVB星河(粤),P2p://generationnexxxt.com:19806/fce43ece3f4e496f99ef8cdf6520396b
-天映经典,P2p://generationnexxxt.com:19806/c8a749e96f2040c0b91aeaec18544b04
-KBS World,P2p://generationnexxxt.com:19806/2e12012647f240dabab38401f407fa21
-CGTN,P2p://generationnexxxt.com:19806/41166780a80b40c9a489e8719b3f7e8c
-BBC World News,P2p://generationnexxxt.com:19806/04a0d2de2804483cbe2f79a73f366b99
-CNBC,P2p://generationnexxxt.com:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
-Bloomberg TV,P2p://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
-Boomerang,P2p://generationnexxxt.com:19806/65619d3500003c6967236ef726ef1633
-HITS,P2p://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
-beIN Sports 3,P2p://generationnexxxt.com:19806/83bd4463c62048dea6aafba5e1a81b23
-Mediacorp 5,P2p://generationnexxxt.com:19806/7ecf2b27c2554eef87bb4b3603e82a4f
-Mediacorp 8,P2p://generationnexxxt.com:19806/02b0b2bfe7974369b811f418dcd4eddf
-Suria,P2p://generationnexxxt.com:19806/9ea5cf9604c545c88d5a634f5450204b
-Vasantham,P2p://generationnexxxt.com:19806/c59b3a242b644ec2ba2d3398ad14189b
-CNA,P2p://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
-Mediacorp U,P2p://generationnexxxt.com:19806/1c7cdb0005764374ab173154f8418848
-Euronews,P2p://generationnexxxt.com:19806/5b3289dff2154e2c8e166cc3f081f326
-Fight Sports,P2p://generationnexxxt.com:19806/7375a5f151c047b294a8e8c6ddad178d
-GEM,P2p://generationnexxxt.com:19806/76f6e10887894d07bd5b225cc895e2a5
-Fox News,P2p://generationnexxxt.com:19806/e9305a82b75c42f5901c0594e063e999
-beIN Sports,P2p://generationnexxxt.com:19806/eefa5931a750470d8a3267932e36c644
-HGTV居家乐活频道,P2p://generationnexxxt.com:19806/82fc67b6354e49b2bbdc0eac140417e0
-东森亚洲卫视,P2p://generationnexxxt.com:19806/8a43d9cb067b47aaa8fd5f550930be0c
-Thrill,P2p://generationnexxxt.com:19806/7a770651f7d94d479b6ee1d867768bd4
-TVBS亚洲,P2p://generationnexxxt.com:19806/41518cee54204e5092a8f534eae2c55c
-NBA,P2p://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
-beIN Sports 2,P2p://generationnexxxt.com:19806/65619d35000372e967236fc35ab64b39
 
 🔸日本,#genre#
 NHK-G综合,P2p://generationnexxxt.com:19806/810050ee3b224cffbff84c07e53c499a
@@ -952,27 +797,8 @@ Bein Sport 6,p3p://fccsen.dyndns.tv:29706/5a1f6942000115e4c65b81511ddf34a7
 Bein Sport 7,p3p://fccsen.dyndns.tv:29706/5a1f6957000a184ac65bd5a807cf26bc
 Bein Sport Prem 1,p3p://fccsen.dyndns.tv:29706/5a1f696e0005f6a2c65c2e7110023294
 
-
 🔸法国,#genre#
 BBC World,http://45.228.232.219:16000/play/a0m9/index.m3u8
-BBC News,http://202.60.106.14:8080/1345/playlist.m3u8
-Шокирующее,http://ru.iptv.monster/play/137/5416F3BDBAB456F/video.m3u8
-Шокирующее,http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/6299/index.m3u8
-Шокирующее HD,http://85.10.202.197:8080/1661/video.m3u8?token=M4f082ab4c
-Шокирующее,http://j2jrm3as.tvclub.xyz/iptv/23QYU6W9W9EVLP/6299/index.m3u8
-Шокирующее,http://iuhqittr.otttv.pw/iptv/WKNXDVD4MPUZGS/6299/index.m3u8
-Шокирующее,http://j2jrm3as.tvclub.xyz/iptv/23QYU6W9W9EVLP/6299/index.m3u8
-https://ip1.xittv.net:1443/169/index.m3u8?wmsAuthSign=1700128118p551i05i942i34S8073b52e9e8837e726fa4d4c48f7ce72
-Криминальное HD,http://ru.iptv.monster/play/7308/5416F3BDBAB456F/video.m3u8
-Fresh Horror,http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/19296/index.m3u8
-Magic Horror,http://ru.iptv.monster/play/6673/5416F3BDBAB456F/video.m3u8
-Z! Horror,http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/14137/index.m3u8
-Oasis Comedy Horrors,https://pl01.spr24.net/20959/index.m3u8?token=7x66S3utpw9RfR
-BOX Ghost HD,http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/20154/index.m3u8
-Dosug TV Horror HD,http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/14213/index.m3u8
-KLI Horror FHD,http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/20050/index.m3u8
-Prokop TV Horror,http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/18145/index.m3u8
-Horror Movies HDhttp://fs1.persik.by/489112/index.m3u8
 C8,http://144.217.72.24:80/c8/index.m3u8
 W9,http://144.217.72.24:80/w9/index.m3u8
 M6,http://144.217.72.24:80/m6/index.m3u8
@@ -1110,29 +936,6 @@ Arte,http://187.95.95.247/ArteHD/manifest.m3u8
 Lifetime,http://187.95.95.247/lifetime/manifest.m3u8
 Band Sports,http://187.95.95.247/Band-Sports/index.m3u8
 Band News,http://187.95.95.247/Band-News/mono.m3u8
-
-🔸印度,#genre#
-Star JALSHA,http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
-24News,http://89.187.177.137:80/24News/index.m3u8
-asianet news,http://89.187.177.137:80/asianet_news/index.m3u8
-Colors HD,http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
-b4u_aflam,http://89.187.177.137:80/b4u_aflam/index.m3u8
-CNBCHD,http://89.187.177.137:80/CNBCHD/index.m3u8
-ddnews,http://89.187.177.137:80/ddnews/index.m3u8
-E24-Hin,http://89.187.177.137:80/E24-Hin/index.m3u8
-ETNOW,http://89.187.177.137:80/ETNOW/index.m3u8
-hindi_khabar,http://89.187.177.137:80/hindi_khabar/index.m3u8
-LIVINGFOODZ,http://89.187.177.137:80/LIVINGFOODZ/index.m3u8
-NDTV24x7,http://89.187.177.137:80/NDTV24x7/index.m3u8
-NDTVPRIME,http://89.187.177.137:80/NDTVPRIME/index.m3u8
-NEWS24,http://89.187.177.137:80/NEWS24/index.m3u8
-SANSKAR_TV,http://89.187.177.137:80/SANSKAR_TV/index.m3u8
-sky_family,http://89.187.177.137:80/sky_family/index.m3u8
-SONYMAX,http://89.187.177.137:80/SONYMAX/index.m3u8
-TimesNow,http://89.187.177.137:80/TimesNow/index.m3u8
-zee_anmol_cinema,http://89.187.177.137:80/zee_anmol_cinema/index.m3u8
-zee_keralam,http://89.187.177.137:80/zee_keralam/index.m3u8
-ZeeClassic alensat.com,http://89.187.177.137:80/ZeeClassic/index.m3u8
 
 🔸彩虹_231,#genre#
 Brazzers,p3p://fccsen.dyndns.tv:29706/60bc2535000292424fc304cf3c251ba8
