@@ -245,45 +245,51 @@ iHOT爱悬疑,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600005
 iHOT爱幼教,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
 iHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
+🔸百视,#genre#
+百视TV1,https://bp-caster.bestv.com.cn/943/3/video.m3u8
+百视TV2,https://bp-caster.bestv.com.cn/926/3/video.m3u8
+百视TV3,https://bp-caster.bestv.com.cn/945/3/video.m3u8
+百视TV4,https://bp-caster.bestv.com.cn/900/3/video.m3u8
+百视TV5,https://bp-caster.bestv.com.cn/956/3/video.m3u8
+百视TV6,https://bp-caster.bestv.com.cn/947/3/video.m3u8
+百视TV7,https://bp-caster.bestv.com.cn/941/3/video.m3u8
+百视TV8,https://bp-caster.bestv.com.cn/953/3/video.m3u8
+百视TV9,https://bp-caster.bestv.com.cn/939/3/video.m3u8
+百视TV10,https://bp-caster.bestv.com.cn/938/3/video.m3u8
+百视TV11,https://bp-caster.bestv.com.cn/937/3/video.m3u8
+百视TV12,https://bp-caster.bestv.com.cn/954/3/video.m3u8
+百视TV14,https://bp-caster.bestv.com.cn/934/3/video.m3u8
+百视独播1,https://bp-caster.bestv.com.cn/946/3/video.m3u8
+百视独播2,https://bp-caster.bestv.com.cn/955/3/video.m3u8
+百视独播3,https://bp-caster.bestv.com.cn/940/3/video.m3u8
+百视独播4,https://bp-caster.bestv.com.cn/944/3/video.m3u8
+百视自制,https://bp-caster.bestv.com.cn/723/3/video.m3u8
+独家直播,https://bp-caster.bestv.com.cn/936/3/video.m3u8
+
 🔸电影,#genre#
-高分电影,http://epg.112114.xyz/douyu/7254536
-豆瓣高分,http://epg.112114.xyz/douyu/8770422
-漫威影院,http://epg.112114.xyz/douyu/6140589
-特辑电影,http://epg.112114.xyz/douyu/3637778
-粤语电影,http://epg.112114.xyz/douyu/1226741
-喜剧电影,http://epg.112114.xyz/douyu/323876
-动作电影,http://epg.112114.xyz/douyu/6763930
-恐怖电影,http://epg.112114.xyz/douyu/218859
-恐怖鬼怪,http://epg.112114.xyz/douyu/1165374
-童年阴影,http://epg.112114.xyz/douyu/2935323
-惊悚电影,http://epg.112114.xyz/douyu/96577
-粤语电影,http://epg.112114.xyz/douyu/6566671
-华语影视,http://epg.112114.xyz/douyu/3928
-神乐影视,http://epg.112114.xyz/douyu/85894
-冰冰影厅,http://epg.112114.xyz/douyu/74374
-刀刀影院,http://epg.112114.xyz/douyu/747764
-奶虫影院,http://epg.112114.xyz/douyu/263824
-贝爷壹厅,http://epg.112114.xyz/douyu/252802
-贝爷贰厅,http://epg.112114.xyz/douyu/4332
-贝爷叁厅,http://epg.112114.xyz/douyu/36337
-凌儿影院,http://epg.112114.xyz/douyu/1377142
-花卷影院,http://epg.112114.xyz/douyu/52787
-橙記港剧,http://epg.112114.xyz/douyu/4549169
-大宝影视,http://epg.112114.xyz/douyu/805235
-蚂蚱影视,http://epg.112114.xyz/douyu/6079455
-怡寶影视,http://epg.112114.xyz/douyu/434971
-圆子影视,http://epg.112114.xyz/douyu/6566658
-贝贝影视,http://epg.112114.xyz/douyu/431460
-可乐影视,http://epg.112114.xyz/douyu/20415
-下饭神剧,http://epg.112114.xyz/douyu/276200
-古装神剧,http://epg.112114.xyz/douyu/338759
-酒染影视,http://epg.112114.xyz/douyu/7550220
-芊珏影视,http://epg.112114.xyz/douyu/8814650
-热门港剧,http://epg.112114.xyz/douyu/5522351
-国产剧集,http://epg.112114.xyz/douyu/8157860
-国产剧场,http://epg.112114.xyz/douyu/308752
-经典剧集,http://epg.112114.xyz/douyu/2838296
-爱情公寓,http://epg.112114.xyz/douyu/6863367
+李连杰,http://123.132.226.194:31028/hls/38/index.m3u8
+周星驰,http://123.132.226.194:31028/hls/39/index.m3u8
+刘德华,http://123.132.226.194:31028/hls/40/index.m3u8
+李小龙,http://123.132.226.194:31028/hls/103/index.m3u8
+甄子丹,http://123.132.226.194:31028/hls/104/index.m3u8
+黄渤,http://123.132.226.194:31028/hls/105/index.m3u8
+王宝强,http://123.132.226.194:31028/hls/106/index.m3u8
+成龙,http://123.132.226.194:31028/hls/41/index.m3u8
+上海滩,http://123.132.226.194:31028/hls/49/index.m3u8
+射雕英雄传,http://123.132.226.194:31028/hls/50/index.m3u8
+射雕英雄传1,http://123.132.226.194:31028/hls/56/index.m3u8
+神雕侠侣,http://123.132.226.194:31028/hls/51/index.m3u8
+神雕侠侣1,http://123.132.226.194:31028/hls/57/index.m3u8
+西游记,http://123.132.226.194:31028/hls/53/index.m3u8
+西游记1,http://123.132.226.194:31028/hls/52/index.m3u8
+古天乐,http://123.132.226.194:31028/hls/102/index.m3u8
+红楼梦,http://123.132.226.194:31028/hls/54/index.m3u8
+白蛇传,http://123.132.226.194:31028/hls/55/index.m3u8
+电视剧,http://123.132.226.194:31028/hls/89/index.m3u8
+天龙八部,http://123.132.226.194:31028/hls/58/index.m3u8
+倚天屠龙记,http://123.132.226.194:31028/hls/61/index.m3u8
+水浒传,http://123.132.226.194:31028/hls/59/index.m3u8
+大宅门,http://123.132.226.194:31028/hls/62/index.m3u8
 
 🔸港澳,#genre#
 港台电视31,mitv://generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242
