@@ -172,6 +172,8 @@ MOMO综合,http://60.248.77.83/sat/tv761.flv
 CHC动作电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+黑莓电影,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
+哒啵赛事,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000003775/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=3
 求索纪录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
 求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
@@ -193,8 +195,11 @@ CHC高清电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m
 纪实人文,http://111.20.105.60:6060/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 纪实科教,http://111.20.105.60:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 金鹰纪实,http://111.20.105.60:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
 番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+黄河,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
+南宁影视,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 湖南电视剧,http://58.20.19.126:10999/tsfile/live/0120_1.m3u8
 湖南都市,http://58.20.19.126:10999/tsfile/live/0139_1.m3u8
 湖南公共,http://58.20.19.126:10999/tsfile/live/0117_1.m3u8
@@ -209,12 +214,8 @@ CHC高清电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m
 青海综合,http://lmt.scqstv.com/live1/live1.m3u8
 青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8
 青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8
-黄河,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
-南宁影视,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
 平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
-绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-河北影视剧,http://tv.pull.hebtv.com/jishi/yingshijupindao.m3u8?t=2510710360&k=22da13f91d94e04e4935c5ed39dbdb62
 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
 国学影视,https://jwcdnqx.hebyun.com.cn/live/yspd/1500k/tzwj_video.m3u8
 
@@ -578,8 +579,16 @@ Top News,P2p://generationnexxxt.com:19806/8a46eec67bfa42f6abd4032f91d304bf
 CNN International,p3p://fccsen.dyndns.tv:29706/5a20bffb0002906acb96445d76975880
 Euro News,p3p://fccsen.dyndns.tv:29706/5a5170cc000e8c1389c8a661433d15f1
 Fight Network,p3p://fccsen.dyndns.tv:29706/5b9878b100084486873d03b816881da0
+HGTV,p3p://fccsen.dyndns.tv:29706/5a66963e00030b02dc62b310138b2abe
+Food Network,p3p://fccsen.dyndns.tv:29706/5bb0f0ec000842c3e6d2539210061045
+Cooking Channel,p3p://fccsen.dyndns.tv:29706/5bc933e40000e06f4597aa2c550151d8
 WWE,p3p://fccsen.dyndns.tv:29706/5b987ab5000ef7018744e50174a621bd
 UFC pass,p3p://fccsen.dyndns.tv:29706/5c4a5ad2000ba3f2fbdd8ccf71297ceb
+LifeTime,p3p://fccsen.dyndns.tv:29706/59bc1344000b4faf56b816163ede44e8
+ID Canada,p3p://fccsen.dyndns.tv:29706/5a01ced1000e0a7c52b8701303594b92
+Oprah Winfrey Network,p3p://fccsen.dyndns.tv:29706/5a01d1fe00087f0f52c4d67341664e1f
+T+E,p3p://fccsen.dyndns.tv:29706/5a3026ab000021ea07bf40f035876200
+Arts and Entertainment,p3p://fccsen.dyndns.tv:29706/5a0b9bd1000f33a5790126cd78bf1239
 MTV live,p3p://fccsen.dyndns.tv:29706/59adf63f00089a1e1f96cf6523872643
 HBO 1 CA,p3p://fccsen.dyndns.tv:29706/5a7f5b5f000c02e63d249f7d2b8c5ec8
 HBO 2 CA,p3p://fccsen.dyndns.tv:29706/59ffcb9e000d31164adbf09e33000a19
@@ -608,14 +617,6 @@ Discovery,p3p://fccsen.dyndns.tv:29706/5bdce61a00068daa9287a1f60e68584f
 TLC CA,p3p://fccsen.dyndns.tv:29706/58ab8bce0002005c5aea91d24ea15bfb
 Love Nature,p3p://fccsen.dyndns.tv:29706/5f5550330007d5fcd614522b5d6972f3
 Smithsonian,p3p://fccsen.dyndns.tv:29706/59e2ab3400085940ed794ecb7d945036
-LifeTime,p3p://fccsen.dyndns.tv:29706/59bc1344000b4faf56b816163ede44e8
-ID Canada,p3p://fccsen.dyndns.tv:29706/5a01ced1000e0a7c52b8701303594b92
-Oprah Winfrey Network,p3p://fccsen.dyndns.tv:29706/5a01d1fe00087f0f52c4d67341664e1f
-HGTV,p3p://fccsen.dyndns.tv:29706/5a66963e00030b02dc62b310138b2abe
-Food Network,p3p://fccsen.dyndns.tv:29706/5bb0f0ec000842c3e6d2539210061045
-Cooking Channel,p3p://fccsen.dyndns.tv:29706/5bc933e40000e06f4597aa2c550151d8
-T+E,p3p://fccsen.dyndns.tv:29706/5a3026ab000021ea07bf40f035876200
-Arts and Entertainment,p3p://fccsen.dyndns.tv:29706/5a0b9bd1000f33a5790126cd78bf1239
 Bravo,p3p://fccsen.dyndns.tv:29706/5a0fd62200032b608984f02a05fc0840
 E!,p3p://fccsen.dyndns.tv:29706/607f615b0006fea46266e5ea25f418ca
 CTV Comedy,p3p://fccsen.dyndns.tv:29706/5d97de23000dfa8212a5bf441ba250bb
