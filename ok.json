@@ -1,4 +1,4 @@
-{
+ {
   "sites": [
     {
       "key": "csp_Bili",
@@ -256,12 +256,40 @@
       }
     },
     {
-      "name": "左岸🌾",
+      "name": "亮亮🌾",
       "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2500&my=cfiknqswABGHJSU058&format=json&url=",
+      "url": "https://m.jialiangos.com/jx/?url=",
       "ext": {
         "flag": [
-          "seven"
+          "K_JL",
+          "JIALIANGCODE"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "赞赞🌾",
+      "type": 1,
+      "url": "http://zn.ghlyys.com/znjsonapi.php.php?url=",
+      "ext": {
+        "flag": [
+          "JMZN"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "左岸🌾",
+      "type": 1,
+      "url": "http://122.228.84.103:5829/jx/?url=F",
+      "ext": {
+        "flag": [
+          "seven",
+          "FYNB"
         ],
         "header": {
           "User-Agent": "okhttp/4.1.0"
@@ -271,7 +299,7 @@
     {
       "name": "米饭🌾",
       "type": 1,
-      "url": "https://json.oorl.cn/api/?key=gajpAki7cu8560ro4C&url=",
+      "url": "https://api.json.icu/api/?key=b1f3b1a9e1c0a42ae969db10bd315a95&url=",
       "ext": {
         "flag": [
           "爱奇艺",
@@ -466,12 +494,14 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "西夏",
+      "name": "live2",
       "type": 0,
-      "url": "https://agit.ai/kankan314/kan/raw/branch/master/tv/%e8%a5%bf%e5%a4%8f%e7%9b%b4%e6%92%ad.txt",
+      "url": "https://agit.ai/kankan314/kan/raw/branch/master/tv/yydslive1.txt",
+      "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
+   
   ],
   "flags": [
     "优酷视频",
