@@ -509,44 +509,24 @@ MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 东森购物2台,mitv://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
 
 🔸日本,#genre#
-NHK-G综合,P2p://generationnexxxt.com:19806/810050ee3b224cffbff84c07e53c499a
-NHK-E教育,P2p://generationnexxxt.com:19806/797e091247a14ad2a918c9cb2e95cca3
-日本テレビ,P2p://generationnexxxt.com:19806/e83c93ef5c914ed3826fe7856b81acf0
-TBSテレビ,P2p://generationnexxxt.com:19806/9376bfbc1275463dadf7d89cf5eebf6c
-テレビ東京,P2p://generationnexxxt.com:19806/df391d094cf243bda2d71eea2543f6a3
-フジテレビ,P2p://generationnexxxt.com:19806/54dd404db8674941a08958b36acf24a7
-読売テレビ,P2p://generationnexxxt.com:19806/67e4cf369c3041ae9df1aca8b83fecf8
-関西テレビ,P2p://generationnexxxt.com:19806/bfb58a0f01504914883d882ee3082053
-KBS京都,P2p://generationnexxxt.com:19806/729ad31db2414a458905bbadb735bbae
-毎日放送,P2p://generationnexxxt.com:19806/ccac43e2944e468b91bcba848d34c3fd
-朝日放送,P2p://generationnexxxt.com:19806/b9fd3c1349444e5d8e73b51b2fd298f9
-テレビ大阪,P2p://generationnexxxt.com:19806/ad58b2a5a3554960a7cab3825097b6e6
-BS-1,P2p://generationnexxxt.com:19806/bb73b7a100954eb0a941586c172b75da
-BS日テレ,P2p://generationnexxxt.com:19806/15653a24109f412d8c13623fe3d8cbce
-BS朝日,P2p://generationnexxxt.com:19806/823835bf82b648b7b949cd6b10b9465f
-BS-TBS,P2p://generationnexxxt.com:19806/3158a94fbe3c43d0938fdbb5c727e3d7
-BS11,P2p://generationnexxxt.com:19806/a4be116db92743e1ac8dc4d6a86ebed1
-BSフジ,P2p://generationnexxxt.com:19806/ecd5225855164918853748cdf29fa61a
-WOWOWプライム,P2p://generationnexxxt.com:19806/b6120a213ab04f9f830e9435530eb905
-WOWOWライブ,P2p://generationnexxxt.com:19806/ff616330600e438d97cf03101ae7c3a1
-WOWOWシネマ,P2p://generationnexxxt.com:19806/e30a2709ee2c492495621bdd54db7294
-スター?チャンネル1,P2p://generationnexxxt.com:19806/8869813c1bfc46b3ba00e21e2cb35474
-スター?チャンネル2,P2p://generationnexxxt.com:19806/0293a4ec77f745f4be8700e6f3d8830f
-スター?チャンネル3,P2p://generationnexxxt.com:19806/0a8db2b6767948c1b4e1e7b86ac4c658
-BSアニマックス,P2p://generationnexxxt.com:19806/242df12175db458eaa4b56885dfe1ee3
-J Sports 1,P2p://generationnexxxt.com:19806/3bf47ad3b3514230bd24efe7178aee5e
-J Sports 2,P2p://generationnexxxt.com:19806/1dec0300cce54ba5853fd5aadc349595
-J Sports 3,P2p://generationnexxxt.com:19806/1a9fd30d67f8480490d1fe07440658b5
-J Sports 4,P2p://generationnexxxt.com:19806/f7915841f9c04692b3c336849b8ed00c
-BS12,P2p://generationnexxxt.com:19806/9a0e8e3bc32341738cd921467307e93e
-ゴルフネットワークHD,P2p://generationnexxxt.com:19806/df0994ae49fd4d138304ebcd700a9d1c
-時代劇専門チャンネル,P2p://generationnexxxt.com:19806/aaa4c8da4b0f4146a58012b64a9d1c06
-Music Japan TV,P2p://generationnexxxt.com:19806/7bbfd7a0233d4861943f8488dc21e075
-キッズステーションHD,P2p://generationnexxxt.com:19806/434d7c2079e341609cba49f816c81cf5
-ディスカバリーチャンネル,P2p://generationnexxxt.com:19806/c198ef50712d485d95ebf9c20935cfdb
-ナショナルジオグラフィック,P2p://generationnexxxt.com:19806/415d6f2939a74d34b80a151a959b1733
-日テレNEWS 24,P2p://generationnexxxt.com:19806/c7154b60dd934b43a1e42a0fc1b38734
-旅チャンネル,P2p://generationnexxxt.com:19806/bab71e3fb519479ea64543d006b8089f
+NHK BS1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
+NHK BSプレミアム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
+BS日テレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
+BS朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
+BS-TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
+BSテレ東,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
+BSフジ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
+WOWOW プライム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+WOWOW ライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+WOWOW シネマ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+スターチャンネル1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=10&bind=0&uin=159413&playseek=0
+スターチャンネル2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27&isp=10&bind=0&uin=159413&playseek=0
+スターチャンネル3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28&isp=10&bind=0&uin=159413&playseek=0
+BSアニマックス,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
+J Sports 1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
+J Sports 2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
+J Sports 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
+J Sports 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
 
 🔸韩国,#genre#
 Arirang,P2p://generationnexxxt.com:19806/853704c2f9a442e7a1532038f14d8d00
@@ -811,7 +791,6 @@ Bein Sport 7,p3p://fccsen.dyndns.tv:29706/5a1f6957000a184ac65bd5a807cf26bc
 Bein Sport Prem 1,p3p://fccsen.dyndns.tv:29706/5a1f696e0005f6a2c65c2e7110023294
 
 🔸法国,#genre#
-BBC World,http://45.228.232.219:16000/play/a0m9/index.m3u8
 C8,http://144.217.72.24:80/c8/index.m3u8
 W9,http://144.217.72.24:80/w9/index.m3u8
 M6,http://144.217.72.24:80/m6/index.m3u8
@@ -855,6 +834,150 @@ TV5,http://49.0.64.96:8007/TV5
 WORLD ANIMAL HD,http://49.0.64.96:8007/Animal
 WSCI HD,http://49.0.64.96:8007/WSCI
 Zoomoo HD,http://49.0.64.96:8007/Zoomoo
+
+
+🔸智利,#genre#
+AE Mundo,http://200.37.187.210:8460/play/a019
+ATV,http://200.37.187.210:8460/play/a023
+AXN,http://200.37.187.210:8460/play/a01m
+America TV PY,http://200.37.187.210:8460/play/a028
+AmericaTV,http://200.37.187.210:8460/play/a021
+Animal Planet,http://200.37.187.210:8460/play/a011
+BabyFirst,http://200.37.187.210:8460/play/a00w
+CNN Chile,http://200.37.187.210:8460/play/a00m
+CNN Espanol,http://200.37.187.210:8460/play/a002
+Canal Estrellas,http://200.37.187.210:8460/play/a01c
+Cartoon Network,http://200.37.187.210:8460/play/a00p
+Cine Mexicano,http://200.37.187.210:8460/play/a047
+Cinecanal,http://200.37.187.210:8460/play/a00h
+Cinemax,http://200.37.187.210:8460/play/a01k
+Discovery Channel,http://200.37.187.210:8460/play/a010
+Discovery ID,http://200.37.187.210:8460/play/a01v
+Discovery Kids,http://200.37.187.210:8460/play/a001
+Discovery Turbo,http://200.37.187.210:8460/play/a01q
+Disney Channel,http://200.37.187.210:8460/play/a00z
+Disney Jr,http://200.37.187.210:8460/play/a01g
+E Entertainment,http://200.37.187.210:8460/play/a013
+ESPN,http://200.37.187.210:8460/play/a016
+ESPN 2,http://200.37.187.210:8460/play/a00c
+ESPN 2 Latin,http://200.37.187.210:8460/play/a015
+ESPN 3,http://200.37.187.210:8460/play/a01s
+ESPN 4,http://200.37.187.210:8460/play/a024
+ESPN CO,http://200.37.187.210:8460/play/a042
+ESPN CO,http://200.37.187.210:8460/play/a01i
+EWTN,http://200.37.187.210:8460/play/a03p
+Enlace,http://200.37.187.210:8460/play/a00u
+Esne TV,http://200.37.187.210:8460/play/a01r
+FX,http://200.37.187.210:8460/play/a01o
+Fox Sports 2,http://200.37.187.210:8460/play/a01d
+Fox Sports 3,http://200.37.187.210:8460/play/a01e
+France 24,http://200.37.187.210:8460/play/a01w
+HBO,http://200.37.187.210:8460/play/a01j
+HBO 2,http://200.37.187.210:8460/play/a005
+HBO Family,http://200.37.187.210:8460/play/a008
+HBO Plus,http://200.37.187.210:8460/play/a006
+HBO XTREME SD,http://200.37.187.210:8460/play/a03a
+History Channel,http://200.37.187.210:8460/play/a00g
+HomeandHealth,http://200.37.187.210:8460/play/a03k
+I-Sat,http://200.37.187.210:8460/play/a00j
+Latina,http://200.37.187.210:8460/play/a020
+Lifetime,http://200.37.187.210:8460/play/a00x
+Liga 1 Max,http://200.37.187.210:8460/play/a045
+MTV,http://200.37.187.210:8460/play/a00k
+Nat Geo,http://200.37.187.210:8460/play/a00f
+Nick Jr,http://200.37.187.210:8460/play/a01p
+Nickelodeon,http://200.37.187.210:8460/play/a00e
+Panamericana TV,http://200.37.187.210:8460/play/a022
+RCN Novelas,http://200.37.187.210:8460/play/a01u
+STAR CHANNEL,http://200.37.187.210:8460/play/a00n
+Sin Limites,http://200.37.187.210:8460/play/a027
+Sony,http://200.37.187.210:8460/play/a01l
+Space,http://200.37.187.210:8460/play/a01n
+Studio Universal,http://200.37.187.210:8460/play/a00b
+Studio Universal (clone),http://200.37.187.210:8460/play/a048
+SyFy,http://200.37.187.210:8460/play/a00y
+TCM,http://200.37.187.210:8460/play/a00o
+TLC,http://200.37.187.210:8460/play/a01a
+TNT,http://200.37.187.210:8460/play/a00q
+TNT Novelas,http://200.37.187.210:8460/play/a01y
+TV Agro,http://200.37.187.210:8460/play/a046
+TV Peru,http://200.37.187.210:8460/play/a025
+TV+,http://200.37.187.210:8460/play/a03q
+TVE,http://200.37.187.210:8460/play/a00v
+Telemundo,http://200.37.187.210:8460/play/a01f
+TyC,http://200.37.187.210:8460/play/a017
+Universal,http://200.37.187.210:8460/play/a00i
+ViaX,http://200.37.187.210:8460/play/a01b
+WILLAX,http://200.37.187.210:8460/play/a01z
+Warner,http://200.37.187.210:8460/play/a012
+Zona Latina,http://200.37.187.210:8460/play/a00l
+
+
+🔸哥伦比亚,#genre#
+AE Mundo,http://190.61.43.117:45000/play/a05q
+AXN,http://190.61.43.117:45000/play/a05g
+Animal Planet,http://190.61.43.117:45000/play/a05r
+Baby TV,http://190.61.43.117:45000/play/a03r
+CNN Espanol,http://190.61.43.117:45000/play/a044
+Canal Estrellas,http://190.61.43.117:45000/play/a06h
+Canal Institucional,http://190.61.43.117:45000/play/a039
+Canal Uno,http://190.61.43.117:45000/play/a036
+Canal del Congreso,http://190.61.43.117:45000/play/a03a
+Capital,http://190.61.43.117:45000/play/a03g
+Caracol HD,http://190.61.43.117:45000/play/a02v
+Cartoon Network HD,http://190.61.43.117:45000/play/a01y
+Cinemax,http://190.61.43.117:45000/play/a05i
+City TV,http://190.61.43.117:45000/play/a03f
+Discovery HD,http://190.61.43.117:45000/play/a02y
+Discovery ID,http://190.61.43.117:45000/play/a06e
+Discovery Kids HD,http://190.61.43.117:45000/play/a019
+Discovery Turbo,http://190.61.43.117:45000/play/a040
+Disney Channel,http://190.61.43.117:45000/play/a06b
+Disney Jr,http://190.61.43.117:45000/play/a045
+ESPN 2 HD,http://190.61.43.117:45000/play/a053
+ESPN 3 HD,http://190.61.43.117:45000/play/a051
+ESPN 4,http://190.61.43.117:45000/play/a06w
+ESPN EXTRA HD,http://190.61.43.117:45000/play/a01v
+ESPN HD,http://190.61.43.117:45000/play/a01l
+FOX Sports 2 HD,http://190.61.43.117:45000/play/a01g
+FX HD,http://190.61.43.117:45000/play/a01k
+Fox Sports 3,http://190.61.43.117:45000/play/a060
+Golden HD,http://190.61.43.117:45000/play/a029
+HBO 2 HD,http://190.61.43.117:45000/play/a023
+HBO Family,http://190.61.43.117:45000/play/a05y
+HBO HD,http://190.61.43.117:45000/play/a01w
+HBO XTREME SD,http://190.61.43.117:45000/play/a05u
+History Channel,http://190.61.43.117:45000/play/a061
+HomeandHealth,http://190.61.43.117:45000/play/a06f
+I-Sat,http://190.61.43.117:45000/play/a03v
+Nat Geo,http://190.61.43.117:45000/play/a06i
+Nickelodeon,http://190.61.43.117:45000/play/a03u
+Pasiones HD,http://190.61.43.117:45000/play/a04x
+RCN HD,http://190.61.43.117:45000/play/a01m
+RCN Novelas,http://190.61.43.117:45000/play/a06d
+STAR CHANNEL,http://190.61.43.117:45000/play/a05h
+Senal Colombia,http://190.61.43.117:45000/play/a03b
+Space,http://190.61.43.117:45000/play/a06l
+Studio Universal HD,http://190.61.43.117:45000/play/a020
+TCM,http://190.61.43.117:45000/play/a04a
+TLC,http://190.61.43.117:45000/play/a042
+TNT HD,http://190.61.43.117:45000/play/a050
+TNT Novelas HD,http://190.61.43.117:45000/play/a06u
+TNT Series HD,http://190.61.43.117:45000/play/a01j
+TRO,http://190.61.43.117:45000/play/a03d
+Teleantioquia,http://190.61.43.117:45000/play/a03i
+Telecafe,http://190.61.43.117:45000/play/a03l
+Telecaribe,http://190.61.43.117:45000/play/a03k
+Telemundo,http://190.61.43.117:45000/play/a049
+Telepacifico,http://190.61.43.117:45000/play/a03j
+Tooncast,http://190.61.43.117:45000/play/a03s
+Trece,http://190.61.43.117:45000/play/a03m
+Universal Cinema SD,http://190.61.43.117:45000/play/a05x
+Universal Comedy SD,http://190.61.43.117:45000/play/a06k
+Universal Premiere SD,http://190.61.43.117:45000/play/a05w
+Warner,http://190.61.43.117:45000/play/a05o
+Win,http://190.61.43.117:45000/play/a067
+Win Sports+ HD,http://190.61.43.117:45000/play/a024
 
 🔸巴西,#genre#
 Universal,http://208.115.225.174:14128
@@ -1013,3 +1136,22 @@ FAKE TAXI,p3p://fccsen.dyndns.tv:29706/615a5c0e000a608eb9c93ef2199b14e4
 FORGIVE ME FATHER,p3p://fccsen.dyndns.tv:29706/615a5de90005f456b9d07d491f60478b
 FEMALE AGENT,p3p://fccsen.dyndns.tv:29706/615a5c4f0003cfabb9ca3b2a23026f71
 MOM TEACH SEX,p3p://fccsen.dyndns.tv:29706/615a6095000f18a6b9daef7b58eb58ee
+MMM 100,http://185.182.193.203:25461/brianlstark/433754/70930
+LOVE HOME PORN,http://185.182.193.203:25461/brianlstark/433754/70924
+FAKE TAXI,http://185.182.193.203:25461/brianlstark/433754/70905
+HORNY HOSTEL,http://185.182.193.203:25461/brianlstark/433754/70894
+BBC PIE,http://185.182.193.203:25461/brianlstark/433754/70978
+SexArt,http://185.182.193.203:25461/brianlstark/433754/66795
+PlayboyPlus,http://185.182.193.203:25461/brianlstark/433754/66787
+FTVGirls,http://185.182.193.203:25461/brianlstark/433754/66753
+AV TAXI,http://185.182.193.203:25461/brianlstark/433754/70925
+ASIAN FOOTJOB,http://185.182.193.203:25461/brianlstark/433754/70939
+MAX J,http://185.182.193.203:25461/brianlstark/433754/70937
+NEW SENSATIONS,http://185.182.193.203:25461/brianlstark/433754/70958
+DORCEL CLUB,http://185.182.193.203:25461/brianlstark/433754/70946
+FIT 18,http://185.182.193.203:25461/brianlstark/433754/70955
+MY 18 TEENS,http://185.182.193.203:25461/brianlstark/433754/70948
+DDF BUSTY,http://185.182.193.203:25461/brianlstark/433754/70949
+ATK GIRLFRIENDS,http://185.182.193.203:25461/brianlstark/433754/70968
+MOM XXX,http://185.182.193.203:25461/brianlstark/433754/70969
+ATK GIRLFRIENDS,http://185.182.193.203:25461/brianlstark/433754/70968
