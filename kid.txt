@@ -17,6 +17,10 @@ CCTV14,http://111.20.105.60:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtu
 CCTV15,http://111.20.105.60:6060/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV16,http://111.20.105.60:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV17,http://111.20.105.60:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CETV1,http://txycetvbl.centv.cn/cetv1/ypd.m3u8
+CETV2,http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
+CETV3,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
+CETV4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 CCTV第一剧场,http://111.20.105.60:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV怀旧剧场,http://111.20.105.60:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV风云剧场,http://111.20.105.60:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -40,6 +44,19 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 凤凰中文,http://111.20.105.60:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 凤凰资讯,http://111.20.105.60:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 凤凰电影台,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+ViuTVsix,http://bziyunshao.synology.me:8889/bysid/96
+ViuTV,http://bziyunshao.synology.me:8889/bysid/99
+明珠台,http://bziyunshao.synology.me:8890/bysid/2
+J2台,http://bziyunshao.synology.me:8890/bysid/82
+无线新闻,http://bziyunshao.synology.me:8890/bysid/83
+无线财经,http://bziyunshao.synology.me:8890/bysid/85
+國際財經,http://bziyunshao.synology.me:8891/bysid/76
+HOY TV,http://bziyunshao.synology.me:8891/bysid/77
+HOY 資訊台,http://bziyunshao.synology.me:8891/bysid/78
+港台電視 31,http://bziyunshao.synology.me:8892/bysid/31
+港台電視 32,http://bziyunshao.synology.me:8892/bysid/32
+港台電視 33,http://bziyunshao.synology.me:8892/bysid/33
+港台電視 34,http://bziyunshao.synology.me:8892/bysid/34
 台视,http://60.248.77.83/sat/tv071.flv
 中视,http://60.248.77.83/sat/tv091.flv
 民视,http://60.248.77.83/sat/tv051.flv
@@ -195,6 +212,24 @@ CHC高清电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m
 纪实人文,http://111.20.105.60:6060/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 纪实科教,http://111.20.105.60:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 金鹰纪实,http://111.20.105.60:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+大健康,http://home4.kmo.ink:8888/rtp/239.3.1.251:8001
+睛彩竞技,http://home4.kmo.ink:8888/rtp/239.3.1.125:8001
+睛彩篮球,http://home4.kmo.ink:8888/rtp/239.3.1.126:8001
+睛彩羽毛球,http://home4.kmo.ink:8888/rtp/239.3.1.127:8001
+睛彩广场舞,http://home4.kmo.ink:8888/rtp/239.3.1.128:8001
+北京新闻,http://home4.kmo.ink:8888/rtp/239.3.1.159:8000
+北京影视,http://home4.kmo.ink:8888/rtp/239.3.1.158:8000
+北京文艺,http://home4.kmo.ink:8888/rtp/239.3.1.242:8000
+北京财经,http://home4.kmo.ink:8888/rtp/239.3.1.116:8000
+北京生活,http://home4.kmo.ink:8888/rtp/239.3.1.117:8000
+中国交通,http://home4.kmo.ink:8888/rtp/239.3.1.188:8001
+朝阳融媒,http://home4.kmo.ink:8888/rtp/239.3.1.163:8001
+淘精彩,http://home4.kmo.ink:8888/rtp/239.3.1.178:8001
+淘电影,http://home4.kmo.ink:8888/rtp/239.3.1.250:8001
+淘剧场,http://home4.kmo.ink:8888/rtp/239.3.1.95:8001
+淘娱乐,http://home4.kmo.ink:8888/rtp/239.3.1.100:8001
+淘Baby,http://home4.kmo.ink:8888/rtp/239.3.1.238:8001
+萌宠TV,http://home4.kmo.ink:8888/rtp/239.3.1.102:8001
 文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
 番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
