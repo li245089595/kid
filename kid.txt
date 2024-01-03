@@ -17,10 +17,10 @@ CCTV14,http://111.20.105.60:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtu
 CCTV15,http://111.20.105.60:6060/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV16,http://111.20.105.60:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV17,http://111.20.105.60:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CETV1,http://txycetvbl.centv.cn/cetv1/ypd.m3u8
-CETV2,http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
-CETV3,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
-CETV4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
+CETV1,http://111.20.105.60:6060/yinhe/2/ch00000090990000001063/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CETV2,http://111.20.105.60:6060/yinhe/2/ch00000090990000001064/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CETV3,http://111.20.105.60:6060/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CETV4,http://111.20.105.60:6060/yinhe/2/ch00000090990000001308/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV第一剧场,http://111.20.105.60:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV怀旧剧场,http://111.20.105.60:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV风云剧场,http://111.20.105.60:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -35,24 +35,32 @@ CCTV央视精品文化,http://111.20.105.60:6060/yinhe/2/ch00000090990000002535/
 CCTV电视指南,http://111.20.105.60:6060/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 中央新影发现之旅,http://111.20.105.60:6060/yinhe/2/ch00000090990000001314/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 中央新影老故事,http://111.20.105.60:6060/yinhe/2/ch00000090990000001315/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+台球,http://111.20.105.60:6060/yinhe/2/ch00000090990000001669/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+足球,http://111.20.105.60:6060/yinhe/2/ch00000090990000001600/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+IPTV3+,http://111.20.105.60:6060/yinhe/2/ch00000090990000001629/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+IPTV5+,http://111.20.105.60:6060/yinhe/2/ch00000090990000001639/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+IPTV5+,http://111.20.105.60:6060/yinhe/2/ch00000090990000001592/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+IPTV6+,http://111.20.105.60:6060/yinhe/2/ch00000090990000001649/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+IPTV8+,http://111.20.105.60:6060/yinhe/2/ch00000090990000001583/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+IPTV相声小品,http://111.20.105.60:6060/yinhe/2/ch00000090990000001659/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 🔸卫视,#genre#
-凤凰中文,http://111.20.105.60:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-凤凰资讯,http://111.20.105.60:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+凤凰中文台,http://111.20.105.60:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+凤凰资讯台,http://111.20.105.60:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 凤凰电影台,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-ViuTVsix,http://bziyunshao.synology.me:8889/bysid/96
-ViuTV,http://bziyunshao.synology.me:8889/bysid/99
-明珠台,http://bziyunshao.synology.me:8890/bysid/2
-J2台,http://bziyunshao.synology.me:8890/bysid/82
-无线新闻,http://bziyunshao.synology.me:8890/bysid/83
-无线财经,http://bziyunshao.synology.me:8890/bysid/85
 國際財經,http://bziyunshao.synology.me:8891/bysid/76
 HOY TV,http://bziyunshao.synology.me:8891/bysid/77
 HOY 資訊台,http://bziyunshao.synology.me:8891/bysid/78
+J2台,http://bziyunshao.synology.me:8890/bysid/82
+明珠台,http://bziyunshao.synology.me:8890/bysid/2
+无线新闻,http://bziyunshao.synology.me:8890/bysid/83
+无线财经,http://bziyunshao.synology.me:8890/bysid/85
+ViuTVsix,http://bziyunshao.synology.me:8889/bysid/96
+ViuTV,http://bziyunshao.synology.me:8889/bysid/99
 港台電視 31,http://bziyunshao.synology.me:8892/bysid/31
 港台電視 32,http://bziyunshao.synology.me:8892/bysid/32
 港台電視 33,http://bziyunshao.synology.me:8892/bysid/33
@@ -90,26 +98,26 @@ MOMO综合,http://60.248.77.83/sat/tv761.flv
 河南卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001056/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 河北卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001039/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 深圳卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001029/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-东南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226670/1.m3u8
-海南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226679/1.m3u8
+东南卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001044/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+海南卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 厦门卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 大湾区卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 海峡卫视,https://cntv.sbs/tv?auth=230813&id=hxws
 四川卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001036/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 重庆卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001050/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-安徽卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226664/1.m3u8
-天津卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226686/1.m3u8
-山东卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226693/1.m3u8
+安徽卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+天津卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+山东卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 教育卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001317/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 山西卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001038/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001062/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-江西卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226726/1.m3u8
+江西卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001045/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 吉林卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001049/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 辽宁卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001296/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-黑龙江卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226716/1.m3u8
+黑龙江卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001030/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 内蒙古卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001035/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-贵州卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226672/1.m3u8
+贵州卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001048/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 云南卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001046/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 宁夏卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001061/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 甘肃卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001059/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -121,9 +129,9 @@ MOMO综合,http://60.248.77.83/sat/tv761.flv
 康巴卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001313/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 农林卫视 ,http://111.20.105.60:6060/yinhe/2/ch00000090990000001312/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安多卫视 ,http://111.20.105.60:6060/yinhe/2/ch00000090990000001311/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 
-陕西卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001062/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+
 
 
 🔸湖北,#genre#
