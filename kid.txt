@@ -1,5 +1,9 @@
 🔸央视,#genre#
-﻿CCTV1,http://111.20.105.60:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CETV1,http://111.20.105.60:6060/yinhe/2/ch00000090990000001063/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CETV2,http://111.20.105.60:6060/yinhe/2/ch00000090990000001064/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CETV3,http://111.20.105.60:6060/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CETV4,http://111.20.105.60:6060/yinhe/2/ch00000090990000001308/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV1,http://111.20.105.60:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://111.20.105.60:6060/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV3,http://111.20.105.60:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV4,http://111.20.105.60:6060/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -17,10 +21,6 @@ CCTV14,http://111.20.105.60:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtu
 CCTV15,http://111.20.105.60:6060/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV16,http://111.20.105.60:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV17,http://111.20.105.60:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CETV1,http://111.20.105.60:6060/yinhe/2/ch00000090990000001063/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CETV2,http://111.20.105.60:6060/yinhe/2/ch00000090990000001064/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CETV3,http://111.20.105.60:6060/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CETV4,http://111.20.105.60:6060/yinhe/2/ch00000090990000001308/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV第一剧场,http://111.20.105.60:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV怀旧剧场,http://111.20.105.60:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV风云剧场,http://111.20.105.60:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -35,14 +35,6 @@ CCTV央视精品文化,http://111.20.105.60:6060/yinhe/2/ch00000090990000002535/
 CCTV电视指南,http://111.20.105.60:6060/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 中央新影发现之旅,http://111.20.105.60:6060/yinhe/2/ch00000090990000001314/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 中央新影老故事,http://111.20.105.60:6060/yinhe/2/ch00000090990000001315/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-台球,http://111.20.105.60:6060/yinhe/2/ch00000090990000001669/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-足球,http://111.20.105.60:6060/yinhe/2/ch00000090990000001600/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-IPTV3+,http://111.20.105.60:6060/yinhe/2/ch00000090990000001629/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-IPTV5+,http://111.20.105.60:6060/yinhe/2/ch00000090990000001639/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-IPTV5+,http://111.20.105.60:6060/yinhe/2/ch00000090990000001592/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-IPTV6+,http://111.20.105.60:6060/yinhe/2/ch00000090990000001649/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-IPTV8+,http://111.20.105.60:6060/yinhe/2/ch00000090990000001583/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-IPTV相声小品,http://111.20.105.60:6060/yinhe/2/ch00000090990000001659/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
@@ -103,7 +95,6 @@ MOMO综合,http://60.248.77.83/sat/tv761.flv
 厦门卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 大湾区卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
-海峡卫视,https://cntv.sbs/tv?auth=230813&id=hxws
 四川卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001036/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 重庆卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001050/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安徽卫视,http://111.20.105.60:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -306,17 +297,12 @@ iHOT爱幼教,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600018
 iHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
 🔸电影,#genre#
-新三国,http://mmitv.top/test/douyu.php?id=5908256
-欢乐综艺,http://mmitv.top/test/douyu.php?id=131977
-吃米滴虫,http://mmitv.top/test/douyu.php?id=315457
 高分电影,http://mmitv.top/test/douyu.php?id=7254536
 豆瓣高分,http://mmitv.top/test/douyu.php?id=8770422
 漫威影院,http://mmitv.top/test/douyu.php?id=6140589
 特辑电影,http://mmitv.top/test/douyu.php?id=3637778
 粤语电影,http://mmitv.top/test/douyu.php?id=1226741
-精彩电影,http://mmitv.top/test/douyu.php?id=9650887
 喜剧电影,http://mmitv.top/test/douyu.php?id=323876
-动作电影,http://mmitv.top/test/douyu.php?id=6763930
 恐怖电影,http://mmitv.top/test/douyu.php?id=218859
 恐怖鬼怪,http://mmitv.top/test/douyu.php?id=1165374
 童年阴影,http://mmitv.top/test/douyu.php?id=2935323
@@ -324,50 +310,25 @@ iHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600003
 粤语电影,http://mmitv.top/test/douyu.php?id=6566671
 华语影视,http://mmitv.top/test/douyu.php?id=3928
 神乐影视,http://mmitv.top/test/douyu.php?id=85894
-周末影院,http://mmitv.top/test/douyu.php?id=3637765
-周末电影,http://mmitv.top/test/douyu.php?id=3637726
-兔子影厅,http://mmitv.top/test/douyu.php?id=8985415
+吃米滴虫,http://mmitv.top/test/douyu.php?id=315457
+新三国,http://mmitv.top/test/douyu.php?id=5908256
 冰冰影厅,http://mmitv.top/test/douyu.php?id=74374
-刀刀影院,http://mmitv.top/test/douyu.php?id=747764
 奶虫影院,http://mmitv.top/test/douyu.php?id=263824
 贝爷壹厅,http://mmitv.top/test/douyu.php?id=252802
 贝爷贰厅,http://mmitv.top/test/douyu.php?id=4332
 贝爷叁厅,http://mmitv.top/test/douyu.php?id=36337
 凌儿影院,http://mmitv.top/test/douyu.php?id=1377142
 云宝影院,http://mmitv.top/test/douyu.php?id=7305938
-菜园小饼,http://mmitv.top/test/douyu.php?id=1735337
-米娅影院,http://mmitv.top/test/douyu.php?id=6537888
 橙記港剧,http://mmitv.top/test/douyu.php?id=4549169
-大宝影视,http://mmitv.top/test/douyu.php?id=805235
-蚂蚱影视,http://mmitv.top/test/douyu.php?id=6079455
 怡寶影视,http://mmitv.top/test/douyu.php?id=434971
 圆子影视,http://mmitv.top/test/douyu.php?id=6566658
 贝贝影视,http://mmitv.top/test/douyu.php?id=431460
 可乐影视,http://mmitv.top/test/douyu.php?id=20415
-萌牛影视,http://mmitv.top/test/douyu.php?id=7494871
-兔兔影视,http://mmitv.top/test/douyu.php?id=1504768
-无双影视,http://mmitv.top/test/douyu.php?id=4870914
 下饭神剧,http://mmitv.top/test/douyu.php?id=276200
 古装神剧,http://mmitv.top/test/douyu.php?id=338759
-晚湾影视,http://mmitv.top/test/douyu.php?id=9461178
 酒染影视,http://mmitv.top/test/douyu.php?id=7550220
 芊珏影视,http://mmitv.top/test/douyu.php?id=8814650
 热门港剧,http://mmitv.top/test/douyu.php?id=5522351
-盗墓剧集,http://mmitv.top/test/douyu.php?id=9292503
-金庸武侠,http://mmitv.top/test/douyu.php?id=7644931
-国产剧集,http://mmitv.top/test/douyu.php?id=8157860
-国产剧场,http://mmitv.top/test/douyu.php?id=308752
-爱情公寓,http://mmitv.top/test/douyu.php?id=2838296
-经典剧集,http://mmitv.top/test/douyu.php?id=6863367
-李卫当官,http://mmitv.top/test/douyu.php?id=7473576
-龙门镖局,http://mmitv.top/test/douyu.php?id=9650860
-雍正王朝,http://mmitv.top/test/douyu.php?id=4944033
-雍正帝王,http://mmitv.top/test/douyu.php?id=9650836
-隋唐演义,http://mmitv.top/test/douyu.php?id=7552568
-大宋神探,http://mmitv.top/test/douyu.php?id=7784862
-音乐欣赏,http://mmitv.top/test/douyu.php?id=3186217
-舌尖美食,http://mmitv.top/test/douyu.php?id=9650849
-篮球人物,http://mmitv.top/test/douyu.php?id=8434598
 史君说剧,http://mmitv.top/test/douyu.php?id=9419771
 史剧解说,http://mmitv.top/test/douyu.php?id=297689
 老秦说剧,http://mmitv.top/test/douyu.php?id=9650131
@@ -377,7 +338,6 @@ iHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600003
 夜魔人老王,http://mmitv.top/test/douyu.php?id=610972
 皮皮看动漫,http://mmitv.top/test/douyu.php?id=9837291
 开心锤动漫,http://mmitv.top/test/douyu.php?id=9018297
-拳叔二次元,http://mmitv.top/test/douyu.php?id=9484105
 老邪说电影,http://mmitv.top/test/douyu.php?id=9222870
 洗碗君解说,http://mmitv.top/test/douyu.php?id=9446706
 百晓生说剧,http://mmitv.top/test/douyu.php?id=9649681
@@ -398,29 +358,7 @@ iHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600003
 小片片说大片,http://mmitv.top/test/douyu.php?id=4258555
 大片片说小片,http://mmitv.top/test/douyu.php?id=7489563
 火龙果说电影,http://mmitv.top/test/douyu.php?id=9559158
-李连杰,http://123.132.226.194:31028/hls/38/index.m3u8
-周星驰,http://123.132.226.194:31028/hls/39/index.m3u8
-刘德华,http://123.132.226.194:31028/hls/40/index.m3u8
-李小龙,http://123.132.226.194:31028/hls/103/index.m3u8
-甄子丹,http://123.132.226.194:31028/hls/104/index.m3u8
-黄渤,http://123.132.226.194:31028/hls/105/index.m3u8
-王宝强,http://123.132.226.194:31028/hls/106/index.m3u8
-成龙,http://123.132.226.194:31028/hls/41/index.m3u8
-上海滩,http://123.132.226.194:31028/hls/49/index.m3u8
-射雕英雄传,http://123.132.226.194:31028/hls/50/index.m3u8
-射雕英雄传1,http://123.132.226.194:31028/hls/56/index.m3u8
-神雕侠侣,http://123.132.226.194:31028/hls/51/index.m3u8
-神雕侠侣1,http://123.132.226.194:31028/hls/57/index.m3u8
-西游记,http://123.132.226.194:31028/hls/53/index.m3u8
-西游记1,http://123.132.226.194:31028/hls/52/index.m3u8
-古天乐,http://123.132.226.194:31028/hls/102/index.m3u8
-红楼梦,http://123.132.226.194:31028/hls/54/index.m3u8
-白蛇传,http://123.132.226.194:31028/hls/55/index.m3u8
-电视剧,http://123.132.226.194:31028/hls/89/index.m3u8
-天龙八部,http://123.132.226.194:31028/hls/58/index.m3u8
-倚天屠龙记,http://123.132.226.194:31028/hls/61/index.m3u8
-水浒传,http://123.132.226.194:31028/hls/59/index.m3u8
-大宅门,http://123.132.226.194:31028/hls/62/index.m3u8
+
 
 🔸港澳,#genre#
 港台电视31,mitv://generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242
