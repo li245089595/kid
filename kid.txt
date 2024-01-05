@@ -40,6 +40,7 @@ HOY77,http://bziyunshao.synology.me:8891/bysid/77
 HOY78,http://bziyunshao.synology.me:8891/bysid/78
 J2,http://bziyunshao.synology.me:8890/bysid/82
 明珠台,http://bziyunshao.synology.me:8890/bysid/2
+翡翠台,http://bziyunshao.synology.me:8889/bysid/1
 无线新闻,http://bziyunshao.synology.me:8890/bysid/83
 无线财经,http://bziyunshao.synology.me:8890/bysid/85
 ViuTVsix,http://bziyunshao.synology.me:8889/bysid/96
