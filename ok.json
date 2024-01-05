@@ -21,13 +21,14 @@
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/biliych.json"
     },
     {
-      "key": "MV_vod",
+      "key": "歌手专辑",
       "name": "💠歌手┃专辑",
-      "type": 1,
-      "api": "https://mv.wogg.link/mv/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/Blimv.json"
     },
     {
       "key": "相声小品",
