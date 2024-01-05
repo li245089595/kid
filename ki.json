@@ -1,6 +1,6 @@
 {
   "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/kid.jar",
-  "wallpaper": "https://picsum.photos/1280/720/?blur=5",
+  "wallpaper": "http://52bsj.vip:82/late",
   "warningText": "欢迎使用KiD综合  祝你生活愉快。",
   "lives": [
     {
@@ -88,7 +88,7 @@
       "name": "💠┃豪华┃采集",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod",
-      "playUrl": "",
+      "playUrl": "https://hhjiexi.com/play/?url=",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
@@ -130,7 +130,7 @@
       "name": "💠┃虎牙┃采集",
       "type": 1,
       "api": "http://www.huyaapi.com/api.php/provide/vod/",
-      "playUrl": "",
+      "playUrl": "https://huyajx.com/play?url= ",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
