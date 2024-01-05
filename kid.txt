@@ -1,3 +1,20 @@
+🔸香港,#genre#
+J2,http://bziyunshao.synology.me:8890/bysid/82
+明珠台,http://bziyunshao.synology.me:8890/bysid/2
+翡翠台,http://bziyunshao.synology.me:8889/bysid/1
+无线新闻,http://bziyunshao.synology.me:8890/bysid/83
+无线财经,http://bziyunshao.synology.me:8890/bysid/85
+HOY76,http://bziyunshao.synology.me:8891/bysid/76
+HOY77,http://bziyunshao.synology.me:8891/bysid/77
+HOY78,http://bziyunshao.synology.me:8891/bysid/78
+ViuTVsix,http://bziyunshao.synology.me:8889/bysid/96
+ViuTV,http://bziyunshao.synology.me:8889/bysid/99
+RHK31,http://bziyunshao.synology.me:8892/bysid/31
+RHK32,http://bziyunshao.synology.me:8892/bysid/32
+RHK33,http://bziyunshao.synology.me:8892/bysid/33
+RHK34,http://bziyunshao.synology.me:8892/bysid/34
+
+
 🔸央视,#genre#
 CCTV1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
@@ -25,26 +42,37 @@ CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
+CHC高清电影HD,http://dd.ikhs.cn:8880/udp/239.69.1.241:11088	 
+CHC家庭影院HD,http://dd.ikhs.cn:8880/udp/239.69.1.243:11100
+CHC动作电影HD,http://dd.ikhs.cn:8880/udp/239.69.1.242:11094	
+彩民在线,http://dd.ikhs.cn:8880/udp/239.254.96.209:9334
+中国体育彩票,http://dd.ikhs.cn:8880/udp/239.69.1.57:9982
+CCTV-老故事,http://dd.ikhs.cn:8880/udp/239.69.1.85:10150
+CCTV-女性时尚,http://dd.ikhs.cn:8880/udp/239.69.1.86:10156
+CCTV-电视指南,http://dd.ikhs.cn:8880/udp/239.69.1.87:10162
+CCTV-怀旧剧场,http://dd.ikhs.cn:8880/udp/239.69.1.89:10174
+CCTV-风云音乐,http://dd.ikhs.cn:8880/udp/239.69.1.90:10180
+CCTV-卫生健康,http://dd.ikhs.cn:8880/udp/239.254.96.207:9322
+IPTV-相声小品,http://dd.ikhs.cn:8880/udp/239.254.96.214:9364
+IPTV-热播剧场,http://dd.ikhs.cn:8880/udp/239.254.96.215:9370
+IPTV-经典电影,http://dd.ikhs.cn:8880/udp/239.254.96.216:9376
+IPTV-魅力时尚,http://dd.ikhs.cn:8880/udp/239.254.96.217:9382
+IPTV-6+,http://dd.ikhs.cn:8880/udp/239.254.96.218:9388
+IPTV-3+,http://dd.ikhs.cn:8880/udp/239.254.96.219:9394
+IPTV-少儿动画,http://dd.ikhs.cn:8880/udp/239.254.96.220:9400
+IPTV-5+,http://dd.ikhs.cn:8880/udp/239.254.96.221:9406
+IPTV-8+,http://dd.ikhs.cn:8880/udp/239.254.96.222:9412
+
+
+
+
+
 
 🔸卫视,#genre#
 凤凰中文台,http://113.117.74.99:8081/hls/37/index.m3u8
 凤凰资讯台,http://113.117.74.99:8081/hls/36/index.m3u8
 凤凰香港台,http://113.117.74.99:8081/hls/38/index.m3u8
 凤凰电影台,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-RHK31,http://bziyunshao.synology.me:8892/bysid/31
-RHK32,http://bziyunshao.synology.me:8892/bysid/32
-RHK33,http://bziyunshao.synology.me:8892/bysid/33
-RHK34,http://bziyunshao.synology.me:8892/bysid/34
-HOY76,http://bziyunshao.synology.me:8891/bysid/76
-HOY77,http://bziyunshao.synology.me:8891/bysid/77
-HOY78,http://bziyunshao.synology.me:8891/bysid/78
-J2,http://bziyunshao.synology.me:8890/bysid/82
-明珠台,http://bziyunshao.synology.me:8890/bysid/2
-翡翠台,http://bziyunshao.synology.me:8889/bysid/1
-无线新闻,http://bziyunshao.synology.me:8890/bysid/83
-无线财经,http://bziyunshao.synology.me:8890/bysid/85
-ViuTVsix,http://bziyunshao.synology.me:8889/bysid/96
-ViuTV,http://bziyunshao.synology.me:8889/bysid/99
 台视,http://60.248.77.83/sat/tv071.flv
 中视,http://60.248.77.83/sat/tv091.flv
 民视,http://60.248.77.83/sat/tv051.flv
