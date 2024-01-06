@@ -1,4 +1,4 @@
-🔸香港,#genre#
+🔸香港地波,#genre#
 J2,http://bziyunshao.synology.me:8890/bysid/82
 明珠台,http://bziyunshao.synology.me:8890/bysid/2
 翡翠台,http://bziyunshao.synology.me:8889/bysid/1
@@ -36,7 +36,7 @@ CCTV16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100
 CCTV17农村农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-CETV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8
+CETV3,http://hf.bbtu.top:10000/rtp/239.3.1.55:4120
 CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
@@ -141,8 +141,8 @@ MOMO综合,http://60.248.77.83/sat/tv761.flv
 
 
 🔸数位,#genre#
-黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓电竞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 CHC高清电影,http://dd.ikhs.cn:8880/udp/239.69.1.241:11088	 
 CHC家庭影院,http://dd.ikhs.cn:8880/udp/239.69.1.243:11100
@@ -154,11 +154,17 @@ CHC动作电影,http://dd.ikhs.cn:8880/udp/239.69.1.242:11094
 欧洲华文1,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 欧洲华文2,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 欧洲华文6,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
-大健康,http://home4.kmo.ink:8888/rtp/239.3.1.251:8001
+淘精彩,http://home4.kmo.ink:8888/rtp/239.3.1.178:8001
+淘电影,http://home4.kmo.ink:8888/rtp/239.3.1.250:8001
+淘剧场,http://home4.kmo.ink:8888/rtp/239.3.1.95:8001
+淘娱乐,http://home4.kmo.ink:8888/rtp/239.3.1.100:8001
+淘Baby,http://home4.kmo.ink:8888/rtp/239.3.1.238:8001
+萌宠TV,http://home4.kmo.ink:8888/rtp/239.3.1.102:8001
+睛彩广场舞,http://home4.kmo.ink:8888/rtp/239.3.1.128:8001
+睛彩羽毛球,http://home4.kmo.ink:8888/rtp/239.3.1.127:8001
 睛彩竞技,http://home4.kmo.ink:8888/rtp/239.3.1.125:8001
 睛彩篮球,http://home4.kmo.ink:8888/rtp/239.3.1.126:8001
-睛彩羽毛球,http://home4.kmo.ink:8888/rtp/239.3.1.127:8001
-睛彩广场舞,http://home4.kmo.ink:8888/rtp/239.3.1.128:8001
+大健康,http://home4.kmo.ink:8888/rtp/239.3.1.251:8001
 北京新闻,http://home4.kmo.ink:8888/rtp/239.3.1.159:8000
 北京影视,http://home4.kmo.ink:8888/rtp/239.3.1.158:8000
 北京文艺,http://home4.kmo.ink:8888/rtp/239.3.1.242:8000
@@ -166,12 +172,6 @@ CHC动作电影,http://dd.ikhs.cn:8880/udp/239.69.1.242:11094
 北京生活,http://home4.kmo.ink:8888/rtp/239.3.1.117:8000
 中国交通,http://home4.kmo.ink:8888/rtp/239.3.1.188:8001
 朝阳融媒,http://home4.kmo.ink:8888/rtp/239.3.1.163:8001
-淘精彩,http://home4.kmo.ink:8888/rtp/239.3.1.178:8001
-淘电影,http://home4.kmo.ink:8888/rtp/239.3.1.250:8001
-淘剧场,http://home4.kmo.ink:8888/rtp/239.3.1.95:8001
-淘娱乐,http://home4.kmo.ink:8888/rtp/239.3.1.100:8001
-淘Baby,http://home4.kmo.ink:8888/rtp/239.3.1.238:8001
-萌宠TV,http://home4.kmo.ink:8888/rtp/239.3.1.102:8001
 文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
 番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
