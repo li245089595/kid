@@ -1,4 +1,4 @@
-🔸香港地波,#genre#
+🔸香港,#genre#
 J2,http://bziyunshao.synology.me:8890/bysid/82
 明珠台,http://bziyunshao.synology.me:8890/bysid/2
 翡翠台,http://bziyunshao.synology.me:8889/bysid/1
