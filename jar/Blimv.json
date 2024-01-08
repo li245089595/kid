@@ -13,6 +13,10 @@
       "type_id": "粤语MV4k合集"
     },
     {
+      "type_name": "MTV合集",
+      "type_id": "MTV合集"
+    },
+    {
       "type_name": "欧美流行",
       "type_id": "欧美流行音乐合集"
     },
@@ -32,10 +36,7 @@
       "type_name": "滚石经典",
       "type_id": "滚石MV4k合集"
     },
-    {
-      "type_name": "韩国女团",
-      "type_id": "韩国女团MV4k合集"
-    },
+   
     {
       "type_name": "A阿黛尔",
       "type_id": "阿黛尔MV4k合集"
