@@ -117,9 +117,9 @@ CCTV卫生健康,http://dd.ikhs.cn:8880/udp/239.254.96.207:9322
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓电竞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-CHC高清电影HD,http://dd.ikhs.cn:8880/udp/239.69.1.241:11088	 
-CHC家庭影院HD,http://dd.ikhs.cn:8880/udp/239.69.1.243:11100
-CHC动作电影HD,http://dd.ikhs.cn:8880/udp/239.69.1.242:11094	
+CHC高清电影,http://dd.ikhs.cn:8880/udp/239.69.1.241:11088	 
+CHC家庭影院,http://dd.ikhs.cn:8880/udp/239.69.1.243:11100
+CHC动作电影,http://dd.ikhs.cn:8880/udp/239.69.1.242:11094	
 求索记录,http://39.135.133.177/PLTV/88888888/224/3221225713/index.m3u8
 求索生活,http://39.135.133.157/PLTV/88888888/224/3221225715/index.m3u8
 求索科学,http://39.135.133.156/PLTV/88888888/224/3221225728/index.m3u8
@@ -130,8 +130,6 @@ CHC动作电影HD,http://dd.ikhs.cn:8880/udp/239.69.1.242:11094
 文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
 黄河,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
-南宁影视娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
-国学影视,https://jwcdnqx.hebyun.com.cn/live/yspd/1500k/tzwj_video.m3u8
 睛彩广场舞,http://home4.kmo.ink:8888/rtp/239.3.1.128:8001
 睛彩羽毛球,http://home4.kmo.ink:8888/rtp/239.3.1.127:8001
 睛彩竞技,http://home4.kmo.ink:8888/rtp/239.3.1.125:8001
@@ -1016,6 +1014,19 @@ Band Sports,http://187.95.95.247/Band-Sports/index.m3u8
 Band News,http://187.95.95.247/Band-News/mono.m3u8
 
 🔸彩虹_231,#genre#
+彩虹e台,mitv://generationnexxxt.com:19806/3f5f22df9a324f759e43967b0d3ffe65
+彩虹电影台,mitv://generationnexxxt.com:19806/65b9f44984e749a8b14455a173779644
+LOOK TV,mitv://generationnexxxt.com:19806/c8aab8c8683c4f35aba0e745535afd41
+潘朵啦玩美台,mitv://generationnexxxt.com:19806/3f91635cf956419490d1905f7d5c6790
+惊艳成人电影台,mitv://generationnexxxt.com:19806/9eaea463d2f54b5d92fb34948ad0b72d
+松视1台,mitv://generationnexxxt.com:19806/878c994ac52a4c50a71914f559b0ddc6
+松视2台,mitv://generationnexxxt.com:19806/3bd5b1fec1134ecc856c965a5c0e6ff9
+PLAYBOY,mitv://generationnexxxt.com:19806/47f99c6bdb9449a594cc0621f8980f3c
+香蕉台,mitv://generationnexxxt.com:19806/cb6c40d4aea546a7b518377e7aee5fb0
+松视3台,mitv://generationnexxxt.com:19806/0045293e14224851a3e930cf0b8a07f8
+JStar极限台,mitv://generationnexxxt.com:19806/a55acb84487242d882b0b53dd110b845
+HAPPY,mitv://generationnexxxt.com:19806/7b02a03ce3094b4e84f883565805f3a4
+K,mitv://generationnexxxt.com:19806/1aec46d506634015a1276c5e4d846976
 Brazzers,p3p://fccsen.dyndns.tv:29706/60bc2535000292424fc304cf3c251ba8
 She Will Cheat,p3p://fccsen.dyndns.tv:29706/5e17adf800008ec005e95a5b2fd52e46
 Hustler,p3p://fccsen.dyndns.tv:29706/5f4730e9000077ee9eea293625b72a20
@@ -1063,22 +1074,3 @@ FAKE TAXI,p3p://fccsen.dyndns.tv:29706/615a5c0e000a608eb9c93ef2199b14e4
 FORGIVE ME FATHER,p3p://fccsen.dyndns.tv:29706/615a5de90005f456b9d07d491f60478b
 FEMALE AGENT,p3p://fccsen.dyndns.tv:29706/615a5c4f0003cfabb9ca3b2a23026f71
 MOM TEACH SEX,p3p://fccsen.dyndns.tv:29706/615a6095000f18a6b9daef7b58eb58ee
-FIT 18,http://185.182.193.203:25461/brianlstark/433754/70955
-MY 18 TEENS,http://185.182.193.203:25461/brianlstark/433754/70948
-LOVE HOME PORN,http://185.182.193.203:25461/brianlstark/433754/70924
-MMM 100,http://185.182.193.203:25461/brianlstark/433754/70930
-FAKE TAXI,http://185.182.193.203:25461/brianlstark/433754/70905
-HORNY HOSTEL,http://185.182.193.203:25461/brianlstark/433754/70894
-BBC PIE,http://185.182.193.203:25461/brianlstark/433754/70978
-SexArt,http://185.182.193.203:25461/brianlstark/433754/66795
-PlayboyPlus,http://185.182.193.203:25461/brianlstark/433754/66787
-FTVGirls,http://185.182.193.203:25461/brianlstark/433754/66753
-AV TAXI,http://185.182.193.203:25461/brianlstark/433754/70925
-ASIAN FOOTJOB,http://185.182.193.203:25461/brianlstark/433754/70939
-MAX J,http://185.182.193.203:25461/brianlstark/433754/70937
-NEW SENSATIONS,http://185.182.193.203:25461/brianlstark/433754/70958
-DORCEL CLUB,http://185.182.193.203:25461/brianlstark/433754/70946
-DDF BUSTY,http://185.182.193.203:25461/brianlstark/433754/70949
-ATK GIRLFRIENDS,http://185.182.193.203:25461/brianlstark/433754/70968
-MOM XXX,http://185.182.193.203:25461/brianlstark/433754/70969
-ATK GIRLFRIENDS,http://185.182.193.203:25461/brianlstark/433754/70968
