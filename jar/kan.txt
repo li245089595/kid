@@ -46,11 +46,9 @@ CCTV卫生健康,http://dd.ikhs.cn:8880/udp/239.254.96.207:9322
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
-聚鲨环球精选,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225708/index.m3u8
 湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
 河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-风尚购物,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225679/index.m3u8
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
@@ -70,7 +68,6 @@ CCTV卫生健康,http://dd.ikhs.cn:8880/udp/239.254.96.207:9322
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 冬奥纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-家有购物,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225682/index.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
 河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
@@ -1014,19 +1011,6 @@ Band Sports,http://187.95.95.247/Band-Sports/index.m3u8
 Band News,http://187.95.95.247/Band-News/mono.m3u8
 
 🔸彩虹_231,#genre#
-彩虹e台,mitv://generationnexxxt.com:19806/3f5f22df9a324f759e43967b0d3ffe65
-彩虹电影台,mitv://generationnexxxt.com:19806/65b9f44984e749a8b14455a173779644
-LOOK TV,mitv://generationnexxxt.com:19806/c8aab8c8683c4f35aba0e745535afd41
-潘朵啦玩美台,mitv://generationnexxxt.com:19806/3f91635cf956419490d1905f7d5c6790
-惊艳成人电影台,mitv://generationnexxxt.com:19806/9eaea463d2f54b5d92fb34948ad0b72d
-松视1台,mitv://generationnexxxt.com:19806/878c994ac52a4c50a71914f559b0ddc6
-松视2台,mitv://generationnexxxt.com:19806/3bd5b1fec1134ecc856c965a5c0e6ff9
-PLAYBOY,mitv://generationnexxxt.com:19806/47f99c6bdb9449a594cc0621f8980f3c
-香蕉台,mitv://generationnexxxt.com:19806/cb6c40d4aea546a7b518377e7aee5fb0
-松视3台,mitv://generationnexxxt.com:19806/0045293e14224851a3e930cf0b8a07f8
-JStar极限台,mitv://generationnexxxt.com:19806/a55acb84487242d882b0b53dd110b845
-HAPPY,mitv://generationnexxxt.com:19806/7b02a03ce3094b4e84f883565805f3a4
-K,mitv://generationnexxxt.com:19806/1aec46d506634015a1276c5e4d846976
 Brazzers,p3p://fccsen.dyndns.tv:29706/60bc2535000292424fc304cf3c251ba8
 She Will Cheat,p3p://fccsen.dyndns.tv:29706/5e17adf800008ec005e95a5b2fd52e46
 Hustler,p3p://fccsen.dyndns.tv:29706/5f4730e9000077ee9eea293625b72a20
