@@ -493,16 +493,7 @@
       "url": "http://tvkj.top/tvlive.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "live2",
-      "type": 0,
-      "url": "https://agit.ai/kankan314/kan/raw/branch/master/tv/yydslive1.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
-   
   ],
   "flags": [
     "优酷视频",
@@ -548,5 +539,5 @@
     "https: //lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "https://jpg.wxincai.eu.org",
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/kan.jar;md5;5aee1ff968a3dc5cbbf225399e9441e9"
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/kan.jar;md5;5543dae038ce2248e7759e9cbca295b9"
 }
