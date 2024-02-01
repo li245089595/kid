@@ -42,6 +42,7 @@ CCTV卫生健康,http://dd.ikhs.cn:8880/udp/239.254.96.207:9322
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
@@ -77,6 +78,7 @@ CCTV卫生健康,http://dd.ikhs.cn:8880/udp/239.254.96.207:9322
 青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 安多卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 康巴卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
@@ -138,6 +140,7 @@ CHC动作电影,http://dd.ikhs.cn:8880/udp/239.69.1.242:11094
 北京文艺,http://home4.kmo.ink:8888/rtp/239.3.1.242:8000
 北京财经,http://home4.kmo.ink:8888/rtp/239.3.1.116:8000
 北京生活,http://home4.kmo.ink:8888/rtp/239.3.1.117:8000
+书画频道,http://211.103.180.178:8234/live_hls/hdmi.m3u8
 湖南电视剧,http://58.20.19.126:10999/tsfile/live/0120_1.m3u8
 湖南都市,http://58.20.19.126:10999/tsfile/live/0139_1.m3u8
 湖南公共,http://58.20.19.126:10999/tsfile/live/0117_1.m3u8
