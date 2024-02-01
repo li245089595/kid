@@ -42,7 +42,7 @@ CCTV卫生健康,http://dd.ikhs.cn:8880/udp/239.254.96.207:9322
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
+星空卫视,http://202.168.187.208:2024/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0,0.978 MB/s
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
