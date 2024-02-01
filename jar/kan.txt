@@ -104,15 +104,13 @@ CCTV卫生健康,http://dd.ikhs.cn:8880/udp/239.254.96.207:9322
 武汉文体,http://dd.ikhs.cn:8880/udp/239.69.1.147:10518
 武汉外语,http://dd.ikhs.cn:8880/udp/239.69.1.36:9856
 武汉教育,http://dd.ikhs.cn:8880/udp/239.69.1.60:9994
-蔡甸综合,http://dd.ikhs.cn:8880/udp/239.69.1.245:11112
-房县综合,http://dd.ikhs.cn:8880/udp/239.69.1.192:10794
-阳新综合,http://dd.ikhs.cn:8880/udp/239.69.1.34:9844
+
 
 
 🔸数位,#genre#
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-黑莓电竞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 CHC高清电影,http://dd.ikhs.cn:8880/udp/239.69.1.241:11088	 
 CHC家庭影院,http://dd.ikhs.cn:8880/udp/239.69.1.243:11100
 CHC动作电影,http://dd.ikhs.cn:8880/udp/239.69.1.242:11094	
@@ -125,7 +123,6 @@ CHC动作电影,http://dd.ikhs.cn:8880/udp/239.69.1.242:11094
 欧洲华文6,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
 文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
-
 睛彩广场舞,http://home4.kmo.ink:8888/rtp/239.3.1.128:8001
 睛彩羽毛球,http://home4.kmo.ink:8888/rtp/239.3.1.127:8001
 睛彩竞技,http://home4.kmo.ink:8888/rtp/239.3.1.125:8001
