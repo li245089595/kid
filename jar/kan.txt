@@ -120,21 +120,17 @@ CHC动作电影,http://dd.ikhs.cn:8880/udp/239.69.1.242:11094
 求索生活,http://39.135.133.157/PLTV/88888888/224/3221225715/index.m3u8
 求索科学,http://39.135.133.156/PLTV/88888888/224/3221225728/index.m3u8
 求索动物,http://39.135.133.134/PLTV/88888888/224/3221225730/index.m3u8
-欧洲华文1,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
-欧洲华文2,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
-欧洲华文6,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
-文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
 睛彩广场舞,http://home4.kmo.ink:8888/rtp/239.3.1.128:8001
 睛彩羽毛球,http://home4.kmo.ink:8888/rtp/239.3.1.127:8001
 睛彩竞技,http://home4.kmo.ink:8888/rtp/239.3.1.125:8001
 睛彩篮球,http://home4.kmo.ink:8888/rtp/239.3.1.126:8001
-淘精彩,http://home4.kmo.ink:8888/rtp/239.3.1.178:8001
-淘电影,http://home4.kmo.ink:8888/rtp/239.3.1.250:8001
-淘剧场,http://home4.kmo.ink:8888/rtp/239.3.1.95:8001
-淘娱乐,http://home4.kmo.ink:8888/rtp/239.3.1.100:8001
-淘Baby,http://home4.kmo.ink:8888/rtp/239.3.1.238:8001
-萌宠TV,http://home4.kmo.ink:8888/rtp/239.3.1.102:8001
+北京淘精彩,http://home4.kmo.ink:8888/rtp/239.3.1.178:8001
+北京淘电影,http://home4.kmo.ink:8888/rtp/239.3.1.250:8001
+北京淘剧场,http://home4.kmo.ink:8888/rtp/239.3.1.95:8001
+北京淘娱乐,http://home4.kmo.ink:8888/rtp/239.3.1.100:8001
+北京淘Baby,http://home4.kmo.ink:8888/rtp/239.3.1.238:8001
+北京萌宠TV,http://home4.kmo.ink:8888/rtp/239.3.1.102:8001
+北京大健康,http://home4.kmo.ink:8888/rtp/239.3.1.251:8001
 北京新闻,http://home4.kmo.ink:8888/rtp/239.3.1.159:8000
 北京影视,http://home4.kmo.ink:8888/rtp/239.3.1.158:8000
 北京文艺,http://home4.kmo.ink:8888/rtp/239.3.1.242:8000
@@ -143,12 +139,12 @@ CHC动作电影,http://dd.ikhs.cn:8880/udp/239.69.1.242:11094
 书画频道,http://211.103.180.178:8234/live_hls/hdmi.m3u8
 湖南电视剧,http://58.20.19.126:10999/tsfile/live/0120_1.m3u8
 湖南都市,http://58.20.19.126:10999/tsfile/live/0139_1.m3u8
-湖南公共,http://58.20.19.126:10999/tsfile/live/0117_1.m3u8
 湖南经视,http://58.20.19.126:10999/tsfile/live/0131_1.m3u8
 湖南娱乐,http://58.20.19.126:10999/tsfile/live/0125_1.m3u8
-大健康,http://home4.kmo.ink:8888/rtp/239.3.1.251:8001
-中国交通,http://home4.kmo.ink:8888/rtp/239.3.1.188:8001
-朝阳融媒,http://home4.kmo.ink:8888/rtp/239.3.1.163:8001
+
+
+
+
 
 
 🔸剧场,#genre#
