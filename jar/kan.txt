@@ -69,6 +69,7 @@ CCTV卫生健康,http://dd.ikhs.cn:8880/udp/239.254.96.207:9322
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
 河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+黄河卫视,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
@@ -124,7 +125,7 @@ CHC动作电影,http://dd.ikhs.cn:8880/udp/239.69.1.242:11094
 欧洲华文6,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
 文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
-黄河,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
+
 睛彩广场舞,http://home4.kmo.ink:8888/rtp/239.3.1.128:8001
 睛彩羽毛球,http://home4.kmo.ink:8888/rtp/239.3.1.127:8001
 睛彩竞技,http://home4.kmo.ink:8888/rtp/239.3.1.125:8001
