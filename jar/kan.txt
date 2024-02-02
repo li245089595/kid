@@ -45,11 +45,10 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 厦门卫视,https://xiamenalic.v.myalicdn.com/xiamen/xiamen_1/index.m3u8
-三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
+三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 山东教育卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
@@ -83,6 +82,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
 辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 
 
@@ -104,20 +104,16 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 
 🔸数位,#genre#
-黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 CHC高清电影,http://dd.ikhs.cn:8880/udp/239.69.1.241:11088	 
 CHC家庭影院,http://dd.ikhs.cn:8880/udp/239.69.1.243:11100
 CHC动作电影,http://dd.ikhs.cn:8880/udp/239.69.1.242:11094	
+黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 求索纪录,http://39.135.133.177/PLTV/88888888/224/3221225713/index.m3u8
 求索生活,http://39.135.133.157/PLTV/88888888/224/3221225715/index.m3u8
 求索科学,http://39.135.133.156/PLTV/88888888/224/3221225728/index.m3u8
 求索动物,http://39.135.133.134/PLTV/88888888/224/3221225730/index.m3u8
-睛彩广场舞,http://home4.kmo.ink:8888/rtp/239.3.1.128:8001
-睛彩羽毛球,http://home4.kmo.ink:8888/rtp/239.3.1.127:8001
-睛彩竞技,http://home4.kmo.ink:8888/rtp/239.3.1.125:8001
-睛彩篮球,http://home4.kmo.ink:8888/rtp/239.3.1.126:8001
 北京淘精彩,http://home4.kmo.ink:8888/rtp/239.3.1.178:8001
 北京淘电影,http://home4.kmo.ink:8888/rtp/239.3.1.250:8001
 北京淘剧场,http://home4.kmo.ink:8888/rtp/239.3.1.95:8001
@@ -125,12 +121,15 @@ CHC动作电影,http://dd.ikhs.cn:8880/udp/239.69.1.242:11094
 北京淘Baby,http://home4.kmo.ink:8888/rtp/239.3.1.238:8001
 北京萌宠TV,http://home4.kmo.ink:8888/rtp/239.3.1.102:8001
 北京大健康,http://home4.kmo.ink:8888/rtp/239.3.1.251:8001
+睛彩广场舞,http://home4.kmo.ink:8888/rtp/239.3.1.128:8001
+睛彩羽毛球,http://home4.kmo.ink:8888/rtp/239.3.1.127:8001
+睛彩竞技,http://home4.kmo.ink:8888/rtp/239.3.1.125:8001
+睛彩篮球,http://home4.kmo.ink:8888/rtp/239.3.1.126:8001
 北京新闻,http://home4.kmo.ink:8888/rtp/239.3.1.159:8000
 北京影视,http://home4.kmo.ink:8888/rtp/239.3.1.158:8000
 北京文艺,http://home4.kmo.ink:8888/rtp/239.3.1.242:8000
 北京财经,http://home4.kmo.ink:8888/rtp/239.3.1.116:8000
 北京生活,http://home4.kmo.ink:8888/rtp/239.3.1.117:8000
-书画频道,http://211.103.180.178:8234/live_hls/hdmi.m3u8
 湖南电视剧,http://58.20.19.126:10999/tsfile/live/0120_1.m3u8
 湖南都市,http://58.20.19.126:10999/tsfile/live/0139_1.m3u8
 湖南经视,http://58.20.19.126:10999/tsfile/live/0131_1.m3u8
