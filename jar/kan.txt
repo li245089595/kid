@@ -447,6 +447,7 @@ NTV7,mitv://generationnexxxt.com:19806/7c0bb3dc5b304064809b7b4711d75ccc
 TV9,mitv://generationnexxxt.com:19806/cd4d90b0f1c84d33ae6ab4ebf09ce61a
 Astro小太陽,mitv://generationnexxxt.com:19806/b9014d57594d4cfdb87848d4b2610506
 Astro歡喜台,mitv://generationnexxxt.com:19806/a2f732d447dc4c0b9e80417490de4e1d
+Astro全佳台,mitv://generationnexxxt.com:19806/676d5767c17749f8950a81ed8681380a
 愛奇藝,mitv://generationnexxxt.com:19806/220100b4bf8a42b49b38d1152cf9ab84
 八度空間,mitv://generationnexxxt.com:19806/c1351c973d544fd9b9fcf34d36cc3ab1
 八度空間(備),mitv://generationnexxxt.com:19806/34bef24c069e40779fb4b4c827e0051f
@@ -454,7 +455,6 @@ Astro Oasis HD,mitv://generationnexxxt.com:19806/ba94a812ece14f4484d550852d73664
 Al-Hijrah,mitv://generationnexxxt.com:19806/2bbbb59b7e4c44e1ac91c3a4e9fa222a
 SUN TV,mitv://generationnexxxt.com:19806/4bb094b241874180af9f61a56370ce35
 Astro AEC(備),mitv://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
-Astro AOD HD 311,mitv://generationnexxxt.com:19806/676d5767c17749f8950a81ed8681380a
 Berita RTM,mitv://generationnexxxt.com:19806/da7e362a8d2e40b3bbe02f430a39fc0e
 beIN Sports,mitv://generationnexxxt.com:19806/eefa5931a750470d8a3267932e36c644
 Astro AEC,mitv://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
