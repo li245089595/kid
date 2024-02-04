@@ -471,21 +471,7 @@ Astro SuperSport 4,mitv://generationnexxxt.com:19806/c7f1be20958243f68c943016c44
 beIN Sports 3,mitv://generationnexxxt.com:19806/83bd4463c62048dea6aafba5e1a81b23
 
 
-
-
 🔸新加,#genre#
-天映頻道,mitv://generationnexxxt.com:19806/f7581adcfa1e4eaa88b4d1206f3abe61
-中天亞洲台,mitv://generationnexxxt.com:19806/7c932e1429374b358b547a75ebba7ca8
-TVB星河(粵),mitv://generationnexxxt.com:19806/0c08d9d705a747908c23ba652726d777
-天映經典,mitv://generationnexxxt.com:19806/3ac31fa9f30145b68f8469b00d91b200
-KBS World,mitv://generationnexxxt.com:19806/61432c16625e41d3b52570bb136f5054
-CGTN,mitv://generationnexxxt.com:19806/a478d869f49148b09b5ad2ddfa73e36b
-BBC World News,mitv://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663a
-CNBC,mitv://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
-Bloomberg TV,mitv://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
-Boomerang,mitv://generationnexxxt.com:19806/65619d3500003c6967236ef726ef1633
-HITS,mitv://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
-beIN Sports 3,mitv://generationnexxxt.com:19806/83bd4463c62048dea6aafba5e1a81b23
 Mediacorp 5,mitv://generationnexxxt.com:19806/7ecf2b27c2554eef87bb4b3603e82a4f
 Mediacorp 8,mitv://generationnexxxt.com:19806/02b0b2bfe7974369b811f418dcd4eddf
 Suria,mitv://generationnexxxt.com:19806/9ea5cf9604c545c88d5a634f5450204b
@@ -495,14 +481,7 @@ Mediacorp U,mitv://generationnexxxt.com:19806/1c7cdb0005764374ab173154f8418848
 Euronews,mitv://generationnexxxt.com:19806/5b3289dff2154e2c8e166cc3f081f326
 Fight Sports,mitv://generationnexxxt.com:19806/7375a5f151c047b294a8e8c6ddad178d
 GEM,mitv://generationnexxxt.com:19806/76f6e10887894d07bd5b225cc895e2a5
-Fox News,mitv://generationnexxxt.com:19806/e9305a82b75c42f5901c0594e063e999
-beIN Sports,mitv://generationnexxxt.com:19806/eefa5931a750470d8a3267932e36c644
-HGTV居家樂活頻道,mitv://generationnexxxt.com:19806/84613e96237545769558cc572e6d1ab0
-東森亞洲衛視,mitv://generationnexxxt.com:19806/8a43d9cb067b47aaa8fd5f550930be0c
-Thrill,mitv://generationnexxxt.com:19806/1c3c73215afd42558101c3ee65737202
-TVBS亞洲,mitv://generationnexxxt.com:19806/5459e179cc3b4ea49e5b6ed6a4f298c9
-NBA,mitv://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
-beIN Sports 2,mitv://generationnexxxt.com:19806/65619d35000372e967236fc35ab64b39
+
 
 🔸日本,#genre#
 NHK-G綜合,mitv://generationnexxxt.com:19806/810050ee3b224cffbff84c07e53c499a
