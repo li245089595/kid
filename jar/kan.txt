@@ -401,6 +401,7 @@ ETtoday綜合台,P2p://generationnexxxt.com:19806/8e1b32241c9d4d079a2df7dc99adb3
 靖天日本台,P2p://generationnexxxt.com:19806/c88dcc9ddf6747b991fc1a0db939147d
 i-Fun動漫台,P2p://generationnexxxt.com:19806/91a0e3fa1a714dd7b7cf55343052cd4f
 韓國娛樂台,P2p://generationnexxxt.com:19806/80d680dc15ec44bea9c3a3160ecdcb14
+KIX,mitv://generationnexxxt.com:19806/3f7be3ad31504c9fa358e3fe583fac0a
 星衛娛樂台,P2p://generationnexxxt.com:19806/e83cc99135884327a96306484b0b8685
 ROCK Extreme,P2p://generationnexxxt.com:19806/fc56480dab3541a6a99d66c3d2048526
 中視新聞台,P2p://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
@@ -524,7 +525,6 @@ Music Japan TV,mitv://generationnexxxt.com:19806/7bbfd7a0233d4861943f8488dc21e07
 旅チャンネル,mitv://generationnexxxt.com:19806/bab71e3fb519479ea64543d006b8089f
 
 🔸韩国,#genre#
-KIX,mitv://generationnexxxt.com:19806/3f7be3ad31504c9fa358e3fe583fac0a
 Arirang,mitv://generationnexxxt.com:19806/853704c2f9a442e7a1532038f14d8d00
 KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
 KBS2,mitv://generationnexxxt.com:19806/fa378d3829f643d2a87c4c754bbae507
