@@ -619,7 +619,7 @@ Smithsonian,p3p://fccsen.dyndns.tv:29706/59e2ab3400085940ed794ecb7d945036
 Bravo,p3p://fccsen.dyndns.tv:29706/5a0fd62200032b608984f02a05fc0840
 E!,p3p://fccsen.dyndns.tv:29706/607f615b0006fea46266e5ea25f418ca
 CTV Comedy,p3p://fccsen.dyndns.tv:29706/5d97de23000dfa8212a5bf441ba250bb
-CTV Sci-Fi (Space),p3p://fccsen.dyndns.tv:29706/5a824f4b000d7cc148ad61231d697205
+CTV Sci-Fi,p3p://fccsen.dyndns.tv:29706/5a824f4b000d7cc148ad61231d697205
 Dtour,p3p://fccsen.dyndns.tv:29706/5a01e2a4000a021d5305df3b13627dc3
 Cottage Life,p3p://fccsen.dyndns.tv:29706/5a01e36e000f14615308f59841955835
 DIY,p3p://fccsen.dyndns.tv:29706/615bcff2000bb9c8bf75f1e90fad329a
@@ -628,7 +628,6 @@ Much,p3p://fccsen.dyndns.tv:29706/5a83817900067ff64d59630f2a13081a
 MTV,p3p://fccsen.dyndns.tv:29706/615bdeb3000754d8bfaf92bb35ea5472
 BBC Earth,p3p://fccsen.dyndns.tv:29706/58ab8c030006e5da5aeb621b23617da7
 ShowCase CA,p3p://fccsen.dyndns.tv:29706/5a824ba300070904489f1748478d74dd
-TCM,p3p://fccsen.dyndns.tv:29706/5fc871b60003291997cef8a3782a2050
 IFC,p3p://fccsen.dyndns.tv:29706/5c3251fb00007e8f9dfb02205f5f0c2a
 Ginx eSports, p3p://108.181.20.159:70168/6452b6c900062fb47451fa3e235a3be3
 ABC East,p3p://fccsen.dyndns.tv:29706/5a22e3260003c777d3efa4a17ef52ed5
@@ -669,7 +668,6 @@ TBS,p3p://fccsen.dyndns.tv:29706/5b7c9a5f00076daa1a60a86359a531ea
 Destination America,p3p://fccsen.dyndns.tv:29706/5a4af6c60005abb5707bfcb6077937a0
 MTV US,p3p://fccsen.dyndns.tv:29706/5b7cc0d40008b4961af6e1be0e8a0491
 OWN US,p3p://fccsen.dyndns.tv:29706/5f90e140000e4e52bec2c31d768f133a
-FashionTV HD, p3p://108.181.20.159:70168/64577742000d1a6986e1aac95b701e8b
 FashionTV HD,p3p://fccsen.dyndns.tv:29706/615276c1000841769af1921e0239571f
 Fashion TV,p3p://fccsen.dyndns.tv:29706/5a43e5ea0002d22c54e2300409a71dad
 GSN,p3p://fccsen.dyndns.tv:29706/5bd7adf4000e15bd7e2468267440101a
@@ -701,7 +699,7 @@ KBS World,p3p://fccsen.dyndns.tv:29706/5e49b05d0008623bc942a477064225a9
 Daystar TV,p3p://fccsen.dyndns.tv:29706/61e0b91f000b1934c6a47c4630f946a1
 NASA TV,p3p://fccsen.dyndns.tv:29706/5c509c05000ddf47144c3c9e1c834bf1
 NASA 4K,p3p://fccsen.dyndns.tv:29706/5f2747090009bab62240b88a51ab7763
-Travelxp HD,p3p://fccsen.dyndns.tv:29706/5ffe5fc8000b05346a78de1410167cd0
+Travelxp,p3p://fccsen.dyndns.tv:29706/5ffe5fc8000b05346a78de1410167cd0
 WildEarth,p3p://fccsen.dyndns.tv:29706/60ad9b300006855116f7e2477b9b5bbc
 Festival 4k, p3p://108.181.20.159:70168/647c5502000692e116e32e9c46b45652
 Bellator MMA, p3p://108.181.20.159:70168/644ed90f000b74d86537dd0e70232024
