@@ -228,6 +228,7 @@ CHC动作电影,http://dd.ikhs.cn:8880/udp/239.69.1.242:11094
 大片片说小片,http://mmitv.top/test/douyu.php?id=7489563
 火龙果说电影,http://mmitv.top/test/douyu.php?id=9559158
 
+
 🔸港澳,#genre#
 港臺電視31,P2p://generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242
 港臺電視32,P2p://generationnexxxt.com:19806/9c0a161f9c59476584fe4d8effc125b6
@@ -440,6 +441,7 @@ MTV,P2p://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 東森購物1台,P2p://generationnexxxt.com:19806/eccc79da1c0a4b54b49a71277e1534a0
 東森購物2台,P2p://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
 
+
 🔸馬來,#genre#
 TV1,mitv://generationnexxxt.com:19806/a3299ebd988b447992cf982df2ea7562
 TV2,mitv://generationnexxxt.com:19806/facbc81537924664aaf429b4e0faec17
@@ -524,6 +526,7 @@ Music Japan TV,mitv://generationnexxxt.com:19806/7bbfd7a0233d4861943f8488dc21e07
 日テレNEWS 24,mitv://generationnexxxt.com:19806/c7154b60dd934b43a1e42a0fc1b38734
 旅チャンネル,mitv://generationnexxxt.com:19806/bab71e3fb519479ea64543d006b8089f
 
+
 🔸韩国,#genre#
 Arirang,mitv://generationnexxxt.com:19806/853704c2f9a442e7a1532038f14d8d00
 KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
@@ -545,6 +548,7 @@ MBN,mitv://generationnexxxt.com:19806/09dbf5da37f9450c9bca9c7dabadf2bd
 Tooniverse,mitv://generationnexxxt.com:19806/3c1da427c435451fa526abe4d1c5d446
 SPOTV,mitv://generationnexxxt.com:19806/d270398d5c9d4358a1fab94773d6b8d1
 JTBC GOLF,mitv://generationnexxxt.com:19806/7c397fb18c154c5f91e41a48fd3ab95c
+
 
 🔸泰国,#genre#
 Channel 5,mitv://generationnexxxt.com:19806/68798aed16c6475180d6239acdecd888
@@ -574,7 +578,8 @@ TVB Thai,mitv://generationnexxxt.com:19806/7cf6f4e9806f4b6389d3a89af43cc256
 Bluesky,mitv://generationnexxxt.com:19806/c6490fe262bd4cf9a6bb3a3b82870495
 Top News,mitv://generationnexxxt.com:19806/8a46eec67bfa42f6abd4032f91d304bf
 
- 🔸北美,#genre#
+
+🔸北美,#genre#
 CNN International,p3p://fccsen.dyndns.tv:29706/5a20bffb0002906acb96445d76975880
 Euro News,p3p://fccsen.dyndns.tv:29706/5a5170cc000e8c1389c8a661433d15f1
 Fight Network,p3p://fccsen.dyndns.tv:29706/5b9878b100084486873d03b816881da0
@@ -748,11 +753,6 @@ TSN 2,p3p://fccsen.dyndns.tv:29706/5d45b49f0004b838d1b3dd774be667a4
 TSN 3,p3p://fccsen.dyndns.tv:29706/5d45b529000804ebd1b5f9606eef3d87
 TSN 4,p3p://fccsen.dyndns.tv:29706/5d45b59600028129d1b7a1bf71b50a26
 TSN 5,p3p://fccsen.dyndns.tv:29706/5d45b5f9000516c8d1b92521608c3d5d
-SportNet Onario,p3p://fccsen.dyndns.tv:29706/5a91a001000da01d8480975a091c2e97
-SportNet One,p3p://fccsen.dyndns.tv:29706/5a963c9e0005850496844a812ee772e1
-SportNet World,p3p://fccsen.dyndns.tv:29706/5bd63c310006787478800487439a602d
-SportNet 360,p3p://fccsen.dyndns.tv:29706/5a919d78000cca498476aff825dd1e95
-SportsNet Pacific,p3p://fccsen.dyndns.tv:29706/5a010fe5000bffa64fcea5b471a63932
 Sky Sport 1,p3p://fccsen.dyndns.tv:29706/59bbf34800086cb2563b24f202e31678
 Sky Sport 2,p3p://fccsen.dyndns.tv:29706/59bbf35f000c9fdb563b7fde3a4d1307
 Sky Sport 3,p3p://fccsen.dyndns.tv:29706/59bbf373000890ed563bccf43f3c5b45
@@ -766,7 +766,6 @@ BT Sport 1,p3p://fccsen.dyndns.tv:29706/59d2486d0006b186ad7787092c1d60d5
 BT Sport 2,p3p://fccsen.dyndns.tv:29706/59c67e480005fd5b7f6a09dd58e05390
 BT Sport 3,p3p://fccsen.dyndns.tv:29706/59c67ea30007574b7f6b6dad749b5b27
 Box Nation,p3p://fccsen.dyndns.tv:29706/5da88b680004bc7853ca80576e5749ab
-Boxing PPV,p3p://fccsen.dyndns.tv:29706/5bb2c40b00069f12edf2eebd5ee90f8e
 Sportsman,p3p://fccsen.dyndns.tv:29706/5bdb7bf8000ab3088d010e335cea74bd
 Outdoor Channel,p3p://fccsen.dyndns.tv:29706/5f09429b000cd96facff9af478c91021
 BTN,p3p://fccsen.dyndns.tv:29706/5aaf028100050fa9f74917ca7a3253ae
@@ -783,6 +782,7 @@ Bein Sport 5,p3p://fccsen.dyndns.tv:29706/5a1f692c0002560ec65b2bb32e51613a
 Bein Sport 6,p3p://fccsen.dyndns.tv:29706/5a1f6942000115e4c65b81511ddf34a7
 Bein Sport 7,p3p://fccsen.dyndns.tv:29706/5a1f6957000a184ac65bd5a807cf26bc
 Bein Sport Prem 1,p3p://fccsen.dyndns.tv:29706/5a1f696e0005f6a2c65c2e7110023294
+
 
 🔸法国,#genre#
 C8,http://144.217.72.24:80/c8/index.m3u8
@@ -828,6 +828,7 @@ TV5,http://49.0.64.96:8007/TV5
 WORLD ANIMAL HD,http://49.0.64.96:8007/Animal
 WSCI HD,http://49.0.64.96:8007/WSCI
 Zoomoo HD,http://49.0.64.96:8007/Zoomoo
+
 
 🔸智利,#genre#
 AE Mundo,http://200.37.187.210:8460/play/a019
@@ -905,6 +906,7 @@ WILLAX,http://200.37.187.210:8460/play/a01z
 Warner,http://200.37.187.210:8460/play/a012
 Zona Latina,http://200.37.187.210:8460/play/a00l
 
+
 🔸巴西,#genre#
 Universal,http://208.115.225.174:14128
 WB TV,http://208.115.225.174:14132
@@ -942,6 +944,7 @@ Arte,http://187.95.95.247/ArteHD/manifest.m3u8
 Lifetime,http://187.95.95.247/lifetime/manifest.m3u8
 Band Sports,http://187.95.95.247/Band-Sports/index.m3u8
 Band News,http://187.95.95.247/Band-News/mono.m3u8
+
 
 🔸彩虹_231,#genre#
 Brazzers,p3p://fccsen.dyndns.tv:29706/60bc2535000292424fc304cf3c251ba8
