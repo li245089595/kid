@@ -769,9 +769,9 @@ K 頻道,mitv://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
 彩虹e台,mitv://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
 彩虹頻道,mitv://fccs.word-tv.com:9906/626b730a000f13ab0c686433a4aa22a5
 驚豔成人電影台,http://125.227.210.55:57286/VideoInput/play.ts
-潘朵啦高畫質粉紅台,mitv://fccs.word-tv.com:9906/6260e061000b04ae172397987c1e3b34
-潘朵啦高畫質玩美台,mitv://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31
-JStar極限台電影頻道,mitv://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815
+潘朵啦粉紅台,mitv://fccs.word-tv.com:9906/6260e061000b04ae172397987c1e3b34
+潘朵啦玩美台,mitv://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31
+JStar極限電影,mitv://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815
 Look TV,mitv://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
 玩家頻道,http://125.227.210.55:55643/VideoInput/play.ts
 PLAYBOY,mitv://fccs.word-tv.com:9906/62685209000bd522002f77760f5e6638
