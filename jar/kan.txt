@@ -114,7 +114,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 
 🔸数位,#genre#
-CHC高清电影,http://223.75.123.222:9901/tsfile/live/1037_1.m3u8 
+CHC高清电影,http://223.75.123.222:9901/tsfile/live/1039_1.m3u8 
 CHC家庭影院,http://223.75.123.222:9901/tsfile/live/1037_1.m3u8
 CHC动作电影,http://223.75.123.222:9901/tsfile/live/1038_1.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
