@@ -792,21 +792,20 @@ Bein Sport Prem 1,p3p://fccsen.dyndns.tv:29706/5a1f696e0005f6a2c65c2e7110023294
 
 🔸彩虹_231,#genre#
 香蕉台,p3p://108.181.20.159:9573/60626a760005067e6f5bbecb5816771e
-松視1台,p3p://108.181.20.159:9573/5fe445280008a40682a0367c343436bb
-松視2台,p3p://108.181.20.159:9573/60232b5f00007bc37850649979e379df
+松视1,p3p://108.181.20.159:9573/5fe445280008a40682a0367c343436bb
+松视2,p3p://108.181.20.159:9573/60232b5f00007bc37850649979e379df
 Look TV,p3p://108.181.20.159:9573/606271190002a1266f75aaee0463186a
 彩虹e台,p3p://108.181.20.159:9573/6062716c0008efc86f76f0c44d55329f
-彩虹電影台,p3p://108.181.20.159:9573/6253066c00049259f74b05224cf375e6
-彩虹頻道,p3p://108.181.20.159:9573/63fd589300099ff426db7203798a21f9
-K 頻道,mitv://generationnexxxt.com:19806/659660d600094f04a3ad52d46ed26cbc
-驚豔成人電影台,p3p://108.181.20.159:9573/60626a1b00010e3e6f5a5a4f018e5ebe
-潘朵啦粉紅台,p3p://108.181.20.159:9573/5fe4450c000c918b829fca233c845311
-JStar極限電影,p3p://108.181.20.159:9573/6109e9bb0005fd87fd9ce5ea2c1f18d3
-樂活頻道,p3p://108.181.20.159:9573/6109e9590001f40bfd9b661109395f3b
-玩家頻道,p3p://108.181.20.159:9573/63fd56ec000b5f0d26d4fe1b07963493
-PLAYBOY,http://voz.one:80/alexfnt/vTFBGKdUYq/45641?#http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:E8:80&stream=773975&extension=ts&play_token=VFnUEDgvPl
+彩虹电影,p3p://108.181.20.159:9573/6253066c00049259f74b05224cf375e6
+彩虹频道,p3p://108.181.20.159:9573/63fd589300099ff426db7203798a21f9
+K频道,mitv://generationnexxxt.com:19806/659660d600094f04a3ad52d46ed26cbc
+惊艳电影台,p3p://108.181.20.159:9573/60626a1b00010e3e6f5a5a4f018e5ebe
+潘多拉粉红,p3p://108.181.20.159:9573/5fe4450c000c918b829fca233c845311
+极限电影台,p3p://108.181.20.159:9573/6109e9bb0005fd87fd9ce5ea2c1f18d3
+乐活频道,p3p://108.181.20.159:9573/6109e9590001f40bfd9b661109395f3b
+玩家频道,p3p://108.181.20.159:9573/63fd56ec000b5f0d26d4fe1b07963493
+PLAYBOY,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:E8:80&stream=773975&extension=ts&play_token=VFnUEDgvPl
 PLAYBOY,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/527/index.m3u8
-PLAYBOY,http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6242/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6242/index.m3u8
 Brazzers,p3p://fccsen.dyndns.tv:29706/60bc2535000292424fc304cf3c251ba8
 Hustler,p3p://fccsen.dyndns.tv:29706/5f4730e9000077ee9eea293625b72a20
 Babes TV,p3p://fccsen.dyndns.tv:29706/5b2c5589000853b7e0d48153016e5aa6
