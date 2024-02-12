@@ -149,11 +149,10 @@ CHC动作电影,http://223.75.123.222:9901/tsfile/live/1038_1.m3u8
 北京生活,http://home4.kmo.ink:8888/rtp/239.3.1.117:8000
 快乐垂钓,http://112.19.171.156:9999/rtp/239.93.1.151:5140
 茶频道,http://112.19.171.156:9999/rtp/239.93.0.114:5140
-湖南电视剧,http://58.20.19.126:10999/tsfile/live/0120_1.m3u8
-湖南都市,http://58.20.19.126:10999/tsfile/live/0139_1.m3u8
-湖南经视,http://58.20.19.126:10999/tsfile/live/0131_1.m3u8
-湖南娱乐,http://58.20.19.126:10999/tsfile/live/0125_1.m3u8
-
+湖南电视剧,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyMC43Ni4yMDIuOTEmcWlkPSZzPWE0YjQxMGYzZGI0YmUxMDFmM2Y4Y2ZhMmZjYTc3NWU3JmVzPTE3MDc3MTc2MDEmdXVpZD04ZDM2N2JjMTc4NjBhZGFhNDdmNWVjY2YzMDE0MTEzNS03ODRjY2E1YiZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNDSJMPP360.m3u8
+湖南都市,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyMC43Ni4yMDIuOTEmcWlkPSZzPTIyOGNkMmJmMjQ4Y2FhOGVjMzllZjA2ZjIxNTdjNjMzJmVzPTE3MDc3MTc2MDEmdXVpZD1hYmRlYmFiZGMzNzdhNmM0ODIwMzQwNGY0YzJiMjM1ZC03ODRjY2E1YiZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNDSMPP360.m3u8
+湖南经视,http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyMC43Ni4yMDIuOTEmcWlkPSZzPTUwZjk0YzI1NzlkMmE1N2QwZDI1ZTI3MDE5YWVmODQ1JmVzPTE3MDc3MTc2MDEmdXVpZD1jNmYwZGU2OTFjNGIwYzIzYWJhZjcyZWZhYzZkYTU3MS03ODRjY2E1YiZ2PTImYXM9MCZjZG5leF9pZD1hbF9waG9uZTM,/HNJSMPP360.m3u8
+湖南娱乐,http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyMC43Ni4yMDIuOTEmcWlkPSZzPTZkNTQ3NzU4ZTAzOWJlY2QyYzNiYjFhMmVlZjc5OWUyJmVzPTE3MDc3MTc2MDEmdXVpZD1jYmNkNDc4NjhjMzQ1Mjc1MzMxZTZlNzM4OTQ1ZTJjZC03ODRjY2E1YiZ2PTImYXM9MCZjZG5leF9pZD1hbF9waG9uZTM,/HNYLMPP360.m3u8
 
 🔸剧场,#genre#
 欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
@@ -200,6 +199,12 @@ CHC动作电影,http://223.75.123.222:9901/tsfile/live/1038_1.m3u8
 
 
 🔸电影,#genre#
+周星驰电影,http://epg.112114.xyz/douyu/122402
+林正英电影,http://epg.112114.xyz/douyu/218859
+刘德华电影,http://epg.112114.xyz/douyu/2516864
+女神港片,http://epg.112114.xyz/douyu/747764
+金庸电影,http://epg.112114.xyz/douyu/4246519
+古装电影,http://epg.112114.xyz/douyu/7655471
 高分电影,http://mmitv.top/test/douyu.php?id=7254536
 豆瓣高分,http://mmitv.top/test/douyu.php?id=8770422
 漫威影院,http://mmitv.top/test/douyu.php?id=6140589
