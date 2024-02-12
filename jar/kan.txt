@@ -199,19 +199,18 @@ CHC动作电影,http://223.75.123.222:9901/tsfile/live/1038_1.m3u8
 
 
 🔸电影,#genre#
-周星驰电影,http://epg.112114.xyz/douyu/122402
-林正英电影,http://epg.112114.xyz/douyu/218859
-刘德华电影,http://epg.112114.xyz/douyu/2516864
-女神港片,http://epg.112114.xyz/douyu/747764
-金庸电影,http://epg.112114.xyz/douyu/4246519
-古装电影,http://epg.112114.xyz/douyu/7655471
+周星驰电影,http://mmitv.top/test/douyu.php?id=122402
+林正英电影,http://mmitv.top/test/douyu.php?id=218859
+刘德华电影,http://mmitv.top/test/douyu.php?id=2516864
+女神港片,http://mmitv.top/test/douyu.php?id=747764
+金庸电影,http://mmitv.top/test/douyu.php?id=4246519
+古装电影,http://mmitv.top/test/douyu.php?id=7655471
 高分电影,http://mmitv.top/test/douyu.php?id=7254536
 豆瓣高分,http://mmitv.top/test/douyu.php?id=8770422
 漫威影院,http://mmitv.top/test/douyu.php?id=6140589
 特辑电影,http://mmitv.top/test/douyu.php?id=3637778
 粤语电影,http://mmitv.top/test/douyu.php?id=1226741
 喜剧电影,http://mmitv.top/test/douyu.php?id=323876
-恐怖电影,http://mmitv.top/test/douyu.php?id=218859
 恐怖鬼怪,http://mmitv.top/test/douyu.php?id=1165374
 童年阴影,http://mmitv.top/test/douyu.php?id=2935323
 惊悚电影,http://mmitv.top/test/douyu.php?id=96577
