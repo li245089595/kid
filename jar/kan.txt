@@ -19,6 +19,7 @@ CCTV16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100
 CCTV17农村农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+CETV3,http://114.253.78.248:8686/rtp/239.3.1.55:4120
 CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 早期教育,http://112.19.171.156:9999/rtp/239.93.0.117:5140
 CCTV第一剧场,http://112.19.171.156:9999/rtp/239.93.1.197:5140
@@ -37,11 +38,11 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 
 🔸卫视,#genre#
-凤凰中文台,http://110.72.103.69:808/hls/83/index.m3u8?key=txiptv&playlive=1&authid=0
-凤凰资讯台,http://110.72.103.69:808/hls/1/index.m3u8?key=txiptv&playlive=1&authid=0
-凤凰香港台,http://110.72.103.69:808/hls/333/index.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文台,http://182.148.182.33:4022/udp/239.93.0.162:2192
+凤凰资讯台,http://182.148.182.33:4022/udp/239.93.0.118:2191
+凤凰香港台,http://113.117.74.99:8081/hls/38/index.m3u8
 凤凰电影台,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
+星空卫视,http://182.148.182.33:4022/udp/239.93.0.156:2193
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 大爱,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
@@ -149,10 +150,11 @@ CHC动作电影,http://223.75.123.222:9901/tsfile/live/1038_1.m3u8
 北京生活,http://home4.kmo.ink:8888/rtp/239.3.1.117:8000
 快乐垂钓,http://112.19.171.156:9999/rtp/239.93.1.151:5140
 茶频道,http://112.19.171.156:9999/rtp/239.93.0.114:5140
-湖南电视剧,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyMC43Ni4yMDIuOTEmcWlkPSZzPWE0YjQxMGYzZGI0YmUxMDFmM2Y4Y2ZhMmZjYTc3NWU3JmVzPTE3MDc3MTc2MDEmdXVpZD04ZDM2N2JjMTc4NjBhZGFhNDdmNWVjY2YzMDE0MTEzNS03ODRjY2E1YiZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNDSJMPP360.m3u8
-湖南都市,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyMC43Ni4yMDIuOTEmcWlkPSZzPTIyOGNkMmJmMjQ4Y2FhOGVjMzllZjA2ZjIxNTdjNjMzJmVzPTE3MDc3MTc2MDEmdXVpZD1hYmRlYmFiZGMzNzdhNmM0ODIwMzQwNGY0YzJiMjM1ZC03ODRjY2E1YiZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNDSMPP360.m3u8
-湖南经视,http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyMC43Ni4yMDIuOTEmcWlkPSZzPTUwZjk0YzI1NzlkMmE1N2QwZDI1ZTI3MDE5YWVmODQ1JmVzPTE3MDc3MTc2MDEmdXVpZD1jNmYwZGU2OTFjNGIwYzIzYWJhZjcyZWZhYzZkYTU3MS03ODRjY2E1YiZ2PTImYXM9MCZjZG5leF9pZD1hbF9waG9uZTM,/HNJSMPP360.m3u8
-湖南娱乐,http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyMC43Ni4yMDIuOTEmcWlkPSZzPTZkNTQ3NzU4ZTAzOWJlY2QyYzNiYjFhMmVlZjc5OWUyJmVzPTE3MDc3MTc2MDEmdXVpZD1jYmNkNDc4NjhjMzQ1Mjc1MzMxZTZlNzM4OTQ1ZTJjZC03ODRjY2E1YiZ2PTImYXM9MCZjZG5leF9pZD1hbF9waG9uZTM,/HNYLMPP360.m3u8
+湖南电视剧,http://58.20.19.126:10999/tsfile/live/0120_1.m3u8
+湖南都市,http://58.20.19.126:10999/tsfile/live/0139_1.m3u8
+湖南经视,http://58.20.19.126:10999/tsfile/live/0131_1.m3u8
+湖南娱乐,http://58.20.19.126:10999/tsfile/live/0125_1.m3u8
+
 
 🔸剧场,#genre#
 欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
