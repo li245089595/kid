@@ -17,6 +17,7 @@ CCTV14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index
 CCTV15音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17农村农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV4K超高清,http://giwon.ddns.net:5555/rtp/239.93.42.41:5140
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV3,http://114.253.78.248:8686/rtp/239.3.1.55:4120
@@ -126,9 +127,12 @@ CHC动作电影,http://223.75.123.222:9901/tsfile/live/1038_1.m3u8
 求索科学,http://39.135.133.156/PLTV/88888888/224/3221225728/index.m3u8
 求索动物,http://39.135.133.134/PLTV/88888888/224/3221225730/index.m3u8
 欢笑剧场,http://118.183.212.24:6868//udp/239.255.29.19:8231
-纪实人文,http://118.183.212.24:6868//udp/239.255.30.176:8231
 都市剧场,http://118.183.212.24:6868//udp/239.255.29.41:8231
 动漫秀场,http://118.183.212.24:6868//udp/239.255.29.16:8231
+纪实人文,http://118.183.212.24:6868//udp/239.255.30.176:8231
+生活时尚,http://giwon.ddns.net:5555/rtp/239.93.42.29:5140
+梨园,http://gd.ikhs.cn:8880/rtp/239.69.1.33:9838
+武术世界,http://gd.ikhs.cn:8880/rtp/239.69.1.47:9922
 游戏风云,http://112.19.171.156:9999/rtp/239.93.0.136:5140
 金色学堂,http://112.19.171.156:9999/rtp/239.93.42.95:5140
 法治天地,http://112.19.171.156:9999/rtp/239.93.42.96:5140
