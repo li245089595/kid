@@ -17,6 +17,7 @@ CCTV14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index
 CCTV15音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17农村农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV4K超高清,http://112.17.52.85/PLTV/88888888/224/3221233679/index.m3u8
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV3,http://114.253.78.248:8686/rtp/239.3.1.55:4120
