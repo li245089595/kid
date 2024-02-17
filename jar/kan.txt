@@ -606,14 +606,30 @@ JTBC GOLF,mitv://generationnexxxt.com:19806/7c397fb18c154c5f91e41a48fd3ab95c
 🔸北美,#genre#
 CNN International,p3p://fccsen.dyndns.tv:29706/5a20bffb0002906acb96445d76975880
 Euro News,p3p://fccsen.dyndns.tv:29706/5a5170cc000e8c1389c8a661433d15f1
-Fight Network,p3p://fccsen.dyndns.tv:29706/5b9878b100084486873d03b816881da0
-HGTV,p3p://fccsen.dyndns.tv:29706/5a66963e00030b02dc62b310138b2abe
-Food Network,p3p://fccsen.dyndns.tv:29706/5bb0f0ec000842c3e6d2539210061045
-Cooking Channel,p3p://fccsen.dyndns.tv:29706/5bc933e40000e06f4597aa2c550151d8
+ID Canada,p3p://fccsen.dyndns.tv:29706/5a01ced1000e0a7c52b8701303594b92
+BBC Earth,p3p://fccsen.dyndns.tv:29706/58ab8c030006e5da5aeb621b23617da7
+ABC East,p3p://fccsen.dyndns.tv:29706/5a22e3260003c777d3efa4a17ef52ed5
+NBC East,p3p://fccsen.dyndns.tv:29706/5a22e3a400031634d3f190a415e937b5
+FOX East,p3p://fccsen.dyndns.tv:29706/5a22e39200053125d3f14ade62795cb2
+CBS East,p3p://fccsen.dyndns.tv:29706/5a22e33a000dc3dbd3eff55062f41541
+ABC West,p3p://fccsen.dyndns.tv:29706/5f583e72000aa869e186f9000c746f19
+NBC West,p3p://fccsen.dyndns.tv:29706/59bc11870006371156b14a7e4f582d4a
+FOX West,p3p://fccsen.dyndns.tv:29706/59bc11980000166e56b18b555ee76179
+CBS West,p3p://fccsen.dyndns.tv:29706/59bc11600005bced56b0b2076cdc03ae
+BBC 1,p3p://fccsen.dyndns.tv:29706/5bb6bb320008c3b8fd705faa6a647667
+BBC 2,p3p://fccsen.dyndns.tv:29706/5bb6bb3f00077ecefd70921f13656e23
+BBC 3,p3p://fccsen.dyndns.tv:29706/59bc7fe40002bfa9586064da5fe27f17
+BBC 4,p3p://fccsen.dyndns.tv:29706/59bc801000090e075861125817955ece
 WWE,p3p://fccsen.dyndns.tv:29706/5b987ab5000ef7018744e50174a621bd
 UFC pass,p3p://fccsen.dyndns.tv:29706/5c4a5ad2000ba3f2fbdd8ccf71297ceb
+NBA TV US,p3p://fccsen.dyndns.tv:29706/5d45b702000419e9d1bd300979f803ab
+NBA Canada,p3p://fccsen.dyndns.tv:29706/5d45b6b600003de3d1bc062c6ca215ee
+Fight Network,p3p://fccsen.dyndns.tv:29706/5b9878b100084486873d03b816881da0
+HGTV,p3p://fccsen.dyndns.tv:29706/5a66963e00030b02dc62b310138b2abe
+HGTV US,p3p://fccsen.dyndns.tv:29706/5a91ad54000253e284b4a0ae39110fc8
+Food Network,p3p://fccsen.dyndns.tv:29706/5bb0f0ec000842c3e6d2539210061045
+Cooking Channel,p3p://fccsen.dyndns.tv:29706/5bc933e40000e06f4597aa2c550151d8
 LifeTime,p3p://fccsen.dyndns.tv:29706/59bc1344000b4faf56b816163ede44e8
-ID Canada,p3p://fccsen.dyndns.tv:29706/5a01ced1000e0a7c52b8701303594b92
 Oprah Winfrey Network,p3p://fccsen.dyndns.tv:29706/5a01d1fe00087f0f52c4d67341664e1f
 T+E,p3p://fccsen.dyndns.tv:29706/5a3026ab000021ea07bf40f035876200
 Arts and Entertainment,p3p://fccsen.dyndns.tv:29706/5a0b9bd1000f33a5790126cd78bf1239
@@ -655,18 +671,9 @@ DIY,p3p://fccsen.dyndns.tv:29706/615bcff2000bb9c8bf75f1e90fad329a
 Crime Investigation,p3p://fccsen.dyndns.tv:29706/5eab9d25000950d447c768f86d8507f7
 Much,p3p://fccsen.dyndns.tv:29706/5a83817900067ff64d59630f2a13081a
 MTV,p3p://fccsen.dyndns.tv:29706/615bdeb3000754d8bfaf92bb35ea5472
-BBC Earth,p3p://fccsen.dyndns.tv:29706/58ab8c030006e5da5aeb621b23617da7
 ShowCase CA,p3p://fccsen.dyndns.tv:29706/5a824ba300070904489f1748478d74dd
 IFC,p3p://fccsen.dyndns.tv:29706/5c3251fb00007e8f9dfb02205f5f0c2a
 Ginx eSports, p3p://108.181.20.159:70168/6452b6c900062fb47451fa3e235a3be3
-ABC East,p3p://fccsen.dyndns.tv:29706/5a22e3260003c777d3efa4a17ef52ed5
-NBC East,p3p://fccsen.dyndns.tv:29706/5a22e3a400031634d3f190a415e937b5
-FOX East,p3p://fccsen.dyndns.tv:29706/5a22e39200053125d3f14ade62795cb2
-CBS East,p3p://fccsen.dyndns.tv:29706/5a22e33a000dc3dbd3eff55062f41541
-ABC West,p3p://fccsen.dyndns.tv:29706/5f583e72000aa869e186f9000c746f19
-NBC West,p3p://fccsen.dyndns.tv:29706/59bc11870006371156b14a7e4f582d4a
-FOX West,p3p://fccsen.dyndns.tv:29706/59bc11980000166e56b18b555ee76179
-CBS West,p3p://fccsen.dyndns.tv:29706/59bc11600005bced56b0b2076cdc03ae
 CW,p3p://fccsen.dyndns.tv:29706/59bc123300005aaf56b3e8df3b070c65
 PBS,p3p://fccsen.dyndns.tv:29706/59bc11a700021a2956b1c67179f0240c
 TNT US,p3p://fccsen.dyndns.tv:29706/59f68ffc0009666026cb12e01e7c444f
@@ -706,7 +713,6 @@ C+I US,p3p://fccsen.dyndns.tv:29706/5a02116000082b1353bc6d2b2ae931ff
 Fuse,p3p://fccsen.dyndns.tv:29706/5ab3d751000ead120a2866c74cd96f23
 Me TV 23,p3p://fccsen.dyndns.tv:29706/5acd60e600047cf16de99d001a3b4f7e
 FYI,p3p://fccsen.dyndns.tv:29706/5b7c9957000d63fb1a5ca2a840085e1a
-HGTV US,p3p://fccsen.dyndns.tv:29706/5a91ad54000253e284b4a0ae39110fc8
 Cooking Channel,p3p://fccsen.dyndns.tv:29706/5a824d59000df7e648a5c80057151ed6
 Food Network,p3p://fccsen.dyndns.tv:29706/59bc7e11000b47f5585946df50305dc2
 Discovery Life,p3p://fccsen.dyndns.tv:29706/5b2c50dd000a1eb3e0c241e3759d22cb
@@ -732,10 +738,6 @@ Travelxp,p3p://fccsen.dyndns.tv:29706/5ffe5fc8000b05346a78de1410167cd0
 WildEarth,p3p://fccsen.dyndns.tv:29706/60ad9b300006855116f7e2477b9b5bbc
 Festival 4k, p3p://108.181.20.159:70168/647c5502000692e116e32e9c46b45652
 Bellator MMA, p3p://108.181.20.159:70168/644ed90f000b74d86537dd0e70232024
-BBC 1,p3p://fccsen.dyndns.tv:29706/5bb6bb320008c3b8fd705faa6a647667
-BBC 2,p3p://fccsen.dyndns.tv:29706/5bb6bb3f00077ecefd70921f13656e23
-BBC 3,p3p://fccsen.dyndns.tv:29706/59bc7fe40002bfa9586064da5fe27f17
-BBC 4,p3p://fccsen.dyndns.tv:29706/59bc801000090e075861125817955ece
 4 Seven,p3p://fccsen.dyndns.tv:29706/5fc8350400098fcf96e1e2fc391f40d5
 ITV 1,p3p://fccsen.dyndns.tv:29706/5ef279a1000a834953fe9f820c3a1e28
 ITV 2,p3p://fccsen.dyndns.tv:29706/59c67e1d00059c307f6961cb24ad3501
@@ -762,8 +764,6 @@ ESPN 1,p3p://fccsen.dyndns.tv:29706/59d24815000bb22cad7630914a1924b3
 ESPN 2,p3p://fccsen.dyndns.tv:29706/59bbf1fd000b428d563618b379a53086
 ESPN U,p3p://fccsen.dyndns.tv:29706/5a88cf44000028fc621142635fc84be5
 ESPN News,p3p://fccsen.dyndns.tv:29706/5c5ccceb00083b8d43eb3d9232165684
-NBA TV US,p3p://fccsen.dyndns.tv:29706/5d45b702000419e9d1bd300979f803ab
-NBA Canada,p3p://fccsen.dyndns.tv:29706/5d45b6b600003de3d1bc062c6ca215ee
 Fox Sport 1,p3p://fccsen.dyndns.tv:29706/59bbf21600071468563679492664613f
 Fox Sport 2,p3p://fccsen.dyndns.tv:29706/59e2b81e00049c3eedabbfe568a9573b
 Tennis,p3p://fccsen.dyndns.tv:29706/60b962030008c44344f88b155b45442f
@@ -812,6 +812,10 @@ Bein Sport Prem 1,p3p://fccsen.dyndns.tv:29706/5a1f696e0005f6a2c65c2e7110023294
 Brazzers,p3p://fccsen.dyndns.tv:29706/60bc2535000292424fc304cf3c251ba8
 Hustler,p3p://fccsen.dyndns.tv:29706/5f4730e9000077ee9eea293625b72a20
 Babes TV,p3p://fccsen.dyndns.tv:29706/5b2c5589000853b7e0d48153016e5aa6
+BANG,p3p://fccsen.dyndns.tv:29706/5ddffb1f000999e52c56d1b42ead282a
+Exxxtasy,p3p://fccsen.dyndns.tv:29706/6143b4e50005f679614c627730ee5ea3
+Erox HD,p3p://fccsen.dyndns.tv:29706/61aac7b10005db8af3ed798454290d19
+Vivid Touch,p3p://fccsen.dyndns.tv:29706/61a45c950006d818dadb146836f778c5
 Private,p3p://fccsen.dyndns.tv:29706/5f501ac6000cc310c1bbaa8c347a116c
 西方1ON1,p3p://fccsen.dyndns.tv:29706/5e17918f0007f7ba057a621643ef715d
 西方21Sextuary,p3p://fccsen.dyndns.tv:29706/5e17ab7b0001558105dfa24354ee4f39
@@ -825,7 +829,6 @@ Legal Porno,p3p://fccsen.dyndns.tv:29706/5a653bda000ae55cd7199e7c4d9e7d0c
 Grandpas Fuck,p3p://fccsen.dyndns.tv:29706/5e1f498c0000045623a10a063c6274bb
 Little Caprice,p3p://fccsen.dyndns.tv:29706/5e1f4c5b0005cf6623ac041d7dd42992
 BitchStop,p3p://fccsen.dyndns.tv:29706/629b785c0009cbd1a01f084a617a5f80
-Vivid Touch,p3p://fccsen.dyndns.tv:29706/61a45c950006d818dadb146836f778c5
 Marc Dorcel,p3p://fccsen.dyndns.tv:29706/5e17ac190000d03605e20b517994427b
 Arab SexPose,p3p://fccsen.dyndns.tv:29706/5ebed08f000e1ea292c8367e1f295ce2
 Blue Pill Man,p3p://fccsen.dyndns.tv:29706/5e178ff4000690a805741c40783a7cf5
@@ -838,10 +841,7 @@ Fucked and Bound,p3p://fccsen.dyndns.tv:29706/5ca77a06000ba882679f7004005f3200
 Cumshots,p3p://fccsen.dyndns.tv:29706/5d430bf20009746dc750faef0d6557a7
 Foot Factory,p3p://fccsen.dyndns.tv:29706/5d430c85000d7cb0c7533a302af02f25
 FreakMob Media,p3p://fccsen.dyndns.tv:29706/629ad314000794749d9966725dd6305a
-BANG,p3p://fccsen.dyndns.tv:29706/5ddffb1f000999e52c56d1b42ead282a
 Red Hot TV,p3p://fccsen.dyndns.tv:29706/6143b50500078445614cdfe0784e56f3
-Exxxtasy,p3p://fccsen.dyndns.tv:29706/6143b4e50005f679614c627730ee5ea3
-Erox HD,p3p://fccsen.dyndns.tv:29706/61aac7b10005db8af3ed798454290d19
 Perv City,p3p://fccsen.dyndns.tv:29706/615a52130005994ab9a24142316f72ab
 BRATTY SIS,p3p://fccsen.dyndns.tv:29706/615a557e00052830b9af9b247d492c75
 CUM 4K,p3p://fccsen.dyndns.tv:29706/615a56f9000a62d9b9b564e80644722c
