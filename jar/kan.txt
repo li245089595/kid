@@ -17,6 +17,7 @@ CCTV14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index
 CCTV15音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17农村农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+中国天气,http://36.158.72.54:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV3,http://114.253.78.248:8686/rtp/239.3.1.55:4120
@@ -115,12 +116,12 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 
 🔸数位,#genre#
-CHC高清电影,http://223.75.123.222:9901/tsfile/live/1039_1.m3u8 
-CHC家庭影院,http://223.75.123.222:9901/tsfile/live/1037_1.m3u8
-CHC动作电影,http://223.75.123.222:9901/tsfile/live/1038_1.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+CHC高清电影,http://223.75.123.222:9901/tsfile/live/1039_1.m3u8 
+CHC家庭影院,http://223.75.123.222:9901/tsfile/live/1037_1.m3u8
+CHC动作电影,http://223.75.123.222:9901/tsfile/live/1038_1.m3u8
 求索纪录,http://39.135.133.177/PLTV/88888888/224/3221225713/index.m3u8
 求索生活,http://39.135.133.157/PLTV/88888888/224/3221225715/index.m3u8
 求索科学,http://39.135.133.156/PLTV/88888888/224/3221225728/index.m3u8
@@ -129,16 +130,21 @@ CHC动作电影,http://223.75.123.222:9901/tsfile/live/1038_1.m3u8
 都市剧场,http://180.158.146.27:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 动漫秀场,http://60.213.92.38:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,http://180.158.146.27:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-纪实人文,http://tom028.top:55555/udp/239.93.1.137:5140
+东方影视,http://180.158.146.27:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+上视ICS,http://180.167.104.105:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+上海教育,http://180.158.146.27:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+上海都市,http://180.167.104.105:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+法治天地,http://180.158.146.27:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+第一财经,http://180.167.104.105:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 生活时尚,http://giwon.ddns.net:5555/rtp/239.93.42.29:5140
 游戏风云,http://112.19.171.156:9999/rtp/239.93.0.136:5140
 金色学堂,http://112.19.171.156:9999/rtp/239.93.42.95:5140
-法治天地,http://112.19.171.156:9999/rtp/239.93.42.96:5140
 魅力足球,http://112.19.171.156:9999/rtp/239.93.42.97:5140
+纪实人文,http://tom028.top:55555/udp/239.93.1.137:5140
 中国交通,http://112.19.171.156:9999/rtp/239.93.0.142:5140
 书画频道,http://211.103.180.178:8234/live_hls/hdmi.m3u8
 梨园,http://gd.ikhs.cn:8880/rtp/239.69.1.33:9838
-武术世界,http://gd.ikhs.cn:8880/rtp/239.69.1.47:9922
+武术世界,http://113.195.13.183:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=0&authid=0
 北京淘精彩,http://home4.kmo.ink:8888/rtp/239.3.1.178:8001
 北京淘电影,http://home4.kmo.ink:8888/rtp/239.3.1.250:8001
 北京淘剧场,http://home4.kmo.ink:8888/rtp/239.3.1.95:8001
@@ -291,7 +297,7 @@ ViuTV,mitv://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
 鳳凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
 鳳凰資訊台,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
 鳳凰香港台,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
-TVB星河(粵),mitv://generationnexxxt.com:19806/0c08d9d705a747908c23ba652726d777
+TVB星河(粵),http://180.167.104.105:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 澳門-MACAU,mitv://generationnexxxt.com:19806/f9ba8df6f9ed45789e882211735e6414
 澳門蓮花,mitv://generationnexxxt.com:19806/4c56fbe4e68541a9a759fa269574f98b
 now新聞台,mitv://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
