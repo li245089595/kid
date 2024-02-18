@@ -17,7 +17,6 @@ CCTV14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index
 CCTV15音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17农村农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV4K超高清,http://112.17.52.85/PLTV/88888888/224/3221233679/index.m3u8
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV3,http://114.253.78.248:8686/rtp/239.3.1.55:4120
@@ -43,7 +42,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 凤凰资讯台,http://183.1.249.23:8081/hls/36/index.m3u8
 凤凰香港台,http://183.1.249.23:8081/hls/38/index.m3u8
 凤凰电影台,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-星空卫视,http://182.148.182.33:4022/udp/239.93.0.156:2193
+星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 大爱,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
