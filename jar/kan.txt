@@ -30,7 +30,6 @@ CCTV高尔夫网球,http://112.19.171.156:9999/rtp/239.93.1.54:5140
 CCTV央视台球,http://dd.ikhs.cn:8880/udp/239.69.1.98:10224
 CCTV电视指南,http://dd.ikhs.cn:8880/udp/239.69.1.87:10162
 CCTV卫生健康,http://dd.ikhs.cn:8880/udp/239.254.96.207:9322
-CCTV老故事,http://dd.ikhs.cn:8880/udp/239.69.1.85:10150
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV3,http://114.253.78.248:8686/rtp/239.3.1.55:4120
