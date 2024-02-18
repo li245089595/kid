@@ -1,4 +1,4 @@
- 🔸央视,#genre#
+🔸央视,#genre#
 CCTV1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -17,21 +17,25 @@ CCTV14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index
 CCTV15音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17农村农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-CETV3,http://114.253.78.248:8686/rtp/239.3.1.55:4120
-CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-早期教育,http://112.19.171.156:9999/rtp/239.93.0.117:5140
 CCTV第一剧场,http://112.19.171.156:9999/rtp/239.93.1.197:5140
 CCTV怀旧剧场,http://112.19.171.156:9999/rtp/239.93.1.198:5140
 CCTV兵器科技,http://112.19.171.156:9999/rtp/239.93.1.235:5140
 CCTV央视精品,http://112.19.171.156:9999/rtp/239.93.42.47:5140
-CCTV高尔夫网球,http://112.19.171.156:9999/rtp/239.93.1.54:5140
 CCTV世界地理,http://112.19.171.156:9999/rtp/239.93.1.157:5140
 CCTV女性时尚,http://112.19.171.156:9999/rtp/239.93.42.62:5140
 CCTV风云剧场,http://49.87.154.246:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV风云音乐,http://112.19.171.156:9999/rtp/239.93.0.224:5140
 CCTV风云足球,http://112.19.171.156:9999/rtp/239.93.0.235:5140
+CCTV高尔夫网球,http://112.19.171.156:9999/rtp/239.93.1.54:5140
+CCTV央视台球,http://dd.ikhs.cn:8880/udp/239.69.1.98:10224
+CCTV电视指南,http://dd.ikhs.cn:8880/udp/239.69.1.87:10162
+CCTV卫生健康,http://dd.ikhs.cn:8880/udp/239.254.96.207:9322
+CCTV老故事,http://dd.ikhs.cn:8880/udp/239.69.1.85:10150
+CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+CETV3,http://114.253.78.248:8686/rtp/239.3.1.55:4120
+CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+早期教育,http://112.19.171.156:9999/rtp/239.93.0.117:5140
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
