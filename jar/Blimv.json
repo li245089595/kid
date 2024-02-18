@@ -31,8 +31,14 @@
     {
       "type_name": "电音神曲",
       "type_id": "电音神曲合集"
+    },
+   
+    {
+      "type_name": "夜店舞曲",
+      "type_id": "夜店舞曲"
     }
-  ]，
+    
+  ],
    "cookie":"_uuid=5E4B2B98-1014A-84D8-FA33-EC210C5BEC10DA82367infoc;buvid3=05B084F3-53A7-6059-6C63-8A178574C32838414infoc; b_nut=1682150938; _uuid=BB5A10553-4594-A132-3633-1021051F6655D334950infoc; buvid4=D78434BC-81C9-2746-BDC2-CFBA80232C0C40387-023042216-IKgYnehUfRbJ09zFiYgNsg%3D%3D; i-wanna-go-back=-1; header_theme_version=CLOSE; home_feed_column=4; nostalgia_conf=-1; CURRENT_FNVAL=4048; CURRENT_PID=9b8f6770-ec0d-11ed-b1e2-a5b32b4f3362; rpdid=|(J~l~JRkRlu0J'uY)JJ~~)~u; fingerprint=348e31eef974ac81207bde984a9b9f27; buvid_fp_plain=undefined; DedeUserID=489216151; DedeUserID__ckMd5=b86ca5ee9f1ff6cd; buvid_fp=348e31eef974ac81207bde984a9b9f27; b_ut=5; PVID=2; FEED_LIVE_VERSION=V8; innersign=0; b_lsid=7A91075D8_18A69D4E949; bsource=search_baidu; SESSDATA=0c020da2%2C1709544754%2C7c3a4%2A9273oX-MqEgaMKD9mPPdWsyAwATvEvQcGv8yZtJccU-S-uRG9x7Qs1lTN-7drn4pZKsdKavAAAMwA; bili_jct=14f3b8033af09c03777db69787df22e7; sid=ggekcfay; bp_video_offset_489216151=838172862470684680; browser_resolution=725-683",
   "filter": {
     "搞笑": [
