@@ -230,13 +230,6 @@ CHC动作电影,http://223.75.123.222:9901/tsfile/live/1038_1.m3u8
 女神港片,http://mmitv.top/test/douyu.php?id=747764
 金庸电影,http://mmitv.top/test/douyu.php?id=4246519
 古装电影,http://mmitv.top/test/douyu.php?id=7655471
-武侠剧场,http://60.213.92.38:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-动作影院,http://60.213.92.38:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
-动作电影,http://113.245.217.245:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-古装剧场,http://60.213.92.38:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-喜剧影院,http://60.213.92.38:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-城市剧场,http://60.213.92.38:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-家庭影院,http://60.213.92.38:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 高分电影,http://mmitv.top/test/douyu.php?id=7254536
 豆瓣高分,http://mmitv.top/test/douyu.php?id=8770422
 漫威影院,http://mmitv.top/test/douyu.php?id=6140589
