@@ -1,7 +1,7 @@
 {
   "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/f.jar",
   "wallpaper": "https://jpg.wxincai.eu.org",
-  "warningText": "欢迎使用KiD综合  祝你生活愉快。",
+  "warningText": "KiD综合祝你生活愉快。",
   "lives": [
     {
       "group": "redirect",
@@ -216,8 +216,7 @@
         "剧情片",
         "伦理片",
         "国产动漫",
-        "港台动漫",
-        "日韩动漫",
+        "日本动漫",
         "欧美动漫",
         "大陆综艺",
         "港台综艺",
