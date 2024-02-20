@@ -12,7 +12,7 @@
     },
     {
       "key": "csp_Biliych",
-      "name": "💠音乐┃曲库",
+      "name": "💠歌手┃专辑",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -21,8 +21,8 @@
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/biliych.json"
     },
     {
-      "key": "歌手专辑",
-      "name": "💠歌手┃专辑",
+      "key": "音乐曲库",
+      "name": "💠音乐┃曲库",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
