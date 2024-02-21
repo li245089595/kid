@@ -28,7 +28,7 @@ CCTV风云音乐,http://113.195.13.183:9901/tsfile/live/1052_1.m3u8?key=txiptv&p
 CCTV风云足球,http://113.195.13.183:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV高尔夫网球,http://112.19.171.156:9999/rtp/239.93.1.54:5140
 CCTV央视台球,http://dd.ikhs.cn:8880/udp/239.69.1.98:10224
-CCTV电视指南,http://dd.ikhs.cn:8880/udp/239.69.1.87:10162
+CCTV电视指南,http://113.9.171.201:88/hls/163/index.m3u8
 CCTV卫生健康,http://dd.ikhs.cn:8880/udp/239.254.96.207:9322
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
@@ -51,6 +51,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 大爱,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
@@ -509,12 +510,12 @@ TV1,mitv://generationnexxxt.com:19806/a3299ebd988b447992cf982df2ea7562
 TV2,mitv://generationnexxxt.com:19806/facbc81537924664aaf429b4e0faec17
 TV3,mitv://generationnexxxt.com:19806/6a00a0b3636340a4bc00626fedaa36f6
 NTV7,mitv://generationnexxxt.com:19806/7c0bb3dc5b304064809b7b4711d75ccc
+八度空間,mitv://generationnexxxt.com:19806/c1351c973d544fd9b9fcf34d36cc3ab1
 TV9,mitv://generationnexxxt.com:19806/cd4d90b0f1c84d33ae6ab4ebf09ce61a
 Astro小太陽,mitv://generationnexxxt.com:19806/b9014d57594d4cfdb87848d4b2610506
 Astro歡喜台,mitv://generationnexxxt.com:19806/a2f732d447dc4c0b9e80417490de4e1d
 Astro全佳台,mitv://generationnexxxt.com:19806/676d5767c17749f8950a81ed8681380a
 愛奇藝,mitv://generationnexxxt.com:19806/220100b4bf8a42b49b38d1152cf9ab84
-八度空間,mitv://generationnexxxt.com:19806/c1351c973d544fd9b9fcf34d36cc3ab1
 八度空間(備),mitv://generationnexxxt.com:19806/34bef24c069e40779fb4b4c827e0051f
 Astro Oasis HD,mitv://generationnexxxt.com:19806/ba94a812ece14f4484d550852d736644
 Al-Hijrah,mitv://generationnexxxt.com:19806/2bbbb59b7e4c44e1ac91c3a4e9fa222a
