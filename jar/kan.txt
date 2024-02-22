@@ -301,9 +301,8 @@ CHC动作电影,http://dd.ikhs.cn:8880/udp/239.69.1.242:11094
 港臺電視32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 港臺電視33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 HOY TV,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
-翡翠台(備),mitv://147.135.39.171:9906/657c8f940005cf8fa955b96f23e11195
 J2,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
-無線新聞台,http://feng163.com:9001/bysid/83
+無線新聞台,mitv://generationnexxxt.com:19806/358bb32c3a944c65bbdf4d0aac3c3e10
 無線財經體育資訊台,mitv://generationnexxxt.com:19806/8bcc654c89f74ebdb4e82062ef5f998c
 ViuTVsix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
 ViuTV,mitv://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
