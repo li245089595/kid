@@ -43,8 +43,8 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 
 🔸卫视,#genre#
-凤凰中文台,http://tom028.top:55555/udp/239.93.0.162:2192
-凤凰资讯台,http://183.1.251.28:8081/hls/36/index.m3u8
+凤凰中文台,http://www.hzz.pub:8889/rtp/239.93.0.162:2192
+凤凰资讯台,http://www.hzz.pub:8889/rtp/239.93.0.118:2191
 凤凰香港台,http://php.17186.eu.org/phtv/fhhk.m3u8
 凤凰电影台,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
