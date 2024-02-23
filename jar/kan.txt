@@ -324,7 +324,7 @@ TVB娛樂新聞台,mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5
 千禧經典台,mitv://generationnexxxt.com:19806/1a5b04c67ece47bb87aa482e2c73138a
 Thrill,mitv://generationnexxxt.com:19806/1c3c73215afd42558101c3ee65737202
 明珠台,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
-香港國際財經台,mitv://generationnexxxt.com:19806/6aa47af091b54d618d1513b1bc23b0b9
+HOY國際財經台,mitv://generationnexxxt.com:19806/6aa47af091b54d618d1513b1bc23b0b9
 18台,mitv://generationnexxxt.com:19806/8bf8f53c61944785b13817297101af20
 now財經台,mitv://generationnexxxt.com:19806/88f95058c046453a973e2540701ccb4e
 美亞電影台(粵語),mitv://generationnexxxt.com:19806/ee16565eb5fe46be8d22cbbde1fa9fae
