@@ -191,10 +191,10 @@
       ]
     },
      {
-      "key": "api_百度资源",
-      "name": "💠┃百度┃采集",
+      "key": "api_U酷资源",
+      "name": "💠┃U酷采集",
       "type": 1,
-      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "api": "https://api.ukuapi.com/api.php/provide/vod/",
       "playUrl": "",
       "playerType": 1,
       "searchable": 1,
@@ -230,10 +230,10 @@
       ]
     },
      {
-      "key": "api_闪电采集",
-      "name": "💠┃闪电┃采集",
+      "key": "api_天空采集",
+      "name": "💠┃天空┃采集",
       "type": 1,
-      "api": "https://sdzyapi.com/api.php/provide/vod/",
+      "api": "https://api.tiankongapi.com/api.php/provide/vod",
       "playUrl": "",
       "playerType": 1,
       "searchable": 1,
