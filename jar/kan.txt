@@ -123,26 +123,27 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 武汉外语,http://dd.ikhs.cn:8880/udp/239.69.1.36:9856
 武汉教育,http://dd.ikhs.cn:8880/udp/239.69.1.60:9994
 
+
 🔸数位,#genre#
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-CHC高清电影,http://dd.ikhs.cn:8880/udp/239.69.1.241:11088	 
-CHC家庭影院,http://dd.ikhs.cn:8880/udp/239.69.1.243:11100
-CHC动作电影,http://dd.ikhs.cn:8880/udp/239.69.1.242:11094	
+CHC家庭影院,http://61.136.96.78:880/62.m3u8
+CHC动作电影,http://61.136.96.78:880/63.m3u8
+CHC高清电影,http://61.136.96.78:880/64.m3u8 
 求索纪录,http://39.135.133.177/PLTV/88888888/224/3221225713/index.m3u8
 求索生活,http://39.135.133.157/PLTV/88888888/224/3221225715/index.m3u8
 求索科学,http://39.135.133.156/PLTV/88888888/224/3221225728/index.m3u8
 求索动物,http://39.135.133.134/PLTV/88888888/224/3221225730/index.m3u8
 新视觉,http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xsjhd8m/8000000/mnf.m3u8
-都市剧场,http://jjzxg.ddns.net:4200/rtp/233.50.200.11:5140#http://jjzxg.ddns.net:4200/rtp/233.50.201.190:5140
+都市剧场,http://61.136.96.78:880/92.m3u8
 欢笑剧场,http://jjzxg.ddns.net:4200/rtp/233.50.200.229:5140#http://jjzxg.ddns.net:4200/rtp/233.50.201.189:5140
 劲爆体育,http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jbtyhd8m/8000000/mnf.m3u8
-动漫秀场,http://jjzxg.ddns.net:4200/rtp/233.50.200.12:5140#http://jjzxg.ddns.net:4200/rtp/233.50.201.184:5140
+动漫秀场,http://61.136.96.78:880/90.m3u8
 生活时尚,http://jjzxg.ddns.net:4200/rtp/233.50.200.15:5140#http://jjzxg.ddns.net:4200/rtp/233.50.201.187:5140
-游戏风云,http://jjzxg.ddns.net:4200/rtp/233.50.200.14:5140#http://jjzxg.ddns.net:4200/rtp/233.50.201.183:5140
-金色学堂,http://jjzxg.ddns.net:4200/rtp/233.50.200.122:5140#http://jjzxg.ddns.net:4200/rtp/233.50.201.186:5140
-魅力足球,http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/mlyyhd8m/8000000/mnf.m3u8
+游戏风云,http://61.136.96.78:880/91.m3u8
+金色学堂,http://61.136.96.78:880/96.m3u8
+魅力足球,http://61.136.96.78:880/97.m3u8
 四海钓鱼,http://office.gofaraway.top:888/udp/238.125.2.172:5140
 乐游,http://39.136.18.168:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226221/1/index.m3u8?fmt=ts2hls
 第一财经,http://jjzxg.ddns.net:4200/rtp/233.50.200.125:5140
@@ -155,10 +156,10 @@ CHC动作电影,http://dd.ikhs.cn:8880/udp/239.69.1.242:11094
 上海都市,http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dshd8m/8000000/mnf.m3u8
 法治天地,http://jjzxg.ddns.net:4200/rtp/233.50.200.120:5140#http://jjzxg.ddns.net:4200/rtp/233.50.201.191:5140
 七彩戏剧,http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qcxjhd8m/8000000/mnf.m3u8
+汽摩,http://dd.ikhs.cn:8880/udp/239.69.1.84:10144
 书画频道,http://211.103.180.178:8234/live_hls/hdmi.m3u8
 中国交通,http://112.19.171.156:9999/rtp/239.93.0.142:5140
 中华特产,http://office.gofaraway.top:888/udp/238.125.2.178:5140
-汽摩,http://dd.ikhs.cn:8880/udp/239.69.1.84:10144
 武术世界,http://office.gofaraway.top:888/udp/238.125.2.220:5140
 文物宝库,http://office.gofaraway.top:888/udp/238.125.2.219:5140
 梨园,http://office.gofaraway.top:888/udp/238.125.2.221:5140
@@ -178,8 +179,8 @@ CHC动作电影,http://dd.ikhs.cn:8880/udp/239.69.1.242:11094
 北京文艺,http://iptv.8t.cx:8180/udp/239.3.1.242:8000
 北京财经,http://iptv.8t.cx:8180/udp/239.3.1.116:8000
 北京生活,http://iptv.8t.cx:8180/udp/239.3.1.117:8000
-快乐垂钓,http://jjzxg.ddns.net:4200/rtp/233.50.200.123:5140#http://jjzxg.ddns.net:4200/rtp/233.50.201.109:5140
-金鹰纪实,http://giwon.ddns.net:5555/rtp/239.93.0.130:5140
+快乐垂钓,http://61.136.96.78:880/88.m3u8
+金鹰纪实,http://61.136.96.78:880/55.m3u8
 茶频道,http://112.19.171.156:9999/rtp/239.93.0.114:5140
 湖南电影,http://116.128.243.121:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电视剧,http://116.128.243.121:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -187,6 +188,7 @@ CHC动作电影,http://dd.ikhs.cn:8880/udp/239.69.1.242:11094
 湖南都市,http://116.128.243.121:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南经视,http://116.128.243.121:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南爱晚,http://36.158.72.54:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 🔸剧场,#genre#
 欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
@@ -829,19 +831,19 @@ Bein Sport Prem 1,p3p://fccsen.dyndns.tv:29706/5a1f696e0005f6a2c65c2e7110023294
 
 
 🔸彩虹_231,#genre#
-松視1台,p3p://108.181.20.159:75176/5fe445280008a40682a0367c343436bb
-松視2台,p3p://108.181.20.159:75176/60232b5f00007bc37850649979e379df
-松視3台,p3p://108.181.20.159:75176/6109e9590001f40bfd9b661109395f3b
-香蕉台,p3p://108.181.20.159:75176/60626a760005067e6f5bbecb5816771e
-K 頻道,p3p://108.181.20.159:75176/63fd56ec000b5f0d26d4fe1b07963493
-彩虹e台,p3p://108.181.20.159:75176/6062716c0008efc86f76f0c44d55329f
-彩虹電影台,p3p://108.181.20.159:75176/6253066c00049259f74b05224cf375e6
-彩虹頻道,p3p://108.181.20.159:75176/63fd589300099ff426db7203798a21f9
-潘朵啦玩美台,p3p://108.181.20.159:75176/5fe4450c000c918b829fca233c845311
-驚豔成人電影台,p3p://108.181.20.159:75176/60626a1b00010e3e6f5a5a4f018e5ebe
-Look TV,p3p://108.181.20.159:75176/606271190002a1266f75aaee0463186a
-JStar極限電影,p3p://108.181.20.159:75176/6109e9bb0005fd87fd9ce5ea2c1f18d3
-HAPPY,p3p://108.181.20.159:75176/616b79be000a35b17ab2f7b84c
+松視1台,p3p://108.181.20.159:75178/5fe445280008a40682a0367c343436bb
+松視2台,p3p://108.181.20.159:75178/60232b5f00007bc37850649979e379df
+松視3台,p3p://108.181.20.159:75178/6109e9590001f40bfd9b661109395f3b
+香蕉台,p3p://108.181.20.159:75178/60626a760005067e6f5bbecb5816771e
+K 頻道,p3p://108.181.20.159:75178/63fd56ec000b5f0d26d4fe1b07963493
+彩虹e台,p3p://108.181.20.159:75178/6062716c0008efc86f76f0c44d55329f
+彩虹電影台,p3p://108.181.20.159:75178/6253066c00049259f74b05224cf375e6
+彩虹頻道,p3p://108.181.20.159:75178/63fd589300099ff426db7203798a21f9
+潘朵啦玩美台,p3p://108.181.20.159:75178/5fe4450c000c918b829fca233c845311
+驚豔成人電影台,p3p://108.181.20.159:75178/60626a1b00010e3e6f5a5a4f018e5ebe
+Look TV,p3p://108.181.20.159:75178/606271190002a1266f75aaee0463186a
+JStar極限電影,p3p://108.181.20.159:75178/6109e9bb0005fd87fd9ce5ea2c1f18d3
+HAPPY,p3p://108.181.20.159:75178/616b79be000a35b17ab2f7b84c
 Brazzers,p3p://fccsen.dyndns.tv:29706/60bc2535000292424fc304cf3c251ba8
 Hustler,p3p://fccsen.dyndns.tv:29706/5f4730e9000077ee9eea293625b72a20
 Babes TV,p3p://fccsen.dyndns.tv:29706/5b2c5589000853b7e0d48153016e5aa6
