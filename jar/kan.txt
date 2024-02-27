@@ -42,7 +42,6 @@ CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
-
 🔸卫视,#genre#
 凤凰中文台,http://www.hzz.pub:8889/rtp/239.93.0.162:2192
 凤凰资讯台,http://www.hzz.pub:8889/rtp/239.93.0.118:2191
@@ -106,7 +105,6 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 
-
 🔸湖北,#genre#
 湖北经视,http://dd.ikhs.cn:8880/udp/239.69.1.41:9886
 湖北综合,http://dd.ikhs.cn:8880/udp/239.69.1.42:9892
@@ -122,7 +120,6 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 武汉文体,http://dd.ikhs.cn:8880/udp/239.69.1.147:10518
 武汉外语,http://dd.ikhs.cn:8880/udp/239.69.1.36:9856
 武汉教育,http://dd.ikhs.cn:8880/udp/239.69.1.60:9994
-
 
 🔸数位,#genre#
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
@@ -189,7 +186,6 @@ CHC高清电影,http://61.136.96.78:880/64.m3u8
 湖南经视,http://116.128.243.121:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南爱晚,http://36.158.72.54:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
 🔸剧场,#genre#
 欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
@@ -232,7 +228,6 @@ CHC高清电影,http://61.136.96.78:880/64.m3u8
 爱动漫,http://112.19.171.156:9999/rtp/239.93.42.23:5140
 爱电竞,http://112.19.171.156:9999/rtp/239.93.42.19:5140
 爱赛车,http://171.223.215.229:4000/udp/239.93.42.20:5140
-
 
 🔸电影,#genre#
 王晶电影,http://mmitv.top/test/douyu.php?id=3928
@@ -301,7 +296,6 @@ CHC高清电影,http://61.136.96.78:880/64.m3u8
 大片片说小片,http://mmitv.top/test/douyu.php?id=7489563
 火龙果说电影,http://mmitv.top/test/douyu.php?id=9559158
 
-
 🔸港澳,#genre#
 港臺電視31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 港臺電視32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
@@ -339,7 +333,6 @@ HOY資訊台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
 天映頻道,mitv://generationnexxxt.com:19806/f7581adcfa1e4eaa88b4d1206f3abe61
 天映經典,mitv://generationnexxxt.com:19806/3ac31fa9f30145b68f8469b00d91b200
 私人影院,mitv://generationnexxxt.com:19806/3cfadd5e9af14d6db652b3c23acd7a7d
-
 
 🔸台湾,#genre#
 民視,mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
@@ -513,7 +506,6 @@ MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 東森購物1台,mitv://generationnexxxt.com:19806/eccc79da1c0a4b54b49a71277e1534a0
 東森購物2台,mitv://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
 
-
 🔸馬來,#genre#
 TV1,mitv://generationnexxxt.com:19806/a3299ebd988b447992cf982df2ea7562
 TV2,mitv://generationnexxxt.com:19806/facbc81537924664aaf429b4e0faec17
@@ -545,7 +537,6 @@ Astro SuperSport 3,mitv://generationnexxxt.com:19806/5b9b9986c20244908be60c3f18a
 Astro SuperSport 4,mitv://generationnexxxt.com:19806/c7f1be20958243f68c943016c446501e
 beIN Sports 3,mitv://generationnexxxt.com:19806/83bd4463c62048dea6aafba5e1a81b23
 
-
 🔸新加,#genre#
 Mediacorp 5,mitv://generationnexxxt.com:19806/7ecf2b27c2554eef87bb4b3603e82a4f
 Mediacorp 8,mitv://generationnexxxt.com:19806/02b0b2bfe7974369b811f418dcd4eddf
@@ -556,7 +547,6 @@ Mediacorp U,mitv://generationnexxxt.com:19806/1c7cdb0005764374ab173154f8418848
 Euronews,mitv://generationnexxxt.com:19806/5b3289dff2154e2c8e166cc3f081f326
 Fight Sports,mitv://generationnexxxt.com:19806/7375a5f151c047b294a8e8c6ddad178d
 GEM,mitv://generationnexxxt.com:19806/76f6e10887894d07bd5b225cc895e2a5
-
 
 🔸日本,#genre#
 ABCテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
@@ -572,7 +562,6 @@ J Sports 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs
 J Sports 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
 毎日放送,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=159413&playseek=0
 BS-1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
-
 NHK-E教育,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=10&bind=0&uin=159413&playseek=0
 NHK-G綜合,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
 テレビ大阪,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
@@ -601,7 +590,6 @@ WOWOWライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?ci
 日本映画専門チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=10&bind=0&uin=159413&playseek=0
 時代劇専門チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=10&bind=0&uin=159413&playseek=0
 衛星劇場,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=10&bind=0&uin=159413&playseek=0
-
 
 🔸韩国,#genre#
 Arirang,mitv://generationnexxxt.com:19806/853704c2f9a442e7a1532038f14d8d00
@@ -828,7 +816,6 @@ Bein Sport 5,p3p://fccsen.dyndns.tv:29706/5a1f692c0002560ec65b2bb32e51613a
 Bein Sport 6,p3p://fccsen.dyndns.tv:29706/5a1f6942000115e4c65b81511ddf34a7
 Bein Sport 7,p3p://fccsen.dyndns.tv:29706/5a1f6957000a184ac65bd5a807cf26bc
 Bein Sport Prem 1,p3p://fccsen.dyndns.tv:29706/5a1f696e0005f6a2c65c2e7110023294
-
 
 🔸彩虹_231,#genre#
 松視1台,p3p://108.181.20.159:75178/5fe445280008a40682a0367c343436bb
