@@ -850,6 +850,31 @@ K 頻道,p3p://108.181.20.159:75178/63fd56ec000b5f0d26d4fe1b07963493
 Look TV,p3p://108.181.20.159:75178/606271190002a1266f75aaee0463186a
 JStar極限電影,p3p://108.181.20.159:75178/6109e9bb0005fd87fd9ce5ea2c1f18d3
 HAPPY,p3p://108.181.20.159:75178/616b79be000a35b17ab2f7b84c
+PLAY BOY,http://voz.one/live/16744663/10717372/823.m3u8
+JASMIM TV,http://voz.one/live/16744663/10717372/817.m3u8
+SEX PRIVE FHD,http://voz.one/live/16744663/10717372/819.m3u8
+SEX PRIVE HD,http://voz.one/live/16744663/10717372/45642.m3u8
+SEXTREME,http://voz.one/live/16744663/10717372/820.m3u8
+SEXY HOT FHD,http://voz.one/live/16744663/10717372/821.m3u8
+SEXY HOT HD,http://voz.one/live/16744663/10717372/818.m3u8
+VENUS,http://voz.one/live/16744663/10717372/822.m3u8
+VENUS HD,http://voz.one/live/16744663/10717372/816.m3u8
+午夜16,http://voz.one/live/16744663/10717372/260407.m3u8
+午夜15,http://voz.one/live/16744663/10717372/260408.m3u8
+午夜14,http://voz.one/live/16744663/10717372/260409.m3u8
+午夜13,http://voz.one/live/16744663/10717372/260410.m3u8
+午夜12,http://voz.one/live/16744663/10717372/260411.m3u8
+午夜11,http://voz.one/live/16744663/10717372/260412.m3u8
+午夜10,http://voz.one/live/16744663/10717372/260413.m3u8
+午夜09,http://voz.one/live/16744663/10717372/260414.m3u8
+午夜08,http://voz.one/live/16744663/10717372/260415.m3u8
+午夜07,http://voz.one/live/16744663/10717372/260416.m3u8
+午夜06,http://voz.one/live/16744663/10717372/260417.m3u8
+午夜05,http://voz.one/live/16744663/10717372/260418.m3u8
+午夜04,http://voz.one/live/16744663/10717372/260419.m3u8
+午夜03,http://voz.one/live/16744663/10717372/260420.m3u8
+午夜02,http://voz.one/live/16744663/10717372/260421.m3u8
+午夜01,http://voz.one/live/16744663/10717372/260422.m3u8
 Brazzers,p3p://fccsen.dyndns.tv:29706/60bc2535000292424fc304cf3c251ba8
 Hustler,p3p://fccsen.dyndns.tv:29706/5f4730e9000077ee9eea293625b72a20
 Babes TV,p3p://fccsen.dyndns.tv:29706/5b2c5589000853b7e0d48153016e5aa6
