@@ -61,8 +61,8 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-大湾区卫视,http://115.45.101.165:8888/rtp/239.77.0.9:5146
-嘉佳卡通,http://115.45.101.165:8888/rtp/239.77.0.13:5146
+大湾区卫视,http://39.134.67.108/PLTV/88888888/224/3221226020/1.m3u8# http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
+嘉佳卡通,https://php.17186.eu.org/gdtv/web/jjkt.m3u8
 海峡卫视,http://php.jdshipin.com:8880/bst.php?id=hxwshd4m/4000000
 厦门卫视,http://giwon.ddns.net:5555/rtp/239.93.42.57:5140
 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
@@ -151,8 +151,8 @@ CHC高清电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 求索科学,http://39.135.133.156/PLTV/88888888/224/3221225728/index.m3u8
 求索动物,http://39.135.133.134/PLTV/88888888/224/3221225730/index.m3u8
 欢笑剧场,http://111.48.34.237/PLTV/88888888/224/3221230500/1.m3u8
-都市剧场,http://www.xcarchain.com:8888/udp/239.93.42.30:5140
-动漫秀场,http://61.136.96.78:880/90.m3u8
+都市剧场,http://49.87.154.246:9901/tsfile/live/1028_1.m3u8
+动漫秀场,http://49.87.154.246:9901/tsfile/live/1027_1.m3u8
 游戏风云,http://61.136.96.78:880/91.m3u8
 生活时尚,http://jjzxg.ddns.net:4200/rtp/233.50.200.15:5140#http://jjzxg.ddns.net:4200/rtp/233.50.201.187:5140
 乐游,http://39.136.18.168:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226221/1/index.m3u8?fmt=ts2hls
@@ -310,28 +310,28 @@ CHC高清电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 
 
 🔸港澳,#genre#
-港臺電視31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
-港臺電視32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+港臺電視31,http://ali.hlspull.yximgs.com/live/twlivehpzdthpthcvhnzuzulsfzhcvbzuyhbnzyzthz31.flv
+港臺電視32,http://ali.hlspull.yximgs.com/live/twlivezpzzecxvzzuszfzzfdhnbthzzszfwdtncyzthz32.flv
 港臺電視33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 港臺電視34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 港臺電視35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-HOY TV,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
-J2,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
-無線新聞台,mitv://generationnexxxt.com:19806/358bb32c3a944c65bbdf4d0aac3c3e10
-無線財經體育資訊台,mitv://generationnexxxt.com:19806/8bcc654c89f74ebdb4e82062ef5f998c
-ViuTVsix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
-ViuTV,mitv://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
+HOY TV,https://z88.ubtvfans.com/live/rx1/401/2ab2599cd56cdf8db12d3cbd9fc24006/index.m3u8
+J2,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
+無線新聞台,http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
+無線財經體育資訊台,http://ali.hlspull.yximgs.com/live/twlivefhwylwpthzyzzfzxvzlmnduhyzmtvbwxcd.flv
+ViuTV,http://ali.hlspull.yximgs.com/live/twlivefhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv.flv
+ViuTVsix,http://ali.hlspull.yximgs.com/live/twlivefhwzptdzbehztyhbvhfzcvszzfyztvzutvszx.flv
 鳳凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
 鳳凰資訊台,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
 鳳凰香港台,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
 TVB星河(粵),http://180.167.104.105:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 澳門-MACAU,mitv://generationnexxxt.com:19806/f9ba8df6f9ed45789e882211735e6414
-澳門蓮花,mitv://generationnexxxt.com:19806/4c56fbe4e68541a9a759fa269574f98b
-now新聞台,mitv://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
-HKC 18,mitv://generationnexxxt.com:19806/140377dc9e0848678d614d451d69af9e
+澳門蓮花,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndcbvdbneyzhxchzzhbnzzhzezzmlh.flv
+现在新聞台,https://z88.ubtvfans.com/live/rx3/1246/9368c3093c58aa8b9de729b09b3a03e3/index.m3u8
+HKC 18,https://z88.ubtvfans.com/live/rx1/2813/bf9968c0d6c16dded7c49cf9f1419429/index.m3u8
 戲曲台,mitv://generationnexxxt.com:19806/4c3b3c3a6c8849c3aa0fc9938859e134
 TVB娛樂新聞台,mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
-翡翠台,http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8?key=txiptv
+翡翠台,http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8?key=txiptv#https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 千禧經典台,mitv://generationnexxxt.com:19806/1a5b04c67ece47bb87aa482e2c73138a
 Thrill,mitv://generationnexxxt.com:19806/1c3c73215afd42558101c3ee65737202
 明珠台,http://91tv.x3322.net:9921/tsfile/live/1007_1.m3u8?key=txiptv
@@ -340,10 +340,10 @@ HOY國際財經台,mitv://generationnexxxt.com:19806/6aa47af091b54d618d1513b1bc2
 now財經台,mitv://generationnexxxt.com:19806/88f95058c046453a973e2540701ccb4e
 美亞電影台(粵語),mitv://generationnexxxt.com:19806/ee16565eb5fe46be8d22cbbde1fa9fae
 Hands Up,mitv://generationnexxxt.com:19806/7a79a82b627a417f897895b4adf874aa
-粵語片台,mitv://generationnexxxt.com:19806/3a44c9c92439443494b8ecff6fdb2336
+粵語片台,https://z88.ubtvfans.com/live/rx1/1589/f69ec211e7b1001aba0bab74ae0b038f/index.m3u8
 亞洲劇台,mitv://generationnexxxt.com:19806/ee081a662356489d8b2170952ec91d24
 功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-HOY資訊台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
+HOY資訊台,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw.flv
 黃金翡翠台,mitv://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
 天映頻道,mitv://generationnexxxt.com:19806/f7581adcfa1e4eaa88b4d1206f3abe61
 天映經典,http://116.11.159.0:8181/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
