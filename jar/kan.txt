@@ -61,10 +61,10 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-大湾区卫视,http://39.134.67.108/PLTV/88888888/224/3221226020/1.m3u8# http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
-嘉佳卡通,https://php.17186.eu.org/gdtv/web/jjkt.m3u8
+大湾区卫视,http://39.134.67.108/PLTV/88888888/224/3221226020/1.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
+嘉佳卡通,http://121.33.239.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 海峡卫视,http://php.jdshipin.com:8880/bst.php?id=hxwshd4m/4000000
-厦门卫视,http://giwon.ddns.net:5555/rtp/239.93.42.57:5140
+厦门卫视,https://xiamenalic.v.myalicdn.com/xiamen/xiamen_1/index.m3u8#http://giwon.ddns.net:5555/rtp/239.93.42.57:5140
 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
@@ -103,7 +103,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
 辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 
 
@@ -131,11 +131,11 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 湖南都市,http://116.128.243.121:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南经视,http://116.128.243.121:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南爱晚,http://36.158.72.54:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-北京新闻,http://qnap.yjnhome.com:4000/udp/239.3.1.159:8000
-北京影视,http://qnap.yjnhome.com:4000/udp/239.3.1.158:8000
-北京文艺,http://qnap.yjnhome.com:4000/udp/239.3.1.242:8000
+北京新闻,http://123.112.210.212:4022/rtp/239.3.1.159:8000#http://115.171.216.46:4000/udp/225.1.8.83:8000
+北京影视,http://123.112.210.212:4022/rtp/239.3.1.158:8000#http://115.171.216.46:4000/udp/225.1.8.82:8000
+北京文艺,http://123.112.210.212:4022/rtp/239.3.1.242:8000#http://115.171.216.46:4000/udp/225.1.8.22:8002
+北京生活,http://123.112.210.212:4022/rtp/239.3.1.117:8000#http://115.171.216.46:4000/udp/225.1.8.108:8002
 北京财经,http://qnap.yjnhome.com:4000/udp/239.3.1.116:8000
-北京生活,http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
 
 
 🔸数位,#genre#
@@ -315,19 +315,19 @@ CHC高清电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 港臺電視33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 港臺電視34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 港臺電視35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-HOY TV,https://z88.ubtvfans.com/live/rx1/401/2ab2599cd56cdf8db12d3cbd9fc24006/index.m3u8
+HOY TV,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
 J2,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
 無線新聞台,http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
 無線財經體育資訊台,http://ali.hlspull.yximgs.com/live/twlivefhwylwpthzyzzfzxvzlmnduhyzmtvbwxcd.flv
 ViuTV,http://ali.hlspull.yximgs.com/live/twlivefhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv.flv
 ViuTVsix,http://ali.hlspull.yximgs.com/live/twlivefhwzptdzbehztyhbvhfzcvszzfyztvzutvszx.flv
-鳳凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
-鳳凰資訊台,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
+鳳凰中文台,http://ali.hlspull.yximgs.com/live/twlivetvzzpcpvuezlzydzzyfzoxvchzwhzwdozzzhzzlszhbzfhzw.flv
+鳳凰資訊台,http://ali.hlspull.yximgs.com/live/twlivetvzzpcpdvuezlzyzzyfzoxvchzwhzwozzzhdzzlszhbzfhzx.flv
 鳳凰香港台,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
 TVB星河(粵),http://180.167.104.105:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 澳門-MACAU,mitv://generationnexxxt.com:19806/f9ba8df6f9ed45789e882211735e6414
 澳門蓮花,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndcbvdbneyzhxchzzhbnzzhzezzmlh.flv
-HKC 18,https://z88.ubtvfans.com/live/rx1/2813/bf9968c0d6c16dded7c49cf9f1419429/index.m3u8
+HKC 18,mitv://generationnexxxt.com:19806/140377dc9e0848678d614d451d69af9e
 戲曲台,mitv://generationnexxxt.com:19806/4c3b3c3a6c8849c3aa0fc9938859e134
 TVB娛樂新聞台,mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
 翡翠台,http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8?key=txiptv#https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
@@ -339,7 +339,7 @@ HOY國際財經台,mitv://generationnexxxt.com:19806/6aa47af091b54d618d1513b1bc2
 now財經台,mitv://generationnexxxt.com:19806/88f95058c046453a973e2540701ccb4e
 美亞電影台(粵語),mitv://generationnexxxt.com:19806/ee16565eb5fe46be8d22cbbde1fa9fae
 Hands Up,mitv://generationnexxxt.com:19806/7a79a82b627a417f897895b4adf874aa
-粵語片台,https://z88.ubtvfans.com/live/rx1/1589/f69ec211e7b1001aba0bab74ae0b038f/index.m3u8
+粵語片台,mitv://generationnexxxt.com:19806/3a44c9c92439443494b8ecff6fdb2336
 亞洲劇台,mitv://generationnexxxt.com:19806/ee081a662356489d8b2170952ec91d24
 功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 HOY資訊台,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw.flv
@@ -350,12 +350,12 @@ HOY資訊台,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfnc
 
 
 🔸台湾,#genre#
-民視,mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
-台視,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
+民視,http://ali.hlspull.yximgs.com/live/twlivephzwfpzwvnzfdlsetfzzzzszsftewzhvcbzzfdzuolzbms.flv
+台視,http://ali.hlspull.yximgs.com/live/twliveptezfsxlvczdewzzzpszfvvxczzzpfossvbxcfzztzvxzhlts.flv
 大愛,mitv://generationnexxxt.com:19806/e89ec8c592484d88bc001e8d8a6c9e31
-中視,mitv://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
+中視,http://ali.hlspull.yximgs.com/live/twlivezphfwnmfdczfxcvhzzwzfbfzdyuzznmfcbsfzeztyhsdzs.flv
 霹靂臺灣台,mitv://generationnexxxt.com:19806/dcdf778fe9ca4184ad6af3a911765cf0
-華視,mitv://generationnexxxt.com:19806/761bc3c0662247d18b0db4da8070b7f4
+華視,http://ali.hlspull.yximgs.com/live/twlivepdymvcznzzzcvbcvbztyzzzffcfzvzftozzbvczfednhs.flv
 公視,mitv://generationnexxxt.com:19806/5bc9388122b840f1abd2ff73c85049a6
 好消息,mitv://generationnexxxt.com:19806/febf2282369d409d92d68514b72fc433
 原住民電視臺,mitv://generationnexxxt.com:19806/cb5b7549e3604100a605ca17c82808f5
