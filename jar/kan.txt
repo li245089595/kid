@@ -242,24 +242,20 @@ CHC高清电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 
 
 🔸电影,#genre#
-王晶电影,http://mmitv.top/test/douyu.php?id=3928
-刘德华电影,http://mmitv.top/test/douyu.php?id=85894
-赌神电影,http://mmitv.top/test/douyu.php?id=315457
-周星驰电影,http://mmitv.top/test/douyu.php?id=122402
-洪金宝电影,http://mmitv.top/test/douyu.php?id=2935323
-林正英电影,http://mmitv.top/test/douyu.php?id=218859
-女神港片,http://mmitv.top/test/douyu.php?id=747764
-金庸电影,http://mmitv.top/test/douyu.php?id=4246519
-古装电影,http://mmitv.top/test/douyu.php?id=7655471
-沈腾电影,http://mmitv.top/test/douyu.php?id=6566671
-成龙电影,http://mmitv.top/test/douyu.php?id=3637778
-吴京电影,http://mmitv.top/test/douyu.php?id=1226741
-吴孟达电影,http://mmitv.top/test/douyu.php?id=7254536
-甄子丹电影,http://mmitv.top/test/douyu.php?id=323876
+高分电影,http://mmitv.top/test/douyu.php?id=7254536
 豆瓣高分,http://mmitv.top/test/douyu.php?id=8770422
 漫威影院,http://mmitv.top/test/douyu.php?id=6140589
+特辑电影,http://mmitv.top/test/douyu.php?id=3637778
+粤语电影,http://mmitv.top/test/douyu.php?id=1226741
+喜剧电影,http://mmitv.top/test/douyu.php?id=323876
+恐怖电影,http://mmitv.top/test/douyu.php?id=218859
 恐怖鬼怪,http://mmitv.top/test/douyu.php?id=1165374
+童年阴影,http://mmitv.top/test/douyu.php?id=2935323
 惊悚电影,http://mmitv.top/test/douyu.php?id=96577
+粤语电影,http://mmitv.top/test/douyu.php?id=6566671
+华语影视,http://mmitv.top/test/douyu.php?id=3928
+神乐影视,http://mmitv.top/test/douyu.php?id=85894
+吃米滴虫,http://mmitv.top/test/douyu.php?id=315457
 新三国,http://mmitv.top/test/douyu.php?id=5908256
 冰冰影厅,http://mmitv.top/test/douyu.php?id=74374
 奶虫影院,http://mmitv.top/test/douyu.php?id=263824
