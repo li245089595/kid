@@ -243,6 +243,9 @@ CHC高清电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 
 
 🔸电影,#genre#
+陈翔六点半,https://live.metshop.top/huya/11274154
+周星驰电影,https://live.metshop.top/huya/11342412
+林正英电影,https://live.metshop.top/huya/11342421
 高分电影,http://mmitv.top/test/douyu.php?id=7254536
 豆瓣高分,http://mmitv.top/test/douyu.php?id=8770422
 漫威影院,http://mmitv.top/test/douyu.php?id=6140589
