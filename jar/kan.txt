@@ -62,7 +62,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8#http://39.134.67.108/PLTV/88888888/224/3221226020/1.m3u8
+大湾区卫视,http://glive.grtn.cn/live/lizhi.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8#http://39.134.67.108/PLTV/88888888/224/3221226020/1.m3u8
 嘉佳卡通,http://121.33.239.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 海峡卫视,http://php.jdshipin.com:8880/bst.php?id=hxwshd4m/4000000
 厦门卫视,https://xiamenalic.v.myalicdn.com/xiamen/xiamen_1/index.m3u8#http://giwon.ddns.net:5555/rtp/239.93.42.57:5140
@@ -221,31 +221,9 @@ CHC高清电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-爱谍战,http://112.17.52.85/PLTV/88888888/224/3221233691/index.m3u8
-爱科幻,http://112.17.52.85/PLTV/88888888/224/3221233656/index.m3u8
-爱浪漫,http://112.17.52.85/PLTV/88888888/224/3221233665/index.m3u8
-爱历史,http://112.17.52.85/PLTV/88888888/224/3221233685/index.m3u8
-爱旅行,http://112.17.52.85/PLTV/88888888/224/3221233703/index.m3u8
-爱体育,http://112.17.52.85/PLTV/88888888/224/3221233700/index.m3u8
-爱喜剧,http://112.17.52.85/PLTV/88888888/224/3221233658/index.m3u8
-爱悬疑,http://112.17.52.85/PLTV/88888888/224/3221233650/index.m3u8
-爱院线,http://112.17.52.85/PLTV/88888888/224/3221233680/index.m3u8
-爱电竞,http://www.xcarchain.com:8888/udp/239.93.42.19:5140
-爱动漫,http://www.xcarchain.com:8888/udp/239.93.42.23:5140
-爱都市,http://www.xcarchain.com:8888/udp/239.93.42.15:5140
-爱怀旧,http://www.xcarchain.com:8888/udp/239.93.42.21:5140
-爱经典,http://www.xcarchain.com:8888/udp/239.93.42.13:5140
-爱奇谈,http://www.xcarchain.com:8888/udp/239.93.42.22:5140
-爱青春,http://www.xcarchain.com:8888/udp/239.93.42.16:5140
-爱赛车,http://www.xcarchain.com:8888/udp/239.93.42.20:5140
-爱玩具,http://www.xcarchain.com:8888/udp/239.93.42.18:5140
-爱幼教,http://www.xcarchain.com:8888/udp/239.93.42.17:5140
 
 
 🔸电影,#genre#
-陈翔六点半,https://live.metshop.top/huya/11274154
-周星驰电影,https://live.metshop.top/huya/11342412
-林正英电影,https://live.metshop.top/huya/11342421
 高分电影,http://mmitv.top/test/douyu.php?id=7254536
 豆瓣高分,http://mmitv.top/test/douyu.php?id=8770422
 漫威影院,http://mmitv.top/test/douyu.php?id=6140589
