@@ -224,7 +224,7 @@ CHC高清电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 
 
 🔸电影,#genre#
-高分电影,http://mmitv.top/test/douyu.php?id=7254536
+KiD影院①,http://mmitv.top/test/douyu.php?id=7254536
 豆瓣高分,http://mmitv.top/test/douyu.php?id=8770422
 漫威影院,http://mmitv.top/test/douyu.php?id=6140589
 特辑电影,http://mmitv.top/test/douyu.php?id=3637778
