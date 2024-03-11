@@ -25,7 +25,7 @@ CCTV兵器科技,http://111.48.34.237/PLTV/88888888/224/3221230162/1.m3u8
 CCTV央视精品,http://112.19.171.156:9999/rtp/239.93.42.47:5140
 CCTV世界地理,http://111.48.34.237/PLTV/88888888/224/3221230072/1.m3u8
 CCTV女性时尚,http://111.48.34.237/PLTV/88888888/224/3221230545/1.m3u8
-CCTV风云剧场,http://61.134.232.56:9999/tsfile/live/1008_1.m3u8
+CCTV风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 CCTV风云音乐,http://111.48.34.237/PLTV/88888888/224/3221230089/1.m3u8
 CCTV风云足球,http://111.48.34.237/PLTV/88888888/224/3221230482/1.m3u8
 CCTV高尔夫网球,http://111.48.34.237/PLTV/88888888/224/3221230085/1.m3u8
@@ -47,7 +47,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 🔸卫视,#genre#
 凤凰中文台,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯台,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰香港台,http://116.11.159.1:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰香港台,http://php.17186.eu.org/phtv/fhxg.m3u8
 凤凰电影台,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 星空卫视,http://www.xcarchain.com:8888/udp/239.93.0.156:2193
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
@@ -62,8 +62,8 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-大湾区卫视,http://glive.grtn.cn/live/lizhi.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8#http://39.134.67.108/PLTV/88888888/224/3221226020/1.m3u8
-嘉佳卡通,http://121.33.239.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8#http://39.134.67.108/PLTV/88888888/224/3221226020/1.m3u8
+嘉佳卡通,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 海峡卫视,http://php.jdshipin.com:8880/bst.php?id=hxwshd4m/4000000
 厦门卫视,https://xiamenalic.v.myalicdn.com/xiamen/xiamen_1/index.m3u8#http://giwon.ddns.net:5555/rtp/239.93.42.57:5140
 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
@@ -109,20 +109,20 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 
 🔸地方,#genre#
-湖北经视,http://dd.ikhs.cn:8880/udp/239.69.1.41:9886
-湖北综合,http://dd.ikhs.cn:8880/udp/239.69.1.42:9892
-湖北公共新闻,http://dd.ikhs.cn:8880/udp/239.69.1.40:9880
-湖北垄上,http://dd.ikhs.cn:8880/udp/239.69.1.43:9898
-湖北影视,http://dd.ikhs.cn:8880/udp/239.69.1.204:10866
-湖北教育,http://dd.ikhs.cn:8880/udp/239.69.1.206:10878
-湖北生活,http://dd.ikhs.cn:8880/udp/239.69.1.205:10872
-武汉新闻综合,http://dd.ikhs.cn:8880/udp/239.69.1.145:10506
-武汉电视剧,http://dd.ikhs.cn:8880/udp/239.69.1.146:10512
-武汉科技生活,http://dd.ikhs.cn:8880/udp/239.69.1.251:11148
-武汉经济,http://dd.ikhs.cn:8880/udp/239.69.1.35:9850
-武汉文体,http://dd.ikhs.cn:8880/udp/239.69.1.147:10518
-武汉外语,http://dd.ikhs.cn:8880/udp/239.69.1.36:9856
-武汉教育,http://dd.ikhs.cn:8880/udp/239.69.1.60:9994
+湖北经视,http://gd.ikhs.cn:8880/udp/239.69.1.41:9886
+湖北综合,http://gd.ikhs.cn:8880/udp/239.69.1.42:9892
+湖北公共新闻,http://gd.ikhs.cn:8880/udp/239.69.1.40:9880
+湖北垄上,http://gd.ikhs.cn:8880/udp/239.69.1.43:9898
+湖北影视,http://gd.ikhs.cn:8880/udp/239.69.1.204:10866
+湖北教育,http://gd.ikhs.cn:8880/udp/239.69.1.206:10878
+湖北生活,http://gd.ikhs.cn:8880/udp/239.69.1.205:10872
+武汉新闻综合,http://gd.ikhs.cn:8880/udp/239.69.1.145:10506
+武汉电视剧,http://gd.ikhs.cn:8880/udp/239.69.1.146:10512
+武汉科技生活,http://gd.ikhs.cn:8880/udp/239.69.1.251:11148
+武汉经济,http://gd.ikhs.cn:8880/udp/239.69.1.35:9850
+武汉文体,http://gd.ikhs.cn:8880/udp/239.69.1.147:10518
+武汉外语,http://gd.ikhs.cn:8880/udp/239.69.1.36:9856
+武汉教育,http://gd.ikhs.cn:8880/udp/239.69.1.60:9994
 快乐垂钓,http://61.136.96.78:880/88.m3u8
 金鹰纪实,http://118.248.163.86:8888/udp/239.76.245.122:1234
 茶频道,http://111.48.34.237/PLTV/88888888/224/3221229873/1.m3u8
