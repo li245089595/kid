@@ -69,7 +69,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
-三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
+三沙卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.155:4120
 山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 山东教育卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
