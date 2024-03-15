@@ -45,9 +45,9 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 
 🔸卫视,#genre#
-凤凰中文台,http://183.1.250.154:8081/hls/37/index.m3u8
-凤凰资讯台,http://183.1.250.154:8081/hls/36/index.m3u8
-凤凰香港台,http://183.1.250.154:8081/hls/38/index.m3u8
+凤凰中文台,http://180.142.145.135:8181/tsfile/live/1001_1.m3u8
+凤凰资讯台,http://180.142.145.135:8181/tsfile/live/1000_1.m3u8
+凤凰香港台,http://180.142.145.135:8181/tsfile/live/1002_1.m3u8
 凤凰电影台,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 星空卫视,http://www.xcarchain.com:8888/udp/239.93.0.156:2193
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
@@ -64,7 +64,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8#http://39.134.67.108/PLTV/88888888/224/3221226020/1.m3u8
 嘉佳卡通,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
-海峡卫视,http://php.jdshipin.com:8880/bst.php?id=hxwshd4m/4000000
+海峡卫视,http://36.248.137.69:60033/tsfile/live/0150_1.m3u8?key=txiptv#http://php.jdshipin.com:8880/bst.php?id=hxwshd4m/4000000
 厦门卫视,https://xiamenalic.v.myalicdn.com/xiamen/xiamen_1/index.m3u8#http://giwon.ddns.net:5555/rtp/239.93.42.57:5140
 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
@@ -178,7 +178,7 @@ CHC高清电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 上海教育,http://php.jdshipin.com:8880/bst.php?id=shjy
 上海都市,http://php.jdshipin.com:8880/bst.php?id=shds
 书画频道,http://211.103.180.178:8234/live_hls/hdmi.m3u8
-天元围棋,http://www.xcarchain.com:8888/udp/239.93.42.55:5140
+天元围棋,http://39.136.18.217/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226341/1/index.m3u8?fmt=ts2hls
 中国交通,http://112.19.171.156:9999/rtp/239.93.0.142:5140
 中华特产,http://office.gofaraway.top:888/udp/238.125.2.178:5140
 睛彩广场舞,http://home4.kmo.ink:8888/rtp/239.3.1.128:8001
