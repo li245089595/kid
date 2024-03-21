@@ -156,21 +156,21 @@ CHC高清电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 求索科学,http://39.135.133.156/PLTV/88888888/224/3221225728/index.m3u8
 求索动物,http://39.135.133.134/PLTV/88888888/224/3221225730/index.m3u8
 欢笑剧场,http://111.48.34.237/PLTV/88888888/224/3221230500/1.m3u8
-都市剧场,http://49.87.154.246:9901/tsfile/live/1028_1.m3u8
-动漫秀场,http://49.87.154.246:9901/tsfile/live/1027_1.m3u8
+都市剧场,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=dsjc
+动漫秀场,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=dmxc
 游戏风云,http://php.jdshipin.com:8880/bst.php?id=yxfy
 生活时尚,http://php.jdshipin.com:8880/bst.php?id=shss
 乐游,http://39.136.18.168:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226221/1/index.m3u8?fmt=ts2hls
-魅力足球,http://61.136.96.78:880/97.m3u8
+魅力足球,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=zqgq
 四海钓鱼,http://111.48.34.237/PLTV/88888888/224/3221230438/1.m3u8
 法治天地,http://php.jdshipin.com:8880/bst.php?id=fztd
 七彩戏剧,http://php.jdshipin.com:8880/bst.php?id=qcxj
 新视觉,http://php.jdshipin.com:8880/bst.php?id=xsj
 劲爆体育,http://php.jdshipin.com:8880/bst.php?id=jbty
-金色学堂,http://61.136.96.78:880/96.m3u8
+金色学堂,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=jsxt
 财富天下,http://111.48.34.237/PLTV/88888888/224/3221229728/1.m3u8
 第一财经,http://jjzxg.ddns.net:4200/rtp/233.50.200.125:5140
-东方财经,http://113.195.13.183:9901/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
+东方财经,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=dfcj
 东方影视,http://php.jdshipin.com:8880/bst.php?id=dfys
 五星体育,http://php.jdshipin.com:8880/bst.php?id=wxty
 上视ICS,http://php.jdshipin.com:8880/bst.php?id=shics
@@ -224,6 +224,8 @@ CHC高清电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 
 
 🔸电影,#genre#
+KiD影院①,http://epg.112114.xyz/douyu/6610883
+KiD影院②,http://epg.112114.xyz/douyu/997925
 高分电影,http://mmitv.top/test/douyu.php?id=7254536
 豆瓣高分,http://mmitv.top/test/douyu.php?id=8770422
 漫威影院,http://mmitv.top/test/douyu.php?id=6140589
