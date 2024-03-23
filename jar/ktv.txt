@@ -141,6 +141,39 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 武术世界,http://111.48.34.237/PLTV/88888888/224/3221230549/1.m3u8
 文物宝库,http://111.48.34.237/PLTV/88888888/224/3221230547/1.m3u8
 梨园,http://111.48.34.237/PLTV/88888888/224/3221230496/1.m3u8
+广东民生,http://sxd.nyxg.vip:40000/udp/239.77.0.225:5146
+广东新闻,http://sxd.nyxg.vip:40000/udp/239.77.0.173:5146
+广东珠江,http://sxd.nyxg.vip:40000/udp/239.77.0.1:5146
+广东体育,http://sxd.nyxg.vip:40000/udp/239.77.0.112:5146
+广东科教,http://sxd.nyxg.vip:40000/udp/239.77.0.85:5146
+广东影视,http://sxd.nyxg.vip:40000/udp/239.77.0.217:5146
+广东少儿,http://sxd.nyxg.vip:40000/udp/239.77.0.250:5146
+广东卡通,http://sxd.nyxg.vip:40000/udp/239.77.0.179:5146
+广东科教,http://sxd.nyxg.vip:40000/udp/239.77.0.167:5146
+广东体育,http://sxd.nyxg.vip:40000/udp/239.77.0.168:5146
+广东珠江,http://sxd.nyxg.vip:40000/udp/239.77.0.114:5146
+广东南方卫视,http://sxd.nyxg.vip:40000/udp/239.77.0.215:5146
+深圳公共,http://sxd.nyxg.vip:40000/udp/239.77.1.126:5146
+深圳都市,http://sxd.nyxg.vip:40000/udp/239.77.1.124:5146
+深圳电视剧,http://sxd.nyxg.vip:40000/udp/239.77.1.125:5146
+深圳体育,http://sxd.nyxg.vip:40000/udp/239.77.1.128:5146
+深圳公共,http://sxd.nyxg.vip:40000/udp/239.77.1.178:5146
+深圳都市,http://sxd.nyxg.vip:40000/udp/239.77.1.176:5146
+深圳电视剧,http://sxd.nyxg.vip:40000/udp/239.77.1.177:5146
+深圳公共,http://sxd.nyxg.vip:40000/udp/239.77.1.242:5146
+深圳娱乐,http://sxd.nyxg.vip:40000/udp/239.77.1.243:5146
+深圳体育,http://sxd.nyxg.vip:40000/udp/239.77.1.140:5146
+深圳少儿,http://sxd.nyxg.vip:40000/udp/239.77.1.244:5146
+深圳宝安,http://sxd.nyxg.vip:40000/udp/239.77.1.67:5146
+深圳龙岗,http://sxd.nyxg.vip:40000/udp/239.77.1.223:5146
+深圳东部,http://sxd.nyxg.vip:40000/udp/239.77.1.224:5146
+深圳众创,http://sxd.nyxg.vip:40000/udp/239.77.1.247:5146
+广州综合,http://sxd.nyxg.vip:40000/udp/239.253.43.71:5146
+广州新闻,http://sxd.nyxg.vip:40000/udp/239.253.43.72:5146
+广州影视,http://sxd.nyxg.vip:40000/udp/239.253.43.73:5146
+广州法治,http://sxd.nyxg.vip:40000/udp/239.253.43.74:5146
+广州竞赛,http://sxd.nyxg.vip:40000/udp/239.253.43.75:5146
+南国都市4K,http://sxd.nyxg.vip:40000/udp/239.253.43.99:5146
 
 
 数位频道,#genre#
@@ -477,6 +510,205 @@ HBO 家庭台,http://ali.hlspull.yximgs.com/live/huanqiuhklivetjcvsjgcjyhpvobjxc
 爱尔达体育Ⅱ台,http://ali.hlspull.yximgs.com/live/huanqiuhklivecxvpjetjdcxojvmjljjtjwjpohudscbcxojcvmnfujlbhhjtye.flv
 爱尔达体育Ⅲ台,http://ali.hlspull.yximgs.com/live/huanqiuhklivecxvpjeyjdcxojvmjljbtjwjhojudscbcxojcvmnfujlbhhjtys.flv
 ELEVEN1台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejjojjxcvyhjsjhtejwfhfvjjdvbdjsjjjhjljsjvcelevend.flv
+
+
+新马频道,#genre#
+True PremierHD 5,http://gmlive.ddns.net:5000/kun5g/kun5g2024/1
+HBO CHINA SUB,http://gmlive.ddns.net:5000/kun5g/kun5g2024/18
+AXN CHINA SUB,http://gmlive.ddns.net:5000/kun5g/kun5g2024/19
+HBO Signature CHINA SUB,http://gmlive.ddns.net:5000/kun5g/kun5g2024/20
+HBO Family CHINA SUB,http://gmlive.ddns.net:5000/kun5g/kun5g2024/21
+CINEMAX CHINA SUB,http://gmlive.ddns.net:5000/kun5g/kun5g2024/22
+BBC EARTH English SUB,http://gmlive.ddns.net:5000/kun5g/kun5g2024/23
+HITS English SUB,http://gmlive.ddns.net:5000/kun5g/kun5g2024/24
+HITS MOVIES English SUB,http://gmlive.ddns.net:5000/kun5g/kun5g2024/25
+True Film 2 THAI SUB,http://gmlive.ddns.net:5000/kun5g/kun5g2024/26
+True Explore Life THAI SUB,http://gmlive.ddns.net:5000/kun5g/kun5g2024/27
+Nat Geo WILD ,http://gmlive.ddns.net:5000/kun5g/kun5g2024/28
+LAOSTAR TV-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/29
+LNTV1-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/30
+LATV-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/31
+SONY MOVIES English SUB,http://gmlive.ddns.net:5000/kun5g/kun5g2024/32
+MONO 29 English SUB,http://gmlive.ddns.net:5000/kun5g/kun5g2024/33
+VTV5 Tây Nam Bộ,http://gmlive.ddns.net:5000/kun5g/kun5g2024/34
+KG HD | TH Kiên Giang,http://gmlive.ddns.net:5000/kun5g/kun5g2024/35
+KG1 HD | TH Kiên Giang,http://gmlive.ddns.net:5000/kun5g/kun5g2024/36
+History HD,http://gmlive.ddns.net:5000/kun5g/kun5g2024/37
+AXN-VN-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/38
+CINEMAX-VN-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/39
+HBO-VN-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/40
+Nat Geo Graphic HD ENG-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/41
+TVN-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/42
+Animal Planet-Astro,http://gmlive.ddns.net:5000/kun5g/kun5g2024/43
+Discovery HD-Astro,http://gmlive.ddns.net:5000/kun5g/kun5g2024/44
+Animal Planet-China,http://gmlive.ddns.net:5000/kun5g/kun5g2024/45
+Discovery HD-China,http://gmlive.ddns.net:5000/kun5g/kun5g2024/46
+DMAX-China,http://gmlive.ddns.net:5000/kun5g/kun5g2024/47
+Astro-Prima HD-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/48
+Astro 8TV HD-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/49
+Astro TVB Xing He-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/50
+Astro 华丽台-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/51
+Astro Hua Hee Dai-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/52
+Astro AEC-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/53
+Astro AOD 353-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/54
+Astro Celestial HD-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/55
+HBO Hits [China Sub],http://gmlive.ddns.net:5000/kun5g/kun5g2024/56
+Astro ASSP1-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/57
+Astro ASSP2-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/58
+Astro ASSP3-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/59
+Astro ASSP4-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/60
+Rock Action HD,http://gmlive.ddns.net:5000/kun5g/kun5g2024/61
+Rock Entertainment HD,http://gmlive.ddns.net:5000/kun5g/kun5g2024/62
+Astro WWE-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/63
+Astro History-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/64
+FTV-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/65
+NBC GOLF-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/85
+Code Fashion TV HD-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/86
+ZEE CINEMA HD [Astro],http://gmlive.ddns.net:5000/kun5g/kun5g2024/87
+Hollywood Classics [VN Sub],http://gmlive.ddns.net:5000/kun5g/kun5g2024/88
+BOX HITS [VN Sub],http://gmlive.ddns.net:5000/kun5g/kun5g2024/89
+In The Box [VN Sub],http://gmlive.ddns.net:5000/kun5g/kun5g2024/90
+BOX MOVIES1 HD [VN Sub],http://gmlive.ddns.net:5000/kun5g/kun5g2024/91
+Astro QJ-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/92
+Astro Outdoor-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/93
+Astro Love Nature-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/94
+Animal Show-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/95
+Premier League HD4,http://gmlive.ddns.net:5000/kun5g/kun5g2024/101
+Premier League HD3,http://gmlive.ddns.net:5000/kun5g/kun5g2024/102
+Astro HBO Signature,http://gmlive.ddns.net:5000/kun5g/kun5g2024/103
+Astro HBO,http://gmlive.ddns.net:5000/kun5g/kun5g2024/104
+Astro HBO Family,http://gmlive.ddns.net:5000/kun5g/kun5g2024/105
+Astro Cinemax,http://gmlive.ddns.net:5000/kun5g/kun5g2024/106
+Astro AXN,http://gmlive.ddns.net:5000/kun5g/kun5g2024/107
+Astro BOO,http://gmlive.ddns.net:5000/kun5g/kun5g2024/108
+Astro TVN,http://gmlive.ddns.net:5000/kun5g/kun5g2024/109
+NHK World Premium,http://gmlive.ddns.net:5000/kun5g/kun5g2024/110
+AXN HD,http://gmlive.ddns.net:5000/kun5g/kun5g2024/111
+Animal Planet [Thai Sub],http://gmlive.ddns.net:5000/kun5g/kun5g2024/112
+HISTORY HD [English Sub]True,http://gmlive.ddns.net:5000/kun5g/kun5g2024/113
+Crim+Investigation HD True,http://gmlive.ddns.net:5000/kun5g/kun5g2024/114
+BBC Lifestyle HD-True,http://gmlive.ddns.net:5000/kun5g/kun5g2024/115
+BBC EARTH [Thai Sub],http://gmlive.ddns.net:5000/kun5g/kun5g2024/116
+True Explorer Wild-True,http://gmlive.ddns.net:5000/kun5g/kun5g2024/117
+Discovery Science [Astro],http://gmlive.ddns.net:5000/kun5g/kun5g2024/118
+TRUE EXPLORE SCI,http://gmlive.ddns.net:5000/kun5g/kun5g2024/119
+True-Xzyte,http://gmlive.ddns.net:5000/kun5g/kun5g2024/120
+PARAMOUNT NETWORK-True,http://gmlive.ddns.net:5000/kun5g/kun5g2024/121
+FS1 HD,http://gmlive.ddns.net:5000/kun5g/kun5g2024/127
+FS2 HD,http://gmlive.ddns.net:5000/kun5g/kun5g2024/128
+Premier League 1HD,http://gmlive.ddns.net:5000/kun5g/kun5g2024/129
+Premier League 2HD,http://gmlive.ddns.net:5000/kun5g/kun5g2024/130
+True Film 1HD,http://gmlive.ddns.net:5000/kun5g/kun5g2024/131
+True Series,http://gmlive.ddns.net:5000/kun5g/kun5g2024/132
+True Film Asia,http://gmlive.ddns.net:5000/kun5g/kun5g2024/133
+True Asian More,http://gmlive.ddns.net:5000/kun5g/kun5g2024/134
+True Movie Hits,http://gmlive.ddns.net:5000/kun5g/kun5g2024/135
+3BB_HBOhits,http://gmlive.ddns.net:5000/kun5g/kun5g2024/136
+WARNER TV [Thai Sub],http://gmlive.ddns.net:5000/kun5g/kun5g2024/137
+Discovery Asia,http://gmlive.ddns.net:5000/kun5g/kun5g2024/138
+AFN [Thai Sub],http://gmlive.ddns.net:5000/kun5g/kun5g2024/139
+DreamWorks [Thai Sub],http://gmlive.ddns.net:5000/kun5g/kun5g2024/140
+iQIYI HD [Astro],http://gmlive.ddns.net:5000/kun5g/kun5g2024/141
+W SPORTS,http://gmlive.ddns.net:5000/kun5g/kun5g2024/142
+STAR WORLD,http://gmlive.ddns.net:5000/kun5g/kun5g2024/143
+STAR MOVIES HD,http://gmlive.ddns.net:5000/kun5g/kun5g2024/144
+Astro WARNA HD,http://gmlive.ddns.net:5000/kun5g/kun5g2024/146
+Astro Oasis HD,http://gmlive.ddns.net:5000/kun5g/kun5g2024/145
+Astro Rania HD,http://gmlive.ddns.net:5000/kun5g/kun5g2024/147
+Astro ONE HD,http://gmlive.ddns.net:5000/kun5g/kun5g2024/148
+Astro ARENA HD,http://gmlive.ddns.net:5000/kun5g/kun5g2024/149
+Astro ARENA 2HD,http://gmlive.ddns.net:5000/kun5g/kun5g2024/150
+Astro KBS World,http://gmlive.ddns.net:5000/kun5g/kun5g2024/151
+Astro K Plus HD,http://gmlive.ddns.net:5000/kun5g/kun5g2024/152
+Fashion TV HD,http://gmlive.ddns.net:5000/kun5g/kun5g2024/153
+
+
+韩国频道,#genre#
+三星TV,https://i.mjh.nz/SamsungTVPlus/KRBB4200002MM.m3u8
+三星TV+,https://i.mjh.nz/SamsungTVPlus/KRBB420000180.m3u8
+三星TV3,https://i.mjh.nz/SamsungTVPlus/KRBB4200003ZL.m3u8
+JTBC 톡파원25시,https://i.mjh.nz/SamsungTVPlus/KRBC50000218R.m3u8
+KBS 정도전,https://i.mjh.nz/SamsungTVPlus/KRBC4400002AO.m3u8
+JTBC SKY캐슬,https://i.mjh.nz/SamsungTVPlus/KRBC4600004BQ.m3u8
+JTBC 품위있는 그녀,https://i.mjh.nz/SamsungTVPlus/KRBC50000228B.m3u8
+SBS 나는 솔로,https://i.mjh.nz/SamsungTVPlus/KRBB4200009C3.m3u8
+TV조선 미스터트롯 영웅의 탄생,https://i.mjh.nz/SamsungTVPlus/KRBD27000069Q.m3u8
+TV조선 우리 이혼했어요,https://i.mjh.nz/SamsungTVPlus/KRBD2700001QR.m3u8
+TV조선 골프왕,https://i.mjh.nz/SamsungTVPlus/KRBD2700002IV.m3u8
+PLAYY 영화,https://i.mjh.nz/SamsungTVPlus/KRBD2700007S0.m3u8
+SBS 스토브리그,https://i.mjh.nz/SamsungTVPlus/KRBB420000180.m3u8
+SBS 순풍산부인과,https://i.mjh.nz/SamsungTVPlus/KRBB4200004RA.m3u8
+MBC 지붕뚫고 하이킥,https://i.mjh.nz/SamsungTVPlus/KRBC200005H6.m3u8
+JTBC 효리네 민박 시즌1,https://i.mjh.nz/SamsungTVPlus/KRBC5000016BM.m3u8
+SBS 정글의 법칙,https://i.mjh.nz/SamsungTVPlus/KRBB4200012PV.m3u8
+맛있는 녀석들,https://i.mjh.nz/SamsungTVPlus/KRBC3200007D1.m3u8
+JTBC 18 어게인,https://i.mjh.nz/SamsungTVPlus/KRBC5000015F5.m3u8
+채널A 이제 만나러 갑니다,https://i.mjh.nz/SamsungTVPlus/KRBC4100005N5.m3u8
+전우치,https://i.mjh.nz/SamsungTVPlus/KRBC4000003J2.m3u8
+사피엔스스튜디오,https://i.mjh.nz/SamsungTVPlus/KRBC32000191N.m3u8
+역사 읽어드립니다,https://i.mjh.nz/SamsungTVPlus/KRBC32000200B.m3u8
+심리 읽어드립니다,https://i.mjh.nz/SamsungTVPlus/KRBC3200021ZA.m3u8
+tvN 환혼,https://i.mjh.nz/SamsungTVPlus/KRBC320002200.m3u8
+tvN 대탈출3,https://i.mjh.nz/SamsungTVPlus/KRBC800016YS.m3u8
+TV CHOSUN 국가가 부른다,https://i.mjh.nz/SamsungTVPlus/KRBC35000169K.m3u8
+JTBC 뉴스,https://i.mjh.nz/SamsungTVPlus/KRBC46000173Y.m3u8
+tvN 윤스테이,https://i.mjh.nz/SamsungTVPlus/KRBC3200017JQ.m3u8
+뽀요TV,https://i.mjh.nz/SamsungTVPlus/KRBD2000001BN.m3u8
+SBS 빽드,https://i.mjh.nz/SamsungTVPlus/KRBB420001572.m3u8
+Animax 하이큐!!,https://i.mjh.nz/SamsungTVPlus/KRBC3200001VC.m3u8
+코코비TV,https://i.mjh.nz/SamsungTVPlus/KRBB500035VF.m3u8
+로보카폴리 TV,https://i.mjh.nz/SamsungTVPlus/KRBC3500013VH.m3u8
+iHQ 돈쭐내러 왔습니다,https://i.mjh.nz/SamsungTVPlus/KRBC4000002ME.m3u8
+E채널 토요일은 밥이 좋아,https://i.mjh.nz/SamsungTVPlus/KRBC4100008Z6.m3u8
+KBS Joy 연애의 참견,https://i.mjh.nz/SamsungTVPlus/KRBC4000005EP.m3u8
+NEW MOVIES,https://i.mjh.nz/SamsungTVPlus/KRBC3200004D1.m3u8
+OGN 스타리그,https://i.mjh.nz/SamsungTVPlus/KRBC3200005SH.m3u8
+
+
+日本频道,#genre#
+BSアニマックス,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BSテレ东,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+GAORA,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS 1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS 2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS 3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+JSPORTS 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+LaLaTV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Music ON TV!,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NHK BS1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NHK教育,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NHK総合,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+WOWOWシネマ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+WOWOWプライム,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+キッズステーション[1024*576[1024*5,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ゴルフネットワーク,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+スーパー!ドラマTV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+スカイA,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+スターチャンネル1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+スターチャンネル2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+スターチャンネル3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+チャンネル银河,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+テレビ朝日,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+テレビ东京,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ファミリー剧场,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+フジテレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ホームドラマチャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ムービープラス,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+钓りビジョン,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+歌谣ポップスチャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+日テレNEWS24,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+日テレジータス,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+日本テレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+时代剧専门チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+囲碁将棋チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+テレビ朝日,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+時代劇専門,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+女性チャンネルLaLaTV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+チャンネル銀河 ,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Action,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+FOX,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Music Japan,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS323&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 
 北美频道,#genre#
