@@ -143,39 +143,6 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 武术世界,http://111.48.34.237/PLTV/88888888/224/3221230549/1.m3u8
 文物宝库,http://111.48.34.237/PLTV/88888888/224/3221230547/1.m3u8
 梨园,http://111.48.34.237/PLTV/88888888/224/3221230496/1.m3u8
-广东民生,http://sxd.nyxg.vip:40000/udp/239.77.0.225:5146
-广东新闻,http://sxd.nyxg.vip:40000/udp/239.77.0.173:5146
-广东珠江,http://sxd.nyxg.vip:40000/udp/239.77.0.1:5146
-广东体育,http://sxd.nyxg.vip:40000/udp/239.77.0.112:5146
-广东科教,http://sxd.nyxg.vip:40000/udp/239.77.0.85:5146
-广东影视,http://sxd.nyxg.vip:40000/udp/239.77.0.217:5146
-广东少儿,http://sxd.nyxg.vip:40000/udp/239.77.0.250:5146
-广东卡通,http://sxd.nyxg.vip:40000/udp/239.77.0.179:5146
-广东科教,http://sxd.nyxg.vip:40000/udp/239.77.0.167:5146
-广东体育,http://sxd.nyxg.vip:40000/udp/239.77.0.168:5146
-广东珠江,http://sxd.nyxg.vip:40000/udp/239.77.0.114:5146
-广东南方卫视,http://sxd.nyxg.vip:40000/udp/239.77.0.215:5146
-深圳公共,http://sxd.nyxg.vip:40000/udp/239.77.1.126:5146
-深圳都市,http://sxd.nyxg.vip:40000/udp/239.77.1.124:5146
-深圳电视剧,http://sxd.nyxg.vip:40000/udp/239.77.1.125:5146
-深圳体育,http://sxd.nyxg.vip:40000/udp/239.77.1.128:5146
-深圳公共,http://sxd.nyxg.vip:40000/udp/239.77.1.178:5146
-深圳都市,http://sxd.nyxg.vip:40000/udp/239.77.1.176:5146
-深圳电视剧,http://sxd.nyxg.vip:40000/udp/239.77.1.177:5146
-深圳公共,http://sxd.nyxg.vip:40000/udp/239.77.1.242:5146
-深圳娱乐,http://sxd.nyxg.vip:40000/udp/239.77.1.243:5146
-深圳体育,http://sxd.nyxg.vip:40000/udp/239.77.1.140:5146
-深圳少儿,http://sxd.nyxg.vip:40000/udp/239.77.1.244:5146
-深圳宝安,http://sxd.nyxg.vip:40000/udp/239.77.1.67:5146
-深圳龙岗,http://sxd.nyxg.vip:40000/udp/239.77.1.223:5146
-深圳东部,http://sxd.nyxg.vip:40000/udp/239.77.1.224:5146
-深圳众创,http://sxd.nyxg.vip:40000/udp/239.77.1.247:5146
-广州综合,http://sxd.nyxg.vip:40000/udp/239.253.43.71:5146
-广州新闻,http://sxd.nyxg.vip:40000/udp/239.253.43.72:5146
-广州影视,http://sxd.nyxg.vip:40000/udp/239.253.43.73:5146
-广州法治,http://sxd.nyxg.vip:40000/udp/239.253.43.74:5146
-广州竞赛,http://sxd.nyxg.vip:40000/udp/239.253.43.75:5146
-南国都市4K,http://sxd.nyxg.vip:40000/udp/239.253.43.99:5146
 
 
 数位频道,#genre#
@@ -444,15 +411,11 @@ CHC高清电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 
 
 港澳频道,#genre#
-TVB翡翠台,http://111.173.81.3:3001/HK/tvb/hls.m3u8
-TVB明珠台,http://111.173.81.3:3001/HK/mz/hls.m3u8
-TVBJ2台,http://111.173.81.3:3001/HK/22/hls.m3u8
-无线新闻台,http://111.173.81.3:3001/HK/wxxw/hls.m3u8
-无线财经台,http://111.173.81.3:3001/HK/j5/hls.m3u8
-HOY77台,http://111.173.81.3:3001/HK/hoy77/hls.m3u8
-HOY78台,http://111.173.81.3:3001/HK/hoy78/hls.m3u8
-VIUTV,http://111.173.81.3:3001/HK/viu/hls.m3u8
-VIUTV6,http://111.173.81.3:3001/HK/viu6/hls.m3u8
+TVB娱乐新闻,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+TVB泰国台,https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist.m3u8
+TVB直播台,https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
+神州新闻台,https://edge6a.v2h-cdn.com/mainland/mainland.stream/chunklist.m3u8
+功夫台,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 
 
 台湾频道,#genre#
