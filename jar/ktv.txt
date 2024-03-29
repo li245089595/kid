@@ -400,8 +400,38 @@ CHC高清电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 
 
 港澳频道,#genre#
+凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
+凤凰卫视,http://112.19.171.156:9999/udp/239.93.0.162:2192
+港台31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
+港台32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+港台33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+港台34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+港台35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
+无线财经,http://1.65.195.85:9981/stream/channelid/1781676223?profile=pass
+明珠台,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
+翡翠台,http://bziyunshao.synology.me:8889/bysid/1
+ViuTVsix,http://bziyunshao.synology.me:8889/bysid/96
+ViuTV,http://bziyunshao.synology.me:8889/bysid/99
+明珠台,http://bziyunshao.synology.me:8890/bysid/2
+J2台,http://bziyunshao.synology.me:8890/bysid/82
+無綫新聞台,http://bziyunshao.synology.me:8890/bysid/83
+無綫財經,http://bziyunshao.synology.me:8890/bysid/85
+國際財經台,http://bziyunshao.synology.me:8891/bysid/76
+HOY TV,http://bziyunshao.synology.me:8891/bysid/77
+HOY 資訊台,http://bziyunshao.synology.me:8891/bysid/78
+港台電視 31,http://bziyunshao.synology.me:8892/bysid/31
+港台電視 32,http://bziyunshao.synology.me:8892/bysid/32
+HOY TV,http://51.89.21.73:27347/livehttpplay?channel_id=20152
+TVB亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+TVB娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+澳门macau,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
+澳视葡文,http://61.244.22.5/ch2/ch2.live/playelist.m3u8
+新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+亚太第一卫视,http://110.19.106.198:9981/stream/channelid/999152661?ticket=B1BCB80234BFA8C75584A88C1E29CA0CF7745FC4&profile=pass
 
 
 台湾频道,#genre#
