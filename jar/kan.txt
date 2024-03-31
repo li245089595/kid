@@ -127,7 +127,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 金鹰纪实,http://alicdnhd-hz-hunan-live.5gtv.com.cn/live/jyjsHD.m3u8
 湖南电影,http://dms.yryyj.site:8188/udp/239.76.253.106:9000#http://dms.yryyj.site:8188/udp/239.76.252.119:9000
 湖南电视剧,http://dms.yryyj.site:8188/udp/239.76.253.108:9000#http://dms.yryyj.site:8188/udp/239.76.252.118:9000
-湖南娱乐,http://home.oneself.tech:3000/udp/239.76.253.103:9000#http://home.oneself.tech:3000/udp/239.76.252.121:9000
+湖南娱乐,http://home.oneself.tech:3000/udp/239.76.252.121:9000
 湖南都市,http://dms.yryyj.site:8188/udp/239.76.253.104:9000#http://dms.yryyj.site:8188/udp/239.76.252.117:9000
 湖南经视,http://dms.yryyj.site:8188/udp/239.76.253.103:9000#http://dms.yryyj.site:8188/udp/239.76.252.116:9000
 湖南爱晚,http://dms.yryyj.site:8188/udp/239.76.253.109:9000#http://dms.yryyj.site:8188/udp/239.76.252.123:9000
@@ -172,10 +172,10 @@ CHC高清电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 东方财经,http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dfcjhd8m/8000000/mnf.m3u8
 东方影视,http://php.jdshipin.com:8880/bst.php?id=dfys
 五星体育,http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-上视ICS,http://php.jdshipin.com:8880/bst.php?id=shics
-上视新闻,http://php.jdshipin.com:8880/bst.php?id=shxwzh
-上海教育,http://php.jdshipin.com:8880/bst.php?id=shjy
-上海都市,http://php.jdshipin.com:8880/bst.php?id=shds
+上视ICS,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=ics
+上视新闻,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=shxwzh
+上海教育,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=shjy
+上海都市,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=shds
 北京淘精彩,http://218.241.192.50:8808/udp/239.3.1.178:8001
 北京淘电影,http://218.241.192.50:8808/udp/239.3.1.250:8001
 北京淘剧场,http://218.241.192.50:8808/udp/239.3.1.95:8001
