@@ -18,7 +18,7 @@
   "sites": [
      {
       "key": "api_新浪采集",
-      "name": "💠┃新浪┃采集",
+      "name": "💠新浪┃采集",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "playUrl": "https://www.xinlangjiexi.com/m3u8/?url=",
@@ -50,7 +50,7 @@
     },
     {
       "key": "api_索尼采集",
-      "name": "💠┃索尼┃采集",
+      "name": "💠索尼┃采集",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/",
       "playUrl": "https://www.snplayer.com/?url=",
@@ -91,7 +91,7 @@
     },
     {
       "key": "api_光速采集",
-      "name": "💠┃光速┃采集",
+      "name": "💠光速┃采集",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "playUrl": "https://www.gszyv.com/m3u8/?url=",
@@ -124,7 +124,7 @@
     },
     {
       "key": "api_虎牙采集",
-      "name": "💠┃虎牙┃采集",
+      "name": "💠虎牙┃采集",
       "type": 1,
       "api": "http://www.huyaapi.com/api.php/provide/vod/",
       "playUrl": "https://huyajx.com/play?url=",
@@ -158,7 +158,7 @@
     },
     {
       "key": "api_红牛采集",
-      "name": "💠┃红牛┃采集",
+      "name": "💠红牛┃采集",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "playUrl": "https://www.hnjiexi.com/m3u8/?url=",
@@ -189,7 +189,7 @@
     },
     {
       "key": "api_49采集",
-      "name": "💠┃四九┃采集",
+      "name": "💠四九┃采集",
       "type": 1,
       "api": "https://49zyw.com/api.php/provide/vod",
       "playUrl": "https://49zyplayerurl.com/?url=",
@@ -227,7 +227,7 @@
     },
     {
       "key": "api_暴风采集",
-      "name": "💠┃暴风┃采集",
+      "name": "💠暴风┃采集",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/",
       "playUrl": "https://bfzyplayer.com/player/?url=",
@@ -264,7 +264,7 @@
     },
     {
       "key": "api_量子采集",
-      "name": "💠┃量子┃采集",
+      "name": "💠量子┃采集",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "https://lziplayer.com/?url=",
@@ -301,7 +301,7 @@
     },
     {
       "key": "api_金鹰采集",
-      "name": "💠┃金鹰┃采集",
+      "name": "💠金鹰┃采集",
       "type": 1,
       "api": "https://jyzyapi.com/provide/vod/",
       "playUrl": "https://hd.iapijy.com/play?url=",
@@ -335,7 +335,7 @@
     },
     {
       "key": "api_优质采集",
-      "name": "💠┃优质┃采集",
+      "name": "💠优质┃采集",
       "type": 1,
       "api": "https://api.1080zyku.com/inc/apijson.php?ac=list",
       "playUrl": "https://vip.zykbf.com/?url=",
@@ -373,7 +373,7 @@
      },
      {
       "key": "csp_Bili",
-      "name": "💠┃哔哩┃综合",
+      "name": "💠哔哩┃综合",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -383,7 +383,7 @@
     },
     {
       "key": "csp_Biliych",
-      "name": "💠┃歌手┃专辑",
+      "name": "💠歌手┃专辑",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -393,7 +393,7 @@
     },
     {
       "key": "音乐曲库",
-      "name": "💠┃音乐┃曲库",
+      "name": "💠音乐┃曲库",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
