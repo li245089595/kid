@@ -1,4 +1,4 @@
-{
+{ "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/kan.jar;md5; a94015e02cd9886492add6f9b1705dba",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
