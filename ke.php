@@ -16,36 +16,6 @@
     }
   ],
   "sites": [
-      {
-      "key": "csp_Bili",
-      "name": "💠KiD┃综合",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/bilibili.json"
-    },
-    {
-      "key": "csp_Biliych",
-      "name": "💠歌手┃专辑",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/biliych.json"
-    },
-    {
-      "key": "音乐曲库",
-      "name": "💠音乐┃曲库",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/Blimv.json"
-    },
      {
       "key": "api_新浪采集",
       "name": "💠┃新浪┃采集",
@@ -400,8 +370,38 @@
         "日韩动漫",
         "欧美动漫"
       ]
-    }
-  ],
+     },
+     {
+      "key": "csp_Bili",
+      "name": "💠┃哔哩┃综合",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/bilibili.json"
+    },
+    {
+      "key": "csp_Biliych",
+      "name": "💠┃歌手┃专辑",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/biliych.json"
+    },
+    {
+      "key": "音乐曲库",
+      "name": "💠┃音乐┃曲库",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/Blimv.json"
+    }  
+],
   "doh": [
     {
       "name": "Google",
