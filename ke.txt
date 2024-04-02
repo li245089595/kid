@@ -1,5 +1,5 @@
 {
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/kan.jar;md5; 800d19942365f5754f20c532cffd2242",
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/kan.jar;md5; 939c79aa5e93766504d1f7a957d32f24",
   "wallpaper": "https://jpg.wxincai.eu.org",
   "warningText": "KiD综合祝你生活愉快。",
   "lives": [
