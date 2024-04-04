@@ -127,7 +127,7 @@
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "",
-      "playerType": 1,
+      "playerType": 0,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
