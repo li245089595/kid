@@ -820,6 +820,11 @@ Bein Sport Prem 1,p3p://fccsen.dyndns.tv:29706/5a1f696e0005f6a2c65c2e7110023294
 
 
 彩虹频道_231,#genre#
+松视1台,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
+松视2台,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
+惊艳台,https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
+潘多拉,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
+香蕉台,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
 Brazzers,p3p://fccsen.dyndns.tv:29706/60bc2535000292424fc304cf3c251ba8
 Hustler,p3p://fccsen.dyndns.tv:29706/5f4730e9000077ee9eea293625b72a20
 Babes TV,p3p://fccsen.dyndns.tv:29706/5b2c5589000853b7e0d48153016e5aa6
