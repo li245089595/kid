@@ -52,7 +52,7 @@
         "体育"
       ]
     },
-     {
+    {
       "key": "非凡",
       "name": "💫┃非凡┃影视",
       "type": 1,
@@ -161,7 +161,7 @@
         "日韩综艺"
       ]
     },
-     {
+    {
       "key": "api_百度采集",
       "name": "💠┃百度┃采集",
       "type": 1,
@@ -790,6 +790,85 @@
     }
   ],
   "parses": [
+    {
+      "name": "解析轮询",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "嗅探轮询",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "json轮询",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
+      "name": "左岸解析",
+      "type": 1,
+      "url": "https://wuzei.serv00.net/jx/bl.php?v="
+    },
+    {
+      "name": "右岸解析",
+      "type": 1,
+      "url": "https://wuzei.serv00.net/jx/hx.php?url="
+    },
+    {
+      "name": "彩虹解析",
+      "type": 1,
+      "url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url="
+    },
+    {
+      "name": "聚合解析",
+      "type": 1,
+      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
+      "ext": {
+        "flag": [
+          "seven",
+          "mgtv",
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "芒果"
+        ]
+      }
+    },
+    {
+      "name": "爱酷嗅探",
+      "type": 0,
+      "url": "https://jx.zhanlangbu.com/?url="
+    },
+    {
+      "name": "银河嗅探",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "kingtail嗅探",
+      "type": 0,
+      "url": "https://jx.kingtail.xyz/?url="
+    },
+    {
+      "name": "777嗅探",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
+    {
+      "name": "m3u8嗅探",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "云嗅探",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
     {
       "name": "自动解析",
       "type": 3,
