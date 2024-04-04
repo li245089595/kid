@@ -1,4 +1,4 @@
-🔸央视,#genre#
+ 🔸央视,#genre#
 CCTV1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2财经,http://111.48.34.237/PLTV/88888888/224/3221229893/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -64,7 +64,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8#http://39.134.67.108/PLTV/88888888/224/3221226020/1.m3u8
 嘉佳卡通,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 海峡卫视,http://36.248.137.69:60033/tsfile/live/0150_1.m3u8?key=txiptv#http://php.jdshipin.com:8880/bst.php?id=hxwshd4m/4000000
-厦门卫视,https://xiamenalic.v.myalicdn.com/xiamen/xiamen_1/index.m3u8#http://giwon.ddns.net:5555/rtp/239.93.42.57:5140#http://220.163.178.144:8888/tsfile/live/0115_1.m3u8
+厦门卫视,http://111.48.34.237/PLTV/88888888/224/3221230498/1.m3u8#http://111.20.35.108:6610/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
@@ -124,7 +124,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 武汉教育,http://gd.ikhs.cn:8880/udp/239.69.1.60:9994
 茶频道,http://111.48.34.237/PLTV/88888888/224/3221229873/1.m3u8
 快乐垂钓,http://111.48.34.237/PLTV/88888888/224/3221230479/1.m3u8
-金鹰纪实,http://alicdnhd-hz-hunan-live.5gtv.com.cn/live/jyjsHD.m3u8
+金鹰纪实,http://111.20.35.108:6610/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 湖南电影,http://dms.yryyj.site:8188/udp/239.76.253.106:9000#http://dms.yryyj.site:8188/udp/239.76.252.119:9000
 湖南电视剧,http://dms.yryyj.site:8188/udp/239.76.253.108:9000#http://dms.yryyj.site:8188/udp/239.76.252.118:9000
 湖南娱乐,http://home.oneself.tech:3000/udp/239.76.252.121:9000
