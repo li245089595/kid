@@ -54,7 +54,7 @@
     },
      {
       "key": "非凡",
-      "name": "💫┃非凡┃影视(CJ)",
+      "name": "💫┃非凡┃影视",
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
       "searchable": 1,
@@ -125,7 +125,7 @@
       "key": "api_豪华采集",
       "name": "💠┃豪华┃采集",
       "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/",
+      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "",
       "playerType": 1,
       "searchable": 1,
