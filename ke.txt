@@ -23,7 +23,7 @@
       "api": "csp_Ikanbot",
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "https://agit.ai/kankan314/cattv/raw/branch/main/Jar/spider.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/j2.jar",
       "changeable": 1
     },
      {
