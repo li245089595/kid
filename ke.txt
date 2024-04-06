@@ -16,9 +16,19 @@
     }
   ],
   "sites": [
-    {
+      {
+      "key": "KiD影院",
+      "name": "💠KiD┃影院",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar": "https://agit.ai/kankan314/cattv/raw/branch/main/Jar/spider.jar",
+      "changeable": 1
+    },
+     {
       "key": "api_豪华采集",
-      "name": "💠┃豪华┃采集",
+      "name": "💠豪华┃采集",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "playUrl": "https://hhjiexi.com/play/?url=",
