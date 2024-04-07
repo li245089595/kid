@@ -16,15 +16,37 @@
     }
   ],
   "sites": [
-      {
-      "key": "KiD影院",
-      "name": "💠KiD┃影院",
-      "type": 3,
-      "api": "csp_Ikanbot",
+     {
+      "key": "api_新浪采集",
+      "name": "💠┃新浪┃采集",
+      "type": 1,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "playUrl": "https://www.xinlangjiexi.com/m3u8/?url=",
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/j2.jar",
-      "changeable": 1
+      "filterable": 0,
+      "categories": [
+        "大陆剧",
+        "港澳剧",
+        "台湾剧",
+        "欧美剧",
+        "日剧",
+        "韩剧",
+        "泰剧",
+        "纪录片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "战争片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "伦理片",
+        "动漫",
+        "综艺",
+        "体育"
+      ]
     },
      {
       "key": "api_豪华采集",
