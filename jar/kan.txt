@@ -210,7 +210,7 @@ CHC高清电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
 
 
-斗鱼电影,#genre#
+🔸电影,#genre#
 高分电影,https://live.metshop.top/douyu/7254536
 豆瓣高分,https://live.metshop.top/douyu/8770422
 漫威影院,https://live.metshop.top/douyu/6140589
