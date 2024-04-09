@@ -172,6 +172,10 @@ CHC高清电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 上视新闻,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=shxwzh
 上海教育,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=shjy
 上海都市,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=shds
+睛彩竞技,http://opdf.top:8088/udp/239.81.0.190:4056
+睛彩篮球,http://opdf.top:8088/udp/239.81.0.191:4056
+睛彩羽毛球,http://opdf.top:8088/udp/239.81.0.192:4056
+睛彩广场舞,http://opdf.top:8088/udp/239.81.0.193:4056
 北京淘精彩,http://218.241.192.50:8808/udp/239.3.1.178:8001
 北京淘电影,http://218.241.192.50:8808/udp/239.3.1.250:8001
 北京淘剧场,http://218.241.192.50:8808/udp/239.3.1.95:8001
