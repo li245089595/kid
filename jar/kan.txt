@@ -155,7 +155,7 @@ CHC高清电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 动漫秀场,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=dmxc
 游戏风云,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=yxfy
 生活时尚,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=shss
-乐游,http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/qjshd8m/8000000/mnf.m3u8
+乐游,http://h.berr.cn:3000/udp/225.0.0.164:6140
 魅力足球,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=mlzq
 四海钓鱼,http://111.48.34.237/PLTV/88888888/224/3221230438/1.m3u8
 法治天地,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=fztd
@@ -282,13 +282,16 @@ J2,P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
 翡翠台,P2p://generationnexxxt.com:19806/65f96ab8000ca1d1268c26e426ae6c37
 明珠台,P2p://generationnexxxt.com:19806/fd4c4431a2204a20b5c7c67698592912
 TVB星河(粵),P2p://generationnexxxt.com:19806/2dfd5ed435e841c1b6949346c2b58583
-TVB娛樂新聞台,P2p://generationnexxxt.com:19806/94c52f4f55a646f6825cff0b78316ae2
+TVB娛樂新聞台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8#P2p://generationnexxxt.com:19806/94c52f4f55a646f6825cff0b78316ae2
 無線新聞台,P2p://generationnexxxt.com:19806/85a50e6db781406bacc41b10a75a70d5
 無線財經體育資訊台,P2p://generationnexxxt.com:19806/acf61c067b48468dbdf3ae976c322d1a
 香港國際財經台,P2p://generationnexxxt.com:19806/f3cb31dde1e040a4a30f89e8f95beea7
 now新聞台,P2p://generationnexxxt.com:19806/5c263253cf5241b1a155f0b1b85edea1
 now財經台,P2p://generationnexxxt.com:19806/3a492b41b36f45acab0b75396aadc32d
 ViuTVsix,P2p://generationnexxxt.com:19806/4117b4e170014c2fbce73011cfaf066a
+功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+18台,mitv://generationnexxxt.com:19806/8bf8f53c61944785b13817297101af20
+戲曲台,mitv://generationnexxxt.com:19806/4c3b3c3a6c8849c3aa0fc9938859e134
 黃金翡翠台,P2p://generationnexxxt.com:19806/c2e1bcd2c5544341b2a0d7f7a53e0d98
 澳門蓮花,P2p://generationnexxxt.com:19806/35abc186b6194a4ca97a6d9f9d59e501
 澳門-MACAU,P2p://generationnexxxt.com:19806/ed4ff86efe2647dd8c6f6f91739dd9c9
