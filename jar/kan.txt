@@ -318,8 +318,8 @@ ViuTVsix,P2p://generationnexxxt.com:19806/4117b4e170014c2fbce73011cfaf066a
 華視新聞,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=28
 寰宇新聞台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=24
 寰宇新聞臺灣台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=25
-東森幼幼台,http://udnhls.skilldns.com:80/dsmz.m3u8
-東森綜合台,http://udnhls.skilldns.com:80/dsxw.m3u8
+東森洋片台,http://udnhls.skilldns.com:80/dsmz.m3u8
+東森幼幼台,http://udnhls.skilldns.com:80/dsxw.m3u8
 東森綜合台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=22
 東森財經新聞台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=23
 東森超視台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=51
@@ -372,7 +372,7 @@ BBC World News,P2p://generationnexxxt.com:19806/323c575f4f694f739cd9f7a945075cef
 愛爾達體育1台,P2p://generationnexxxt.com:19806/38729b9421044022a4d81ee0fe899dcd
 愛爾達體育2台,P2p://generationnexxxt.com:19806/b63a56b3be724653802408c3b2044490
 愛爾達體育3台,P2p://generationnexxxt.com:19806/c34b66fc16df4781baceff8a2f6430e4
-MOMOTV,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=50
+MOMO親子台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=50
 DAZN1,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=45
 DAZN2,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=46
 
