@@ -583,11 +583,12 @@ Bein Sport Prem 1,p3p://fccsen.dyndns.tv:29706/5a1f696e0005f6a2c65c2e7110023294
 
 
 🔸彩虹_231,#genre#
-松視1台,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
-松視2台,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
+松視1台,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8#http://18.svi-studio.com:80/live/176619383282/537544338952/5.m3u8
+松視2台,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8#http://18.svi-studio.com:80/live/176619383282/537544338952/6.m3u8
+松視3台,https://18.svi-studio.com/live/673960949860/294164781253/20205.m3u8#http://18.svi-studio.com:80/live/176619383282/537544338952/20205.m3u8
 香蕉台,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
 驚豔成人電影台,https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
-潘朵啦玩美台,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
+潘朵啦玩美台,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8#http://18.svi-studio.com:80/live/176619383282/537544338952/3.m3u8
 Brazzers,p3p://fccsen.dyndns.tv:29706/60bc2535000292424fc304cf3c251ba8
 Hustler,p3p://fccsen.dyndns.tv:29706/5f4730e9000077ee9eea293625b72a20
 Babes TV,p3p://fccsen.dyndns.tv:29706/5b2c5589000853b7e0d48153016e5aa6
