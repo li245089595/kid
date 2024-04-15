@@ -46,10 +46,10 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 🔸卫视,#genre#
 凤凰中文台,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰资讯台,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰香港台,http://www.lebaobei.top:6868/udp/239.255.30.123:8231
+凤凰资讯台,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8#http://113.64.145.91:8081/hls/36/index.m3u8
+凤凰香港台,http://113.64.145.91:8081/hls/38/index.m3u8#http://www.lebaobei.top:6868/udp/239.255.30.123:8231
 凤凰电影台,http://www.petzhu.top:7000/rtp/239.254.201.1:5214
-星空卫视,http://www.xcarchain.com:8888/udp/239.93.0.156:2193
+星空卫视,http://www.xcarchain.com:8888/udp/239.93.0.156:2193#http://118.113.110.79:8888/udp/239.93.1.10:2193
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
@@ -278,73 +278,54 @@ CHC高清电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 
 
 🔸港澳,#genre#
-J2,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=11P#2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
-翡翠台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=8#P2p://generationnexxxt.com:19806/65f96ab8000ca1d1268c26e426ae6c37
+J2,P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
+翡翠台,P2p://generationnexxxt.com:19806/65f96ab8000ca1d1268c26e426ae6c37
 明珠台,P2p://generationnexxxt.com:19806/fd4c4431a2204a20b5c7c67698592912
-TVB星河(粵),https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=12#P2p://generationnexxxt.com:19806/2dfd5ed435e841c1b6949346c2b58583
+TVB星河(粵),P2p://generationnexxxt.com:19806/2dfd5ed435e841c1b6949346c2b58583
 TVB娛樂新聞台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8#P2p://generationnexxxt.com:19806/94c52f4f55a646f6825cff0b78316ae2
-無線新聞台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=6#P2p://generationnexxxt.com:19806/85a50e6db781406bacc41b10a75a70d5
-無線財經體育資訊台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=7#P2p://generationnexxxt.com:19806/acf61c067b48468dbdf3ae976c322d1a
-香港國際財經台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=16#P2p://generationnexxxt.com:19806/f3cb31dde1e040a4a30f89e8f95beea7
-HOY TV,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=17
-HOY資訊台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=18#https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=3
-HKC 18,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=4#https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=5
+無線新聞台,P2p://generationnexxxt.com:19806/85a50e6db781406bacc41b10a75a70d5
+無線財經體育資訊台,P2p://generationnexxxt.com:19806/acf61c067b48468dbdf3ae976c322d1a
+香港國際財經台,P2p://generationnexxxt.com:19806/f3cb31dde1e040a4a30f89e8f95beea7#http://bziyunshao.synology.me:8891/bysid/76
+HOY TV,http://51.89.21.73:27347/livehttpplay?channel_id=20152#http://223.71.206.22:30080/HK/hoy77/hls.m3u8#http://bziyunshao.synology.me:8891/bysid/77
+HOY資訊台,http://bziyunshao.synology.me:8891/bysid/78#http://223.71.206.22:30080/HK/hoy78/hls.m3u8
+港臺電視31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8#http://bziyunshao.synology.me:8892/bysid/31
+港臺電視32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8#http://bziyunshao.synology.me:8892/bysid/32
 now新聞台,P2p://generationnexxxt.com:19806/5c263253cf5241b1a155f0b1b85edea1
 now財經台,P2p://generationnexxxt.com:19806/3a492b41b36f45acab0b75396aadc32d
-港臺電視31,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=19
-港臺電視32,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=20
-ViuTV,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=13
-ViuTVsix,P2p://generationnexxxt.com:19806/4117b4e170014c2fbce73011cfaf066a
+ViuTV,http://bziyunshao.synology.me:8889/bysid/99
+ViuTVsix,P2p://generationnexxxt.com:19806/4117b4e170014c2fbce73011cfaf066a#http://bziyunshao.synology.me:8889/bysid/96
+18台,mitv://generationnexxxt.com:19806/8bf8f53c61944785b13817297101af20
 功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 戲曲台,mitv://generationnexxxt.com:19806/4c3b3c3a6c8849c3aa0fc9938859e134
-18台,mitv://generationnexxxt.com:19806/8bf8f53c61944785b13817297101af20
 黃金翡翠台,P2p://generationnexxxt.com:19806/c2e1bcd2c5544341b2a0d7f7a53e0d98
 澳門蓮花,P2p://generationnexxxt.com:19806/35abc186b6194a4ca97a6d9f9d59e501
 澳門-MACAU,P2p://generationnexxxt.com:19806/ed4ff86efe2647dd8c6f6f91739dd9c9
-鳳凰中文台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=1#P2p://generationnexxxt.com:19806/65fd687c000dccf1362379174a9617fc
-鳳凰資訊台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=2#P2p://generationnexxxt.com:19806/65fd6d04000e7c8036352c8637e97c89
+鳳凰中文台,P2p://generationnexxxt.com:19806/65fd687c000dccf1362379174a9617fc
+鳳凰資訊台,P2p://generationnexxxt.com:19806/65fd6d04000e7c8036352c8637e97c89
 
 
 🔸台湾,#genre#
-民視,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=35
-台視,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=36
-中視,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=37
-華視,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=38
-公視,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=33
-民視新聞台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=34
-民視第一台,P2p://generationnexxxt.com:19806/1c48731982a54a59a9555f7247f3bf7f
-台視新聞台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=26
-中視新聞台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=27
-華視新聞,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=28
-寰宇新聞台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=24
-寰宇新聞臺灣台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=25
-東森洋片台,http://udnhls.skilldns.com:80/dsmz.m3u8
-東森幼幼台,http://udnhls.skilldns.com:80/dsxw.m3u8
-東森綜合台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=22
-東森財經新聞台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=23
-東森超視台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=51
+東森財經新聞台,http://udnhls.skilldns.com:80/dsxw.m3u8
+東森綜合台,http://udnhls.skilldns.com:80/dsmz.m3u8
 東森新聞台,P2p://generationnexxxt.com:19806/7bbf7bf4cb8f4a58893f6b5017a9fe05
 東森戲劇台,P2p://generationnexxxt.com:19806/8e23c200926a4eaaa00043b39dca9075
-中天新聞台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=21#P2p://generationnexxxt.com:19806/e92e93fd67794e92acdc0d4005f0781a
-中天亞洲台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=41#P2p://generationnexxxt.com:19806/cb5ccc31dac94210bdc7507c320fb32e
+中天新聞台,P2p://generationnexxxt.com:19806/e92e93fd67794e92acdc0d4005f0781a
+中天亞洲台,P2p://generationnexxxt.com:19806/cb5ccc31dac94210bdc7507c320fb32e
 中天娛樂台,P2p://generationnexxxt.com:19806/f2d219cb882a47038438e2f483f7bf95
-鏡新聞,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=32
-TVBS,P2p://generationnexxxt.com:19806/be3d1c188f0c4b938ccfca04566b0fc1
-TVBS新聞台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=29#P2p://generationnexxxt.com:19806/65fa6dc600095b662a8020fe14c65804
-TVBS歡樂台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=40#P2p://generationnexxxt.com:19806/b7e4efb094034ce1895b3d9a5548cc2b
-緯來體育台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=42
-緯來育樂台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=44#P2p://generationnexxxt.com:19806/09f5cbcd57934038bc76de430a767046
+緯來育樂台,P2p://generationnexxxt.com:19806/09f5cbcd57934038bc76de430a767046
 緯來電影台,P2p://generationnexxxt.com:19806/7ab30b79b011427287733d8ba51333e8
 緯來綜合台,P2p://generationnexxxt.com:19806/a537a3ebc712483993ab82440801d1e6
-緯來日本,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=43
-三立臺灣台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=30
-三立iNEWS,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=31#P2p://generationnexxxt.com:19806/31103be1231e435ab69fdc1492cf08ee
+TVBS,P2p://generationnexxxt.com:19806/be3d1c188f0c4b938ccfca04566b0fc1
+TVBS新聞台,P2p://generationnexxxt.com:19806/65fa6dc600095b662a8020fe14c65804
+TVBS歡樂台,P2p://generationnexxxt.com:19806/b7e4efb094034ce1895b3d9a5548cc2b
+三立iNEWS,P2p://generationnexxxt.com:19806/31103be1231e435ab69fdc1492cf08ee
 三立新聞台,P2p://generationnexxxt.com:19806/96118abbe8ee48ddaef2c9c1cea1af04
-非凡新聞台,P2p://generationnexxxt.com:19806/65fa6fc4000df93d2a87ea67255a50ce
-年代新聞,P2p://generationnexxxt.com:19806/65fa6ea5000ec21a2a83897e03cd44bb#P2p://generationnexxxt.com:19806/65ddd162000837a5babd25111eb9560c
 八大優頻道,P2p://generationnexxxt.com:19806/e1b81f9f50644fd38273333129365a4c
-霹靂臺灣台,P2p://generationnexxxt.com:19806/c72cf3cb004849c082422b8e0fa31067
 高點綜合台,P2p://generationnexxxt.com:19806/0add95963fcd4b6ba03d63cc32dbd1a4
+民視第一台,P2p://generationnexxxt.com:19806/1c48731982a54a59a9555f7247f3bf7f
+年代新聞,P2p://generationnexxxt.com:19806/65fa6ea5000ec21a2a83897e03cd44bb#P2p://generationnexxxt.com:19806/65ddd162000837a5babd25111eb9560c
+非凡新聞台,P2p://generationnexxxt.com:19806/65fa6fc4000df93d2a87ea67255a50ce
+霹靂臺灣台,P2p://generationnexxxt.com:19806/c72cf3cb004849c082422b8e0fa31067
 影迷數位電影台,P2p://generationnexxxt.com:19806/381a31aedcd2452c9be9582fc5a8ac51
 亞洲美食頻道,P2p://generationnexxxt.com:19806/8a565409a26044bead7e66ac44c894f0
 亞洲旅遊台,P2p://generationnexxxt.com:19806/816c4598cfb641f5845b90a3bc772f1c
@@ -372,9 +353,6 @@ BBC World News,P2p://generationnexxxt.com:19806/323c575f4f694f739cd9f7a945075cef
 愛爾達體育1台,P2p://generationnexxxt.com:19806/38729b9421044022a4d81ee0fe899dcd
 愛爾達體育2台,P2p://generationnexxxt.com:19806/b63a56b3be724653802408c3b2044490
 愛爾達體育3台,P2p://generationnexxxt.com:19806/c34b66fc16df4781baceff8a2f6430e4
-MOMO親子台,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=50
-DAZN1,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=45
-DAZN2,https://gat.7egg.cn/tbs.php?key=2f200140bcb910f5e1822ade8936301c&id=46
 
 
 🔸北美,#genre#
