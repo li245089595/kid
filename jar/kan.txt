@@ -160,7 +160,7 @@ CHC高清电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 四海钓鱼,http://111.48.34.237/PLTV/88888888/224/3221230438/1.m3u8
 法治天地,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=fztd
 七彩戏剧,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=qcxj
-新视觉,http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/xsjhd8m/8000000/mnf.m3u8
+新视觉,http://ygbh.live/Best.php?id=xsj#http://ygbhbox.v6.navy/Best.php?id=xsj
 劲爆体育,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=jbty
 金色学堂,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=jsxt
 财富天下,http://111.48.34.237/PLTV/88888888/224/3221229728/1.m3u8
@@ -278,7 +278,7 @@ CHC高清电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 
 
 🔸港澳,#genre#
-J2,P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
+J2,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872#P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
 翡翠台,P2p://generationnexxxt.com:19806/65f96ab8000ca1d1268c26e426ae6c37
 明珠台,P2p://generationnexxxt.com:19806/fd4c4431a2204a20b5c7c67698592912
 TVB星河(粵),P2p://generationnexxxt.com:19806/2dfd5ed435e841c1b6949346c2b58583
@@ -292,12 +292,19 @@ HOY資訊台,http://bziyunshao.synology.me:8891/bysid/78#http://223.71.206.22:30
 港臺電視32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8#http://bziyunshao.synology.me:8892/bysid/32
 now新聞台,P2p://generationnexxxt.com:19806/5c263253cf5241b1a155f0b1b85edea1
 now財經台,P2p://generationnexxxt.com:19806/3a492b41b36f45acab0b75396aadc32d
-ViuTV,http://bziyunshao.synology.me:8889/bysid/99
+ViuTV,mitv://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b#http://bziyunshao.synology.me:8889/bysid/99
 ViuTVsix,P2p://generationnexxxt.com:19806/4117b4e170014c2fbce73011cfaf066a#http://bziyunshao.synology.me:8889/bysid/96
 18台,mitv://generationnexxxt.com:19806/8bf8f53c61944785b13817297101af20
 功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+亞洲劇台,mitv://generationnexxxt.com:19806/ee081a662356489d8b2170952ec91d24
+粵語片台,mitv://generationnexxxt.com:19806/3a44c9c92439443494b8ecff6fdb2336
 戲曲台,mitv://generationnexxxt.com:19806/4c3b3c3a6c8849c3aa0fc9938859e134
 黃金翡翠台,P2p://generationnexxxt.com:19806/c2e1bcd2c5544341b2a0d7f7a53e0d98
+Thrill,mitv://generationnexxxt.com:19806/1c3c73215afd42558101c3ee65737202
+私人影院,mitv://generationnexxxt.com:19806/3cfadd5e9af14d6db652b3c23acd7a7d
+KIX,mitv://generationnexxxt.com:19806/3f7be3ad31504c9fa358e3fe583fac0a
+天映頻道,mitv://generationnexxxt.com:19806/65e1b0870000c6d7c9dccba555040378
+天映經典,mitv://generationnexxxt.com:19806/3ac31fa9f30145b68f8469b00d91b200
 澳門蓮花,P2p://generationnexxxt.com:19806/35abc186b6194a4ca97a6d9f9d59e501
 澳門-MACAU,P2p://generationnexxxt.com:19806/ed4ff86efe2647dd8c6f6f91739dd9c9
 鳳凰中文台,P2p://generationnexxxt.com:19806/65fd687c000dccf1362379174a9617fc
@@ -305,26 +312,33 @@ ViuTVsix,P2p://generationnexxxt.com:19806/4117b4e170014c2fbce73011cfaf066a#http:
 
 
 🔸台湾,#genre#
+民視,rtmp://f13h.mine.nu/sat/tv051
+台視,rtmp://f13h.mine.nu/sat/tv071
+中視,rtmp://f13h.mine.nu/sat/tv091
+華視,rtmp://f13h.mine.nu/sat/tv111
 東森財經新聞台,http://udnhls.skilldns.com:80/dsxw.m3u8
 東森綜合台,http://udnhls.skilldns.com:80/dsmz.m3u8
+東森超視台,rtmp://f13h.mine.nu/sat/tv331
 東森新聞台,P2p://generationnexxxt.com:19806/7bbf7bf4cb8f4a58893f6b5017a9fe05
 東森戲劇台,P2p://generationnexxxt.com:19806/8e23c200926a4eaaa00043b39dca9075
 中天新聞台,P2p://generationnexxxt.com:19806/e92e93fd67794e92acdc0d4005f0781a
 中天亞洲台,P2p://generationnexxxt.com:19806/cb5ccc31dac94210bdc7507c320fb32e
 中天娛樂台,P2p://generationnexxxt.com:19806/f2d219cb882a47038438e2f483f7bf95
-緯來育樂台,P2p://generationnexxxt.com:19806/09f5cbcd57934038bc76de430a767046
+緯來體育台,rtmp://f13h.mine.nu/sat/tv721
+緯來育樂台,rtmp://f13h.mine.nu/sat/tv701#P2p://generationnexxxt.com:19806/09f5cbcd57934038bc76de430a767046
 緯來電影台,P2p://generationnexxxt.com:19806/7ab30b79b011427287733d8ba51333e8
 緯來綜合台,P2p://generationnexxxt.com:19806/a537a3ebc712483993ab82440801d1e6
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
 TVBS,P2p://generationnexxxt.com:19806/be3d1c188f0c4b938ccfca04566b0fc1
-TVBS新聞台,P2p://generationnexxxt.com:19806/65fa6dc600095b662a8020fe14c65804
-TVBS歡樂台,P2p://generationnexxxt.com:19806/b7e4efb094034ce1895b3d9a5548cc2b
+TVBS新聞台,rtmp://f13h.mine.nu/sat/tv551#P2p://generationnexxxt.com:19806/65fa6dc600095b662a8020fe14c65804
+TVBS歡樂台,rtmp://f13h.mine.nu/sat/tv421#P2p://generationnexxxt.com:19806/b7e4efb094034ce1895b3d9a5548cc2b
 三立iNEWS,P2p://generationnexxxt.com:19806/31103be1231e435ab69fdc1492cf08ee
 三立新聞台,P2p://generationnexxxt.com:19806/96118abbe8ee48ddaef2c9c1cea1af04
 八大優頻道,P2p://generationnexxxt.com:19806/e1b81f9f50644fd38273333129365a4c
 高點綜合台,P2p://generationnexxxt.com:19806/0add95963fcd4b6ba03d63cc32dbd1a4
 民視第一台,P2p://generationnexxxt.com:19806/1c48731982a54a59a9555f7247f3bf7f
 年代新聞,P2p://generationnexxxt.com:19806/65fa6ea5000ec21a2a83897e03cd44bb#P2p://generationnexxxt.com:19806/65ddd162000837a5babd25111eb9560c
-非凡新聞台,P2p://generationnexxxt.com:19806/65fa6fc4000df93d2a87ea67255a50ce
+非凡新聞台,rtmp://f13h.mine.nu/sat/tv581#P2p://generationnexxxt.com:19806/65fa6fc4000df93d2a87ea67255a50ce
 霹靂臺灣台,P2p://generationnexxxt.com:19806/c72cf3cb004849c082422b8e0fa31067
 影迷數位電影台,P2p://generationnexxxt.com:19806/381a31aedcd2452c9be9582fc5a8ac51
 亞洲美食頻道,P2p://generationnexxxt.com:19806/8a565409a26044bead7e66ac44c894f0
@@ -353,6 +367,9 @@ BBC World News,P2p://generationnexxxt.com:19806/323c575f4f694f739cd9f7a945075cef
 愛爾達體育1台,P2p://generationnexxxt.com:19806/38729b9421044022a4d81ee0fe899dcd
 愛爾達體育2台,P2p://generationnexxxt.com:19806/b63a56b3be724653802408c3b2044490
 愛爾達體育3台,P2p://generationnexxxt.com:19806/c34b66fc16df4781baceff8a2f6430e4
+ELEVEN體育1台,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN體育2台,rtmp://f13h.mine.nu/sat/tv741
+
 
 
 🔸北美,#genre#
