@@ -818,7 +818,7 @@ MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 客家电视台,mitv://generationnexxxt.com:19806/eafabb6e7c30439b8ecd35ad40a46a96
 佛卫慈悲台,mitv://generationnexxxt.com:19806/be70c8b5b35c4551b5c7d3c905234e69
 
-马来西亚,#genre#
+马来频道,#genre#
 TVB星河,mitv://generationnexxxt.com:19806/0c08d9d705a747908c23ba652726d777
 TVB星河,mitv://generationnexxxt.com:19806/2dfd5ed435e841c1b6949346c2b58583
 TVB娱乐新闻台,mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
@@ -890,7 +890,7 @@ Golf Channel,mitv://generationnexxxt.com:19806/65619e930003f0fc6728c71226a25f2d
 Golf Channel,mitv://generationnexxxt.com:19806/f525ac536b9740f1be9aa0e15eebdd74
 TV Okey,mitv://generationnexxxt.com:19806/c393e305d0034cb383ed076f9f711f1a
 
-新加坡,#genre#
+新加频道,#genre#
 beIN Sports,mitv://generationnexxxt.com:19806/eefa5931a750470d8a3267932e36c644
 beIN Sports 3,mitv://generationnexxxt.com:19806/65a52dc1000d76fbdd7dd8ab186b4afd
 HGTV居家乐活频道,mitv://generationnexxxt.com:19806/84613e96237545769558cc572e6d1ab0
