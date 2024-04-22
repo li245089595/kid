@@ -59,7 +59,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 大湾区卫视,http://39.134.67.108/PLTV/88888888/224/3221226020/1.m3u8#http://39.134.66.4/PLTV/88888888/224/3221226020/index.m3u8
-嘉佳卡通,http://1.30.18.218:20080/hls/40/index.m3u8
+嘉佳卡通,http://110.178.52.119:8084/udp/239.1.1.68:8068
 厦门卫视,http://111.48.34.237/PLTV/88888888/224/3221230498/1.m3u8#http://111.20.35.108:6610/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 海峡卫视,http://36.248.137.69:60033/tsfile/live/0150_1.m3u8?key=txiptv
 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
@@ -150,13 +150,14 @@ CHC高清电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+哒啵电竞,http://111.48.34.237/PLTV/88888888/224/3221230452/1.m3u8
 欢笑剧场,http://111.48.34.237/PLTV/88888888/224/3221230500/1.m3u8
 都市剧场,http://h.berr.cn:3000/udp/225.0.0.157:6140
 动漫秀场,http://h.berr.cn:3000/udp/225.0.0.161:6140
 游戏风云,http://h.berr.cn:3000/udp/225.0.0.162:6140
 生活时尚,http://h.berr.cn:3000/udp/225.0.0.163:6140
 乐游,http://h.berr.cn:3000/udp/225.0.0.164:6140
-魅力足球,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=mlzq
+魅力足球,http://144.52.146.229:5002/udp/239.21.2.95:5002
 四海钓鱼,http://111.48.34.237/PLTV/88888888/224/3221230438/1.m3u8
 法治天地,http://h.berr.cn:3000/udp/225.0.0.160:6140
 七彩戏剧,http://h.berr.cn:3000/udp/225.0.0.225:6140
