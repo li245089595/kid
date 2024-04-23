@@ -1,4 +1,4 @@
-✴️永久免費✴️,#genre#
+港台,#genre#
 翡翠臺,tvbus://7g18UjwSBWQ3P17bYUPm6C9pck3j7wfPPuY9ub9KeLHVEvBhDJ
 NOW 新聞臺(多音轨)|NOW新闻台,tvbus://8k4e9QEfUCX3dDKzGLV5myGbt9Vh2DNFPALQjap9F7SsQD3D6t
 CN卡通,tvbus://8XVY6WrvvDHrAWN2dNR7TjcfPqefo5evf3FgCk5DBJi54S5yGP
@@ -56,7 +56,6 @@ FRANCE 24,tvbus://7VVjVqjC1u6JMW8afLsWmgfzke9PyJYUgn6YRd22xJnBcp6LmC
 華藏衛視,tvbus://6y88EdmBpZuFcjqPUfKyjkD2QvCS1zWkRhhZdscJze7rggUfMx
 大愛一臺,tvbus://8FXmhEE6DKXk3fPkFxTP36r5RnApan9YDSzAszmAMJ2Utf8aac
 大愛二臺,tvbus://72e2qU9CCauLwbKG2r1GyuxfJrQmD6DCZWroDmgxq9dxbKsxr1
-✴️加密頻道✴️_9527,#genre#
 1_HD,tvbus://7X1uyz6ihXiBe7se6yDEQm71bfX8ZT4qpqKVBntX6mXx1Y8RG2
 World Fashion,tvbus://7wTHDfBLDHqE5BwmtQkz35ZABLKhRwUy1enCucswZM6JYBppxM
 Fashion TV,tvbus://8UkrNKKnxFJYpBUV97FZYQWZkeBF22sBMJvsVeVsJurzAHXPck
