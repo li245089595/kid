@@ -1,4 +1,4 @@
-港台,#genre#
+央视,#genre#
 翡翠臺,tvbus://7g18UjwSBWQ3P17bYUPm6C9pck3j7wfPPuY9ub9KeLHVEvBhDJ
 NOW 新聞臺(多音轨)|NOW新闻台,tvbus://8k4e9QEfUCX3dDKzGLV5myGbt9Vh2DNFPALQjap9F7SsQD3D6t
 CN卡通,tvbus://8XVY6WrvvDHrAWN2dNR7TjcfPqefo5evf3FgCk5DBJi54S5yGP
