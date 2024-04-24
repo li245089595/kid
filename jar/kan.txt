@@ -125,9 +125,9 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 茶频道,http://111.48.34.237/PLTV/88888888/224/3221229873/1.m3u8
 快乐垂钓,http://111.48.34.237/PLTV/88888888/224/3221230479/1.m3u8
 金鹰纪实,http://111.48.34.237/PLTV/88888888/224/3221229814/1.m3u8
-湖南电影,http://123.108.110.146:5555/proxy/jdpy2.php?id=tsfile/live/1093_1.m3u8#http://dms.yryyj.site:8188/udp/239.76.253.106:9000#http://dms.yryyj.site:8188/udp/239.76.252.119:9000
-湖南电视剧,http://123.108.110.146:5555/proxy/jdpy2.php?id=tsfile/live/1094_1.m3u8http://dms.yryyj.site:8188/udp/239.76.253.108:9000#http://dms.yryyj.site:8188/udp/239.76.252.118:9000
-湖南娱乐,http://123.108.110.146:5555/proxy/jdpy2.php?id=tsfile/live/1096_1.m3u8#http://iptvcyp.top:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电影,http://dms.yryyj.site:8188/udp/239.76.253.106:9000#http://dms.yryyj.site:8188/udp/239.76.252.119:9000
+湖南电视剧,http://dms.yryyj.site:8188/udp/239.76.253.108:9000#http://dms.yryyj.site:8188/udp/239.76.252.118:9000
+湖南娱乐,http://iptvcyp.top:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南都市,http://dms.yryyj.site:8188/udp/239.76.253.104:9000#http://dms.yryyj.site:8188/udp/239.76.252.117:9000
 湖南经视,http://dms.yryyj.site:8188/udp/239.76.253.103:9000#http://dms.yryyj.site:8188/udp/239.76.252.116:9000
 湖南爱晚,http://dms.yryyj.site:8188/udp/239.76.253.109:9000#http://dms.yryyj.site:8188/udp/239.76.252.123:9000
