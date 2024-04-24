@@ -289,7 +289,6 @@ TVB娛樂新聞台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8#P2p:/
 無線新聞台,P2p://generationnexxxt.com:19806/85a50e6db781406bacc41b10a75a70d5
 無線財經體育資訊台,P2p://generationnexxxt.com:19806/acf61c067b48468dbdf3ae976c322d1a
 香港國際財經台,P2p://generationnexxxt.com:19806/f3cb31dde1e040a4a30f89e8f95beea7
-18台,mitv://generationnexxxt.com:19806/8bf8f53c61944785b13817297101af20
 HOY TV,http://51.89.21.73:27347/livehttpplay?channel_id=20152#mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
 HOY資訊台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
 港臺電視31,http://bziyunshao.synology.me:8892/bysid/31
@@ -300,10 +299,11 @@ ViuTV,mitv://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
 ViuTVsix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6#mitv://generationnexxxt.com:19806/4117b4e170014c2fbce73011cfaf066a
 天映頻道,mitv://generationnexxxt.com:19806/65e1b0870000c6d7c9dccba555040378
 天映經典,https://ali.hlspull.yximgs.com/live/Celestial2.flv
-HKC 18,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+HKC 18,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 戲曲台,mitv://generationnexxxt.com:19806/4c3b3c3a6c8849c3aa0fc9938859e134
 黃金翡翠台,P2p://generationnexxxt.com:19806/c2e1bcd2c5544341b2a0d7f7a53e0d98
+18台,mitv://generationnexxxt.com:19806/8bf8f53c61944785b13817297101af20
 Thrill,mitv://generationnexxxt.com:19806/1c3c73215afd42558101c3ee65737202
 私人影院,mitv://generationnexxxt.com:19806/3cfadd5e9af14d6db652b3c23acd7a7d
 KIX,mitv://generationnexxxt.com:19806/3f7be3ad31504c9fa358e3fe583fac0a
