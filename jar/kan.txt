@@ -25,7 +25,7 @@ CCTV兵器科技,http://111.48.34.237/PLTV/88888888/224/3221230162/1.m3u8
 CCTV央视精品,http://cd.sy012.com:4000/rtp/232.0.0.107:8698
 CCTV世界地理,http://111.48.34.237/PLTV/88888888/224/3221230072/1.m3u8
 CCTV女性时尚,http://111.48.34.237/PLTV/88888888/224/3221230545/1.m3u8
-CCTV风云剧场,http://123.108.110.146:5555/proxy/jdpy2.php?id=tsfile/live/1121_1.m3u8#http://cd.sy012.com:4000/rtp/232.0.0.52:8610
+CCTV风云剧场,http://cd.sy012.com:4000/rtp/232.0.0.52:8610
 CCTV风云音乐,http://111.48.34.237/PLTV/88888888/224/3221230089/1.m3u8
 CCTV风云足球,http://111.48.34.237/PLTV/88888888/224/3221230482/1.m3u8
 CCTV高尔夫网球,http://111.48.34.237/PLTV/88888888/224/3221230085/1.m3u8
@@ -47,7 +47,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 🔸卫视,#genre#
 凤凰中文台,http://183.204.13.237/61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8#http://113.64.145.91:8081/hls/37/index.m3u8
 凤凰资讯台,http://183.204.13.237/61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8#http://113.64.145.91:8081/hls/36/index.m3u8
-凤凰香港台,http://183.204.13.13/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8#http://113.64.145.91:8081/hls/38/index.m3u8
+凤凰香港台,http://183.204.13.237/61.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8#http://113.64.145.91:8081/hls/38/index.m3u8
 凤凰电影台,http://www.petzhu.top:7000/rtp/239.254.201.1:5214#http://mail.petzhu.top:7000/udp/239.254.201.1:5214
 星空卫视,http://182.138.218.105:55555/udp/239.93.0.156:2193?fmt=ts2hls#http://www.xcarchain.com:8888/udp/239.93.0.156:2193#http://118.113.110.79:8888/udp/239.93.1.10:2193
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
@@ -59,7 +59,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 大湾区卫视,http://39.134.67.108/PLTV/88888888/224/3221226020/1.m3u8#http://39.134.66.4/PLTV/88888888/224/3221226020/index.m3u8
-嘉佳卡通,http://123.108.110.146:5555/proxy/jdpy5.php?id=hls/63/index.m3u8#http://110.178.52.119:8084/udp/239.1.1.68:8068
+嘉佳卡通,http://vip1.xinketongxun.fun:8082/tsfile/live/1010_1.m3u8#http://110.178.52.119:8084/udp/239.1.1.68:8068
 厦门卫视,http://111.48.34.237/PLTV/88888888/224/3221230498/1.m3u8#http://111.20.35.108:6610/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 海峡卫视,http://36.248.137.69:60033/tsfile/live/0150_1.m3u8?key=txiptv
 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
@@ -104,7 +104,6 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 
 
-
 🔸地方,#genre#
 湖北经视,http://111.48.34.237/PLTV/88888888/224/3221230388/1.m3u8
 湖北综合,http://111.48.34.237/PLTV/88888888/224/3221229806/1.m3u8
@@ -126,17 +125,18 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 茶频道,http://111.48.34.237/PLTV/88888888/224/3221229873/1.m3u8
 快乐垂钓,http://111.48.34.237/PLTV/88888888/224/3221230479/1.m3u8
 金鹰纪实,http://111.48.34.237/PLTV/88888888/224/3221229814/1.m3u8
-湖南电影,http://123.108.110.146:5555/proxy/jdpy2.php?id=tsfile/live/1093_1.m3u8
-湖南电视剧,http://123.108.110.146:5555/proxy/jdpy2.php?id=tsfile/live/1094_1.m3u8
-湖南娱乐,http://123.108.110.146:5555/proxy/jdpy2.php?id=tsfile/live/1096_1.m3u8
-湖南都市,http://123.108.110.146:5555/proxy/jdpy2.php?id=tsfile/live/1092_1.m3u8
-湖南经视,http://123.108.110.146:5555/proxy/jdpy2.php?id=tsfile/live/1000_1.m3u8
+湖南电影,http://123.108.110.146:5555/proxy/jdpy2.php?id=tsfile/live/1093_1.m3u8#http://dms.yryyj.site:8188/udp/239.76.253.106:9000#http://dms.yryyj.site:8188/udp/239.76.252.119:9000
+湖南电视剧,http://123.108.110.146:5555/proxy/jdpy2.php?id=tsfile/live/1094_1.m3u8http://dms.yryyj.site:8188/udp/239.76.253.108:9000#http://dms.yryyj.site:8188/udp/239.76.252.118:9000
+湖南娱乐,http://123.108.110.146:5555/proxy/jdpy2.php?id=tsfile/live/1096_1.m3u8#http://iptvcyp.top:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南都市,http://dms.yryyj.site:8188/udp/239.76.253.104:9000#http://dms.yryyj.site:8188/udp/239.76.252.117:9000
+湖南经视,http://dms.yryyj.site:8188/udp/239.76.253.103:9000#http://dms.yryyj.site:8188/udp/239.76.252.116:9000
 湖南爱晚,http://dms.yryyj.site:8188/udp/239.76.253.109:9000#http://dms.yryyj.site:8188/udp/239.76.252.123:9000
 北京新闻,http://ha.tonyliangli.cn:4022/udp/239.3.1.159:8000
 北京影视,http://ha.tonyliangli.cn:4022/udp/239.3.1.158:8000#http://ha.tonyliangli.cn:4022/udp/239.3.1.235:8000
 北京文艺,http://ha.tonyliangli.cn:4022/udp/239.3.1.242:8000
 北京财经,http://ha.tonyliangli.cn:4022/udp/239.3.1.116:8000
 北京生活,http://ha.tonyliangli.cn:4022/udp/239.3.1.117:8000
+
 
 
 🔸数位,#genre#
@@ -280,8 +280,8 @@ CHC高清电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 
 🔸港澳,#genre#
 J2,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872#P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
-翡翠台,http://123.108.110.146:5555/proxy/jdpy5.php?id=hls/30/index.m3u8#P2p://generationnexxxt.com:19806/65f96ab8000ca1d1268c26e426ae6c37
-明珠台,http://123.108.110.146:5555/proxy/jdpy5.php?id=hls/31/index.m3u8#P2p://generationnexxxt.com:19806/fd4c4431a2204a20b5c7c67698592912
+翡翠台,P2p://generationnexxxt.com:19806/65f96ab8000ca1d1268c26e426ae6c37
+明珠台,P2p://generationnexxxt.com:19806/fd4c4431a2204a20b5c7c67698592912
 TVB星河(粵),P2p://generationnexxxt.com:19806/2dfd5ed435e841c1b6949346c2b58583
 TVB娛樂新聞台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8#P2p://generationnexxxt.com:19806/94c52f4f55a646f6825cff0b78316ae2
 亞洲劇台,mitv://generationnexxxt.com:19806/ee081a662356489d8b2170952ec91d24
@@ -289,24 +289,24 @@ TVB娛樂新聞台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8#P2p:/
 無線新聞台,P2p://generationnexxxt.com:19806/85a50e6db781406bacc41b10a75a70d5
 無線財經體育資訊台,P2p://generationnexxxt.com:19806/acf61c067b48468dbdf3ae976c322d1a
 香港國際財經台,P2p://generationnexxxt.com:19806/f3cb31dde1e040a4a30f89e8f95beea7
+18台,mitv://generationnexxxt.com:19806/8bf8f53c61944785b13817297101af20
 HOY TV,http://51.89.21.73:27347/livehttpplay?channel_id=20152#mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
 HOY資訊台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
-HKC 18,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 港臺電視31,http://bziyunshao.synology.me:8892/bysid/31
 港臺電視32,http://bziyunshao.synology.me:8892/bysid/32
 now新聞台,P2p://generationnexxxt.com:19806/5c263253cf5241b1a155f0b1b85edea1
 now財經台,P2p://generationnexxxt.com:19806/3a492b41b36f45acab0b75396aadc32d
 ViuTV,mitv://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
 ViuTVsix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6#mitv://generationnexxxt.com:19806/4117b4e170014c2fbce73011cfaf066a
-18台,mitv://generationnexxxt.com:19806/8bf8f53c61944785b13817297101af20
+天映頻道,mitv://generationnexxxt.com:19806/65e1b0870000c6d7c9dccba555040378
+天映經典,https://ali.hlspull.yximgs.com/live/Celestial2.flv
+HKC 18,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 戲曲台,mitv://generationnexxxt.com:19806/4c3b3c3a6c8849c3aa0fc9938859e134
 黃金翡翠台,P2p://generationnexxxt.com:19806/c2e1bcd2c5544341b2a0d7f7a53e0d98
 Thrill,mitv://generationnexxxt.com:19806/1c3c73215afd42558101c3ee65737202
 私人影院,mitv://generationnexxxt.com:19806/3cfadd5e9af14d6db652b3c23acd7a7d
 KIX,mitv://generationnexxxt.com:19806/3f7be3ad31504c9fa358e3fe583fac0a
-天映頻道,mitv://generationnexxxt.com:19806/65e1b0870000c6d7c9dccba555040378
-天映經典,https://ali.hlspull.yximgs.com/live/Celestial2.flv
 澳門蓮花,P2p://generationnexxxt.com:19806/35abc186b6194a4ca97a6d9f9d59e501#http://php.jdshipin.com:8880/amlh.php
 澳門-MACAU,P2p://generationnexxxt.com:19806/ed4ff86efe2647dd8c6f6f91739dd9c9
 鳳凰中文台,P2p://generationnexxxt.com:19806/65fd687c000dccf1362379174a9617fc
