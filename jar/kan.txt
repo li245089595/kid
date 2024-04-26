@@ -65,7 +65,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
-三沙卫视,http://111.48.34.237/PLTV/88888888/224/3221230410/1.m3u8#http://qnap.yjnhome.com:4000/udp/239.3.1.155:4120
+三沙卫视,http://111.48.34.237/PLTV/88888888/224/3221230410/1.m3u8#http://180.164.40.181:2222/udp/239.45.0.56:5140#http://qnap.yjnhome.com:4000/udp/239.3.1.155:4120
 山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 山东教育卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
@@ -137,7 +137,6 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 北京文艺,http://ha.tonyliangli.cn:4022/udp/239.3.1.242:8000
 北京财经,http://ha.tonyliangli.cn:4022/udp/239.3.1.116:8000
 北京生活,http://ha.tonyliangli.cn:4022/udp/239.3.1.117:8000
-
 
 
 🔸数位,#genre#
@@ -296,6 +295,7 @@ HOY資訊台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
 港臺電視32,http://bziyunshao.synology.me:8892/bysid/32
 now新聞台,P2p://generationnexxxt.com:19806/5c263253cf5241b1a155f0b1b85edea1
 now財經台,P2p://generationnexxxt.com:19806/3a492b41b36f45acab0b75396aadc32d
+now爆谷台,http://61.221.215.25:8800/hls/47/index.m3u8
 ViuTV,mitv://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
 ViuTVsix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6#mitv://generationnexxxt.com:19806/4117b4e170014c2fbce73011cfaf066a
 天映頻道,mitv://generationnexxxt.com:19806/65e1b0870000c6d7c9dccba555040378
@@ -588,7 +588,7 @@ Bein Sport Prem 1,p3p://fccsen.dyndns.tv:29706/5a1f696e0005f6a2c65c2e7110023294
 松視1台,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8#http://18.svi-studio.com:80/live/176619383282/537544338952/5.m3u8
 松視2台,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8#http://18.svi-studio.com:80/live/176619383282/537544338952/6.m3u8
 松視3台,https://18.svi-studio.com/live/673960949860/294164781253/20205.m3u8#http://18.svi-studio.com:80/live/176619383282/537544338952/20205.m3u8
-香蕉台,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
+香蕉台,https://cf005.paopao.video:443/A1B1E799A45B0C396A6ABCE8F41D7130B91BAFAB#https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
 驚豔成人電影台,https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
 潘朵啦玩美台,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8#http://18.svi-studio.com:80/live/176619383282/537544338952/3.m3u8
 Brazzers,p3p://fccsen.dyndns.tv:29706/60bc2535000292424fc304cf3c251ba8
