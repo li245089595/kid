@@ -289,6 +289,16 @@
       }
     },
     {
+      "name": "kyB",
+      "type": 1,
+      "url": "https://stray.serv00.net/ky.php?url=",
+      "ext": {
+        "flag": [
+          "kyB"
+        ]
+      }
+    },
+    {
       "name": "绿豆解析",
       "type": 1,
       "url": "http://pandown.pro/app/lvdou.php?url=",
@@ -359,6 +369,52 @@
           "芒果视频",
           "乐视视频"
         ]
+      }
+    },
+    {
+      "name": "春盈解析",
+      "type": 1,
+      "url": "http://119.91.123.253:2345/Api/yun.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "企鹅",
+          "IQiYi",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "YouKu",
+          "优酷",
+          "sohu",
+          "SoHu",
+          "搜狐",
+          "letv",
+          "LeShi",
+          "乐视",
+          "imgo",
+          "mgtv",
+          "MangGuo",
+          "芒果",
+          "SLYS4k",
+          "BYGA",
+          "luanzi",
+          "AliS",
+          "dxzy",
+          "bilibili",
+          "QEYSS",
+          "xigua",
+          "西瓜视频",
+          "腾讯视频",
+          "奇艺视频",
+          "优酷视频",
+          "芒果视频",
+          "乐视视频"
+        ],
+        "header": {
+          "User-Agent": "Dart/2.18 (dart:io)"
+        }
       }
     },
     {
@@ -844,6 +900,26 @@
           "User-Agent": "okhttp/4.1.0"
         }
       }
+    },
+    {
+      "name": "王",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=11154896&key=cefgiksvwyCGINV047&url="
+    },
+    {
+      "name": "二",
+      "type": 1,
+      "url": "http://119.91.123.253:2345/Api/yun.php?url="
+    },
+    {
+      "name": "小",
+      "type": 1,
+      "url": "http://122.228.84.103:7777/api/?key=qhBtN1ciPmdvPV83tX&url="
+    },
+    {
+      "name": "帅",
+      "type": 1,
+      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
     },
     {
       "name": "🚍众里寻他千百度",
@@ -2298,6 +2374,7 @@
     "芒 果 T V",
     "bilibili",
     "哔 哩",
+    "kyB",
     "哔 哩 哔 哩"
   ],
   "ads": [
@@ -2307,5 +2384,5 @@
     "https: //lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "https://jpg.wxincai.eu.org",
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/kan.jar;md5;3c14554fc19e587abf0fe556c9becf58"
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/kan.jar;md5;2e518d1fe2a0f74638a5f46d18129d3e"
 }
