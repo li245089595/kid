@@ -45,7 +45,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 
 🔸卫视,#genre#
-凤凰中文台,http://183.204.13.237/61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8#http://113.64.145.91:8081/hls/37/index.m3u8
+凤凰中文台,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8#http://113.64.145.91:8081/hls/37/index.m3u8
 凤凰资讯台,http://183.204.13.237/61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8#http://113.64.145.91:8081/hls/36/index.m3u8
 凤凰香港台,http://183.204.13.237/61.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8#http://113.64.145.91:8081/hls/38/index.m3u8
 凤凰电影台,http://www.petzhu.top:7000/rtp/239.254.201.1:5214#http://mail.petzhu.top:7000/udp/239.254.201.1:5214
@@ -280,22 +280,22 @@ CHC高清电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 
 🔸港澳,#genre#
 J2,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872#P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
-翡翠台,P2p://generationnexxxt.com:19806/65f96ab8000ca1d1268c26e426ae6c37
+翡翠台,P2p://generationnexxxt.com:19806/660d193500015d6c736dc89372d11bb9 
 明珠台,P2p://generationnexxxt.com:19806/fd4c4431a2204a20b5c7c67698592912
 TVB星河(粵),P2p://generationnexxxt.com:19806/2dfd5ed435e841c1b6949346c2b58583
+TVB Plus,P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d#P2p://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
 TVB娛樂新聞台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8#P2p://generationnexxxt.com:19806/94c52f4f55a646f6825cff0b78316ae2
 亞洲劇台,mitv://generationnexxxt.com:19806/ee081a662356489d8b2170952ec91d24
 粵語片台,mitv://generationnexxxt.com:19806/3a44c9c92439443494b8ecff6fdb2336
 無線新聞台,P2p://generationnexxxt.com:19806/85a50e6db781406bacc41b10a75a70d5
 無線財經體育資訊台,P2p://generationnexxxt.com:19806/acf61c067b48468dbdf3ae976c322d1a
 香港國際財經台,P2p://generationnexxxt.com:19806/f3cb31dde1e040a4a30f89e8f95beea7
-HOY TV,http://51.89.21.73:27347/livehttpplay?channel_id=20152#mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
+HOY TV,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
 HOY資訊台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
 港臺電視31,http://bziyunshao.synology.me:8892/bysid/31
 港臺電視32,http://bziyunshao.synology.me:8892/bysid/32
 now新聞台,P2p://generationnexxxt.com:19806/5c263253cf5241b1a155f0b1b85edea1
 now財經台,P2p://generationnexxxt.com:19806/3a492b41b36f45acab0b75396aadc32d
-now爆谷台,http://61.221.215.25:8800/hls/47/index.m3u8
 ViuTV,mitv://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
 ViuTVsix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6#mitv://generationnexxxt.com:19806/4117b4e170014c2fbce73011cfaf066a
 天映頻道,mitv://generationnexxxt.com:19806/65e1b0870000c6d7c9dccba555040378
