@@ -281,7 +281,7 @@ CHC高清电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 🔸港澳,#genre#
 TVB Plus,P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d#P2p://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
 翡翠台,P2p://generationnexxxt.com:19806/660d193500015d6c736dc89372d11bb9 
-明珠台,P2p://generationnexxxt.com:19806/fd4c4431a2204a20b5c7c67698592912
+明珠台,P2p://generationnexxxt.com:19806/fd4c4431a2204a20b5c7c67698592912#http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
 TVB星河(粵),P2p://generationnexxxt.com:19806/2dfd5ed435e841c1b6949346c2b58583
 TVB娛樂新聞台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8#P2p://generationnexxxt.com:19806/94c52f4f55a646f6825cff0b78316ae2
 亞洲劇台,mitv://generationnexxxt.com:19806/ee081a662356489d8b2170952ec91d24
@@ -298,9 +298,8 @@ now財經台,P2p://generationnexxxt.com:19806/3a492b41b36f45acab0b75396aadc32d
 ViuTV,mitv://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
 ViuTVsix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6#mitv://generationnexxxt.com:19806/4117b4e170014c2fbce73011cfaf066a
 天映頻道,mitv://generationnexxxt.com:19806/65e1b0870000c6d7c9dccba555040378
-天映經典,https://ali.hlspull.yximgs.com/live/Celestial2.flv
-新時代電視1台,P2p://generationnexxxt.com:19806/28d014f7982c4041ab7197218b9c1284#P2p://generationnexxxt.com:19806/a3d06a9ecf30410582ad64ed15cdf6fd 
-新時代電視2台,P2p://generationnexxxt.com:19806/65013e4c0002afeaeeb07d8a59ff6121 
+天映經典,http://59.35.137.4:8088/hls/130/index.m3u8
+美亞電影台(粵語),http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 龍祥電影,P2p://generationnexxxt.com:19806/78502c9b515845a7baca6a3a6ea88b8a 
 功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 HKC 18,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
