@@ -215,6 +215,15 @@ CHC高清电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 
 
 🔸电影,#genre#
+陈翔六点半,https://live.metshop.top/huya/11274154
+周星驰电影,https://live.metshop.top/huya/11342412
+林正英电影,https://live.metshop.top/huya/11342421
+古装电影,https://live.metshop.top/huya/11342427
+黑帮电影,https://live.metshop.top/huya/11336719
+经典港片,https://live.metshop.top/huya/11352886
+重温经典剧,https://live.metshop.top/huya/21059554
+国产剧集,https://live.metshop.top/huya/11342384
+热门港剧,https://live.metshop.top/douyu/5522351 
 高分电影,https://live.metshop.top/douyu/7254536
 豆瓣高分,https://live.metshop.top/douyu/8770422
 漫威影院,https://live.metshop.top/douyu/6140589
@@ -222,11 +231,11 @@ CHC高清电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 粤语电影,https://live.metshop.top/douyu/1226741
 喜剧电影,https://live.metshop.top/douyu/323876
 恐怖电影,https://live.metshop.top/douyu/218859
-恐怖鬼怪,https://live.metshop.top/douyu/1165374
-童年阴影,https://live.metshop.top/douyu/2935323
 惊悚电影,https://live.metshop.top/douyu/96577
 粤语电影,https://live.metshop.top/douyu/6566671
 华语影视,https://live.metshop.top/douyu/3928
+恐怖鬼怪,https://live.metshop.top/douyu/1165374
+童年阴影,https://live.metshop.top/douyu/2935323
 神乐影视,https://live.metshop.top/douyu/85894
 吃米滴虫,https://live.metshop.top/douyu/315457
 新三国,https://live.metshop.top/douyu/5908256
@@ -246,7 +255,6 @@ CHC高清电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 古装神剧,https://live.metshop.top/douyu/338759
 酒染影视,https://live.metshop.top/douyu/7550220
 芊珏影视,https://live.metshop.top/douyu/8814650
-热门港剧,https://live.metshop.top/douyu/5522351
 史君说剧,https://live.metshop.top/douyu/9419771
 史剧解说,https://live.metshop.top/douyu/297689
 老秦说剧,https://live.metshop.top/douyu/9650131
