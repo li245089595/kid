@@ -25,7 +25,7 @@ CCTV兵器科技,http://111.48.34.237/PLTV/88888888/224/3221230162/1.m3u8
 CCTV央视精品,http://110.178.52.190:8085/udp/239.1.1.91:8091
 CCTV世界地理,http://111.48.34.237/PLTV/88888888/224/3221230072/1.m3u8
 CCTV女性时尚,http://111.48.34.237/PLTV/88888888/224/3221230545/1.m3u8
-CCTV风云剧场,http://110.178.52.190:8085/udp/239.1.1.93:8093
+CCTV风云剧场,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
 CCTV风云音乐,http://111.48.34.237/PLTV/88888888/224/3221230089/1.m3u8
 CCTV风云足球,http://111.48.34.237/PLTV/88888888/224/3221230482/1.m3u8
 CCTV高尔夫网球,http://111.48.34.237/PLTV/88888888/224/3221230085/1.m3u8
@@ -119,10 +119,6 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 武汉文体,http://dd.ikhs.cn:8880/rtp/239.69.1.147:10518
 武汉外语,http://111.48.34.237/PLTV/88888888/224/3221230352/1.m3u8
 武汉教育,http://111.48.34.237/PLTV/88888888/224/3221229783/1.m3u8
-孝感新闻综合,http://xiaogan-live21.cjyun.org/10139/s10139-xg.m3u8?auth_key=1735660799-0-0-c66126a1e65c45cfa675dd5f16914315
-武术世界,http://111.48.34.237/PLTV/88888888/224/3221230549/1.m3u8
-文物宝库,http://111.48.34.237/PLTV/88888888/224/3221230547/1.m3u8
-梨园,http://111.48.34.237/PLTV/88888888/224/3221230496/1.m3u8
 茶频道,http://111.48.34.237/PLTV/88888888/224/3221229873/1.m3u8
 快乐垂钓,http://111.48.34.237/PLTV/88888888/224/3221230479/1.m3u8
 金鹰纪实,http://111.48.34.237/PLTV/88888888/224/3221229814/1.m3u8
@@ -300,8 +296,8 @@ ViuTV,mitv://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
 ViuTVsix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6#mitv://generationnexxxt.com:19806/4117b4e170014c2fbce73011cfaf066a
 天映頻道,mitv://generationnexxxt.com:19806/65e1b0870000c6d7c9dccba555040378
 天映經典,http://59.35.137.4:8088/hls/130/index.m3u8
+POP C,P2p://generationnexxxt.com:19806/acf61c067b48468dbdf3ae976c322d1a
 美亞電影台(粵語),http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-龍祥電影,P2p://generationnexxxt.com:19806/78502c9b515845a7baca6a3a6ea88b8a 
 功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 HKC 18,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 Hands Up,P2p://generationnexxxt.com:19806/7a79a82b627a417f897895b4adf874aa 
