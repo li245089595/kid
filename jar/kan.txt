@@ -25,7 +25,7 @@ CCTV兵器科技,http://111.48.34.237/PLTV/88888888/224/3221230162/1.m3u8
 CCTV央视精品,http://110.178.52.190:8085/udp/239.1.1.91:8091
 CCTV世界地理,http://111.48.34.237/PLTV/88888888/224/3221230072/1.m3u8
 CCTV女性时尚,http://111.48.34.237/PLTV/88888888/224/3221230545/1.m3u8
-CCTV风云剧场,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
+CCTV风云剧场,http://www.petzhu.top:7000/rtp/239.254.201.219:7257
 CCTV风云音乐,http://111.48.34.237/PLTV/88888888/224/3221230089/1.m3u8
 CCTV风云足球,http://111.48.34.237/PLTV/88888888/224/3221230482/1.m3u8
 CCTV高尔夫网球,http://111.48.34.237/PLTV/88888888/224/3221230085/1.m3u8
@@ -45,8 +45,8 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 
 🔸卫视,#genre#
-凤凰中文台,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8#http://113.64.145.91:8081/hls/37/index.m3u8
-凤凰资讯台,http://183.204.13.237/61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8#http://113.64.145.91:8081/hls/36/index.m3u8
+凤凰中文台,http://www.petzhu.top:7000/rtp/239.254.201.2:5226#http://113.64.145.91:8081/hls/37/index.m3u8
+凤凰资讯台,http://www.petzhu.top:7000/rtp/239.254.201.3:5227#http://113.64.145.91:8081/hls/36/index.m3u8
 凤凰香港台,http://183.204.13.237/61.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8#http://113.64.145.91:8081/hls/38/index.m3u8
 凤凰电影台,http://www.petzhu.top:7000/rtp/239.254.201.1:5214#http://mail.petzhu.top:7000/udp/239.254.201.1:5214
 星空卫视,http://wouu.net:9977/rtp/239.93.0.156:2193?Cf=cfss.c#http://vl15191373.imwork.net:8880/udp/239.93.1.10:2193#http://www.xcarchain.com:8888/udp/239.93.0.156:2193
