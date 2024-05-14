@@ -47,7 +47,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 🔸卫视,#genre#
 凤凰中文台,http://www.petzhu.top:7000/rtp/239.254.201.2:5226#http://113.64.145.91:8081/hls/37/index.m3u8
 凤凰资讯台,http://www.petzhu.top:7000/rtp/239.254.201.3:5227#http://113.64.145.91:8081/hls/36/index.m3u8
-凤凰香港台,http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv#http://113.64.145.91:8081/hls/38/index.m3u8
+凤凰香港台,http://113.64.145.91:8081/hls/38/index.m3u8#http://60.164.229.241:4040/udp/239.255.30.123:8231
 凤凰电影台,http://www.petzhu.top:7000/rtp/239.254.201.1:5214#http://mail.petzhu.top:7000/udp/239.254.201.1:5214
 星空卫视,http://wouu.net:9977/rtp/239.93.0.156:2193?Cf=cfss.c#http://www.xcarchain.com:8888/udp/239.93.0.156:2193
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
@@ -128,7 +128,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 湖南都市,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43028/index.m3u8
 湖南经视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43024/index.m3u8
 湖南爱晚,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8
-湖南国际,http://222.241.154.37:9901/tsfile/live/23024_1.m3u8
+湖南国际,http://iptvcyp.top:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 北京新闻,http://114.254.209.157:8888/rtp/239.3.1.159:8000
 北京影视,http://114.254.209.157:8888/rtp/239.3.1.158:8000
 北京文艺,http://114.254.209.157:8888/rtp/239.3.1.242:8000
@@ -167,19 +167,19 @@ CHC影迷电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 五星体育,http://h.berr.cn:3000/udp/225.0.0.8:6140
 上视ICS,http://h.berr.cn:3000/udp/225.0.0.10:6140
 上视新闻,http://h.berr.cn:3000/udp/225.0.0.1:6140
-上海教育,http://ttww.doudouzi888.com:1998/iptv/dl/bestv.php?id=shjy 
+上海教育,http://116.237.248.80:9901/tsfile/live/1007_1.m3u8
 上海都市,http://h.berr.cn:3000/udp/225.0.0.3:6140
 睛彩广场舞,http://webmail.axxe.top:4022/udp/239.3.1.128:8001$web
 睛彩竞技,http://webmail.axxe.top:4022/udp/239.3.1.125:8001$web
 睛彩篮球,http://webmail.axxe.top:4022/udp/239.3.1.126:8001$web
 睛彩羽毛球,http://webmail.axxe.top:4022/udp/239.81.0.192:4056$web
-北京淘精彩,http://ha.tonyliangli.cn:4022/udp/239.3.1.178:8001
-北京淘电影,http://ha.tonyliangli.cn:4022/udp/239.3.1.250:8001
-北京淘剧场,http://ha.tonyliangli.cn:4022/udp/239.3.1.95:8001
-北京淘娱乐,http://ha.tonyliangli.cn:4022/udp/239.3.1.100:8001
-北京淘Baby,http://ha.tonyliangli.cn:4022/udp/239.3.1.238:8001
-北京萌宠TV,http://ha.tonyliangli.cn:4022/udp/239.3.1.102:8001
-北京大健康,http://ha.tonyliangli.cn:4022/udp/239.3.1.251:8001
+北京淘精彩,http://115.171.216.54:4000/udp/225.1.8.33:8002
+北京淘电影,http://115.171.216.54:4000/udp/225.1.8.38:8002
+北京淘剧场,http://115.171.216.54:4000/udp/225.1.8.37:8002
+北京淘娱乐,http://115.171.216.54:4000/udp/225.1.8.61:8002
+北京淘Baby,http://115.171.216.54:4000/udp/225.1.8.36:8002
+北京萌宠TV,http://115.171.216.54:4000/udp/225.1.8.63:8002
+北京大健康,http://114.245.52.61:8688/udp/239.3.1.251:8001
 
 
 🔸剧场,#genre#
