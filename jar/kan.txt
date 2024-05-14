@@ -22,7 +22,7 @@ CCTV8K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K36M/playlist.m3u
 CCTV第一剧场,http://111.48.34.237/PLTV/88888888/224/3221230488/1.m3u8
 CCTV怀旧剧场,http://111.48.34.237/PLTV/88888888/224/3221230091/1.m3u8
 CCTV兵器科技,http://111.48.34.237/PLTV/88888888/224/3221230162/1.m3u8
-CCTV央视精品,http://110.178.52.190:8085/udp/239.1.1.91:8091
+CCTV央视精品,http://www.petzhu.top:7000/rtp/239.254.201.229:7260
 CCTV世界地理,http://111.48.34.237/PLTV/88888888/224/3221230072/1.m3u8
 CCTV女性时尚,http://111.48.34.237/PLTV/88888888/224/3221230545/1.m3u8
 CCTV风云剧场,http://www.petzhu.top:7000/rtp/239.254.201.219:7257
@@ -90,7 +90,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 安多卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
-农林卫视,http://125.71.69.79:19999/udp/239.93.0.100:5140
+农林卫视,http://171.223.215.229:4000/udp/239.93.0.100:5140?fmt=ts2hls
 甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 康巴卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
@@ -158,7 +158,7 @@ CHC影迷电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 四海钓鱼,http://111.48.34.237/PLTV/88888888/224/3221230438/1.m3u8
 法治天地,http://h.berr.cn:3000/udp/225.0.0.160:6140
 七彩戏剧,http://h.berr.cn:3000/udp/225.0.0.225:6140
-新视觉,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43082/index.m3u8
+新视觉,http://ttww.doudouzi888.com:1998/iptv/dl/bestv.php?id=xsj 
 劲爆体育,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43084/index.m3u8
 金色学堂,http://h.berr.cn:3000/udp/225.0.0.159:6140
 财富天下,http://111.48.34.237/PLTV/88888888/224/3221229728/1.m3u8
@@ -167,7 +167,7 @@ CHC影迷电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 五星体育,http://h.berr.cn:3000/udp/225.0.0.8:6140
 上视ICS,http://h.berr.cn:3000/udp/225.0.0.10:6140
 上视新闻,http://h.berr.cn:3000/udp/225.0.0.1:6140
-上海教育,http://www.baopiqi.top:4022/udp/239.45.0.13:5140
+上海教育,http://ttww.doudouzi888.com:1998/iptv/dl/bestv.php?id=shjy 
 上海都市,http://h.berr.cn:3000/udp/225.0.0.3:6140
 睛彩广场舞,http://webmail.axxe.top:4022/udp/239.3.1.128:8001$web
 睛彩竞技,http://webmail.axxe.top:4022/udp/239.3.1.125:8001$web
