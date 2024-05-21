@@ -50,7 +50,8 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 凤凰香港台,http://60.164.229.241:4040/udp/239.255.30.123:8231#http://113.64.145.91:8081/hls/38/index.m3u8
 凤凰电影台,http://www.petzhu.top:7000/rtp/239.254.201.1:5214#http://mail.petzhu.top:7000/udp/239.254.201.1:5214
 星空卫视,http://wouu.net:9977/rtp/239.93.0.156:2193?Cf=cfss.c#http://www.xcarchain.com:8888/udp/239.93.0.156:2193
-澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8#https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
+亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?IAS
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
@@ -129,7 +130,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 湖南都市,http://118.254.158.105:8888/udp/239.76.245.117:1234
 湖南经视,http://118.254.158.105:8888/udp/239.76.245.116:1234
 湖南爱晚,http://118.254.158.105:8888/udp/239.76.245.123:1234
-湖南国际,http://iptvcyp.top:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南国际,http://www.hn-valve.com:8888/udp/239.76.245.124:1234#http://iptvcyp.top:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 北京新闻,http://114.254.209.157:8888/rtp/239.3.1.159:8000
 北京影视,http://114.254.209.157:8888/rtp/239.3.1.158:8000
 北京文艺,http://114.254.209.157:8888/rtp/239.3.1.242:8000
@@ -160,7 +161,7 @@ CHC影迷电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 法治天地,http://h.berr.cn:3000/udp/225.0.0.160:6140
 七彩戏剧,http://h.berr.cn:3000/udp/225.0.0.225:6140
 新视觉,http://ttww.doudouzi888.com:1998/iptv/dl/bestv.php?id=xsj 
-劲爆体育,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43084/index.m3u8
+劲爆体育,http://118.122.103.228:4022/udp/239.93.42.98:5140#http://118.114.168.57:8888/udp/239.93.42.98:5140
 金色学堂,http://h.berr.cn:3000/udp/225.0.0.159:6140
 财富天下,http://111.48.34.237/PLTV/88888888/224/3221229728/1.m3u8
 第一财经,http://h.berr.cn:3000/udp/225.0.0.7:6140
@@ -170,10 +171,10 @@ CHC影迷电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 上视新闻,http://h.berr.cn:3000/udp/225.0.0.1:6140
 上海教育,http://116.237.248.80:9901/tsfile/live/1007_1.m3u8
 上海都市,http://h.berr.cn:3000/udp/225.0.0.3:6140
-睛彩广场舞,http://webmail.axxe.top:4022/udp/239.3.1.128:8001$web
-睛彩羽毛球,http://webmail.axxe.top:4022/udp/239.81.0.192:4056$web
-睛彩竞技,http://webmail.axxe.top:4022/udp/239.3.1.125:8001$web
-睛彩篮球,http://webmail.axxe.top:4022/udp/239.3.1.126:8001$web
+睛彩广场舞,http://webmail.axxe.top:4022/udp/239.3.1.128:8001$web#http://www.8700956.top:18888/rtp/239.81.0.193:4056
+睛彩羽毛球,http://www.8700956.top:18888/rtp/239.81.0.192:4056#http://webmail.axxe.top:4022/udp/239.81.0.192:4056$web
+睛彩竞技,http://webmail.axxe.top:4022/udp/239.3.1.125:8001$web#http://www.8700956.top:18888/rtp/239.81.0.190:4056
+睛彩篮球,http://webmail.axxe.top:4022/udp/239.3.1.126:8001$web#http://www.8700956.top:18888/rtp/239.81.0.191:4056
 睛彩青少,http://nas.tuyuannet.cn:8800/udp/239.37.0.40:5540
 北京淘精彩,http://115.171.216.54:4000/udp/225.1.8.33:8002
 北京淘电影,http://115.171.216.54:4000/udp/225.1.8.38:8002
@@ -211,6 +212,20 @@ CHC影迷电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+爱奇谈,http://118.114.168.57:8888/udp/239.93.42.22:5140
+爱悬疑,http://118.114.168.57:8888/udp/239.93.42.12:5140
+爱谍战,http://118.114.168.57:8888/udp/239.93.42.14:5140
+爱院线,http://118.114.168.57:8888/udp/239.93.42.11:5140
+爱动漫,http://118.122.103.228:4022/udp/239.93.42.23:5140
+爱幼教,http://118.122.103.228:4022/udp/239.93.42.17:5140
+爱玩具,http://118.122.103.228:4022/udp/239.93.42.17:5140
+爱赛车,http://118.114.168.57:8888/udp/239.93.42.20:5140
+爱怀旧,http://118.114.168.57:8888/udp/239.93.42.21:5140
+爱记录,http://118.114.168.57:8888/udp/239.93.42.13:5140
+爱美食,http://118.114.168.57:8888/udp/239.93.42.16:5140
+爱喜剧,http://118.114.168.57:8888/udp/239.93.42.9:5140
+
+
 
 
 🔸电影,#genre#
@@ -378,6 +393,104 @@ BBC World News,P2p://generationnexxxt.com:19806/323c575f4f694f739cd9f7a945075cef
 愛爾達體育3台,P2p://generationnexxxt.com:19806/c34b66fc16df4781baceff8a2f6430e4
 ELEVEN體育1台,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN體育2台,rtmp://f13h.mine.nu/sat/tv741
+
+
+老挝频道,#genre#
+Thai-1,http://103.95.24.37:880/t1.m3u8
+Thai-3,http://103.95.24.37:880/t3.m3u8
+Thai-5,http://103.95.24.37:880/t5.m3u8
+Thai-7,http://103.95.24.37:880/t7.m3u8
+Thai-8,http://103.95.24.37:880/t8.m3u8
+Thai,http://103.95.24.37:880/TrathTV.m3u8
+WorkPoint,http://103.95.24.37:880/wp.m3u8
+MONO,http://103.95.24.37:880/mono.m3u8
+Amarine,http://103.95.24.37:880/Tsd38p6.m3u8
+NBT,http://103.95.24.37:880/Tsd39p7.m3u8
+GMM,http://103.95.24.37:880/gmm.m3u8
+HBTV,http://103.95.24.37:880/HBTV.m3u8
+EBS,http://103.95.24.37:880/EBS.m3u8
+EBS2,http://103.95.24.37:880/EBS2.m3u8
+TV5,http://103.95.24.37:880/TV5.m3u8
+CGTNDoc,http://103.95.24.37:880/cgtnd.m3u8
+CGTNNews,http://103.95.24.37:880/cgtnn.m3u8
+EuroNews,http://103.95.24.37:880/Euronews.m3u8
+RussiaToda,http://103.95.24.37:880/russ.m3u8
+Combodia,http://103.95.24.37:880/combadia.m3u8
+VIVT-1,http://103.95.24.37:880/vivt.m3u8
+
+
+🔸韩国,#genre#
+연합뉴스TV,https://i.mjh.nz/SamsungTVPlus/KRBD1400001ED.m3u8
+MBC 무한도전,https://i.mjh.nz/SamsungTVPlus/KRBB5000069BS.m3u8
+tvN 사랑의 불시착,https://i.mjh.nz/SamsungTVPlus/KRBC3200029C4.m3u8
+MBC 나혼자산다,https://i.mjh.nz/SamsungTVPlus/KRBC200002I0.m3u8
+SBS TV 동물농장,https://i.mjh.nz/SamsungTVPlus/KRBB420000769.m3u8
+tvN 미스터 션샤인,https://i.mjh.nz/SamsungTVPlus/KRBC3200028P2.m3u8
+새해웃음 특집,https://i.mjh.nz/SamsungTVPlus/KRBD2700008TZ.m3u8
+tvN 더 지니어스: 그랜드 파이널,https://i.mjh.nz/SamsungTVPlus/KRBC3200023BG.m3u8
+JTBC 냉장고를 부탁해,https://i.mjh.nz/SamsungTVPlus/KRBD4300003MW.m3u8
+Fireplace 4K,https://i.mjh.nz/SamsungTVPlus/KRBD44000025L.m3u8
+MBC 나는 가수다,https://i.mjh.nz/SamsungTVPlus/KRBC20000418.m3u8
+MBC 옷소매 붉은끝동,https://i.mjh.nz/SamsungTVPlus/KRBB5000073UD.m3u8
+KBS 1박2일 시즌1,https://i.mjh.nz/SamsungTVPlus/KRBC4400003SD.m3u8
+JTBC 아는 형님,https://i.mjh.nz/SamsungTVPlus/KRBD43000023M.m3u8
+JTBC 비긴어게인,https://i.mjh.nz/SamsungTVPlus/KRBC5000020AF.m3u8
+JTBC 크라임씬,https://i.mjh.nz/SamsungTVPlus/KRBC46000014A.m3u8
+by Bugs,https://i.mjh.nz/SamsungTVPlus/KRBD4300001RQ.m3u8
+tvN SPORTS,https://i.mjh.nz/SamsungTVPlus/KRBC800015MH.m3u8
+Mnet 스트릿 우먼 파이터 2 HOT CLIP,https://i.mjh.nz/SamsungTVPlus/KRBC3200018FU.m3u8
+tvN 유 퀴즈 온 더 블럭 HOT CLIP,https://i.mjh.nz/SamsungTVPlus/KRBD3100002JL.m3u8
+Animax 반지의 비밀일기,https://i.mjh.nz/SamsungTVPlus/KRBC40000010R.m3u8
+K-STAR 골프,https://i.mjh.nz/SamsungTVPlus/KRBB5000364M.m3u8
+PGA Tour,https://i.mjh.nz/SamsungTVPlus/KRBD3100007WB.m3u8
+SBS 편의점 샛별이,https://i.mjh.nz/SamsungTVPlus/KRBB42000061Z.m3u8
+SBS 궁금한 이야기 Y,https://i.mjh.nz/SamsungTVPlus/KRBB4200016TZ.m3u8
+JTBC 톡파원25시,https://i.mjh.nz/SamsungTVPlus/KRBC50000218R.m3u8
+KBS 정도전,https://i.mjh.nz/SamsungTVPlus/KRBC4400002AO.m3u8
+JTBC SKY캐슬,https://i.mjh.nz/SamsungTVPlus/KRBC4600004BQ.m3u8
+JTBC 품위있는 그녀,https://i.mjh.nz/SamsungTVPlus/KRBC50000228B.m3u8
+SBS 나는 솔로,https://i.mjh.nz/SamsungTVPlus/KRBB4200009C3.m3u8
+TV조선 미스터트롯 영웅의 탄생,https://i.mjh.nz/SamsungTVPlus/KRBD27000069Q.m3u8
+TV조선 우리 이혼했어요,https://i.mjh.nz/SamsungTVPlus/KRBD2700001QR.m3u8
+TV조선 골프왕,https://i.mjh.nz/SamsungTVPlus/KRBD2700002IV.m3u8
+PLAYY 영화,https://i.mjh.nz/SamsungTVPlus/KRBD2700007S0.m3u8
+SBS 스토브리그,https://i.mjh.nz/SamsungTVPlus/KRBB420000180.m3u8
+SBS 순풍산부인과,https://i.mjh.nz/SamsungTVPlus/KRBB4200004RA.m3u8
+MBC 지붕뚫고 하이킥,https://i.mjh.nz/SamsungTVPlus/KRBC200005H6.m3u8
+JTBC 효리네 민박 시즌1,https://i.mjh.nz/SamsungTVPlus/KRBC5000016BM.m3u8
+SBS 정글의 법칙,https://i.mjh.nz/SamsungTVPlus/KRBB4200012PV.m3u8
+맛있는 녀석들,https://i.mjh.nz/SamsungTVPlus/KRBC3200007D1.m3u8
+JTBC 18 어게인,https://i.mjh.nz/SamsungTVPlus/KRBC5000015F5.m3u8
+채널A 이제 만나러 갑니다,https://i.mjh.nz/SamsungTVPlus/KRBC4100005N5.m3u8
+전우치,https://i.mjh.nz/SamsungTVPlus/KRBC4000003J2.m3u8
+사피엔스스튜디오,https://i.mjh.nz/SamsungTVPlus/KRBC32000191N.m3u8
+역사 읽어드립니다,https://i.mjh.nz/SamsungTVPlus/KRBC32000200B.m3u8
+심리 읽어드립니다,https://i.mjh.nz/SamsungTVPlus/KRBC3200021ZA.m3u8
+tvN 환혼,https://i.mjh.nz/SamsungTVPlus/KRBC320002200.m3u8
+tvN 대탈출3,https://i.mjh.nz/SamsungTVPlus/KRBC800016YS.m3u8
+TV CHOSUN 국가가 부른다,https://i.mjh.nz/SamsungTVPlus/KRBC35000169K.m3u8
+JTBC 뉴스,https://i.mjh.nz/SamsungTVPlus/KRBC46000173Y.m3u8
+tvN 윤스테이,https://i.mjh.nz/SamsungTVPlus/KRBC3200017JQ.m3u8
+뽀요TV,https://i.mjh.nz/SamsungTVPlus/KRBD2000001BN.m3u8
+SBS 빽드,https://i.mjh.nz/SamsungTVPlus/KRBB420001572.m3u8
+Animax 하이큐!!,https://i.mjh.nz/SamsungTVPlus/KRBC3200001VC.m3u8
+코코비TV,https://i.mjh.nz/SamsungTVPlus/KRBB500035VF.m3u8
+로보카폴리 TV,https://i.mjh.nz/SamsungTVPlus/KRBC3500013VH.m3u8
+iHQ 돈쭐내러 왔습니다,https://i.mjh.nz/SamsungTVPlus/KRBC4000002ME.m3u8
+E채널 토요일은 밥이 좋아,https://i.mjh.nz/SamsungTVPlus/KRBC4100008Z6.m3u8
+KBS Joy 연애의 참견,https://i.mjh.nz/SamsungTVPlus/KRBC4000005EP.m3u8
+NEW MOVIES,https://i.mjh.nz/SamsungTVPlus/KRBC3200004D1.m3u8
+OGN 스타리그,https://i.mjh.nz/SamsungTVPlus/KRBC3200005SH.m3u8
+World Billiards TV,https://i.mjh.nz/SamsungTVPlus/KRBC3200011N3.m3u8
+TED,https://i.mjh.nz/SamsungTVPlus/KRBD370000134.m3u8
+Bloomberg TV+ UHD,https://i.mjh.nz/SamsungTVPlus/KRBB500039Y5.m3u8
+Bloomberg Originals,https://i.mjh.nz/SamsungTVPlus/KRBB500044GP.m3u8
+글로벌 뉴스 by LeadStory,https://i.mjh.nz/SamsungTVPlus/KRBD3100006X4.m3u8
+JTBC 최강야구,https://i.mjh.nz/SamsungTVPlus/KRBC5000019FB.m3u8
+JTBC 골프,https://i.mjh.nz/SamsungTVPlus/KRBC5000018O9.m3u8 
+FIFA+,https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8
+KBS 개는 훌륭하다,https://i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8
+씨네21+,https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8
 
 
 🔸北美,#genre#
