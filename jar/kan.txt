@@ -22,10 +22,10 @@ CCTV8K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K36M/playlist.m3u
 CCTV第一剧场,http://111.48.34.237/PLTV/88888888/224/3221230488/1.m3u8
 CCTV怀旧剧场,http://111.48.34.237/PLTV/88888888/224/3221230091/1.m3u8
 CCTV兵器科技,http://111.48.34.237/PLTV/88888888/224/3221230162/1.m3u8
-CCTV央视精品,http://www.petzhu.top:7000/rtp/239.254.201.229:7260
+CCTV央视精品,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/1739354499?profile=pass
 CCTV世界地理,http://111.48.34.237/PLTV/88888888/224/3221230072/1.m3u8
 CCTV女性时尚,http://111.48.34.237/PLTV/88888888/224/3221230545/1.m3u8
-CCTV风云剧场,http://www.petzhu.top:7000/rtp/239.254.201.219:7257
+CCTV风云剧场,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/1455310414?profile=pass
 CCTV风云音乐,http://111.48.34.237/PLTV/88888888/224/3221230089/1.m3u8
 CCTV风云足球,http://111.48.34.237/PLTV/88888888/224/3221230482/1.m3u8
 CCTV高尔夫网球,http://111.48.34.237/PLTV/88888888/224/3221230085/1.m3u8
@@ -48,8 +48,9 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 凤凰中文台,http://www.petzhu.top:7000/rtp/239.254.201.2:5226#http://113.64.145.91:8081/hls/37/index.m3u8
 凤凰资讯台,http://www.petzhu.top:7000/rtp/239.254.201.3:5227#http://113.64.145.91:8081/hls/36/index.m3u8 
 凤凰香港台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk#http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰电影台,http://www.petzhu.top:7000/rtp/239.254.201.1:5214#http://mail.petzhu.top:7000/udp/239.254.201.1:5214
-星空卫视,http://wouu.net:9977/rtp/239.93.0.156:2193?Cf=cfss.c#http://www.xcarchain.com:8888/udp/239.93.0.156:2193
+凤凰电影台,http://117.114.153.25:8180/TV00000000000000000072@HHZT#http://www.petzhu.top:7000/rtp/239.254.201.1:5214
+星空卫视,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/84167277?profile=pass#http://wouu.net:9977/rtp/239.93.0.156:2193?Cf=cfss.c#http://www.xcarchain.com:8888/udp/239.93.0.156:2193
+重温经典,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/1553878114?profile=pass
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8#https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
 亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
@@ -130,7 +131,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 湖南都市,http://118.254.158.105:8888/udp/239.76.245.117:1234
 湖南经视,http://118.254.158.105:8888/udp/239.76.245.116:1234
 湖南爱晚,http://118.254.158.105:8888/udp/239.76.245.123:1234
-湖南国际,http://www.hn-valve.com:8888/udp/239.76.245.124:1234#http://iptvcyp.top:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南国际,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/625273041?profile=pass
 北京新闻,http://114.254.209.157:8888/rtp/239.3.1.159:8000
 北京影视,http://114.254.209.157:8888/rtp/239.3.1.158:8000
 北京文艺,http://114.254.209.157:8888/rtp/239.3.1.242:8000
@@ -171,7 +172,7 @@ CHC影迷电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 上视新闻,http://h.berr.cn:3000/udp/225.0.0.1:6140
 上海教育,http://116.237.248.80:9901/tsfile/live/1007_1.m3u8
 上海都市,http://h.berr.cn:3000/udp/225.0.0.3:6140
-睛彩广场舞,http://nas.tuyuannet.cn:8800/udp/239.37.0.223:5540#http://webmail.axxe.top:4022/udp/239.3.1.128:8001#http://www.8700956.top:18888/rtp/239.81.0.193:4056
+睛彩广场舞,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/1051665556?profile=pass#http://nas.tuyuannet.cn:8800/udp/239.37.0.223:5540
 睛彩竞技,http://nas.tuyuannet.cn:8800/udp/239.37.0.215:5540#http://webmail.axxe.top:4022/udp/239.3.1.125:8001#http://www.8700956.top:18888/rtp/239.81.0.190:4056
 睛彩篮球,http://nas.tuyuannet.cn:8800/udp/239.37.0.38:5540#http://webmail.axxe.top:4022/udp/239.3.1.126:8001#http://www.8700956.top:18888/rtp/239.81.0.191:4056
 睛彩青少,http://nas.tuyuannet.cn:8800/udp/239.37.0.40:5540
@@ -290,14 +291,18 @@ CHC影迷电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 
 
 🔸港澳,#genre#
+TVB Plus,http://ncdsrti.7766.org:7550/hls/chunklistxufkwjw.m3u8
+TVB Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
+TVB Plus,http://138.113.24.59/libof.kesx.top/live/5658kwkojtz.m3u8
 TVB Plus,P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d#P2p://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
+TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 翡翠台,P2p://generationnexxxt.com:19806/660d193500015d6c736dc89372d11bb9 
 明珠台,P2p://generationnexxxt.com:19806/fd4c4431a2204a20b5c7c67698592912#http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
-TVB星河(粵),P2p://generationnexxxt.com:19806/2dfd5ed435e841c1b6949346c2b58583
-TVB娛樂新聞台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8#P2p://generationnexxxt.com:19806/94c52f4f55a646f6825cff0b78316ae2
+TVB星河(粵),https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8#P2p://generationnexxxt.com:19806/2dfd5ed435e841c1b6949346c2b58583
+TVB娛樂新聞台,https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8#P2p://generationnexxxt.com:19806/94c52f4f55a646f6825cff0b78316ae2
 亞洲劇台,mitv://generationnexxxt.com:19806/ee081a662356489d8b2170952ec91d24
 粵語片台,mitv://generationnexxxt.com:19806/3a44c9c92439443494b8ecff6fdb2336
-無線新聞台,P2p://generationnexxxt.com:19806/85a50e6db781406bacc41b10a75a70d5
+無線新聞台,P2p://generationnexxxt.com:19806/85a50e6db781406bacc41b10a75a70d5#http://live.cooltv.top/tv/tvb.php?id=2
 無線財經體育資訊台,P2p://generationnexxxt.com:19806/acf61c067b48468dbdf3ae976c322d1a
 香港國際財經台,P2p://generationnexxxt.com:19806/f3cb31dde1e040a4a30f89e8f95beea7
 HOY TV,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
@@ -312,7 +317,7 @@ ViuTVsix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6#mitv
 天映經典,http://59.35.137.4:8088/hls/130/index.m3u8
 POP C,P2p://generationnexxxt.com:19806/acf61c067b48468dbdf3ae976c322d1a
 美亞電影台(粵語),http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 HKC 18,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 Hands Up,P2p://generationnexxxt.com:19806/7a79a82b627a417f897895b4adf874aa 
 戲曲台,mitv://generationnexxxt.com:19806/4c3b3c3a6c8849c3aa0fc9938859e134
@@ -337,11 +342,13 @@ KIX,mitv://generationnexxxt.com:19806/3f7be3ad31504c9fa358e3fe583fac0a
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 大爱,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
+寰宇新聞台,http://gigs1.micar.me:8900/live.m3u8?c=6
 東森財經新聞台,http://udnhls.skilldns.com:80/dsxw.m3u8
 東森綜合台,http://udnhls.skilldns.com:80/dsmz.m3u8
 東森超視台,rtmp://f13h.mine.nu/sat/tv331
 東森新聞台,P2p://generationnexxxt.com:19806/7bbf7bf4cb8f4a58893f6b5017a9fe05
 東森戲劇台,P2p://generationnexxxt.com:19806/8e23c200926a4eaaa00043b39dca9075
+中天新聞台,http://gigs1.micar.me:8900/live.m3u8?c=7#http://news.666.hz.cz:2086/live.m3u8?c=1
 中天新聞台,P2p://generationnexxxt.com:19806/e92e93fd67794e92acdc0d4005f0781a
 中天亞洲台,P2p://generationnexxxt.com:19806/cb5ccc31dac94210bdc7507c320fb32e
 中天娛樂台,P2p://generationnexxxt.com:19806/f2d219cb882a47038438e2f483f7bf95
@@ -390,6 +397,373 @@ BBC World News,P2p://generationnexxxt.com:19806/323c575f4f694f739cd9f7a945075cef
 愛爾達體育3台,P2p://generationnexxxt.com:19806/c34b66fc16df4781baceff8a2f6430e4
 ELEVEN體育1台,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN體育2台,rtmp://f13h.mine.nu/sat/tv741
+
+
+马来西亚,#genre#
+TV1,http://frhk.x3322.net:9099/stream/channelid/52190677?profile=pass
+TV2,http://frhk.x3322.net:9099/stream/channelid/1641822363?profile=pass
+TV3 HD,http://frhk.x3322.net:9099/stream/channelid/1812066478?profile=pass
+NTV7,http://frhk.x3322.net:9099/stream/channelid/382645602?profile=pass
+8TV,http://frhk.x3322.net:9099/stream/channelid/1246093957?profile=pass
+TV9,http://frhk.x3322.net:9099/stream/channelid/1058933595?profile=pass
+TV Okey,http://frhk.x3322.net:9099/stream/channelid/1714794986?profile=pass
+Sukan RTM,http://frhk.x3322.net:9099/stream/channelid/450406418?profile=pass
+Awesome TV HD,http://frhk.x3322.net:9099/stream/channelid/1498562668?profile=pass
+TV6,http://frhk.x3322.net:9099/stream/channelid/455573121?profile=pass
+TVAH,http://frhk.x3322.net:9099/stream/channelid/672629049?profile=pass
+SukeTV,http://frhk.x3322.net:9099/stream/channelid/1013010683?profile=pass
+BERNAMA,http://frhk.x3322.net:9099/stream/channelid/2008303642?profile=pass
+TVS,http://frhk.x3322.net:9099/stream/channelid/1188355964?profile=pass
+BES,http://frhk.x3322.net:9099/stream/channelid/994838806?profile=pass
+NASIONALfm,http://frhk.x3322.net:9099/stream/channelid/168679981?profile=pass
+TRAXXfm,http://frhk.x3322.net:9099/stream/channelid/487718201?profile=pass
+MINNALfm,http://frhk.x3322.net:9099/stream/channelid/1343343?profile=pass
+AIfm,http://frhk.x3322.net:9099/stream/channelid/1499294622?profile=pass
+Radio KLASIK,http://frhk.x3322.net:9099/stream/channelid/1749471506?profile=pass
+ASYIKfm,http://frhk.x3322.net:9099/stream/channelid/1133992574?profile=pass
+SABAHfm,http://frhk.x3322.net:9099/stream/channelid/1569250195?profile=pass
+SABAH Vfm,http://frhk.x3322.net:9099/stream/channelid/174281718?profile=pass
+SARAWAKfm,http://frhk.x3322.net:9099/stream/channelid/519557023?profile=pass
+WAIfm,http://frhk.x3322.net:9099/stream/channelid/2032587794?profile=pass
+BERNAMA RADIO,http://frhk.x3322.net:9099/stream/channelid/438444781?profile=pass
+Hot FM,http://frhk.x3322.net:9099/stream/channelid/1323150126?profile=pass
+Fly FM,http://frhk.x3322.net:9099/stream/channelid/1884562643?profile=pass
+Molek FM,http://frhk.x3322.net:9099/stream/channelid/1162951937?profile=pass
+Eight FM,http://frhk.x3322.net:9099/stream/channelid/1444412454?profile=pass
+Kool101,http://frhk.x3322.net:9099/stream/channelid/34022700?profile=pass
+MANIS FM,http://frhk.x3322.net:9099/stream/channelid/759009953?profile=pass
+
+
+日本,#genre#
+ABC,http://211.37.26.102:9981/stream/channelid/57731658?ticket=48F421FE0A159FAC968F5A6D6EECCB1B05FFF637&profile=pass
+BS TBS,http://211.37.26.102:9981/stream/channelid/1630330852?ticket=7D0DF55FEC65B051D014B7A657180319CCD56C17&profile=pass
+BS TV Tokyo,http://211.37.26.102:9981/stream/channelid/2138566532?ticket=E2487372539D4DDC95B8A16A1BA02F4ECA86D76D&profile=pass
+CGNTV Japan,http://211.37.26.102:9981/stream/channelid/1048789599?ticket=049206AF98AD5BBCEF3CC00BF512EE108C0F0F29&profile=pass
+Disney Junior,http://211.37.26.102:9981/stream/channelid/1094251361?ticket=1F03B93E68C5B349D9B7B1AF59E4483D36612B53&profile=pass
+Fuji TV NEXT,http://211.37.26.102:9981/stream/channelid/2131033872?ticket=DB1AF678B335DD279A5DA9D34BA8186664F7A9A0&profile=pass
+Golf Network,http://211.37.26.102:9981/stream/channelid/393018412?ticket=FFAD020598470442D953BF92BDD97BF568806BD7&profile=pass
+NHK G (Tokyo),http://211.37.26.102:9981/stream/channelid/1651991013?ticket=7574206A6631C2D3D46FCC21979266A4FD173BBE&profile=pass
+Star 1,http://211.37.26.102:9981/stream/channelid/1351353857?ticket=66475F0A108152BCA5800B5FC3FB62A68BCA13F2&profile=pass
+Tabi Channel,http://211.37.26.102:9981/stream/channelid/941519802?ticket=EE27088DBB8E23BA9903F67D367C056EC9DEB9BA&profile=pass
+TBS,http://211.37.26.102:9981/stream/channelid/1210262947?ticket=52E496F2B6F70B62B86D80EC4431074B9698955C&profile=pass
+TV Asahi,http://211.37.26.102:9981/stream/channelid/1778789755?ticket=954EF37B02F14AE862535DD2712791EE0263BD03&profile=pass
+TV Tokyo,http://211.37.26.102:9981/stream/channelid/249340799?ticket=46A35DFF100F6F4C3B7A9E41325C84B969B77CCE&profile=pass
+BabyFirst,http://211.37.26.102:9981/stream/channelid/513533713?ticket=423F4F6B3433967D458CB6928D0EDD522174A8A8&profile=pass
+
+NHK G,https://vnpt.nekocdn.xyz/hls/NHK_G/index.m3u8
+NHK E,https://vnpt.nekocdn.xyz/hls/NHK_E/index.m3u8
+NTV,https://vnpt.nekocdn.xyz/hls/Nippon_TV/index.m3u8
+TBS,https://vnpt.nekocdn.xyz/hls/TBS/index.m3u8
+Fuji TV,https://vnpt.nekocdn.xyz/hls/Fuji_TV/index.m3u8
+TV Asahi,https://vnpt.nekocdn.xyz/hls/TV_Asahi/index.m3u8
+TV Tokyo,https://vnpt.nekocdn.xyz/hls/TV_Tokyo/index.m3u8
+TOKYO MX1,https://vnpt.nekocdn.xyz/hls/Tokyo_MX1/index.m3u8
+
+NHKG,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+NHKE,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+NTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+Fuji,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+TVAsahi,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+TVTokyo,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+TOKYOMX1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+
+NHK G Osaka,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+MBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+ABC,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
+Kansai TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
+Yomiuri TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+TV Osaka,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
+SUN TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+
+NHK BS,https://vnpt.nekocdn.xyz/hls/NHK_BS/index.m3u8
+BS11,https://vnpt.nekocdn.xyz/hls/BS11/index.m3u8
+Animax,https://vnpt.nekocdn.xyz/hls/Animax/index.m3u8
+
+NHK BS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+NHK BSP 4K,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+BS NTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+BS Asahi,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+BS TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+BS TV Tokyo,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+BS Fuji HD,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+WOWOW Prime,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+WOWOW Live,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+WOWOW Cinema,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+Star Channel 1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+Star Channel 2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
+Star Channel 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
+BS Animax,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+J SPORTS 1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+J SPORTS 2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+J SPORTS 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+J SPORTS 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+Green Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
+BS Japan Movie Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+Disney Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+Fishing Vision,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+
+AT-X,https://vnpt.nekocdn.xyz/hls/AT-X/index.m3u8
+AT-X (neetball),https://neetball.net/live/neet3.m3u8
+MTV,https://vnpt.nekocdn.xyz/hls/MTV/index.m3u8
+
+Jidaigeki Senmon,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+Toei Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+Eisei Gekijo,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+Family Gekijyo,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+Movie Plus,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+Home Drama Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
+Tabi Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
+Fuji TV Next,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+Sky A,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+GAORA SPORTS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+Golf Network,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
+Nittele G+,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+Mondo TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+Channel Ginga,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+Space Shower TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+Music Japan TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+Kayo Pops,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+MTV (2),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+LaLa TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
+Takarazuka Sky Stage,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+Kids Staton TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+Cartoon Network,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+Disney Junior,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+Discovery Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+CNNj,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+
+NHK G (Not Stable),http://pipe.ra1n.lol/joex/index.m3u8
+tss (Not Stable),http://pipe.ra1n.lol/tss/index.m3u8
+tvk (Not Stable),http://pipe.ra1n.lol/tvk/index.m3u8
+BS11 HD (Not Stable),http://pipe.ra1n.lol/bs11/index.m3u8
+AT-X HD (Not Stable),http://pipe.ra1n.lol/at-x/index.m3u8
+
+日本 Tokyo MX1,https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+日本 Tokyo MX2,https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+日本 Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+日本 全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+日本 声优广播,https://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
+日本QVC Japan,https://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+日本购物2,https://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+日本购物3,https://stream1.shopch.jp/HLS/out3/prog_index.m3u8
+日本购物4,https://stream1.shopch.jp/HLS/out4/prog_index.m3u8
+
+
+韩国,#genre#
+韩国电影,rtmp://211.195.208.119/live/12
+sbsonair,rtmp://210.216.76.120/live/sbsonair
+KBS11,http://mtw.so/6henIc
+
+KBS1,http://175.193.226.144:9981/stream/channelid/1802270304?ticket=7B1A8D60C5E59FF7AEC1B564459DC946D27BD637&profile=pass
+MBC,http://175.193.226.144:9981/stream/channelid/1256535871?ticket=5D192A07B4ACC2875B1A7F77F91D2460C07FFA70&profile=pass
+EBS2,http://175.193.226.144:9981/stream/channelid/992040994?ticket=ADD506AD8018C24B3A5C8DF4BE374FB35108C1E7&profile=pass
+캐리TV,http://175.193.226.144:9981/stream/channelid/899381223?ticket=06B3E24EE02222838D9D78057AECC3C3C23935A1&profile=pass
+Good TV,http://175.193.226.144:9981/stream/channelid/1497978166?ticket=EC97C855747124B3DDB542F4C08E3EB083F8BA3D&profile=pass
+C Channel,http://175.193.226.144:9981/stream/channelid/692198137?ticket=35BC71F1B81E3EA120CAB86050EFD71AE79593A1&profile=pass
+CTS기독교TV,http://175.193.226.144:9981/stream/channelid/431327225?ticket=6FCF7735020F31A181D69927242E7CC5F2C70106&profile=pass
+CGNTV,http://175.193.226.144:9981/stream/channelid/509330507?ticket=ADEC9FC44E60BB0EA66F385DDD8A2560D01A3A6E&profile=pass
+CBS,http://175.193.226.144:9981/stream/channelid/1560881603?ticket=5F779D81E8028891EB7B46D61FABD6C01F8C152A&profile=pass
+
+TJB 대전방송 (SBS 大田),http://1.245.74.5:1935/live/tv/.m3u8
+KCTV 광주,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+KBC 광주방송,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+KBS1,http://mytv.dothome.co.kr/ch/public/1.php
+KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
+KBS2,http://mytv.dothome.co.kr/ch/public/3.php
+EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?
+JTV,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
+KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
+KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php
+KBS LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
+KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php
+KBS World,http://mytv.dothome.co.kr/ch/catv/7.php
+朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+애니원,http://210.97.86.161:9981/stream/channelid/377618692?ticket=
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+KBC TV,https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1946374378.m3u8
+KBC TV,https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+JUMBC,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+연합뉴스TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
+job plus,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+국방TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+CTS,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+C,http://112.175.51.214:1935/live/myStream/playlist.m3u8
+TJMBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+소상공인방송,http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
+한국가요채널Korean Song,http://live.kytv.co.kr:8080/hls/stream.m3u8
+KBC SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+UBC SBS,http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w265464937.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+TJBSBS,http://1.245.74.5:1935/live/tv/chunklist_w1321158460.m3u8
+CJBSBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
+BTN,http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+KBS News D,https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
+朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+韩·SBS,http://1.245.74.5:1935/live/tv/.m3u8
+韩·TBS,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
+韩·KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+韩·EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+韩·EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+韩·SBS,http://1.245.74.5:1935/live/tv/.m3u8
+韩·EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+韩·NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+MBC综合频道[1280*720],http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+SBSCJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+韩国新聞,http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
+TJB(SBS大田),http://1.245.74.5:1935/live/tv/.m3u8
+EBS第频道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+EBS二频道,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+ABNHD,https://vod2.abn.co.kr/IPHONE/abn.m3u8
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+CJOnStyle,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+GSShop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+CJOnStyle+,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+KBSLiveCamDokDo,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+GugakTV國樂放送,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+NB Korea Agricultural Broadcasting,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+NBS Korea Agricultural Broadcasting,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+KBS世界,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+KS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
+TJMBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+MBC,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+MBC,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+한국가요채널Korean Song,http://live.kytv.co.kr:8080/hls/stream.m3u8
+연합뉴스TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+Mubeat,https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
+SBS,http://183.99.22.189:9981/stream/channelid/1124346476?
+BBSTV(불교),http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+NBS한국농업방송,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+NBS한국농업방송1,https://media.joycorp.co.kr:4443/live/live_360p/playlist.m3u8
+SAND BOX,http://58.142.60.62:9981/stream/channelid/167222103?profile=pass
+JUMBC,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+jtbc2,http://222.237.71.141:9981/stream/channelid/1803658735?profile=pass
+
+韩国-Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩国BBS 불교방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
+韩国-BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+韩国BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+韩国-BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+韩国EBS第二频道,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+韩国EBS第一频道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+韩国EBS儿童频道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+韩国EBS加二频道,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+韩国EBS加一频道,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+韩国KBC SBS综艺,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+韩国KBS LiveCam DokDo,http://kbs-dokdo.gscdn.com/dokdo_300/definst/dokdo_300.stream/playlist.m3u8
+韩国KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+韩国Korea arirang 1,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
+韩国Korea arirang 3,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
+韩国Luxury World,http://nano.teleservice.su:8080/hls/luxury.m3u8
+韩国MBC综艺频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+韩国-MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+韩国NBS农业广播,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+韩国SBS CJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+韩国TJB SBS综艺,http://1.245.74.5:1935/live/tv/.m3u8
+韩国阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+韩国中央,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+
+MbcYeosu,https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+KBS1,https://code.vthanhtivi.pw/getlink/kbs/60_11/playlist.m3u8
+연합뉴스TV,https://i.mjh.nz/SamsungTVPlus/KRBD1400001ED.m3u8
+MBC무한도전,https://i.mjh.nz/SamsungTVPlus/KRBB5000069BS.m3u8
+tvN사랑의불시착,https://i.mjh.nz/SamsungTVPlus/KRBC3200029C4.m3u8
+MBC나혼자산다,https://i.mjh.nz/SamsungTVPlus/KRBC200002I0.m3u8
+SBSTV동물농장,https://i.mjh.nz/SamsungTVPlus/KRBB420000769.m3u8
+tvN미스터션샤인,https://i.mjh.nz/SamsungTVPlus/KRBC3200028P2.m3u8
+새해웃음특집,https://i.mjh.nz/SamsungTVPlus/KRBD2700008TZ.m3u8
+tvN더지니어스:그랜드파이널,https://i.mjh.nz/SamsungTVPlus/KRBC3200023BG.m3u8
+JTBC냉장고를부탁해,https://i.mjh.nz/SamsungTVPlus/KRBD4300003MW.m3u8
+Fireplace4K,https://i.mjh.nz/SamsungTVPlus/KRBD44000025L.m3u8
+MBC나는가수다,https://i.mjh.nz/SamsungTVPlus/KRBC20000418.m3u8
+MBC옷소매붉은끝동,https://i.mjh.nz/SamsungTVPlus/KRBB5000073UD.m3u8
+KBS1박2일시즌1,https://i.mjh.nz/SamsungTVPlus/KRBC4400003SD.m3u8
+JTBC아는형님,https://i.mjh.nz/SamsungTVPlus/KRBD43000023M.m3u8
+JTBC비긴어게인,https://i.mjh.nz/SamsungTVPlus/KRBC5000020AF.m3u8
+JTBC크라임씬,https://i.mjh.nz/SamsungTVPlus/KRBC46000014A.m3u8
+byBugs,https://i.mjh.nz/SamsungTVPlus/KRBD4300001RQ.m3u8
+tvNSPORTS,https://i.mjh.nz/SamsungTVPlus/KRBC800015MH.m3u8
+Mnet스트릿우먼파이터2HOTCLIP,https://i.mjh.nz/SamsungTVPlus/KRBC3200018FU.m3u8
+tvN유퀴즈온더블럭HOTCLIP,https://i.mjh.nz/SamsungTVPlus/KRBD3100002JL.m3u8
+Animax반지의비밀일기,https://i.mjh.nz/SamsungTVPlus/KRBC40000010R.m3u8
+K-STAR골프,https://i.mjh.nz/SamsungTVPlus/KRBB5000364M.m3u8
+PGATour,https://i.mjh.nz/SamsungTVPlus/KRBD3100007WB.m3u8
+SBS편의점샛별이,https://i.mjh.nz/SamsungTVPlus/KRBB42000061Z.m3u8
+SBS궁금한이야기Y,https://i.mjh.nz/SamsungTVPlus/KRBB4200016TZ.m3u8
+JTBC톡파원25시,https://i.mjh.nz/SamsungTVPlus/KRBC50000218R.m3u8
+KBS정도전,https://i.mjh.nz/SamsungTVPlus/KRBC4400002AO.m3u8
+JTBCSKY캐슬,https://i.mjh.nz/SamsungTVPlus/KRBC4600004BQ.m3u8
+JTBC품위있는그녀,https://i.mjh.nz/SamsungTVPlus/KRBC50000228B.m3u8
+SBS나는솔로,https://i.mjh.nz/SamsungTVPlus/KRBB4200009C3.m3u8
+TV조선미스터트롯영웅의탄생,https://i.mjh.nz/SamsungTVPlus/KRBD27000069Q.m3u8
+TV조선우리이혼했어요,https://i.mjh.nz/SamsungTVPlus/KRBD2700001QR.m3u8
+TV조선골프왕,https://i.mjh.nz/SamsungTVPlus/KRBD2700002IV.m3u8
+PLAYY영화,https://i.mjh.nz/SamsungTVPlus/KRBD2700007S0.m3u8
+SBS스토브리그,https://i.mjh.nz/SamsungTVPlus/KRBB420000180.m3u8
+SBS순풍산부인과,https://i.mjh.nz/SamsungTVPlus/KRBB4200004RA.m3u8
+MBC지붕뚫고하이킥,https://i.mjh.nz/SamsungTVPlus/KRBC200005H6.m3u8
+JTBC효리네민박시즌1,https://i.mjh.nz/SamsungTVPlus/KRBC5000016BM.m3u8
+SBS정글의법칙,https://i.mjh.nz/SamsungTVPlus/KRBB4200012PV.m3u8
+맛있는녀석들,https://i.mjh.nz/SamsungTVPlus/KRBC3200007D1.m3u8
+JTBC18어게인,https://i.mjh.nz/SamsungTVPlus/KRBC5000015F5.m3u8
+채널A이제만나러갑니다,https://i.mjh.nz/SamsungTVPlus/KRBC4100005N5.m3u8
+전우치,https://i.mjh.nz/SamsungTVPlus/KRBC4000003J2.m3u8
+사피엔스스튜디오,https://i.mjh.nz/SamsungTVPlus/KRBC32000191N.m3u8
+역사읽어드립니다,https://i.mjh.nz/SamsungTVPlus/KRBC32000200B.m3u8
+심리읽어드립니다,https://i.mjh.nz/SamsungTVPlus/KRBC3200021ZA.m3u8
+tvN환혼,https://i.mjh.nz/SamsungTVPlus/KRBC320002200.m3u8
+tvN대탈출3,https://i.mjh.nz/SamsungTVPlus/KRBC800016YS.m3u8
+TVCHOSUN국가가부른다,https://i.mjh.nz/SamsungTVPlus/KRBC35000169K.m3u8
+JTBC뉴스,https://i.mjh.nz/SamsungTVPlus/KRBC46000173Y.m3u8
+tvN윤스테이,https://i.mjh.nz/SamsungTVPlus/KRBC3200017JQ.m3u8
+뽀요TV,https://i.mjh.nz/SamsungTVPlus/KRBD2000001BN.m3u8
+SBS빽드,https://i.mjh.nz/SamsungTVPlus/KRBB420001572.m3u8
+Animax하이큐!!,https://i.mjh.nz/SamsungTVPlus/KRBC3200001VC.m3u8
+코코비TV,https://i.mjh.nz/SamsungTVPlus/KRBB500035VF.m3u8
+로보카폴리TV,https://i.mjh.nz/SamsungTVPlus/KRBC3500013VH.m3u8
+iHQ돈쭐내러왔습니다,https://i.mjh.nz/SamsungTVPlus/KRBC4000002ME.m3u8
+E채널토요일은밥이좋아,https://i.mjh.nz/SamsungTVPlus/KRBC4100008Z6.m3u8
+KBSJoy연애의참견,https://i.mjh.nz/SamsungTVPlus/KRBC4000005EP.m3u8
+NEWMOVIES,https://i.mjh.nz/SamsungTVPlus/KRBC3200004D1.m3u8
+OGN스타리그,https://i.mjh.nz/SamsungTVPlus/KRBC3200005SH.m3u8
+WorldBilliardsTV,https://i.mjh.nz/SamsungTVPlus/KRBC3200011N3.m3u8
+TED,https://i.mjh.nz/SamsungTVPlus/KRBD370000134.m3u8
+BloombergTV+UHD,https://i.mjh.nz/SamsungTVPlus/KRBB500039Y5.m3u8
+BloombergOriginals,https://i.mjh.nz/SamsungTVPlus/KRBB500044GP.m3u8
+글로벌뉴스byLeadStory,https://i.mjh.nz/SamsungTVPlus/KRBD3100006X4.m3u8
+JTBC최강야구,https://i.mjh.nz/SamsungTVPlus/KRBC5000019FB.m3u8
+JTBC골프,https://i.mjh.nz/SamsungTVPlus/KRBC5000018O9.m3u8
+FIFA+,https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8
+KBS개는훌륭하다,https://i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8
+씨네21+,https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8
+SBSHD,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&stream=156426&extension=ts
+MBCA,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&stream=156429&extension=ts
+KBSNewsD,https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
+KBS1,http://mytv.dothome.co.kr/ch/public/1.php
+KBS2,http://mytv.dothome.co.kr/ch/public/3.php
+KBS2,http://183.99.22.189:9981/stream/channelid/806525648?
+Mubeat,https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
+EBS,http://183.99.22.189:9981/stream/channelid/1358704792?ticket=486A92F5229947808649CA1BA6D2AF3BD1F1DC5D&profile=pass
+EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?
+JTV,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
+JTV,http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
 
 
 🔸北美,#genre#
