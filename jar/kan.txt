@@ -295,7 +295,6 @@ TVB Plus,http://ncdsrti.7766.org:7550/hls/chunklistxufkwjw.m3u8
 TVB Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
 TVB Plus,http://138.113.24.59/libof.kesx.top/live/5658kwkojtz.m3u8
 TVB Plus,P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d#P2p://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
-TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 翡翠台,P2p://generationnexxxt.com:19806/660d193500015d6c736dc89372d11bb9 
 明珠台,P2p://generationnexxxt.com:19806/fd4c4431a2204a20b5c7c67698592912#http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
 TVB星河(粵),https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8#P2p://generationnexxxt.com:19806/2dfd5ed435e841c1b6949346c2b58583
