@@ -399,12 +399,12 @@ ELEVEN體育1台,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN體育2台,rtmp://f13h.mine.nu/sat/tv741
 
 
-马来西亚,#genre#
+🔸马来,#genre#
 TV1,http://frhk.x3322.net:9099/stream/channelid/52190677?profile=pass
 TV2,http://frhk.x3322.net:9099/stream/channelid/1641822363?profile=pass
-TV3 HD,http://frhk.x3322.net:9099/stream/channelid/1812066478?profile=pass
+TV3,http://frhk.x3322.net:9099/stream/channelid/1812066478?profile=pass
 NTV7,http://frhk.x3322.net:9099/stream/channelid/382645602?profile=pass
-8TV,http://frhk.x3322.net:9099/stream/channelid/1246093957?profile=pass
+八度空間,http://frhk.x3322.net:9099/stream/channelid/1246093957?profile=pass
 TV9,http://frhk.x3322.net:9099/stream/channelid/1058933595?profile=pass
 TV Okey,http://frhk.x3322.net:9099/stream/channelid/1714794986?profile=pass
 Sukan RTM,http://frhk.x3322.net:9099/stream/channelid/450406418?profile=pass
@@ -434,7 +434,7 @@ Kool101,http://frhk.x3322.net:9099/stream/channelid/34022700?profile=pass
 MANIS FM,http://frhk.x3322.net:9099/stream/channelid/759009953?profile=pass
 
 
-日本,#genre#
+🔸日本,#genre#
 ABC,http://211.37.26.102:9981/stream/channelid/57731658?ticket=48F421FE0A159FAC968F5A6D6EECCB1B05FFF637&profile=pass
 BS TBS,http://211.37.26.102:9981/stream/channelid/1630330852?ticket=7D0DF55FEC65B051D014B7A657180319CCD56C17&profile=pass
 BS TV Tokyo,http://211.37.26.102:9981/stream/channelid/2138566532?ticket=E2487372539D4DDC95B8A16A1BA02F4ECA86D76D&profile=pass
@@ -550,7 +550,7 @@ AT-X HD (Not Stable),http://pipe.ra1n.lol/at-x/index.m3u8
 日本购物4,https://stream1.shopch.jp/HLS/out4/prog_index.m3u8
 
 
-韩国,#genre#
+🔸韩国,#genre#
 韩国电影,rtmp://211.195.208.119/live/12
 sbsonair,rtmp://210.216.76.120/live/sbsonair
 KBS11,http://mtw.so/6henIc
