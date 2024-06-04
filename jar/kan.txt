@@ -171,10 +171,9 @@ CHC影迷电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 上视新闻,http://h.berr.cn:3000/udp/225.0.0.1:6140
 上海教育,http://116.237.248.80:9901/tsfile/live/1007_1.m3u8
 上海都市,http://h.berr.cn:3000/udp/225.0.0.3:6140
-睛彩广场舞,http://webmail.axxe.top:4022/udp/239.3.1.128:8001#http://www.8700956.top:18888/rtp/239.81.0.193:4056
-睛彩羽毛球,http://www.8700956.top:18888/rtp/239.81.0.192:4056#http://webmail.axxe.top:4022/udp/239.81.0.192:4056
-睛彩竞技,http://webmail.axxe.top:4022/udp/239.3.1.125:8001#http://www.8700956.top:18888/rtp/239.81.0.190:4056
-睛彩篮球,http://webmail.axxe.top:4022/udp/239.3.1.126:8001#http://www.8700956.top:18888/rtp/239.81.0.191:4056
+睛彩广场舞,http://nas.tuyuannet.cn:8800/udp/239.37.0.223:5540#http://webmail.axxe.top:4022/udp/239.3.1.128:8001#http://www.8700956.top:18888/rtp/239.81.0.193:4056
+睛彩竞技,http://nas.tuyuannet.cn:8800/udp/239.37.0.215:5540#http://webmail.axxe.top:4022/udp/239.3.1.125:8001#http://www.8700956.top:18888/rtp/239.81.0.190:4056
+睛彩篮球,http://nas.tuyuannet.cn:8800/udp/239.37.0.38:5540#http://webmail.axxe.top:4022/udp/239.3.1.126:8001#http://www.8700956.top:18888/rtp/239.81.0.191:4056
 睛彩青少,http://nas.tuyuannet.cn:8800/udp/239.37.0.40:5540
 北京淘精彩,http://115.171.216.54:4000/udp/225.1.8.33:8002
 北京淘电影,http://115.171.216.54:4000/udp/225.1.8.38:8002
