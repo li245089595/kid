@@ -413,7 +413,7 @@ TVAH,http://frhk.x3322.net:9099/stream/channelid/672629049?profile=pass
 SukeTV,http://frhk.x3322.net:9099/stream/channelid/1013010683?profile=pass
 BERNAMA,http://frhk.x3322.net:9099/stream/channelid/2008303642?profile=pass
 TVS,http://frhk.x3322.net:9099/stream/channelid/1188355964?profile=pass
-BES,http://frhk.x3322.net:9099/stream/channelid/994838806?profile=pass
+BERITA rtm,http://frhk.x3322.net:9099/stream/channelid/994838806?profile=pass
 
 
 
