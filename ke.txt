@@ -50,7 +50,7 @@
     },
       {
       "key": "api_金鹰采集",
-      "name": "💠┃金鹰┃采集",
+      "name": "💠金鹰┃采集",
       "type": 1,
       "api": "https://jyzyapi.com/provide/vod/",
       "playUrl": "https://hd.iapijy.com/play?url=",
