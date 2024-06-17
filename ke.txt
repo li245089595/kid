@@ -427,7 +427,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/bilibili.json"
+      "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/bilibili.json"
     },
     {
       "key": "csp_Biliych",
