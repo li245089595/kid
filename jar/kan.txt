@@ -406,7 +406,7 @@ BERITA rtm,http://frhk.x3322.net:9099/stream/channelid/994838806?profile=pass
 
 🔸日本,#genre#
 ABC,http://211.37.26.102:9981/stream/channelid/57731658?ticket=48F421FE0A159FAC968F5A6D6EECCB1B05FFF637&profile=pass
-BS TBS,http://211.37.26.102:9981/stream/channelid/1630330852?ticket=7D0DF55FEC65B051D014B7A657180319CCD56C17&profile=pass
+BS-TBS,http://211.37.26.102:9981/stream/channelid/1630330852?ticket=7D0DF55FEC65B051D014B7A657180319CCD56C17&profile=pass
 BS TV Tokyo,http://211.37.26.102:9981/stream/channelid/2138566532?ticket=E2487372539D4DDC95B8A16A1BA02F4ECA86D76D&profile=pass
 CGNTV Japan,http://211.37.26.102:9981/stream/channelid/1048789599?ticket=049206AF98AD5BBCEF3CC00BF512EE108C0F0F29&profile=pass
 Disney Junior,http://211.37.26.102:9981/stream/channelid/1094251361?ticket=1F03B93E68C5B349D9B7B1AF59E4483D36612B53&profile=pass
@@ -420,19 +420,19 @@ TV Asahi,http://211.37.26.102:9981/stream/channelid/1778789755?ticket=954EF37B02
 TV Tokyo,http://211.37.26.102:9981/stream/channelid/249340799?ticket=46A35DFF100F6F4C3B7A9E41325C84B969B77CCE&profile=pass
 BabyFirst,http://211.37.26.102:9981/stream/channelid/513533713?ticket=423F4F6B3433967D458CB6928D0EDD522174A8A8&profile=pass
 
-NHK G,https://vnpt.nekocdn.xyz/hls/NHK_G/index.m3u8
-NHK E,https://vnpt.nekocdn.xyz/hls/NHK_E/index.m3u8
+NHK-G綜合,https://vnpt.nekocdn.xyz/hls/NHK_G/index.m3u8
+NHK-E教育,https://vnpt.nekocdn.xyz/hls/NHK_E/index.m3u8
 NTV,https://vnpt.nekocdn.xyz/hls/Nippon_TV/index.m3u8
-TBS,https://vnpt.nekocdn.xyz/hls/TBS/index.m3u8
+BS-TBS,https://vnpt.nekocdn.xyz/hls/TBS/index.m3u8
 Fuji TV,https://vnpt.nekocdn.xyz/hls/Fuji_TV/index.m3u8
 TV Asahi,https://vnpt.nekocdn.xyz/hls/TV_Asahi/index.m3u8
 TV Tokyo,https://vnpt.nekocdn.xyz/hls/TV_Tokyo/index.m3u8
 TOKYO MX1,https://vnpt.nekocdn.xyz/hls/Tokyo_MX1/index.m3u8
 
-NHKG,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
-NHKE,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+NHK-G綜合,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+NHK-E教育,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
 NTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
-TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+BS-TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
 Fuji,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
 TVAsahi,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 TVTokyo,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
