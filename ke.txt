@@ -622,14 +622,14 @@
   ],
   "parses": [
     {
-      "name": "777",
+      "name": "无极",
       "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
+      "url": "http://119.91.123.253:2345/Api/yun.php?url="
     },
     {
-      "name": "杰森",
+      "name": "咸鱼",
       "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
+      "url": "https://jx.xyflv.cc/?url="
     },
     {
       "name": "看看",
