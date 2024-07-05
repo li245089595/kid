@@ -92,7 +92,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 安多卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
-农林卫视,http://118.114.168.57:8888/udp/239.93.0.100:5140?fmt=ts2hls
+农林卫视,http://www.unraidd.top:8282/udp/239.29.0.129:5000
 甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 康巴卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
@@ -329,7 +329,7 @@ KIX,mitv://generationnexxxt.com:19806/3f7be3ad31504c9fa358e3fe583fac0a
 大爱,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
 原住民電視臺,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3319
 民視第一台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3301
-民視台臺灣台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3302
+民視臺灣台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3302
 影迷數位電影台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3402
 HGTV居家樂活頻道,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3378
 亞洲美食頻道,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=2
@@ -394,10 +394,10 @@ ELEVEN體育1台,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN體育2台,rtmp://f13h.mine.nu/sat/tv741
 
 
-马来西亚,#genre#
+🔸马来,#genre#
 TV1,http://frhk.x3322.net:9099/stream/channelid/52190677?profile=pass
 TV2,http://frhk.x3322.net:9099/stream/channelid/1641822363?profile=pass
-TV3 HD,http://frhk.x3322.net:9099/stream/channelid/1812066478?profile=pass
+TV3,http://frhk.x3322.net:9099/stream/channelid/1812066478?profile=pass
 TV6,http://frhk.x3322.net:9099/stream/channelid/455573121?profile=pass
 NTV7,http://frhk.x3322.net:9099/stream/channelid/382645602?profile=pass
 8tv,http://frhk.x3322.net:9099/stream/channelid/1246093957?profile=pass
@@ -409,7 +409,7 @@ TVAH,http://frhk.x3322.net:9099/stream/channelid/672629049?profile=pass
 SukeTV,http://frhk.x3322.net:9099/stream/channelid/1013010683?profile=pass
 BERNAMA,http://frhk.x3322.net:9099/stream/channelid/2008303642?profile=pass
 TVS,http://frhk.x3322.net:9099/stream/channelid/1188355964?profile=pass
-BES,http://frhk.x3322.net:9099/stream/channelid/994838806?profile=pass
+BERITA rtm,http://frhk.x3322.net:9099/stream/channelid/994838806?profile=pass
 
 
 🔸北美,#genre#
