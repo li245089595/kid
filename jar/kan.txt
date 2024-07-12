@@ -274,6 +274,8 @@ CHC影迷电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 
 🔸港澳,#genre#
 TVB Plus,http://138.113.24.59/libof.kesx.top/live/5658kwkojtz.m3u8
+TVB1,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=890
+TVBe,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=888
 TVB Plus,P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d#P2p://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn#http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=2203
 明珠台,P2p://generationnexxxt.com:19806/fd4c4431a2204a20b5c7c67698592912#http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
@@ -325,29 +327,40 @@ KIX,mitv://generationnexxxt.com:19806/3f7be3ad31504c9fa358e3fe583fac0a
 番薯电视,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 大爱,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
-i-Fun動漫台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3329
-CN卡通頻道,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=2124
+原住民電視臺,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3319
+民視第一台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3301
+民視臺灣台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3302
+公視,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=2131
+中視經典台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3306
+中天綜合台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=2175
+非凡商業台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=328
+寰宇新聞台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3342
+寰宇新聞臺灣台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3343
+影迷數位電影台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3402
 龍祥電影,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=2141
 龍華電影,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3401
 龍華戲劇,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3387
 龍華偶像,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=2138
 靖天電影台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3400
 靖天卡通台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3327
-中視經典台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3306
-公視,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=2131
-韓國娛樂台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=2164
-中天綜合台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=2175
-原住民電視臺,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3319
-民視第一台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3301
-民視臺灣台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3302
-影迷數位電影台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3402
 HGTV居家樂活頻道,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3378
 亞洲美食頻道,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=2
 亞洲旅遊台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3376
-寰宇新聞台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3342
-寰宇新聞臺灣台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3343
+韓國娛樂台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=2164
+i-Fun動漫台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3329
+CN卡通頻道,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=2124
 Discovery科學頻道,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=5
 罪案偵緝頻道,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3393
+好萊塢電影台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=2132
+HBO,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=786
+HBO強檔巨獻,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=787
+HBO原創巨獻,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=2209
+HBO Family,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=788
+Lifetime,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3137
+TechStorm,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=355
+鏡新聞,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=855
+東森購物1台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3331
+東森購物2台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3347
 東森財經新聞台,http://udnhls.skilldns.com:80/dsxw.m3u8
 東森綜合台,http://udnhls.skilldns.com:80/dsmz.m3u8
 東森超視台,rtmp://f13h.mine.nu/sat/tv331
@@ -367,6 +380,7 @@ Discovery科學頻道,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&i
 TVBS,P2p://generationnexxxt.com:19806/be3d1c188f0c4b938ccfca04566b0fc1
 TVBS新聞台,rtmp://f13h.mine.nu/sat/tv551#P2p://generationnexxxt.com:19806/65fa6dc600095b662a8020fe14c65804
 TVBS歡樂台,rtmp://f13h.mine.nu/sat/tv421#P2p://generationnexxxt.com:19806/b7e4efb094034ce1895b3d9a5548cc2b
+TVBS精采台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=346
 三立iNEWS,P2p://generationnexxxt.com:19806/31103be1231e435ab69fdc1492cf08ee
 三立新聞台,P2p://generationnexxxt.com:19806/96118abbe8ee48ddaef2c9c1cea1af04
 八大優頻道,P2p://generationnexxxt.com:19806/e1b81f9f50644fd38273333129365a4c
