@@ -121,7 +121,6 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 武汉文体,http://dd.ikhs.cn:8880/rtp/239.69.1.147:10518
 武汉外语,http://111.48.34.237/PLTV/88888888/224/3221230352/1.m3u8
 武汉教育,http://111.48.34.237/PLTV/88888888/224/3221229783/1.m3u8
-孝感新闻综合,http://xiaogan-live21.cjyun.org/10139/s10139-xg.m3u8?auth_key=1735660799-0-0-c66126a1e65c45cfa675dd5f16914315
 茶频道,http://111.48.34.237/PLTV/88888888/224/3221229873/1.m3u8
 快乐垂钓,http://111.48.34.237/PLTV/88888888/224/3221230479/1.m3u8
 金鹰纪实,http://111.48.34.237/PLTV/88888888/224/3221229814/1.m3u8
@@ -167,8 +166,8 @@ CHC影迷电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 四海钓鱼,http://111.48.34.237/PLTV/88888888/224/3221230438/1.m3u8
 法治天地,http://h.berr.cn:3000/udp/225.0.0.160:6140
 七彩戏剧,http://h.berr.cn:3000/udp/225.0.0.225:6140
-金色学堂,http://h.berr.cn:3000/udp/225.0.0.159:6140
 新视觉,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ycxsjH265_4000.m3u8
+金色学堂,http://h.berr.cn:3000/udp/225.0.0.159:6140
 劲爆体育,http://58.216.99.148:80/live2.rxip.sc96655.com/live/lqhxjcHDH265_4000.m3u8
 财富天下,http://111.48.34.237/PLTV/88888888/224/3221229728/1.m3u8
 第一财经,http://h.berr.cn:3000/udp/225.0.0.7:6140
@@ -303,7 +302,6 @@ POP C,P2p://generationnexxxt.com:19806/acf61c067b48468dbdf3ae976c322d1a
 美亞電影台(粵語),http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=862
 功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 HKC 18,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3131
-愛奇藝,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=1316
 Hands Up,P2p://generationnexxxt.com:19806/7a79a82b627a417f897895b4adf874aa 
 戲曲台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3128#mitv://generationnexxxt.com:19806/4c3b3c3a6c8849c3aa0fc9938859e134
 黃金翡翠台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3129#P2p://generationnexxxt.com:19806/c2e1bcd2c5544341b2a0d7f7a53e0d98
@@ -408,7 +406,8 @@ ELEVEN體育1台,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN體育2台,rtmp://f13h.mine.nu/sat/tv741
 
 
-🔸马来,#genre#
+🔸新马,#genre#
+愛奇藝,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=1316
 Astro全佳台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=2205
 Astro AEC,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=2202
 Mediacorp U,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=2207
