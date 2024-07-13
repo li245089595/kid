@@ -276,9 +276,9 @@ CHC影迷电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 TVB Plus,http://138.113.24.59/libof.kesx.top/live/5658kwkojtz.m3u8
 TVB1,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=890
 TVBe,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=888
-TVB Plus,P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d#P2p://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn#http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=2203
-明珠台,P2p://generationnexxxt.com:19806/fd4c4431a2204a20b5c7c67698592912#http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
+TVB Plus,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=819#P2p://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
+翡翠台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=2203
+明珠台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=820#P2p://generationnexxxt.com:19806/fd4c4431a2204a20b5c7c67698592912
 TVB星河(粵),https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8#P2p://generationnexxxt.com:19806/2dfd5ed435e841c1b6949346c2b58583
 TVB娛樂新聞台,https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8#P2p://generationnexxxt.com:19806/94c52f4f55a646f6825cff0b78316ae2
 千禧經典台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=878
