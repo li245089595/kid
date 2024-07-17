@@ -306,7 +306,7 @@ POP C,P2p://generationnexxxt.com:19806/acf61c067b48468dbdf3ae976c322d1a
 功夫台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=2185
 华语剧台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3127
 粤语台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3128
-亚洲剧台直播,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3152
+亚洲剧台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3152
 戲曲台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3128#mitv://generationnexxxt.com:19806/4c3b3c3a6c8849c3aa0fc9938859e134
 黃金翡翠台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=3129#P2p://generationnexxxt.com:19806/c2e1bcd2c5544341b2a0d7f7a53e0d98
 Hands Up,P2p://generationnexxxt.com:19806/7a79a82b627a417f897895b4adf874aa 
