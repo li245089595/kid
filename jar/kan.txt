@@ -162,13 +162,13 @@ CHC影迷电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 游戏风云,http://h.berr.cn:3000/udp/225.0.0.162:6140
 生活时尚,http://h.berr.cn:3000/udp/225.0.0.163:6140
 乐游,http://h.berr.cn:3000/udp/225.0.0.164:6140
-魅力足球,http://58.216.99.148:80/live2.rxip.sc96655.com/live/mlyy_4000.m3u8
+魅力足球,http://ygbh.live/migu.php?id=mlzq
 四海钓鱼,http://111.48.34.237/PLTV/88888888/224/3221230438/1.m3u8
 法治天地,http://h.berr.cn:3000/udp/225.0.0.160:6140
 七彩戏剧,http://h.berr.cn:3000/udp/225.0.0.225:6140
-新视觉,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ycxsjH265_4000.m3u8
+新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 金色学堂,http://h.berr.cn:3000/udp/225.0.0.159:6140
-劲爆体育,http://58.216.99.148:80/live2.rxip.sc96655.com/live/lqhxjcHDH265_4000.m3u8
+劲爆体育,http://ygbh.live/migu.php?id=jbty
 财富天下,http://111.48.34.237/PLTV/88888888/224/3221229728/1.m3u8
 第一财经,http://h.berr.cn:3000/udp/225.0.0.7:6140
 东方财经,http://h.berr.cn:3000/udp/225.0.0.226:6140
@@ -424,27 +424,12 @@ ELEVEN體育1台,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN體育2台,rtmp://f13h.mine.nu/sat/tv741
 
 
-🔸新马,#genre#
+🔸新加,#genre#
 愛奇藝,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=1316
 Astro全佳台,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=2205
 Astro AEC,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=2202
 Mediacorp U,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=2207
 Mediacorp 8,http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=2208
-TV1,http://frhk.x3322.net:9099/stream/channelid/52190677?profile=pass
-TV2,http://frhk.x3322.net:9099/stream/channelid/1641822363?profile=pass
-TV3,http://frhk.x3322.net:9099/stream/channelid/1812066478?profile=pass
-TV6,http://frhk.x3322.net:9099/stream/channelid/455573121?profile=pass
-NTV7,http://frhk.x3322.net:9099/stream/channelid/382645602?profile=pass
-8tv,http://frhk.x3322.net:9099/stream/channelid/1246093957?profile=pass
-TV9,http://frhk.x3322.net:9099/stream/channelid/1058933595?profile=pass
-TV Okey,http://frhk.x3322.net:9099/stream/channelid/1714794986?profile=pass
-Sukan RTM,http://frhk.x3322.net:9099/stream/channelid/450406418?profile=pass
-Awesome TV,http://frhk.x3322.net:9099/stream/channelid/1498562668?profile=pass
-TVAH,http://frhk.x3322.net:9099/stream/channelid/672629049?profile=pass
-SukeTV,http://frhk.x3322.net:9099/stream/channelid/1013010683?profile=pass
-BERNAMA,http://frhk.x3322.net:9099/stream/channelid/2008303642?profile=pass
-TVS,http://frhk.x3322.net:9099/stream/channelid/1188355964?profile=pass
-BERITA rtm,http://frhk.x3322.net:9099/stream/channelid/994838806?profile=pass
 
 
 🔸北美,#genre#
