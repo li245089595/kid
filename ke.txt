@@ -102,7 +102,7 @@
       "name": "💠索尼┃采集",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/",
-      "playUrl": "",
+      "playUrl": "https://www.snplayer.com/?url=",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
