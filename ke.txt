@@ -98,11 +98,11 @@
       ]
     },
     {
-      "key": "api_索尼采集",
-      "name": "💠索尼┃采集",
+      "key": "api_天翼采集",
+      "name": "💠天翼┃采集",
       "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/",
-      "playUrl": "https://www.snplayer.com/?url=",
+      "api": "https://www.911ysw.top/tianyi.php/provide/vod/at/xml",
+      "playUrl": "",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
