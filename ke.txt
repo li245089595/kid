@@ -51,11 +51,11 @@
       ]
     },
     {
-      "key": "api_乐视采集",
-      "name": "💠乐视┃采集",
+      "key": "api_爱看采集",
+      "name": "💠爱看┃采集",
       "type": 1,
-      "api": "https://leshiapi.com/api.php/provide/vod/",
-      "playUrl": "https://leshivideoplayurl.com/?url=",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/",
+      "playUrl": "https://bofang.ikdmjx.com/?url=",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
@@ -65,11 +65,12 @@
         "香港剧",
         "台湾剧",
         "欧美剧",
-        "日剧",
+        "日本剧",
         "韩国剧",
         "泰国剧",
         "海外剧",
         "纪录片",
+        "古装片",
         "动作片",
         "喜剧片",
         "爱情片",
@@ -78,22 +79,22 @@
         "恐怖片",
         "剧情片",
         "悬疑片",
-        "奇幻片",
+        "历史片",
+        "惊悚片",
+        "家庭片",
         "犯罪片",
         "灾难片",
         "动画片",
-        "港台三级",
-        "韩国伦理",
-        "日本伦理",
+        "伦理片",
         "国产动漫",
         "日本动漫",
         "欧美动漫",
-        "海外动漫",
+        "里番动漫",
         "大陆综艺",
         "港台综艺",
         "日韩综艺",
         "欧美综艺",
-        "电影解说"
+        "体育"
       ]
     },
     {
@@ -376,28 +377,28 @@
       "filterable": 0,
       "categories": [
         "国产剧",
-	"香港剧",
-	"台湾剧",
-	"欧美剧",
-	"日本剧",
-	"韩国剧",
-	"泰国剧",
-	"其他剧",
-	"纪录片",
-	"动作片",
-	"喜剧片",
-	"爱情片",
-	"科幻片",
-	"恐怖片",
-	"剧情片",
-	"战争片",
-	"大陆综艺",
-	"港台综艺",
-	"韩国综艺",
-	"欧美综艺",
-	"国产动漫",
-	"日本动漫",
-	"欧美动漫"
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "日本剧",
+        "韩国剧",
+        "泰国剧",
+        "其他剧",
+        "纪录片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "大陆综艺",
+        "港台综艺",
+        "韩国综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫"
       ]
     },
     {
@@ -627,19 +628,53 @@
   ],
   "parses": [
     {
-      "name": "777",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
+      "name": "解析轮询",
+      "type": 3,
+      "url": "Demo"
     },
     {
-      "name": "杰森",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
+      "name": "嗅探轮询",
+      "type": 3,
+      "url": "Web"
     },
     {
-     "name":"醉仙",
-     "type":0,
-     "url":"https://jx.zui.cm/?url="
+      "name": "json轮询",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
+      "name": "左岸解析",
+      "type": 0,
+      "url": "https://wuzei.serv00.net/jx/bl.php?v="
+    },
+    {
+      "name": "聚合解析",
+      "type": 0,
+      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
+      "ext": {
+        "flag": [
+          "seven",
+          "mgtv",
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "芒果"
+        ]
+      }
+    },
+    {
+      "name": "银河嗅探",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "醉仙",
+      "type": 0,
+      "url": "https://jx.zui.cm/?url="
     },
     {
       "name": "看看",
@@ -772,6 +807,168 @@
           "User-Agent": "okhttp/4.1.0"
         }
       }
+    }
+  ],
+  "ijk": [
+    {
+      "group": "软解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    },
+    {
+      "group": "硬解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
     }
   ],
   "flags": [
