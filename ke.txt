@@ -732,7 +732,7 @@
     {
       "name": "二",
       "type": 0,
-      "url": "http://110.42.7.182:880/api/?key=7e84f07dc78fbb3406d64a1ab7d966b3&url="
+      "url": "https://bd.jx.cn/?url="
     },
     {
       "name": "小",
