@@ -1,6 +1,7 @@
 {
   "spider": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/kan.jar;md5;2e518d1fe2a0f74638a5f46d18129d3e",
-  "wallpaper": "https://jpg.wxincai.eu.org",
+ //"spider": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/li245089595/kid/main/jar/js.jar",
+"wallpaper": "https://jpg.wxincai.eu.org",
   "warningText": "KiD点播祝你生活愉快。",
   "lives": [
     {
@@ -995,7 +996,9 @@
     "wasu"
   ],
    "ads": [
-    "static-mozai.4gtv.tv",
-    "s3t3d2y8.afcdn.net"
+    "wan.51img1.com",
+    "iqiyi.hbuioo.com",
+    "vip.ffzyad.com",
+    "https: //lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
