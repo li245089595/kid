@@ -683,12 +683,12 @@
     {
       "name": "看看",
       "type": 0,
-      "url": "https://jx.m3u8.pw/?url="
+      "url": "https://im1907.top/?jx="
     },
     {
       "name": "A01",
       "type": 0,
-      "url": "http://api.apii.top/?v="
+      "url": "https://bd.jx.cn/?url="
     },
     {
       "name": "A05",
@@ -698,21 +698,21 @@
     {
       "name": "A12",
       "type": 0,
-      "url": "https://jx.quankan.app/?url="
+      "url": "https://www.ckplayer.vip/jiexi/?url="
     },
     {
       "name": "A14",
       "type": 0,
-      "url": "https://www.pangujiexi.com/pangu/?url="
+      "url": "https://yparse.ik9.cc/index.php?url="
     },
     {
       "name": "9号线",
       "url": "https://www.8090g.cn/?url="
     },
     {
-      "name": "王",
+      "name": "JY",
       "type": 0,
-      "url": "http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url="
+      "url": "https://jx.playerjy.com/?url="
     },
     {
       "name": "二",
@@ -732,7 +732,7 @@
     {
       "name": "12号线",
       "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url=",
+      "url": "https://www.playm3u8.cn/jiexi.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -786,7 +786,7 @@
     {
       "name": "👉嗅探👈就是破解中，請等候一會👈",
       "type": 0,
-      "url": "http://pandown.pro/app/ysmjx.php?url=",
+      "url": "https://jx.nnxv.cn/tv.php?url=",
       "ext": {
         "flag": [
           "qq",
