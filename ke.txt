@@ -992,7 +992,5 @@
     "iqiyi.hbuioo.com",
     "vip.ffzyad.com",
     "https: //lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
-    "static-mozai.4gtv.tv",
-    "s3t3d2y8.afcdn.net"
   ]
 }
