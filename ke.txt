@@ -1,5 +1,6 @@
 {
   "spider": "https://codeberg.org/li245089595/kid/raw/branch/main/kan.jar;md5;2e518d1fe2a0f74638a5f46d18129d3e",
+   //"spider": "https://ghproxy.cn/https://raw.githubusercontent.com/li245089595/kid/main/jar/fmi.jar;md5;eea22614c071a32c3624ca99691f491a",
    //"spider": "https://codeberg.org/li245089595/kid/raw/branch/main/js.jar",
   "wallpaper": "https://jpg.wxincai.eu.org",
   "warningText": "KiD点播祝你生活愉快。",
