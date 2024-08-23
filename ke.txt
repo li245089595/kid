@@ -395,7 +395,7 @@
       "key": "api_非凡采集",
       "name": "💠非凡┃采集",
       "type": 1,
-      "api": "https://api.ffzyapi.com/api.php/provide/vod/",
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
       "playUrl": "https://svip.ffzyplay.com/?url=",
       "playerType": 1,
       "searchable": 1,
