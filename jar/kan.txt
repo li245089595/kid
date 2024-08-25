@@ -25,7 +25,7 @@ CCTV兵器科技,http://111.48.34.237/PLTV/88888888/224/3221230162/1.m3u8
 CCTV央视精品,http://61.134.214.236:8082/rtp/226.0.2.219:9664
 CCTV世界地理,http://111.48.34.237/PLTV/88888888/224/3221230072/1.m3u8
 CCTV女性时尚,http://111.48.34.237/PLTV/88888888/224/3221230545/1.m3u8
-CCTV风云剧场,http://112.103.141.18:8083/hls/93/index.m3u8
+CCTV风云剧场,http://111.166.193.128:8888/udp/225.1.2.174:5002
 CCTV风云音乐,http://111.48.34.237/PLTV/88888888/224/3221230089/1.m3u8
 CCTV风云足球,http://111.48.34.237/PLTV/88888888/224/3221230482/1.m3u8
 CCTV高尔夫网球,http://111.48.34.237/PLTV/88888888/224/3221230085/1.m3u8
@@ -37,7 +37,7 @@ CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV3,http://ikuai.zlsip.top:4022/rtp/239.3.1.55:4120
 CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-早期教育,http://120.234.49.38:7000/udp/239.21.0.106:3764
+早期教育,http://111.166.193.128:8888/udp/225.1.2.207:5002#http://120.234.49.38:7000/udp/239.21.0.106:3764
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
@@ -45,11 +45,11 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 
 🔸卫视,#genre#
-凤凰中文台,http://113.64.147.199:8811/hls/32/index.m3u8
-凤凰资讯台,http://113.64.147.199:8811/hls/33/index.m3u8
-凤凰香港台,http://113.64.147.199:8811/hls/34/index.m3u8
+凤凰中文台,https://test.zapi.us.kg/?id=phtv-cn
+凤凰资讯台,https://test.zapi.us.kg/?id=phtv-info
+凤凰香港台,https://test.zapi.us.kg/?id=phtv-hk
 凤凰电影台,http://117.114.153.26:8180/TV00000000000000000072@HHZT
-星空卫视,http://117.114.153.26:8180/TV00000000000000000071@HHZT#http://wouu.net:9977/rtp/239.93.0.156:2193?Cf=cfss.c
+星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0#http://wouu.net:9977/rtp/239.93.0.156:2193?Cf=cfss.c
 澳亚卫视,http://117.114.153.26:8180/TV00000000000000000082@HHZT#https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 重温经典,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D
 亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
@@ -88,7 +88,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
-兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
+兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8#http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 安多卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
@@ -166,9 +166,9 @@ CHC影迷电影,http://111.48.34.237/PLTV/88888888/224/3221230483/1.m3u8
 四海钓鱼,http://111.48.34.237/PLTV/88888888/224/3221230438/1.m3u8
 法治天地,http://h.berr.cn:3000/udp/225.0.0.160:6140
 七彩戏剧,http://h.berr.cn:3000/udp/225.0.0.225:6140
-新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
+新视觉,http://117.161.12.124/live/program/live/xsjhd8m/8000000/mnf.m3u8
 金色学堂,http://h.berr.cn:3000/udp/225.0.0.159:6140
-劲爆体育,http://120.77.28.4:8648/mgu.php?id=jbty#http://nas.seate.xyz:6789/hn/jd.php?id=1113
+劲爆体育,http://117.161.12.124/live/program/live/jbtyhd8m/8000000/mnf.m3u8#http://120.77.28.4:8648/mgu.php?id=jbty#http://nas.seate.xyz:6789/hn/jd.php?id=1113
 财富天下,http://111.48.34.237/PLTV/88888888/224/3221229728/1.m3u8
 第一财经,http://h.berr.cn:3000/udp/225.0.0.7:6140
 东方财经,http://h.berr.cn:3000/udp/225.0.0.226:6140
