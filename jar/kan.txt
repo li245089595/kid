@@ -38,10 +38,10 @@ CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV3,http://ikuai.zlsip.top:4022/rtp/239.3.1.55:4120
 CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 早期教育,http://111.166.193.128:8888/udp/225.1.2.207:5002#http://120.234.49.38:7000/udp/239.21.0.106:3764
-CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
-CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
-CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
-CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
+CGTN西语,http://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+CGTN法语,http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+CGTN俄语,http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+CGTN阿语,http://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 
 
 🔸卫视,#genre#
@@ -49,7 +49,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 凤凰资讯台,https://test.zapi.us.kg/?id=phtv-info
 凤凰香港台,https://test.zapi.us.kg/?id=phtv-hk
 凤凰电影台,http://117.114.153.26:8180/TV00000000000000000072@HHZT
-星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0#http://wouu.net:9977/rtp/239.93.0.156:2193?Cf=cfss.c
+星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0#http://wouu.net:9977/udp/239.93.0.156:2193
 澳亚卫视,http://117.114.153.26:8180/TV00000000000000000082@HHZT#https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 重温经典,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D
 亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
