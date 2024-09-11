@@ -318,7 +318,7 @@
       "name": "💠快看┃采集",
       "type": 1,
       "api": "https://kuaikan-api.com/api.php/provide/vod/",
-      "playUrl": "https://zyjiexi.com/player/?url=",
+      "playUrl": "https://kkzyplayer.com/player/?url=",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
