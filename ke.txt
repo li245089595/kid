@@ -8,7 +8,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/li245089595/kid/main/jar/ktv.txt",
+      "url": "https://gh.con.sh/https://raw.githubusercontent.com/li245089595/kid/main/jar/ktv.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://diyp10.112114.xyz/?ch={name}&date={date}",
