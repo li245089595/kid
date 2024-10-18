@@ -142,7 +142,7 @@
       "key": "api_爱库采集",
       "name": "💠爱库┃采集",
       "type": 1,
-      "api": "https://ikunzyahttpspi.com/api.php/provide/vod/",
+      "api": "https://ikunzy.net/api.php/provide/vod/",
       "playUrl": "https://www.ikdmjx.com/?url=",
       "playerType": 1,
       "searchable": 1,
